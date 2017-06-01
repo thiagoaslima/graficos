@@ -170,25 +170,25 @@ export class Grafico {
     private drawBars(dados: Dados) {
         const max = this.getMaximo(dados);
         const regiao = this.getRegiao(dados.codigo);
-        const barWidth = 30;
+        const barWidth = 25;
 
         // 60
         this.context.fillStyle = this.settings.colors[regiao].homem;
-        this.context.fillRect(this.xZero, this.marginTop + 10, this.areaGrafico * (dados[60].homem/max), barWidth);
-        this.context.fillRect(this.xZero, this.marginTop + 100, this.areaGrafico * (dados[50].homem/max), barWidth);
-        this.context.fillRect(this.xZero, this.marginTop + 160, this.areaGrafico * (dados[40].homem/max), barWidth);
-        this.context.fillRect(this.xZero, this.marginTop + 240, this.areaGrafico * (dados[30].homem/max), barWidth);
-        this.context.fillRect(this.xZero, this.marginTop + 300, this.areaGrafico * (dados[20].homem/max), barWidth);
-        this.context.fillRect(this.xZero, this.marginTop + 360, this.areaGrafico * (dados[0].homem/max), barWidth);
+        this.context.fillRect(this.xZero, this.marginTop + 5, this.areaGrafico * (dados[60].homem/max), barWidth);
+        this.context.fillRect(this.xZero, this.marginTop + 80, this.areaGrafico * (dados[50].homem/max), barWidth);
+        this.context.fillRect(this.xZero, this.marginTop + 155, this.areaGrafico * (dados[40].homem/max), barWidth);
+        this.context.fillRect(this.xZero, this.marginTop + 230, this.areaGrafico * (dados[30].homem/max), barWidth);
+        this.context.fillRect(this.xZero, this.marginTop + 305, this.areaGrafico * (dados[20].homem/max), barWidth);
+        this.context.fillRect(this.xZero, this.marginTop + 380, this.areaGrafico * (dados[0].homem/max), barWidth);
         
         
         this.context.fillStyle = this.settings.colors[regiao].mulher;
-        this.context.fillRect(this.xZero, this.marginTop + 40, this.areaGrafico * (dados[60].mulher/max), barWidth);
-        this.context.fillRect(this.xZero, this.marginTop + 130, this.areaGrafico * (dados[50].mulher/max), barWidth);
-        this.context.fillRect(this.xZero, this.marginTop + 190, this.areaGrafico * (dados[40].mulher/max), barWidth);
-        this.context.fillRect(this.xZero, this.marginTop + 270, this.areaGrafico * (dados[30].mulher/max), barWidth);
+        this.context.fillRect(this.xZero, this.marginTop + 30, this.areaGrafico * (dados[60].mulher/max), barWidth);
+        this.context.fillRect(this.xZero, this.marginTop + 105, this.areaGrafico * (dados[50].mulher/max), barWidth);
+        this.context.fillRect(this.xZero, this.marginTop + 180, this.areaGrafico * (dados[40].mulher/max), barWidth);
+        this.context.fillRect(this.xZero, this.marginTop + 255, this.areaGrafico * (dados[30].mulher/max), barWidth);
         this.context.fillRect(this.xZero, this.marginTop + 330, this.areaGrafico * (dados[20].mulher/max), barWidth);
-        this.context.fillRect(this.xZero, this.marginTop + 390, this.areaGrafico * (dados[0].mulher/max), barWidth);
+        this.context.fillRect(this.xZero, this.marginTop + 405, this.areaGrafico * (dados[0].mulher/max), barWidth);
         
     }
 
