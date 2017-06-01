@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Gráficos</title>
+
+    <link rel="stylesheet" href="styles/typography.css">
+    <link rel="stylesheet" href="styles/geral.css">
+    
+</head>
+<body>
+    <div>
+        <h2>Casamentos</h2>
+
+        <div id="grafico" class="grafico">
+            
+        </div>
+    </div>
+
+    <script src="vendor/system.js"></script>
+    <script>
+        SystemJS.config({
+            packages: {
+                'js': {
+                    main: 'ts/main.js',
+                    forrmat: 'system',
+                    defaultExtension: 'js'
+                }
+            }
+        })
+        SystemJS.import('js/ts/main.js').then(console.info.bind(console, 'success'), console.error.bind(console))
+    </script>
+</body>
+</html>

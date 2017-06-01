@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "allowJs": false,
+        "baseUrl": ".",
+        "module": "system",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "outDir": "app/js",
+        "sourceMap": true,
+        "strictNullChecks": false,
+        "suppressImplicitAnyIndexErrors": true,
+        "target": "es5",
+        "watch": true
+    },
+    "include": [
+        "./app/**/*.ts"
+    ],
+    "exclude": [
+        "./app/node_modules"
+    ]
+}

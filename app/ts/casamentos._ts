@@ -1,0 +1,101 @@
+// casamento
+interface IDados { [age: number]: { homem: number, mulher: number } }
+var dados = {
+    60: { homem: 4, mulher: 2 },
+    50: { homem: 4, mulher: 1 },
+    40: { homem: 8, mulher: 8 },
+    30: { homem: 12, mulher: 9 },
+    20: { homem: 21, mulher: 23 },
+    0: { homem: 5, mulher: 12 }
+} as IDados
+
+const container = document.getElementById('casamento');
+
+const canvas = document.createElement('canvas');
+canvas.width = 940;
+canvas.height = 480;
+container.appendChild(canvas);
+
+let ctx = canvas.getContext('2d');
+
+window.onload = createGrafico;
+
+
+function createGrafico() {
+    ctx.font = '29px FrutigerLight';
+    ctx.fillStyle = 'red';
+
+    drawEixoY();
+    drawAxesAndEixoX(dados);
+    // drawLegenda(dados);
+    drawBars(dados);
+    save(canvas);
+}
+
+function drawEixoY() {
+    ctx.fillText('60 anos', 13, 25)
+    ctx.fillText('ou mais', 15, 48)
+    ctx.fillText('50 a 59', 17, 108)
+    ctx.fillText('40 a 49', 15, 176)
+    ctx.fillText('30 a 39', 15, 244)
+    ctx.fillText('20 a 29', 17, 312)
+    ctx.fillText('0 a 19', 32, 380)
+}
+
+function drawAxesAndEixoX(dados: IDados) {
+    ctx.lineWidth = 0.2
+    ctx.strokeStyle = "hsl(0, 0, 20)"
+    ctx.strokeRect(128, 5, 792, 400);
+
+    ctx.fillText('0', 126, 435)
+
+    let valores = Object.keys(dados).map(key => {
+        let obj = dados[parseInt(key, 10)];
+        return obj.homem > obj.mulher ? obj.homem : obj.mulher;
+    });
+    let max = Math.max(30,  ...valores);
+
+    while ((max % 6 !== 0 || max % 10 !== 0) && (max % 5 !== 0)) {
+        max++;
+    }
+
+    if (max % 6 === 0) {
+        let pace = max / 6;
+        let dist = 127;
+        ctx.fillText(pace.toString(10), 126 + (dist), 435)
+        ctx.fillText((pace * 2).toString(10), 126 + (dist * 2), 435)
+        ctx.fillText((pace * 3).toString(10), 126 + (dist * 3), 435)
+        ctx.fillText((pace * 4).toString(10), 126 + (dist * 4), 435)
+        ctx.fillText((pace * 5).toString(10), 126 + (dist * 5), 435)
+        ctx.fillText((pace * 6).toString(10), 126 + (dist * 6), 435)
+    }
+    else if (max % 5 === 0) {
+        let pace = max / 5;
+        let dist = 152;
+        ctx.fillText(pace.toString(10), 126 + (dist), 435)
+        ctx.fillText((pace * 2).toString(10), 126 + (dist * 2), 435)
+        ctx.fillText((pace * 3).toString(10), 126 + (dist * 3), 435)
+        ctx.fillText((pace * 4).toString(10), 126 + (dist * 4), 435)
+        ctx.fillText((pace * 5).toString(10), 126 + (dist * 5), 435)
+    }
+}
+
+
+function drawBars(dados: IDados) {
+
+}
+
+function save(canvas: HTMLCanvasElement, name = 'teste.png') {
+    // const container = document.getElementById('downloadBtn');
+
+    var event = document.createEvent("MouseEvents");
+    event.initMouseEvent('click', true, true, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);
+
+    var downloadLink = document.createElement('a');
+    downloadLink.download = name;
+    downloadLink.href = canvas.toDataURL();
+    container.appendChild(downloadLink);
+
+    downloadLink.dispatchEvent(event);
+    // container.removeChild(downloadLink);
+}

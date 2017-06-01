@@ -1,0 +1,17 @@
+body {
+    font-family: 'FrutigerLight'
+}
+
+canvas {
+    font-family: 'FrutigerLight'
+}
+
+#downloadBtn {
+    position: absolute;
+    transform: translate(-1000px, -1000px)
+}
+#downloadBtn * {
+    position: relative;
+    top: 0; left: 0;
+    display: block
+}

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FrutigerLight';
+    src: url('../fonts/FrutigerLTStd-Light.otf');
+}
+
+@font-face {
+    font-family: 'FrutigerRegular';
+    src: url('../fonts/FrutigerLTStd-Regular.otf') format("opentype");;
+}
