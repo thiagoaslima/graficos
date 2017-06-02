@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "http-server ./app -o",
+    "start": "http-server ./app -o -c -1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

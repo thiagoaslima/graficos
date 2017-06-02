@@ -1,0 +1,50132 @@
+export const dados = [
+ {
+   "codigo": 1100015,
+   "catolica": "59,3",
+   "evangelica": "26,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 1100023,
+   "catolica": "40,5",
+   "evangelica": "33,7",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "21,6"
+ },
+ {
+   "codigo": 1100031,
+   "catolica": "61,1",
+   "evangelica": "28,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 1100049,
+   "catolica": "42,7",
+   "evangelica": "39,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "3,7",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 1100056,
+   "catolica": "59,3",
+   "evangelica": "29,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 1100064,
+   "catolica": "57,7",
+   "evangelica": "28,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "5,2",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 1100072,
+   "catolica": "66,2",
+   "evangelica": "23,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 1100080,
+   "catolica": "63,1",
+   "evangelica": "30,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 1100098,
+   "catolica": "44,0",
+   "evangelica": "41,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "12,8"
+ },
+ {
+   "codigo": 1100106,
+   "catolica": "57,8",
+   "evangelica": "30,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 1100114,
+   "catolica": "42,0",
+   "evangelica": "38,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "16,2"
+ },
+ {
+   "codigo": 1100122,
+   "catolica": "40,6",
+   "evangelica": "39,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "4,1",
+   "sem": "15,6"
+ },
+ {
+   "codigo": 1100130,
+   "catolica": "43,2",
+   "evangelica": "33,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "3,9",
+   "sem": "18,6"
+ },
+ {
+   "codigo": 1100148,
+   "catolica": "49,2",
+   "evangelica": "33,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "14,9"
+ },
+ {
+   "codigo": 1100155,
+   "catolica": "44,9",
+   "evangelica": "36,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "16,1"
+ },
+ {
+   "codigo": 1100189,
+   "catolica": "47,0",
+   "evangelica": "34,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "15,3"
+ },
+ {
+   "codigo": 1100205,
+   "catolica": "48,4",
+   "evangelica": "32,3",
+   "espirita": "1,1",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "15,4"
+ },
+ {
+   "codigo": 1100254,
+   "catolica": "51,2",
+   "evangelica": "32,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "12,6"
+ },
+ {
+   "codigo": 1100262,
+   "catolica": "53,0",
+   "evangelica": "36,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,1",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 1100288,
+   "catolica": "47,6",
+   "evangelica": "33,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "17,2"
+ },
+ {
+   "codigo": 1100296,
+   "catolica": "56,2",
+   "evangelica": "29,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 1100304,
+   "catolica": "47,5",
+   "evangelica": "36,0",
+   "espirita": "1,0",
+   "umbanda": "0,2",
+   "outras": "2,3",
+   "sem": "13,0"
+ },
+ {
+   "codigo": 1100320,
+   "catolica": "54,9",
+   "evangelica": "31,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 1100338,
+   "catolica": "46,2",
+   "evangelica": "35,1",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "4,2",
+   "sem": "14,4"
+ },
+ {
+   "codigo": 1100346,
+   "catolica": "52,8",
+   "evangelica": "31,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "13,8"
+ },
+ {
+   "codigo": 1100379,
+   "catolica": "56,6",
+   "evangelica": "27,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "12,8"
+ },
+ {
+   "codigo": 1100403,
+   "catolica": "55,0",
+   "evangelica": "26,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "6,4",
+   "sem": "11,9"
+ },
+ {
+   "codigo": 1100452,
+   "catolica": "39,7",
+   "evangelica": "39,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "4,4",
+   "sem": "16,2"
+ },
+ {
+   "codigo": 1100502,
+   "catolica": "50,0",
+   "evangelica": "34,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 1100601,
+   "catolica": "53,5",
+   "evangelica": "28,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "16,2"
+ },
+ {
+   "codigo": 1100700,
+   "catolica": "38,9",
+   "evangelica": "36,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "23,0"
+ },
+ {
+   "codigo": 1100809,
+   "catolica": "46,9",
+   "evangelica": "31,3",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "18,8"
+ },
+ {
+   "codigo": 1100908,
+   "catolica": "61,1",
+   "evangelica": "22,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "13,7"
+ },
+ {
+   "codigo": 1100924,
+   "catolica": "54,5",
+   "evangelica": "27,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "15,0"
+ },
+ {
+   "codigo": 1100940,
+   "catolica": "43,2",
+   "evangelica": "30,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "22,9"
+ },
+ {
+   "codigo": 1101005,
+   "catolica": "55,2",
+   "evangelica": "27,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "14,4"
+ },
+ {
+   "codigo": 1101104,
+   "catolica": "35,3",
+   "evangelica": "39,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "22,0"
+ },
+ {
+   "codigo": 1101203,
+   "catolica": "50,9",
+   "evangelica": "33,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "12,7"
+ },
+ {
+   "codigo": 1101302,
+   "catolica": "44,3",
+   "evangelica": "34,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,3",
+   "sem": "17,3"
+ },
+ {
+   "codigo": 1101401,
+   "catolica": "45,7",
+   "evangelica": "34,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "17,0"
+ },
+ {
+   "codigo": 1101435,
+   "catolica": "49,9",
+   "evangelica": "31,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "15,2"
+ },
+ {
+   "codigo": 1101450,
+   "catolica": "56,3",
+   "evangelica": "25,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,1",
+   "sem": "14,6"
+ },
+ {
+   "codigo": 1101468,
+   "catolica": "69,9",
+   "evangelica": "22,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 1101476,
+   "catolica": "62,8",
+   "evangelica": "19,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "9,6",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 1101484,
+   "catolica": "61,4",
+   "evangelica": "27,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 1101492,
+   "catolica": "48,0",
+   "evangelica": "35,6",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "2,5",
+   "sem": "13,6"
+ },
+ {
+   "codigo": 1101500,
+   "catolica": "52,1",
+   "evangelica": "35,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 1101559,
+   "catolica": "52,0",
+   "evangelica": "26,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "4,8",
+   "sem": "16,8"
+ },
+ {
+   "codigo": 1101609,
+   "catolica": "49,0",
+   "evangelica": "34,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "12,6"
+ },
+ {
+   "codigo": 1101708,
+   "catolica": "42,3",
+   "evangelica": "35,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "18,5"
+ },
+ {
+   "codigo": 1101757,
+   "catolica": "39,5",
+   "evangelica": "35,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "22,2"
+ },
+ {
+   "codigo": 1101807,
+   "catolica": "51,8",
+   "evangelica": "33,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "13,7"
+ },
+ {
+   "codigo": 1200013,
+   "catolica": "42,4",
+   "evangelica": "36,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "19,2"
+ },
+ {
+   "codigo": 1200054,
+   "catolica": "49,3",
+   "evangelica": "28,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "19,9"
+ },
+ {
+   "codigo": 1200104,
+   "catolica": "62,1",
+   "evangelica": "26,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 1200138,
+   "catolica": "49,7",
+   "evangelica": "34,7",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "2,2",
+   "sem": "13,0"
+ },
+ {
+   "codigo": 1200179,
+   "catolica": "46,7",
+   "evangelica": "38,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "11,4"
+ },
+ {
+   "codigo": 1200203,
+   "catolica": "66,2",
+   "evangelica": "26,6",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 1200252,
+   "catolica": "55,3",
+   "evangelica": "32,0",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 1200302,
+   "catolica": "67,0",
+   "evangelica": "26,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 1200328,
+   "catolica": "84,1",
+   "evangelica": "11,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 1200336,
+   "catolica": "67,2",
+   "evangelica": "27,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 1200344,
+   "catolica": "59,1",
+   "evangelica": "28,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "12,1"
+ },
+ {
+   "codigo": 1200351,
+   "catolica": "77,7",
+   "evangelica": "18,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 1200385,
+   "catolica": "39,4",
+   "evangelica": "29,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "9,7",
+   "sem": "20,7"
+ },
+ {
+   "codigo": 1200393,
+   "catolica": "86,1",
+   "evangelica": "12,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 1200401,
+   "catolica": "39,9",
+   "evangelica": "39,8",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "2,8",
+   "sem": "16,4"
+ },
+ {
+   "codigo": 1200427,
+   "catolica": "63,4",
+   "evangelica": "29,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 1200435,
+   "catolica": "65,9",
+   "evangelica": "17,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "15,7"
+ },
+ {
+   "codigo": 1200450,
+   "catolica": "48,7",
+   "evangelica": "34,0",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "4,0",
+   "sem": "13,0"
+ },
+ {
+   "codigo": 1200500,
+   "catolica": "60,9",
+   "evangelica": "26,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 1200609,
+   "catolica": "69,8",
+   "evangelica": "20,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "4,7",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 1200708,
+   "catolica": "68,3",
+   "evangelica": "22,6",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 1200807,
+   "catolica": "53,1",
+   "evangelica": "30,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "14,1"
+ },
+ {
+   "codigo": 1300029,
+   "catolica": "72,1",
+   "evangelica": "25,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 1300060,
+   "catolica": "58,0",
+   "evangelica": "35,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 1300086,
+   "catolica": "63,5",
+   "evangelica": "29,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 1300102,
+   "catolica": "67,1",
+   "evangelica": "28,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 1300144,
+   "catolica": "65,5",
+   "evangelica": "26,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 1300201,
+   "catolica": "47,1",
+   "evangelica": "15,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "11,7",
+   "sem": "26,1"
+ },
+ {
+   "codigo": 1300300,
+   "catolica": "49,5",
+   "evangelica": "34,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,6",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 1300409,
+   "catolica": "63,7",
+   "evangelica": "17,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "6,2",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 1300508,
+   "catolica": "85,2",
+   "evangelica": "13,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 1300607,
+   "catolica": "58,7",
+   "evangelica": "31,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 1300631,
+   "catolica": "57,1",
+   "evangelica": "35,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 1300680,
+   "catolica": "72,7",
+   "evangelica": "25,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 1300706,
+   "catolica": "58,4",
+   "evangelica": "31,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,0",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 1300805,
+   "catolica": "70,3",
+   "evangelica": "23,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 1300839,
+   "catolica": "55,4",
+   "evangelica": "33,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 1300904,
+   "catolica": "72,4",
+   "evangelica": "21,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 1301001,
+   "catolica": "66,9",
+   "evangelica": "21,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 1301100,
+   "catolica": "61,8",
+   "evangelica": "27,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 1301159,
+   "catolica": "64,6",
+   "evangelica": "30,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 1301209,
+   "catolica": "70,2",
+   "evangelica": "26,2",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 1301308,
+   "catolica": "63,5",
+   "evangelica": "33,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 1301407,
+   "catolica": "76,5",
+   "evangelica": "20,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 1301506,
+   "catolica": "73,3",
+   "evangelica": "18,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 1301605,
+   "catolica": "72,1",
+   "evangelica": "24,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 1301654,
+   "catolica": "80,0",
+   "evangelica": "16,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 1301704,
+   "catolica": "77,3",
+   "evangelica": "15,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 1301803,
+   "catolica": "80,5",
+   "evangelica": "11,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 1301852,
+   "catolica": "55,2",
+   "evangelica": "33,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 1301902,
+   "catolica": "62,5",
+   "evangelica": "30,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 1301951,
+   "catolica": "75,7",
+   "evangelica": "14,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 1302009,
+   "catolica": "58,1",
+   "evangelica": "33,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 1302108,
+   "catolica": "59,1",
+   "evangelica": "33,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 1302207,
+   "catolica": "67,4",
+   "evangelica": "26,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 1302306,
+   "catolica": "54,1",
+   "evangelica": "32,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,8",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 1302405,
+   "catolica": "71,9",
+   "evangelica": "20,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,2",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 1302504,
+   "catolica": "53,5",
+   "evangelica": "36,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 1302553,
+   "catolica": "60,9",
+   "evangelica": "25,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "13,0"
+ },
+ {
+   "codigo": 1302603,
+   "catolica": "53,7",
+   "evangelica": "35,6",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 1302702,
+   "catolica": "77,9",
+   "evangelica": "17,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 1302801,
+   "catolica": "60,2",
+   "evangelica": "25,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,3",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 1302900,
+   "catolica": "72,4",
+   "evangelica": "23,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 1303007,
+   "catolica": "88,5",
+   "evangelica": "11,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 1303106,
+   "catolica": "70,5",
+   "evangelica": "25,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 1303205,
+   "catolica": "55,0",
+   "evangelica": "31,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 1303304,
+   "catolica": "72,6",
+   "evangelica": "22,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 1303403,
+   "catolica": "81,8",
+   "evangelica": "15,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 1303502,
+   "catolica": "73,5",
+   "evangelica": "17,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,3",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 1303536,
+   "catolica": "55,4",
+   "evangelica": "32,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 1303569,
+   "catolica": "53,4",
+   "evangelica": "34,3",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 1303601,
+   "catolica": "57,8",
+   "evangelica": "8,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "30,6"
+ },
+ {
+   "codigo": 1303700,
+   "catolica": "50,4",
+   "evangelica": "45,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 1303809,
+   "catolica": "66,9",
+   "evangelica": "25,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "6,9",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 1303908,
+   "catolica": "50,8",
+   "evangelica": "43,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 1303957,
+   "catolica": "54,2",
+   "evangelica": "39,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 1304005,
+   "catolica": "76,0",
+   "evangelica": "21,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 1304062,
+   "catolica": "56,3",
+   "evangelica": "29,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "6,4",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 1304104,
+   "catolica": "49,3",
+   "evangelica": "41,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,4",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 1304203,
+   "catolica": "57,7",
+   "evangelica": "33,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 1304237,
+   "catolica": "73,1",
+   "evangelica": "22,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 1304260,
+   "catolica": "65,5",
+   "evangelica": "30,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 1304302,
+   "catolica": "72,7",
+   "evangelica": "23,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 1304401,
+   "catolica": "69,5",
+   "evangelica": "26,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 1400027,
+   "catolica": "41,7",
+   "evangelica": "15,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "42,1",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 1400050,
+   "catolica": "42,7",
+   "evangelica": "16,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "35,9",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 1400100,
+   "catolica": "46,6",
+   "evangelica": "32,1",
+   "espirita": "1,4",
+   "umbanda": "0,2",
+   "outras": "3,8",
+   "sem": "15,9"
+ },
+ {
+   "codigo": 1400159,
+   "catolica": "61,0",
+   "evangelica": "25,8",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "3,4",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 1400175,
+   "catolica": "59,9",
+   "evangelica": "29,6",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 1400209,
+   "catolica": "55,3",
+   "evangelica": "31,1",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "2,6",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 1400233,
+   "catolica": "39,7",
+   "evangelica": "39,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "16,8"
+ },
+ {
+   "codigo": 1400282,
+   "catolica": "44,5",
+   "evangelica": "22,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "17,4",
+   "sem": "15,3"
+ },
+ {
+   "codigo": 1400308,
+   "catolica": "61,1",
+   "evangelica": "22,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,0",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 1400407,
+   "catolica": "68,7",
+   "evangelica": "27,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 1400456,
+   "catolica": "45,8",
+   "evangelica": "39,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,5",
+   "sem": "9,9"
+ },
+ {
+   "codigo": 1400472,
+   "catolica": "54,9",
+   "evangelica": "31,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "4,6",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 1400506,
+   "catolica": "47,7",
+   "evangelica": "35,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "14,7"
+ },
+ {
+   "codigo": 1400605,
+   "catolica": "49,3",
+   "evangelica": "29,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "19,5"
+ },
+ {
+   "codigo": 1400704,
+   "catolica": "70,1",
+   "evangelica": "13,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "10,8",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 1500107,
+   "catolica": "72,4",
+   "evangelica": "21,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 1500131,
+   "catolica": "59,4",
+   "evangelica": "25,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "14,7"
+ },
+ {
+   "codigo": 1500206,
+   "catolica": "54,1",
+   "evangelica": "30,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,9",
+   "sem": "11,5"
+ },
+ {
+   "codigo": 1500305,
+   "catolica": "79,5",
+   "evangelica": "18,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 1500347,
+   "catolica": "65,3",
+   "evangelica": "24,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 1500404,
+   "catolica": "79,2",
+   "evangelica": "18,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 1500503,
+   "catolica": "65,3",
+   "evangelica": "29,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 1500602,
+   "catolica": "55,0",
+   "evangelica": "26,9",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "3,3",
+   "sem": "14,6"
+ },
+ {
+   "codigo": 1500701,
+   "catolica": "61,6",
+   "evangelica": "35,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 1500800,
+   "catolica": "57,1",
+   "evangelica": "33,3",
+   "espirita": "0,8",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 1500859,
+   "catolica": "55,2",
+   "evangelica": "33,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 1500909,
+   "catolica": "82,7",
+   "evangelica": "14,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 1500958,
+   "catolica": "72,3",
+   "evangelica": "22,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 1501006,
+   "catolica": "71,7",
+   "evangelica": "25,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 1501105,
+   "catolica": "52,9",
+   "evangelica": "34,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 1501204,
+   "catolica": "76,9",
+   "evangelica": "20,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 1501253,
+   "catolica": "59,9",
+   "evangelica": "30,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 1501303,
+   "catolica": "52,5",
+   "evangelica": "33,8",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "4,2",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 1501402,
+   "catolica": "61,9",
+   "evangelica": "28,6",
+   "espirita": "1,5",
+   "umbanda": "0,2",
+   "outras": "1,8",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 1501451,
+   "catolica": "71,6",
+   "evangelica": "22,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 1501501,
+   "catolica": "53,4",
+   "evangelica": "36,3",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 1501576,
+   "catolica": "63,0",
+   "evangelica": "26,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 1501600,
+   "catolica": "83,6",
+   "evangelica": "14,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 1501709,
+   "catolica": "77,3",
+   "evangelica": "19,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 1501725,
+   "catolica": "54,2",
+   "evangelica": "27,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "6,9",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 1501758,
+   "catolica": "66,1",
+   "evangelica": "24,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 1501782,
+   "catolica": "51,8",
+   "evangelica": "32,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "14,3"
+ },
+ {
+   "codigo": 1501808,
+   "catolica": "67,9",
+   "evangelica": "25,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 1501907,
+   "catolica": "77,1",
+   "evangelica": "19,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 1501956,
+   "catolica": "66,6",
+   "evangelica": "25,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 1502004,
+   "catolica": "72,8",
+   "evangelica": "25,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 1502103,
+   "catolica": "82,0",
+   "evangelica": "13,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 1502152,
+   "catolica": "54,5",
+   "evangelica": "35,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 1502202,
+   "catolica": "76,0",
+   "evangelica": "19,4",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 1502301,
+   "catolica": "83,9",
+   "evangelica": "14,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 1502400,
+   "catolica": "65,6",
+   "evangelica": "27,1",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 1502509,
+   "catolica": "82,0",
+   "evangelica": "17,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 1502608,
+   "catolica": "77,8",
+   "evangelica": "17,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 1502707,
+   "catolica": "62,7",
+   "evangelica": "27,8",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 1502756,
+   "catolica": "66,9",
+   "evangelica": "27,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 1502764,
+   "catolica": "54,5",
+   "evangelica": "25,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "14,2",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 1502772,
+   "catolica": "54,7",
+   "evangelica": "27,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "16,9"
+ },
+ {
+   "codigo": 1502806,
+   "catolica": "62,2",
+   "evangelica": "26,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "4,6",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 1502855,
+   "catolica": "71,7",
+   "evangelica": "17,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "9,3",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 1502905,
+   "catolica": "70,4",
+   "evangelica": "22,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 1502939,
+   "catolica": "59,1",
+   "evangelica": "24,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "13,3"
+ },
+ {
+   "codigo": 1502954,
+   "catolica": "51,2",
+   "evangelica": "30,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "17,2"
+ },
+ {
+   "codigo": 1503002,
+   "catolica": "85,2",
+   "evangelica": "14,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 1503044,
+   "catolica": "64,2",
+   "evangelica": "28,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 1503077,
+   "catolica": "86,2",
+   "evangelica": "12,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 1503093,
+   "catolica": "50,5",
+   "evangelica": "29,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "18,1"
+ },
+ {
+   "codigo": 1503101,
+   "catolica": "80,0",
+   "evangelica": "12,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,3",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 1503200,
+   "catolica": "78,4",
+   "evangelica": "16,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 1503309,
+   "catolica": "61,3",
+   "evangelica": "30,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 1503408,
+   "catolica": "77,9",
+   "evangelica": "17,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 1503457,
+   "catolica": "69,7",
+   "evangelica": "21,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 1503507,
+   "catolica": "73,0",
+   "evangelica": "22,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 1503606,
+   "catolica": "60,0",
+   "evangelica": "26,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 1503705,
+   "catolica": "61,8",
+   "evangelica": "27,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 1503754,
+   "catolica": "47,5",
+   "evangelica": "23,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "27,9"
+ },
+ {
+   "codigo": 1503804,
+   "catolica": "58,9",
+   "evangelica": "27,0",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 1503903,
+   "catolica": "74,0",
+   "evangelica": "23,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 1504000,
+   "catolica": "66,3",
+   "evangelica": "27,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,0",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 1504059,
+   "catolica": "72,0",
+   "evangelica": "23,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 1504109,
+   "catolica": "74,2",
+   "evangelica": "21,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 1504208,
+   "catolica": "56,4",
+   "evangelica": "30,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "11,2"
+ },
+ {
+   "codigo": 1504307,
+   "catolica": "69,5",
+   "evangelica": "26,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 1504406,
+   "catolica": "77,0",
+   "evangelica": "20,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 1504422,
+   "catolica": "60,3",
+   "evangelica": "31,6",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "1,3",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 1504455,
+   "catolica": "53,2",
+   "evangelica": "29,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,0",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 1504505,
+   "catolica": "58,0",
+   "evangelica": "35,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 1504604,
+   "catolica": "67,6",
+   "evangelica": "27,3",
+   "espirita": "0,0",
+   "umbanda": "0,5",
+   "outras": "0,6",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 1504703,
+   "catolica": "56,9",
+   "evangelica": "32,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 1504752,
+   "catolica": "0,0",
+   "evangelica": "0,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 1504802,
+   "catolica": "69,2",
+   "evangelica": "23,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 1504901,
+   "catolica": "68,8",
+   "evangelica": "25,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,4",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 1504950,
+   "catolica": "68,4",
+   "evangelica": "27,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 1504976,
+   "catolica": "69,2",
+   "evangelica": "19,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 1505007,
+   "catolica": "85,9",
+   "evangelica": "11,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 1505031,
+   "catolica": "55,2",
+   "evangelica": "32,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 1505064,
+   "catolica": "55,3",
+   "evangelica": "31,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 1505106,
+   "catolica": "78,5",
+   "evangelica": "17,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 1505205,
+   "catolica": "72,6",
+   "evangelica": "19,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 1505304,
+   "catolica": "70,3",
+   "evangelica": "21,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "3,2",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 1505403,
+   "catolica": "87,2",
+   "evangelica": "10,7",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 1505437,
+   "catolica": "48,5",
+   "evangelica": "28,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "21,1"
+ },
+ {
+   "codigo": 1505486,
+   "catolica": "63,3",
+   "evangelica": "28,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 1505494,
+   "catolica": "72,7",
+   "evangelica": "22,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 1505502,
+   "catolica": "56,1",
+   "evangelica": "30,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 1505536,
+   "catolica": "47,1",
+   "evangelica": "35,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "15,7"
+ },
+ {
+   "codigo": 1505551,
+   "catolica": "61,7",
+   "evangelica": "20,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "7,2",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 1505601,
+   "catolica": "83,1",
+   "evangelica": "13,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 1505635,
+   "catolica": "60,6",
+   "evangelica": "29,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 1505650,
+   "catolica": "60,4",
+   "evangelica": "24,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,4",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 1505700,
+   "catolica": "59,3",
+   "evangelica": "33,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 1505809,
+   "catolica": "60,5",
+   "evangelica": "29,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 1505908,
+   "catolica": "71,3",
+   "evangelica": "23,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 1506005,
+   "catolica": "74,9",
+   "evangelica": "18,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,1",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 1506104,
+   "catolica": "83,2",
+   "evangelica": "13,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 1506112,
+   "catolica": "78,1",
+   "evangelica": "16,3",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 1506138,
+   "catolica": "51,3",
+   "evangelica": "31,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 1506161,
+   "catolica": "61,3",
+   "evangelica": "29,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 1506187,
+   "catolica": "54,5",
+   "evangelica": "32,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 1506195,
+   "catolica": "58,4",
+   "evangelica": "19,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "18,1"
+ },
+ {
+   "codigo": 1506203,
+   "catolica": "77,4",
+   "evangelica": "17,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 1506302,
+   "catolica": "68,0",
+   "evangelica": "23,0",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "3,3",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 1506351,
+   "catolica": "54,4",
+   "evangelica": "33,4",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 1506401,
+   "catolica": "65,3",
+   "evangelica": "29,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 1506500,
+   "catolica": "56,9",
+   "evangelica": "30,9",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "3,0",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 1506559,
+   "catolica": "86,9",
+   "evangelica": "10,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 1506583,
+   "catolica": "65,8",
+   "evangelica": "28,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 1506609,
+   "catolica": "76,1",
+   "evangelica": "19,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 1506708,
+   "catolica": "61,0",
+   "evangelica": "24,0",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 1506807,
+   "catolica": "68,2",
+   "evangelica": "25,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 1506906,
+   "catolica": "67,7",
+   "evangelica": "18,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "9,2",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 1507003,
+   "catolica": "54,1",
+   "evangelica": "33,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 1507102,
+   "catolica": "77,5",
+   "evangelica": "17,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 1507151,
+   "catolica": "69,5",
+   "evangelica": "25,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 1507201,
+   "catolica": "75,1",
+   "evangelica": "20,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 1507300,
+   "catolica": "52,6",
+   "evangelica": "31,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 1507409,
+   "catolica": "74,1",
+   "evangelica": "21,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 1507458,
+   "catolica": "58,3",
+   "evangelica": "28,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "11,6"
+ },
+ {
+   "codigo": 1507466,
+   "catolica": "70,0",
+   "evangelica": "20,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 1507474,
+   "catolica": "76,2",
+   "evangelica": "18,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 1507508,
+   "catolica": "68,8",
+   "evangelica": "23,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 1507607,
+   "catolica": "78,5",
+   "evangelica": "17,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 1507706,
+   "catolica": "57,5",
+   "evangelica": "35,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "4,2",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 1507755,
+   "catolica": "70,5",
+   "evangelica": "19,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 1507805,
+   "catolica": "73,0",
+   "evangelica": "18,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 1507904,
+   "catolica": "77,1",
+   "evangelica": "17,1",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "3,0",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 1507953,
+   "catolica": "52,3",
+   "evangelica": "26,0",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "20,0"
+ },
+ {
+   "codigo": 1507961,
+   "catolica": "63,7",
+   "evangelica": "28,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 1507979,
+   "catolica": "77,5",
+   "evangelica": "19,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 1508001,
+   "catolica": "52,5",
+   "evangelica": "32,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,7",
+   "sem": "11,4"
+ },
+ {
+   "codigo": 1508035,
+   "catolica": "77,5",
+   "evangelica": "15,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 1508050,
+   "catolica": "65,1",
+   "evangelica": "19,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "13,5"
+ },
+ {
+   "codigo": 1508084,
+   "catolica": "55,9",
+   "evangelica": "33,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 1508100,
+   "catolica": "55,5",
+   "evangelica": "31,9",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 1508126,
+   "catolica": "52,5",
+   "evangelica": "35,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 1508159,
+   "catolica": "55,2",
+   "evangelica": "29,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,7",
+   "sem": "11,6"
+ },
+ {
+   "codigo": 1508209,
+   "catolica": "79,6",
+   "evangelica": "16,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 1508308,
+   "catolica": "80,4",
+   "evangelica": "17,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 1508357,
+   "catolica": "67,5",
+   "evangelica": "24,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 1508407,
+   "catolica": "56,0",
+   "evangelica": "29,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 1600055,
+   "catolica": "56,7",
+   "evangelica": "32,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "5,2",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 1600105,
+   "catolica": "68,0",
+   "evangelica": "23,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 1600154,
+   "catolica": "50,9",
+   "evangelica": "27,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "20,1"
+ },
+ {
+   "codigo": 1600204,
+   "catolica": "60,3",
+   "evangelica": "19,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "12,6",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 1600212,
+   "catolica": "47,2",
+   "evangelica": "35,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "8,4",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 1600238,
+   "catolica": "62,0",
+   "evangelica": "31,1",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "0,5",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 1600253,
+   "catolica": "63,7",
+   "evangelica": "27,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 1600279,
+   "catolica": "60,5",
+   "evangelica": "26,7",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "3,2",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 1600303,
+   "catolica": "65,0",
+   "evangelica": "26,9",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 1600402,
+   "catolica": "73,8",
+   "evangelica": "22,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 1600501,
+   "catolica": "54,0",
+   "evangelica": "35,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 1600535,
+   "catolica": "59,0",
+   "evangelica": "30,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 1600550,
+   "catolica": "59,8",
+   "evangelica": "36,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 1600600,
+   "catolica": "62,6",
+   "evangelica": "31,3",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 1600709,
+   "catolica": "65,9",
+   "evangelica": "28,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 1600808,
+   "catolica": "60,3",
+   "evangelica": "30,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 1700251,
+   "catolica": "74,1",
+   "evangelica": "18,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 1700301,
+   "catolica": "71,4",
+   "evangelica": "27,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 1700350,
+   "catolica": "79,0",
+   "evangelica": "14,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 1700400,
+   "catolica": "71,6",
+   "evangelica": "20,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 1700707,
+   "catolica": "65,8",
+   "evangelica": "24,2",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 1701002,
+   "catolica": "81,0",
+   "evangelica": "16,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 1701051,
+   "catolica": "77,9",
+   "evangelica": "16,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 1701101,
+   "catolica": "70,9",
+   "evangelica": "24,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 1701309,
+   "catolica": "76,6",
+   "evangelica": "19,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 1701903,
+   "catolica": "70,9",
+   "evangelica": "26,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 1702000,
+   "catolica": "54,4",
+   "evangelica": "40,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 1702109,
+   "catolica": "65,1",
+   "evangelica": "24,1",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 1702158,
+   "catolica": "69,0",
+   "evangelica": "20,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 1702208,
+   "catolica": "66,8",
+   "evangelica": "22,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 1702307,
+   "catolica": "71,6",
+   "evangelica": "23,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 1702406,
+   "catolica": "79,4",
+   "evangelica": "17,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 1702554,
+   "catolica": "76,3",
+   "evangelica": "17,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 1702703,
+   "catolica": "76,0",
+   "evangelica": "13,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 1702901,
+   "catolica": "79,2",
+   "evangelica": "13,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 1703008,
+   "catolica": "78,9",
+   "evangelica": "16,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 1703057,
+   "catolica": "76,9",
+   "evangelica": "16,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 1703073,
+   "catolica": "77,9",
+   "evangelica": "16,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 1703107,
+   "catolica": "75,6",
+   "evangelica": "17,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 1703206,
+   "catolica": "71,4",
+   "evangelica": "22,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 1703305,
+   "catolica": "85,1",
+   "evangelica": "13,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 1703602,
+   "catolica": "69,0",
+   "evangelica": "26,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 1703701,
+   "catolica": "61,6",
+   "evangelica": "26,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 1703800,
+   "catolica": "78,7",
+   "evangelica": "12,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 1703826,
+   "catolica": "74,5",
+   "evangelica": "22,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 1703842,
+   "catolica": "73,0",
+   "evangelica": "14,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "12,5",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 1703867,
+   "catolica": "64,8",
+   "evangelica": "26,6",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 1703883,
+   "catolica": "85,1",
+   "evangelica": "9,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 1703891,
+   "catolica": "83,0",
+   "evangelica": "11,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 1703909,
+   "catolica": "71,4",
+   "evangelica": "21,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 1704105,
+   "catolica": "82,8",
+   "evangelica": "14,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 1704600,
+   "catolica": "67,8",
+   "evangelica": "26,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 1705102,
+   "catolica": "86,2",
+   "evangelica": "12,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 1705508,
+   "catolica": "70,5",
+   "evangelica": "20,1",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 1705557,
+   "catolica": "69,7",
+   "evangelica": "23,9",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 1705607,
+   "catolica": "82,7",
+   "evangelica": "16,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 1706001,
+   "catolica": "74,7",
+   "evangelica": "17,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 1706100,
+   "catolica": "83,1",
+   "evangelica": "14,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 1706258,
+   "catolica": "80,5",
+   "evangelica": "12,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 1706506,
+   "catolica": "71,8",
+   "evangelica": "24,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 1707009,
+   "catolica": "76,2",
+   "evangelica": "13,9",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 1707108,
+   "catolica": "67,4",
+   "evangelica": "22,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 1707207,
+   "catolica": "85,6",
+   "evangelica": "13,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 1707306,
+   "catolica": "77,3",
+   "evangelica": "18,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 1707405,
+   "catolica": "80,3",
+   "evangelica": "13,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 1707553,
+   "catolica": "69,6",
+   "evangelica": "26,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 1707652,
+   "catolica": "65,9",
+   "evangelica": "31,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 1707702,
+   "catolica": "86,5",
+   "evangelica": "12,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 1708205,
+   "catolica": "55,6",
+   "evangelica": "23,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "9,5",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 1708254,
+   "catolica": "66,8",
+   "evangelica": "17,5",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "14,1"
+ },
+ {
+   "codigo": 1708304,
+   "catolica": "72,4",
+   "evangelica": "23,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 1709005,
+   "catolica": "64,2",
+   "evangelica": "17,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "15,1",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 1709302,
+   "catolica": "65,8",
+   "evangelica": "24,8",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 1709500,
+   "catolica": "58,8",
+   "evangelica": "29,6",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 1709807,
+   "catolica": "87,6",
+   "evangelica": "12,1",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 1710508,
+   "catolica": "85,4",
+   "evangelica": "12,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 1710706,
+   "catolica": "78,8",
+   "evangelica": "17,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 1710904,
+   "catolica": "79,9",
+   "evangelica": "17,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 1711100,
+   "catolica": "79,0",
+   "evangelica": "17,4",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 1711506,
+   "catolica": "74,4",
+   "evangelica": "21,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 1711803,
+   "catolica": "72,1",
+   "evangelica": "20,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 1711902,
+   "catolica": "66,0",
+   "evangelica": "22,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 1711951,
+   "catolica": "81,2",
+   "evangelica": "16,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 1712009,
+   "catolica": "71,0",
+   "evangelica": "24,2",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 1712157,
+   "catolica": "69,6",
+   "evangelica": "25,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 1712405,
+   "catolica": "92,7",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 1712454,
+   "catolica": "76,4",
+   "evangelica": "21,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 1712504,
+   "catolica": "76,6",
+   "evangelica": "17,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 1712702,
+   "catolica": "64,9",
+   "evangelica": "28,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 1712801,
+   "catolica": "85,3",
+   "evangelica": "12,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 1713205,
+   "catolica": "61,3",
+   "evangelica": "22,2",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "4,3",
+   "sem": "11,4"
+ },
+ {
+   "codigo": 1713304,
+   "catolica": "73,0",
+   "evangelica": "20,1",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 1713601,
+   "catolica": "82,0",
+   "evangelica": "16,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 1713700,
+   "catolica": "69,4",
+   "evangelica": "25,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 1713809,
+   "catolica": "77,6",
+   "evangelica": "14,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 1713957,
+   "catolica": "73,8",
+   "evangelica": "22,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 1714203,
+   "catolica": "84,5",
+   "evangelica": "11,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 1714302,
+   "catolica": "86,8",
+   "evangelica": "10,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 1714880,
+   "catolica": "76,8",
+   "evangelica": "19,1",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 1715002,
+   "catolica": "75,1",
+   "evangelica": "24,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 1715101,
+   "catolica": "81,7",
+   "evangelica": "15,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 1715150,
+   "catolica": "79,5",
+   "evangelica": "18,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 1715259,
+   "catolica": "86,6",
+   "evangelica": "7,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 1715507,
+   "catolica": "73,1",
+   "evangelica": "25,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 1715705,
+   "catolica": "86,7",
+   "evangelica": "11,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 1715754,
+   "catolica": "69,9",
+   "evangelica": "24,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 1716109,
+   "catolica": "55,8",
+   "evangelica": "34,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 1716208,
+   "catolica": "80,9",
+   "evangelica": "17,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 1716307,
+   "catolica": "70,4",
+   "evangelica": "23,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 1716505,
+   "catolica": "75,6",
+   "evangelica": "17,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 1716604,
+   "catolica": "78,0",
+   "evangelica": "17,3",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 1716653,
+   "catolica": "70,8",
+   "evangelica": "24,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 1716703,
+   "catolica": "53,4",
+   "evangelica": "34,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 1717008,
+   "catolica": "82,1",
+   "evangelica": "17,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 1717206,
+   "catolica": "74,4",
+   "evangelica": "18,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 1717503,
+   "catolica": "73,3",
+   "evangelica": "25,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 1717800,
+   "catolica": "86,4",
+   "evangelica": "11,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 1717909,
+   "catolica": "83,1",
+   "evangelica": "13,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 1718006,
+   "catolica": "72,4",
+   "evangelica": "19,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 1718204,
+   "catolica": "74,0",
+   "evangelica": "21,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 1718303,
+   "catolica": "80,6",
+   "evangelica": "13,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 1718402,
+   "catolica": "76,7",
+   "evangelica": "14,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 1718451,
+   "catolica": "65,9",
+   "evangelica": "30,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 1718501,
+   "catolica": "70,9",
+   "evangelica": "19,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 1718550,
+   "catolica": "79,9",
+   "evangelica": "19,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 1718659,
+   "catolica": "67,7",
+   "evangelica": "23,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 1718709,
+   "catolica": "73,1",
+   "evangelica": "22,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 1718758,
+   "catolica": "80,5",
+   "evangelica": "17,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 1718808,
+   "catolica": "66,7",
+   "evangelica": "18,8",
+   "espirita": "3,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 1718840,
+   "catolica": "62,2",
+   "evangelica": "28,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 1718865,
+   "catolica": "68,4",
+   "evangelica": "21,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 1718881,
+   "catolica": "75,8",
+   "evangelica": "16,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 1718899,
+   "catolica": "73,5",
+   "evangelica": "24,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 1718907,
+   "catolica": "84,0",
+   "evangelica": "12,2",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 1719004,
+   "catolica": "77,7",
+   "evangelica": "18,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 1720002,
+   "catolica": "86,0",
+   "evangelica": "13,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 1720101,
+   "catolica": "78,8",
+   "evangelica": "15,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 1720150,
+   "catolica": "80,4",
+   "evangelica": "17,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 1720200,
+   "catolica": "71,2",
+   "evangelica": "24,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 1720259,
+   "catolica": "87,1",
+   "evangelica": "10,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 1720309,
+   "catolica": "79,0",
+   "evangelica": "17,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 1720499,
+   "catolica": "79,5",
+   "evangelica": "18,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 1720655,
+   "catolica": "86,0",
+   "evangelica": "12,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 1720804,
+   "catolica": "77,8",
+   "evangelica": "15,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 1720853,
+   "catolica": "73,7",
+   "evangelica": "16,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 1720903,
+   "catolica": "77,8",
+   "evangelica": "14,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "4,6",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 1720937,
+   "catolica": "76,2",
+   "evangelica": "15,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 1720978,
+   "catolica": "70,4",
+   "evangelica": "26,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 1721000,
+   "catolica": "54,6",
+   "evangelica": "32,8",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 1721109,
+   "catolica": "48,7",
+   "evangelica": "24,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "26,0"
+ },
+ {
+   "codigo": 1721208,
+   "catolica": "70,7",
+   "evangelica": "16,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 1721257,
+   "catolica": "80,6",
+   "evangelica": "9,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,0",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 1721307,
+   "catolica": "82,6",
+   "evangelica": "16,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 1722081,
+   "catolica": "78,4",
+   "evangelica": "18,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 1722107,
+   "catolica": "74,1",
+   "evangelica": "18,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 2100055,
+   "catolica": "60,5",
+   "evangelica": "29,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 2100105,
+   "catolica": "91,1",
+   "evangelica": "8,2",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 2100154,
+   "catolica": "84,9",
+   "evangelica": "8,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 2100204,
+   "catolica": "57,9",
+   "evangelica": "19,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "21,3"
+ },
+ {
+   "codigo": 2100303,
+   "catolica": "82,6",
+   "evangelica": "8,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 2100402,
+   "catolica": "79,5",
+   "evangelica": "16,5",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2100436,
+   "catolica": "75,2",
+   "evangelica": "14,7",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 2100477,
+   "catolica": "84,4",
+   "evangelica": "12,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2100501,
+   "catolica": "88,2",
+   "evangelica": "9,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2100550,
+   "catolica": "75,2",
+   "evangelica": "20,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2100600,
+   "catolica": "64,1",
+   "evangelica": "25,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 2100709,
+   "catolica": "79,1",
+   "evangelica": "11,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 2100808,
+   "catolica": "83,4",
+   "evangelica": "13,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2100832,
+   "catolica": "71,5",
+   "evangelica": "18,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 2100873,
+   "catolica": "73,2",
+   "evangelica": "22,0",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "2,8",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2100907,
+   "catolica": "86,6",
+   "evangelica": "7,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2100956,
+   "catolica": "74,9",
+   "evangelica": "18,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2101004,
+   "catolica": "81,2",
+   "evangelica": "15,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2101103,
+   "catolica": "81,9",
+   "evangelica": "15,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2101202,
+   "catolica": "73,3",
+   "evangelica": "17,8",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "2,7",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 2101251,
+   "catolica": "68,6",
+   "evangelica": "14,1",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "3,1",
+   "sem": "14,1"
+ },
+ {
+   "codigo": 2101301,
+   "catolica": "71,3",
+   "evangelica": "14,2",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "13,9"
+ },
+ {
+   "codigo": 2101350,
+   "catolica": "93,8",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2101400,
+   "catolica": "81,0",
+   "evangelica": "12,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2101509,
+   "catolica": "85,7",
+   "evangelica": "6,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 2101608,
+   "catolica": "80,3",
+   "evangelica": "14,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2101707,
+   "catolica": "71,7",
+   "evangelica": "21,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2101731,
+   "catolica": "86,7",
+   "evangelica": "9,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2101772,
+   "catolica": "77,2",
+   "evangelica": "16,5",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "0,1",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 2101806,
+   "catolica": "91,7",
+   "evangelica": "8,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 2101905,
+   "catolica": "68,6",
+   "evangelica": "12,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "8,5",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 2101939,
+   "catolica": "81,3",
+   "evangelica": "15,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2101970,
+   "catolica": "66,9",
+   "evangelica": "28,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 2102002,
+   "catolica": "76,9",
+   "evangelica": "15,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 2102036,
+   "catolica": "64,2",
+   "evangelica": "21,1",
+   "espirita": "0,0",
+   "umbanda": "0,5",
+   "outras": "0,9",
+   "sem": "13,3"
+ },
+ {
+   "codigo": 2102077,
+   "catolica": "90,4",
+   "evangelica": "8,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2102101,
+   "catolica": "91,0",
+   "evangelica": "6,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2102150,
+   "catolica": "87,3",
+   "evangelica": "10,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2102200,
+   "catolica": "93,2",
+   "evangelica": "3,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2102309,
+   "catolica": "90,6",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2102325,
+   "catolica": "66,5",
+   "evangelica": "25,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 2102358,
+   "catolica": "65,1",
+   "evangelica": "27,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 2102374,
+   "catolica": "76,8",
+   "evangelica": "15,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 2102408,
+   "catolica": "84,4",
+   "evangelica": "9,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2102507,
+   "catolica": "80,6",
+   "evangelica": "10,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "6,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2102556,
+   "catolica": "67,6",
+   "evangelica": "18,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "13,0"
+ },
+ {
+   "codigo": 2102606,
+   "catolica": "75,3",
+   "evangelica": "19,2",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2102705,
+   "catolica": "87,4",
+   "evangelica": "10,7",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2102754,
+   "catolica": "79,7",
+   "evangelica": "14,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2102804,
+   "catolica": "79,1",
+   "evangelica": "15,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2102903,
+   "catolica": "80,6",
+   "evangelica": "14,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 2103000,
+   "catolica": "83,8",
+   "evangelica": "12,8",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2103109,
+   "catolica": "73,0",
+   "evangelica": "14,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 2103125,
+   "catolica": "67,2",
+   "evangelica": "10,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "11,2",
+   "sem": "11,5"
+ },
+ {
+   "codigo": 2103158,
+   "catolica": "77,7",
+   "evangelica": "18,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2103174,
+   "catolica": "64,0",
+   "evangelica": "25,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 2103208,
+   "catolica": "80,5",
+   "evangelica": "14,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2103257,
+   "catolica": "73,6",
+   "evangelica": "19,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2103307,
+   "catolica": "83,4",
+   "evangelica": "11,2",
+   "espirita": "0,1",
+   "umbanda": "0,6",
+   "outras": "1,4",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2103406,
+   "catolica": "86,3",
+   "evangelica": "8,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2103505,
+   "catolica": "78,6",
+   "evangelica": "6,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 2103554,
+   "catolica": "71,4",
+   "evangelica": "20,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2103604,
+   "catolica": "81,3",
+   "evangelica": "13,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 2103703,
+   "catolica": "72,3",
+   "evangelica": "13,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "13,1"
+ },
+ {
+   "codigo": 2103752,
+   "catolica": "63,1",
+   "evangelica": "24,5",
+   "espirita": "0,3",
+   "umbanda": "0,2",
+   "outras": "1,5",
+   "sem": "10,4"
+ },
+ {
+   "codigo": 2103802,
+   "catolica": "87,9",
+   "evangelica": "9,2",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "0,6",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2103901,
+   "catolica": "94,7",
+   "evangelica": "4,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2104008,
+   "catolica": "78,0",
+   "evangelica": "12,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 2104057,
+   "catolica": "73,4",
+   "evangelica": "19,2",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2104073,
+   "catolica": "79,0",
+   "evangelica": "19,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2104081,
+   "catolica": "77,6",
+   "evangelica": "13,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2104099,
+   "catolica": "66,6",
+   "evangelica": "22,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,3",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 2104107,
+   "catolica": "80,4",
+   "evangelica": "13,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2104206,
+   "catolica": "77,3",
+   "evangelica": "10,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 2104305,
+   "catolica": "74,9",
+   "evangelica": "21,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2104404,
+   "catolica": "78,3",
+   "evangelica": "13,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 2104503,
+   "catolica": "86,0",
+   "evangelica": "8,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2104552,
+   "catolica": "68,7",
+   "evangelica": "21,5",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 2104602,
+   "catolica": "83,4",
+   "evangelica": "11,0",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2104628,
+   "catolica": "82,4",
+   "evangelica": "12,9",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2104651,
+   "catolica": "87,8",
+   "evangelica": "10,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2104677,
+   "catolica": "69,4",
+   "evangelica": "21,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2104701,
+   "catolica": "86,0",
+   "evangelica": "10,0",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2104800,
+   "catolica": "77,0",
+   "evangelica": "16,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2104909,
+   "catolica": "77,1",
+   "evangelica": "10,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 2105005,
+   "catolica": "72,9",
+   "evangelica": "16,7",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 2105104,
+   "catolica": "76,9",
+   "evangelica": "15,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 2105153,
+   "catolica": "76,8",
+   "evangelica": "14,3",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2105203,
+   "catolica": "83,1",
+   "evangelica": "12,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2105302,
+   "catolica": "56,1",
+   "evangelica": "31,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 2105351,
+   "catolica": "75,4",
+   "evangelica": "15,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 2105401,
+   "catolica": "85,6",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2105427,
+   "catolica": "71,3",
+   "evangelica": "21,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2105450,
+   "catolica": "90,6",
+   "evangelica": "6,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2105476,
+   "catolica": "57,8",
+   "evangelica": "14,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "27,4"
+ },
+ {
+   "codigo": 2105500,
+   "catolica": "73,6",
+   "evangelica": "19,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2105609,
+   "catolica": "79,6",
+   "evangelica": "12,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2105658,
+   "catolica": "76,7",
+   "evangelica": "20,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2105708,
+   "catolica": "73,7",
+   "evangelica": "18,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 2105807,
+   "catolica": "82,9",
+   "evangelica": "9,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2105906,
+   "catolica": "77,7",
+   "evangelica": "18,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2105922,
+   "catolica": "93,3",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2105948,
+   "catolica": "86,7",
+   "evangelica": "9,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2105963,
+   "catolica": "78,9",
+   "evangelica": "12,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 2105989,
+   "catolica": "71,2",
+   "evangelica": "22,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2106003,
+   "catolica": "76,7",
+   "evangelica": "17,1",
+   "espirita": "0,0",
+   "umbanda": "0,4",
+   "outras": "0,1",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2106102,
+   "catolica": "94,6",
+   "evangelica": "5,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 2106201,
+   "catolica": "69,5",
+   "evangelica": "22,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2106300,
+   "catolica": "81,3",
+   "evangelica": "11,6",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 2106326,
+   "catolica": "63,7",
+   "evangelica": "25,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 2106359,
+   "catolica": "83,7",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2106375,
+   "catolica": "70,4",
+   "evangelica": "14,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "14,9"
+ },
+ {
+   "codigo": 2106409,
+   "catolica": "85,4",
+   "evangelica": "12,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2106508,
+   "catolica": "74,9",
+   "evangelica": "16,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2106607,
+   "catolica": "88,0",
+   "evangelica": "7,5",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,1",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2106631,
+   "catolica": "81,7",
+   "evangelica": "7,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "10,3",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 2106672,
+   "catolica": "92,2",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2106706,
+   "catolica": "74,4",
+   "evangelica": "7,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "6,8",
+   "sem": "11,4"
+ },
+ {
+   "codigo": 2106755,
+   "catolica": "72,8",
+   "evangelica": "17,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 2106805,
+   "catolica": "76,3",
+   "evangelica": "13,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 2106904,
+   "catolica": "73,8",
+   "evangelica": "14,8",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 2107001,
+   "catolica": "76,3",
+   "evangelica": "17,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2107100,
+   "catolica": "78,7",
+   "evangelica": "14,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 2107209,
+   "catolica": "82,5",
+   "evangelica": "13,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2107258,
+   "catolica": "89,8",
+   "evangelica": "9,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2107308,
+   "catolica": "72,3",
+   "evangelica": "6,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "21,3"
+ },
+ {
+   "codigo": 2107357,
+   "catolica": "68,3",
+   "evangelica": "22,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 2107407,
+   "catolica": "87,0",
+   "evangelica": "8,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2107456,
+   "catolica": "63,5",
+   "evangelica": "19,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "16,8"
+ },
+ {
+   "codigo": 2107506,
+   "catolica": "63,6",
+   "evangelica": "26,1",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "2,0",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 2107605,
+   "catolica": "84,1",
+   "evangelica": "9,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 2107704,
+   "catolica": "81,4",
+   "evangelica": "8,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 2107803,
+   "catolica": "87,2",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2107902,
+   "catolica": "78,7",
+   "evangelica": "6,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "14,3"
+ },
+ {
+   "codigo": 2108009,
+   "catolica": "82,6",
+   "evangelica": "6,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 2108058,
+   "catolica": "63,2",
+   "evangelica": "19,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,9",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 2108108,
+   "catolica": "71,7",
+   "evangelica": "16,5",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 2108207,
+   "catolica": "77,2",
+   "evangelica": "18,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2108256,
+   "catolica": "79,3",
+   "evangelica": "13,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2108306,
+   "catolica": "72,7",
+   "evangelica": "13,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "13,0"
+ },
+ {
+   "codigo": 2108405,
+   "catolica": "83,6",
+   "evangelica": "10,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 2108454,
+   "catolica": "79,6",
+   "evangelica": "9,7",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,1",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 2108504,
+   "catolica": "75,6",
+   "evangelica": "15,4",
+   "espirita": "0,0",
+   "umbanda": "0,8",
+   "outras": "0,4",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 2108603,
+   "catolica": "76,3",
+   "evangelica": "16,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2108702,
+   "catolica": "79,9",
+   "evangelica": "11,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 2108801,
+   "catolica": "87,1",
+   "evangelica": "9,3",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "0,8",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2108900,
+   "catolica": "81,7",
+   "evangelica": "14,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2109007,
+   "catolica": "74,2",
+   "evangelica": "18,8",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2109056,
+   "catolica": "49,9",
+   "evangelica": "17,0",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "31,9"
+ },
+ {
+   "codigo": 2109106,
+   "catolica": "77,0",
+   "evangelica": "16,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2109205,
+   "catolica": "77,0",
+   "evangelica": "16,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2109239,
+   "catolica": "73,8",
+   "evangelica": "22,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2109270,
+   "catolica": "73,9",
+   "evangelica": "16,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "10,0"
+ },
+ {
+   "codigo": 2109304,
+   "catolica": "78,5",
+   "evangelica": "9,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "11,7",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2109403,
+   "catolica": "90,1",
+   "evangelica": "6,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2109452,
+   "catolica": "53,0",
+   "evangelica": "27,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "17,1"
+ },
+ {
+   "codigo": 2109502,
+   "catolica": "82,2",
+   "evangelica": "13,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2109551,
+   "catolica": "80,2",
+   "evangelica": "14,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2109601,
+   "catolica": "75,7",
+   "evangelica": "16,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 2109700,
+   "catolica": "89,0",
+   "evangelica": "10,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 2109759,
+   "catolica": "91,4",
+   "evangelica": "7,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2109809,
+   "catolica": "72,1",
+   "evangelica": "17,9",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "0,5",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 2109908,
+   "catolica": "70,8",
+   "evangelica": "21,6",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2110005,
+   "catolica": "81,6",
+   "evangelica": "15,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2110039,
+   "catolica": "68,5",
+   "evangelica": "21,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 2110104,
+   "catolica": "89,6",
+   "evangelica": "7,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2110203,
+   "catolica": "75,3",
+   "evangelica": "14,2",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "3,0",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 2110237,
+   "catolica": "67,0",
+   "evangelica": "8,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "24,4"
+ },
+ {
+   "codigo": 2110278,
+   "catolica": "77,7",
+   "evangelica": "12,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 2110302,
+   "catolica": "73,2",
+   "evangelica": "12,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "11,8",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2110401,
+   "catolica": "84,5",
+   "evangelica": "12,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2110500,
+   "catolica": "81,0",
+   "evangelica": "12,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2110609,
+   "catolica": "82,8",
+   "evangelica": "11,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2110658,
+   "catolica": "88,8",
+   "evangelica": "7,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2110708,
+   "catolica": "79,3",
+   "evangelica": "14,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2110807,
+   "catolica": "88,2",
+   "evangelica": "11,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 2110856,
+   "catolica": "71,2",
+   "evangelica": "21,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2110906,
+   "catolica": "79,2",
+   "evangelica": "5,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "13,8"
+ },
+ {
+   "codigo": 2111003,
+   "catolica": "81,9",
+   "evangelica": "11,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2111029,
+   "catolica": "73,8",
+   "evangelica": "21,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2111052,
+   "catolica": "70,8",
+   "evangelica": "23,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 2111078,
+   "catolica": "70,3",
+   "evangelica": "8,4",
+   "espirita": "0,0",
+   "umbanda": "0,3",
+   "outras": "0,4",
+   "sem": "20,6"
+ },
+ {
+   "codigo": 2111102,
+   "catolica": "82,3",
+   "evangelica": "7,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 2111201,
+   "catolica": "62,7",
+   "evangelica": "25,5",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 2111250,
+   "catolica": "81,4",
+   "evangelica": "10,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 2111300,
+   "catolica": "65,9",
+   "evangelica": "23,6",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2111409,
+   "catolica": "88,4",
+   "evangelica": "9,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2111508,
+   "catolica": "75,0",
+   "evangelica": "19,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2111532,
+   "catolica": "77,1",
+   "evangelica": "16,2",
+   "espirita": "0,9",
+   "umbanda": "0,2",
+   "outras": "0,7",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 2111573,
+   "catolica": "41,2",
+   "evangelica": "52,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2111607,
+   "catolica": "87,4",
+   "evangelica": "11,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2111631,
+   "catolica": "89,0",
+   "evangelica": "10,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2111672,
+   "catolica": "93,0",
+   "evangelica": "6,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2111706,
+   "catolica": "65,2",
+   "evangelica": "14,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "20,5"
+ },
+ {
+   "codigo": 2111722,
+   "catolica": "87,9",
+   "evangelica": "10,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2111748,
+   "catolica": "86,9",
+   "evangelica": "12,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2111763,
+   "catolica": "72,2",
+   "evangelica": "20,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 2111789,
+   "catolica": "72,9",
+   "evangelica": "11,2",
+   "espirita": "0,0",
+   "umbanda": "0,3",
+   "outras": "0,8",
+   "sem": "14,8"
+ },
+ {
+   "codigo": 2111805,
+   "catolica": "78,2",
+   "evangelica": "19,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2111904,
+   "catolica": "80,7",
+   "evangelica": "8,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 2111953,
+   "catolica": "83,4",
+   "evangelica": "4,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "12,1"
+ },
+ {
+   "codigo": 2112001,
+   "catolica": "87,9",
+   "evangelica": "11,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2112100,
+   "catolica": "85,7",
+   "evangelica": "8,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 2112209,
+   "catolica": "78,1",
+   "evangelica": "13,1",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 2112233,
+   "catolica": "85,7",
+   "evangelica": "12,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2112274,
+   "catolica": "89,2",
+   "evangelica": "9,4",
+   "espirita": "0,0",
+   "umbanda": "0,5",
+   "outras": "0,4",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2112308,
+   "catolica": "82,2",
+   "evangelica": "12,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2112407,
+   "catolica": "76,0",
+   "evangelica": "15,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 2112456,
+   "catolica": "69,5",
+   "evangelica": "19,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 2112506,
+   "catolica": "76,3",
+   "evangelica": "13,8",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 2112605,
+   "catolica": "86,5",
+   "evangelica": "9,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2112704,
+   "catolica": "90,8",
+   "evangelica": "6,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2112803,
+   "catolica": "73,3",
+   "evangelica": "18,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 2112852,
+   "catolica": "71,6",
+   "evangelica": "17,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 2112902,
+   "catolica": "73,4",
+   "evangelica": "22,6",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2113009,
+   "catolica": "80,0",
+   "evangelica": "13,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2114007,
+   "catolica": "73,7",
+   "evangelica": "19,1",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2200053,
+   "catolica": "92,1",
+   "evangelica": "6,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2200103,
+   "catolica": "79,0",
+   "evangelica": "8,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 2200202,
+   "catolica": "83,9",
+   "evangelica": "9,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 2200251,
+   "catolica": "92,7",
+   "evangelica": "4,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2200277,
+   "catolica": "89,7",
+   "evangelica": "6,6",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,1",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2200301,
+   "catolica": "90,2",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2200400,
+   "catolica": "89,1",
+   "evangelica": "6,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2200459,
+   "catolica": "81,6",
+   "evangelica": "16,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2200509,
+   "catolica": "88,4",
+   "evangelica": "5,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2200608,
+   "catolica": "88,2",
+   "evangelica": "7,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2200707,
+   "catolica": "88,5",
+   "evangelica": "7,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2200806,
+   "catolica": "87,6",
+   "evangelica": "12,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2200905,
+   "catolica": "93,0",
+   "evangelica": "3,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2200954,
+   "catolica": "95,9",
+   "evangelica": "3,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2201002,
+   "catolica": "94,2",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2201051,
+   "catolica": "88,3",
+   "evangelica": "3,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 2201101,
+   "catolica": "61,2",
+   "evangelica": "25,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,9",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 2201150,
+   "catolica": "76,3",
+   "evangelica": "18,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 2201176,
+   "catolica": "93,6",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2201200,
+   "catolica": "90,1",
+   "evangelica": "7,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2201309,
+   "catolica": "91,5",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2201408,
+   "catolica": "85,1",
+   "evangelica": "12,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2201507,
+   "catolica": "92,2",
+   "evangelica": "6,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2201556,
+   "catolica": "96,2",
+   "evangelica": "3,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2201572,
+   "catolica": "73,2",
+   "evangelica": "19,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 2201606,
+   "catolica": "93,5",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2201705,
+   "catolica": "88,8",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2201739,
+   "catolica": "95,1",
+   "evangelica": "2,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2201770,
+   "catolica": "88,5",
+   "evangelica": "10,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2201804,
+   "catolica": "97,2",
+   "evangelica": "0,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2201903,
+   "catolica": "83,9",
+   "evangelica": "11,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2201919,
+   "catolica": "83,8",
+   "evangelica": "12,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2201929,
+   "catolica": "91,5",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2201945,
+   "catolica": "82,8",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2201960,
+   "catolica": "92,5",
+   "evangelica": "6,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2201988,
+   "catolica": "83,8",
+   "evangelica": "14,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2202000,
+   "catolica": "85,3",
+   "evangelica": "8,5",
+   "espirita": "0,3",
+   "umbanda": "0,2",
+   "outras": "0,7",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2202026,
+   "catolica": "91,1",
+   "evangelica": "2,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 2202059,
+   "catolica": "93,2",
+   "evangelica": "5,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2202075,
+   "catolica": "93,8",
+   "evangelica": "2,0",
+   "espirita": "0,0",
+   "umbanda": "0,4",
+   "outras": "0,1",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2202083,
+   "catolica": "84,4",
+   "evangelica": "8,2",
+   "espirita": "0,0",
+   "umbanda": "0,4",
+   "outras": "1,9",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2202091,
+   "catolica": "88,3",
+   "evangelica": "9,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2202109,
+   "catolica": "94,0",
+   "evangelica": "5,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2202117,
+   "catolica": "93,6",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 2202133,
+   "catolica": "85,8",
+   "evangelica": "10,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2202174,
+   "catolica": "94,4",
+   "evangelica": "5,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2202208,
+   "catolica": "90,2",
+   "evangelica": "5,2",
+   "espirita": "0,4",
+   "umbanda": "0,3",
+   "outras": "1,6",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2202251,
+   "catolica": "94,4",
+   "evangelica": "4,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2202307,
+   "catolica": "86,8",
+   "evangelica": "10,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2202406,
+   "catolica": "92,2",
+   "evangelica": "5,0",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2202455,
+   "catolica": "95,8",
+   "evangelica": "3,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2202505,
+   "catolica": "81,6",
+   "evangelica": "10,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2202539,
+   "catolica": "94,5",
+   "evangelica": "3,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2202554,
+   "catolica": "92,5",
+   "evangelica": "5,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2202604,
+   "catolica": "91,2",
+   "evangelica": "4,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2202653,
+   "catolica": "91,7",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2202703,
+   "catolica": "85,1",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2202711,
+   "catolica": "80,5",
+   "evangelica": "13,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2202729,
+   "catolica": "88,6",
+   "evangelica": "7,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2202737,
+   "catolica": "89,6",
+   "evangelica": "8,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2202752,
+   "catolica": "79,0",
+   "evangelica": "15,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2202778,
+   "catolica": "87,1",
+   "evangelica": "8,7",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2202802,
+   "catolica": "95,0",
+   "evangelica": "3,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2202851,
+   "catolica": "94,6",
+   "evangelica": "3,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 2202901,
+   "catolica": "75,6",
+   "evangelica": "18,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2203008,
+   "catolica": "90,8",
+   "evangelica": "8,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2203107,
+   "catolica": "84,5",
+   "evangelica": "8,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2203206,
+   "catolica": "81,1",
+   "evangelica": "10,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2203230,
+   "catolica": "89,9",
+   "evangelica": "7,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2203255,
+   "catolica": "86,7",
+   "evangelica": "5,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 2203271,
+   "catolica": "88,9",
+   "evangelica": "8,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2203305,
+   "catolica": "87,3",
+   "evangelica": "7,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2203354,
+   "catolica": "90,6",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2203404,
+   "catolica": "90,4",
+   "evangelica": "7,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2203420,
+   "catolica": "95,0",
+   "evangelica": "3,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2203453,
+   "catolica": "91,8",
+   "evangelica": "8,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 2203503,
+   "catolica": "91,1",
+   "evangelica": "4,2",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "0,6",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2203602,
+   "catolica": "82,8",
+   "evangelica": "10,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2203701,
+   "catolica": "88,9",
+   "evangelica": "6,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2203750,
+   "catolica": "89,0",
+   "evangelica": "9,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2203800,
+   "catolica": "66,2",
+   "evangelica": "13,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "20,8"
+ },
+ {
+   "codigo": 2203859,
+   "catolica": "80,9",
+   "evangelica": "7,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 2203909,
+   "catolica": "82,1",
+   "evangelica": "12,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2204006,
+   "catolica": "94,3",
+   "evangelica": "4,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2204105,
+   "catolica": "78,4",
+   "evangelica": "5,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "12,5",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2204154,
+   "catolica": "90,2",
+   "evangelica": "8,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2204204,
+   "catolica": "89,9",
+   "evangelica": "6,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2204303,
+   "catolica": "82,9",
+   "evangelica": "11,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2204352,
+   "catolica": "87,5",
+   "evangelica": "11,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2204402,
+   "catolica": "89,9",
+   "evangelica": "8,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2204501,
+   "catolica": "85,4",
+   "evangelica": "11,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2204550,
+   "catolica": "85,2",
+   "evangelica": "14,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 2204600,
+   "catolica": "86,8",
+   "evangelica": "6,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2204659,
+   "catolica": "82,1",
+   "evangelica": "10,8",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2204709,
+   "catolica": "88,2",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "1,1",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2204808,
+   "catolica": "91,3",
+   "evangelica": "6,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2204907,
+   "catolica": "91,0",
+   "evangelica": "3,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2205003,
+   "catolica": "86,7",
+   "evangelica": "9,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2205102,
+   "catolica": "87,2",
+   "evangelica": "10,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2205151,
+   "catolica": "82,5",
+   "evangelica": "12,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 2205201,
+   "catolica": "85,5",
+   "evangelica": "12,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2205250,
+   "catolica": "87,4",
+   "evangelica": "9,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2205276,
+   "catolica": "90,3",
+   "evangelica": "6,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2205300,
+   "catolica": "82,5",
+   "evangelica": "8,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "6,9",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2205359,
+   "catolica": "94,1",
+   "evangelica": "5,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 2205409,
+   "catolica": "88,9",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2205458,
+   "catolica": "77,4",
+   "evangelica": "6,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "15,8"
+ },
+ {
+   "codigo": 2205508,
+   "catolica": "91,9",
+   "evangelica": "4,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2205516,
+   "catolica": "80,4",
+   "evangelica": "13,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 2205524,
+   "catolica": "82,6",
+   "evangelica": "14,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2205532,
+   "catolica": "89,7",
+   "evangelica": "4,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 2205540,
+   "catolica": "83,5",
+   "evangelica": "11,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2205557,
+   "catolica": "93,8",
+   "evangelica": "4,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2205565,
+   "catolica": "81,9",
+   "evangelica": "14,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 2205573,
+   "catolica": "94,3",
+   "evangelica": "4,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2205581,
+   "catolica": "91,3",
+   "evangelica": "6,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2205599,
+   "catolica": "85,3",
+   "evangelica": "7,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "4,3",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2205607,
+   "catolica": "84,1",
+   "evangelica": "8,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2205706,
+   "catolica": "87,6",
+   "evangelica": "7,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2205805,
+   "catolica": "84,6",
+   "evangelica": "10,1",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2205854,
+   "catolica": "86,4",
+   "evangelica": "11,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2205904,
+   "catolica": "91,0",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2205953,
+   "catolica": "78,4",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 2206001,
+   "catolica": "84,7",
+   "evangelica": "14,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 2206050,
+   "catolica": "90,5",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 2206100,
+   "catolica": "86,7",
+   "evangelica": "8,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2206209,
+   "catolica": "87,6",
+   "evangelica": "4,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2206308,
+   "catolica": "77,5",
+   "evangelica": "17,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 2206357,
+   "catolica": "94,2",
+   "evangelica": "2,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2206407,
+   "catolica": "89,4",
+   "evangelica": "7,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2206506,
+   "catolica": "94,5",
+   "evangelica": "3,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2206605,
+   "catolica": "92,6",
+   "evangelica": "5,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2206654,
+   "catolica": "80,7",
+   "evangelica": "15,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2206670,
+   "catolica": "93,3",
+   "evangelica": "4,3",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2206696,
+   "catolica": "88,3",
+   "evangelica": "6,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 2206704,
+   "catolica": "90,0",
+   "evangelica": "6,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2206720,
+   "catolica": "84,2",
+   "evangelica": "9,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2206753,
+   "catolica": "91,6",
+   "evangelica": "5,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2206803,
+   "catolica": "91,4",
+   "evangelica": "4,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2206902,
+   "catolica": "92,9",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2206951,
+   "catolica": "88,6",
+   "evangelica": "5,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 2207009,
+   "catolica": "87,4",
+   "evangelica": "10,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2207108,
+   "catolica": "89,4",
+   "evangelica": "7,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2207207,
+   "catolica": "86,0",
+   "evangelica": "10,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2207306,
+   "catolica": "79,1",
+   "evangelica": "18,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2207355,
+   "catolica": "87,4",
+   "evangelica": "11,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2207405,
+   "catolica": "92,6",
+   "evangelica": "5,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2207504,
+   "catolica": "90,4",
+   "evangelica": "5,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2207553,
+   "catolica": "92,7",
+   "evangelica": "5,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2207603,
+   "catolica": "89,2",
+   "evangelica": "8,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2207702,
+   "catolica": "76,4",
+   "evangelica": "14,0",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 2207751,
+   "catolica": "84,4",
+   "evangelica": "10,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2207777,
+   "catolica": "89,0",
+   "evangelica": "4,9",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 2207793,
+   "catolica": "93,3",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2207801,
+   "catolica": "81,0",
+   "evangelica": "10,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "6,8",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2207850,
+   "catolica": "91,9",
+   "evangelica": "7,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2207900,
+   "catolica": "90,6",
+   "evangelica": "6,7",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2207934,
+   "catolica": "93,6",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2207959,
+   "catolica": "96,8",
+   "evangelica": "2,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2208007,
+   "catolica": "86,9",
+   "evangelica": "8,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2208106,
+   "catolica": "87,4",
+   "evangelica": "10,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2208205,
+   "catolica": "88,9",
+   "evangelica": "7,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2208304,
+   "catolica": "88,3",
+   "evangelica": "10,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2208403,
+   "catolica": "88,9",
+   "evangelica": "7,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2208502,
+   "catolica": "92,2",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2208551,
+   "catolica": "88,7",
+   "evangelica": "7,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2208601,
+   "catolica": "91,4",
+   "evangelica": "3,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2208650,
+   "catolica": "96,2",
+   "evangelica": "3,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2208700,
+   "catolica": "79,2",
+   "evangelica": "17,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2208809,
+   "catolica": "88,8",
+   "evangelica": "5,0",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "1,4",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2208858,
+   "catolica": "91,7",
+   "evangelica": "4,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2208874,
+   "catolica": "88,7",
+   "evangelica": "8,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2208908,
+   "catolica": "86,8",
+   "evangelica": "11,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2209005,
+   "catolica": "92,7",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2209104,
+   "catolica": "92,1",
+   "evangelica": "6,3",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2209153,
+   "catolica": "95,5",
+   "evangelica": "4,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 2209203,
+   "catolica": "95,7",
+   "evangelica": "4,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 2209302,
+   "catolica": "79,3",
+   "evangelica": "14,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 2209351,
+   "catolica": "94,4",
+   "evangelica": "4,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2209377,
+   "catolica": "92,1",
+   "evangelica": "5,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2209401,
+   "catolica": "86,7",
+   "evangelica": "8,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 2209450,
+   "catolica": "85,2",
+   "evangelica": "12,1",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2209500,
+   "catolica": "91,4",
+   "evangelica": "6,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2209559,
+   "catolica": "91,4",
+   "evangelica": "8,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2209609,
+   "catolica": "94,9",
+   "evangelica": "2,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2209658,
+   "catolica": "94,9",
+   "evangelica": "4,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2209708,
+   "catolica": "92,8",
+   "evangelica": "6,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2209757,
+   "catolica": "85,0",
+   "evangelica": "14,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2209807,
+   "catolica": "77,1",
+   "evangelica": "8,0",
+   "espirita": "0,4",
+   "umbanda": "0,6",
+   "outras": "0,7",
+   "sem": "13,2"
+ },
+ {
+   "codigo": 2209856,
+   "catolica": "92,1",
+   "evangelica": "7,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2209872,
+   "catolica": "93,6",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2209906,
+   "catolica": "93,8",
+   "evangelica": "5,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 2209955,
+   "catolica": "93,9",
+   "evangelica": "4,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2209971,
+   "catolica": "89,0",
+   "evangelica": "6,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2210003,
+   "catolica": "89,5",
+   "evangelica": "8,3",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2210052,
+   "catolica": "93,9",
+   "evangelica": "3,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2210102,
+   "catolica": "88,2",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2210201,
+   "catolica": "82,4",
+   "evangelica": "16,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2210300,
+   "catolica": "87,0",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2210359,
+   "catolica": "90,9",
+   "evangelica": "7,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2210375,
+   "catolica": "92,6",
+   "evangelica": "5,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2210383,
+   "catolica": "91,8",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2210391,
+   "catolica": "90,8",
+   "evangelica": "7,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2210409,
+   "catolica": "92,1",
+   "evangelica": "3,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2210508,
+   "catolica": "86,0",
+   "evangelica": "6,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2210607,
+   "catolica": "87,7",
+   "evangelica": "9,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2210623,
+   "catolica": "88,3",
+   "evangelica": "8,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2210631,
+   "catolica": "83,6",
+   "evangelica": "14,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2210656,
+   "catolica": "86,3",
+   "evangelica": "10,9",
+   "espirita": "0,0",
+   "umbanda": "0,3",
+   "outras": "0,2",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2210706,
+   "catolica": "93,0",
+   "evangelica": "6,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2210805,
+   "catolica": "87,0",
+   "evangelica": "9,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2210904,
+   "catolica": "84,1",
+   "evangelica": "10,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 2210938,
+   "catolica": "91,4",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2210953,
+   "catolica": "82,3",
+   "evangelica": "17,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 2210979,
+   "catolica": "90,0",
+   "evangelica": "8,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2211001,
+   "catolica": "79,0",
+   "evangelica": "13,3",
+   "espirita": "0,9",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2211100,
+   "catolica": "92,2",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2211209,
+   "catolica": "84,0",
+   "evangelica": "12,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2211308,
+   "catolica": "85,8",
+   "evangelica": "8,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2211357,
+   "catolica": "86,9",
+   "evangelica": "9,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2211407,
+   "catolica": "92,0",
+   "evangelica": "2,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 2211506,
+   "catolica": "84,3",
+   "evangelica": "13,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2211605,
+   "catolica": "84,1",
+   "evangelica": "13,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2211704,
+   "catolica": "88,5",
+   "evangelica": "9,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2300101,
+   "catolica": "92,9",
+   "evangelica": "6,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2300150,
+   "catolica": "69,2",
+   "evangelica": "22,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 2300200,
+   "catolica": "82,8",
+   "evangelica": "13,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2300309,
+   "catolica": "89,9",
+   "evangelica": "7,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2300408,
+   "catolica": "92,5",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2300507,
+   "catolica": "94,8",
+   "evangelica": "3,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2300606,
+   "catolica": "92,8",
+   "evangelica": "5,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2300705,
+   "catolica": "90,5",
+   "evangelica": "5,6",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2300754,
+   "catolica": "82,7",
+   "evangelica": "13,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2300804,
+   "catolica": "91,5",
+   "evangelica": "5,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2300903,
+   "catolica": "93,6",
+   "evangelica": "5,3",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2301000,
+   "catolica": "74,6",
+   "evangelica": "16,5",
+   "espirita": "0,3",
+   "umbanda": "0,2",
+   "outras": "0,8",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 2301109,
+   "catolica": "79,4",
+   "evangelica": "15,0",
+   "espirita": "0,9",
+   "umbanda": "0,2",
+   "outras": "1,2",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2301208,
+   "catolica": "87,6",
+   "evangelica": "9,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2301257,
+   "catolica": "88,8",
+   "evangelica": "6,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2301307,
+   "catolica": "92,7",
+   "evangelica": "5,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2301406,
+   "catolica": "85,6",
+   "evangelica": "12,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2301505,
+   "catolica": "92,5",
+   "evangelica": "6,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2301604,
+   "catolica": "89,5",
+   "evangelica": "8,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2301703,
+   "catolica": "94,6",
+   "evangelica": "3,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2301802,
+   "catolica": "90,5",
+   "evangelica": "7,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2301851,
+   "catolica": "87,1",
+   "evangelica": "8,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2301901,
+   "catolica": "92,8",
+   "evangelica": "4,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2301950,
+   "catolica": "75,1",
+   "evangelica": "20,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2302008,
+   "catolica": "92,7",
+   "evangelica": "5,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2302057,
+   "catolica": "85,5",
+   "evangelica": "9,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 2302107,
+   "catolica": "90,7",
+   "evangelica": "6,3",
+   "espirita": "0,1",
+   "umbanda": "0,4",
+   "outras": "0,5",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2302206,
+   "catolica": "78,3",
+   "evangelica": "16,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2302305,
+   "catolica": "93,7",
+   "evangelica": "4,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2302404,
+   "catolica": "86,6",
+   "evangelica": "10,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2302503,
+   "catolica": "92,5",
+   "evangelica": "5,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2302602,
+   "catolica": "83,2",
+   "evangelica": "10,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 2302701,
+   "catolica": "91,9",
+   "evangelica": "5,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2302800,
+   "catolica": "90,2",
+   "evangelica": "7,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2302909,
+   "catolica": "86,1",
+   "evangelica": "11,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2303006,
+   "catolica": "90,3",
+   "evangelica": "6,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2303105,
+   "catolica": "91,0",
+   "evangelica": "5,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2303204,
+   "catolica": "96,2",
+   "evangelica": "2,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2303303,
+   "catolica": "84,9",
+   "evangelica": "10,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2303402,
+   "catolica": "93,9",
+   "evangelica": "3,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2303501,
+   "catolica": "79,9",
+   "evangelica": "16,4",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2303600,
+   "catolica": "87,8",
+   "evangelica": "7,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2303659,
+   "catolica": "90,8",
+   "evangelica": "6,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2303709,
+   "catolica": "65,3",
+   "evangelica": "24,5",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "2,1",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 2303808,
+   "catolica": "85,5",
+   "evangelica": "11,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2303907,
+   "catolica": "87,1",
+   "evangelica": "7,9",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "0,4",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 2303931,
+   "catolica": "88,4",
+   "evangelica": "10,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2303956,
+   "catolica": "76,7",
+   "evangelica": "18,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2304004,
+   "catolica": "92,1",
+   "evangelica": "4,7",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "0,2",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2304103,
+   "catolica": "81,7",
+   "evangelica": "9,5",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "3,1",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2304202,
+   "catolica": "88,2",
+   "evangelica": "7,8",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2304236,
+   "catolica": "94,2",
+   "evangelica": "4,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2304251,
+   "catolica": "87,7",
+   "evangelica": "9,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2304269,
+   "catolica": "92,5",
+   "evangelica": "6,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2304277,
+   "catolica": "94,9",
+   "evangelica": "4,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2304285,
+   "catolica": "65,8",
+   "evangelica": "24,0",
+   "espirita": "1,0",
+   "umbanda": "0,2",
+   "outras": "0,7",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 2304301,
+   "catolica": "90,2",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2304350,
+   "catolica": "76,2",
+   "evangelica": "16,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 2304400,
+   "catolica": "67,9",
+   "evangelica": "21,4",
+   "espirita": "1,3",
+   "umbanda": "0,2",
+   "outras": "2,0",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 2304459,
+   "catolica": "75,5",
+   "evangelica": "16,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 2304509,
+   "catolica": "80,0",
+   "evangelica": "9,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 2304608,
+   "catolica": "90,2",
+   "evangelica": "7,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2304657,
+   "catolica": "90,3",
+   "evangelica": "6,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2304707,
+   "catolica": "86,8",
+   "evangelica": "3,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,0",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2304806,
+   "catolica": "96,4",
+   "evangelica": "3,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2304905,
+   "catolica": "86,6",
+   "evangelica": "11,0",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2304954,
+   "catolica": "85,0",
+   "evangelica": "11,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2305001,
+   "catolica": "89,2",
+   "evangelica": "9,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2305100,
+   "catolica": "81,8",
+   "evangelica": "8,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "7,9",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2305209,
+   "catolica": "82,7",
+   "evangelica": "11,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2305233,
+   "catolica": "69,8",
+   "evangelica": "21,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 2305266,
+   "catolica": "83,2",
+   "evangelica": "12,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2305308,
+   "catolica": "92,4",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2305332,
+   "catolica": "85,8",
+   "evangelica": "10,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2305357,
+   "catolica": "70,5",
+   "evangelica": "20,2",
+   "espirita": "0,2",
+   "umbanda": "0,3",
+   "outras": "0,4",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 2305407,
+   "catolica": "86,3",
+   "evangelica": "10,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2305506,
+   "catolica": "83,6",
+   "evangelica": "11,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2305605,
+   "catolica": "90,4",
+   "evangelica": "6,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2305654,
+   "catolica": "88,7",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2305704,
+   "catolica": "88,1",
+   "evangelica": "9,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2305803,
+   "catolica": "90,6",
+   "evangelica": "5,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2305902,
+   "catolica": "91,3",
+   "evangelica": "6,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2306009,
+   "catolica": "93,1",
+   "evangelica": "5,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2306108,
+   "catolica": "82,5",
+   "evangelica": "15,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2306207,
+   "catolica": "82,0",
+   "evangelica": "13,6",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2306256,
+   "catolica": "73,2",
+   "evangelica": "17,8",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 2306306,
+   "catolica": "78,4",
+   "evangelica": "18,4",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2306405,
+   "catolica": "80,7",
+   "evangelica": "14,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2306504,
+   "catolica": "85,6",
+   "evangelica": "13,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2306553,
+   "catolica": "84,1",
+   "evangelica": "10,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2306603,
+   "catolica": "89,0",
+   "evangelica": "9,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2306702,
+   "catolica": "90,1",
+   "evangelica": "6,4",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2306801,
+   "catolica": "87,1",
+   "evangelica": "8,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2306900,
+   "catolica": "83,8",
+   "evangelica": "11,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2307007,
+   "catolica": "89,4",
+   "evangelica": "6,3",
+   "espirita": "0,2",
+   "umbanda": "0,3",
+   "outras": "0,9",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2307106,
+   "catolica": "95,0",
+   "evangelica": "3,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2307205,
+   "catolica": "82,2",
+   "evangelica": "14,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2307254,
+   "catolica": "84,2",
+   "evangelica": "9,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2307304,
+   "catolica": "87,6",
+   "evangelica": "8,4",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2307403,
+   "catolica": "88,3",
+   "evangelica": "7,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2307502,
+   "catolica": "89,8",
+   "evangelica": "6,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2307601,
+   "catolica": "86,3",
+   "evangelica": "8,9",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2307635,
+   "catolica": "86,0",
+   "evangelica": "12,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2307650,
+   "catolica": "64,6",
+   "evangelica": "24,3",
+   "espirita": "0,5",
+   "umbanda": "0,3",
+   "outras": "1,7",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 2307700,
+   "catolica": "76,7",
+   "evangelica": "17,7",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "0,7",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2307809,
+   "catolica": "94,5",
+   "evangelica": "4,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2307908,
+   "catolica": "92,1",
+   "evangelica": "6,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2308005,
+   "catolica": "89,3",
+   "evangelica": "7,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2308104,
+   "catolica": "92,0",
+   "evangelica": "6,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2308203,
+   "catolica": "92,0",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2308302,
+   "catolica": "92,2",
+   "evangelica": "6,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2308351,
+   "catolica": "91,4",
+   "evangelica": "7,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2308377,
+   "catolica": "89,4",
+   "evangelica": "8,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2308401,
+   "catolica": "91,9",
+   "evangelica": "6,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2308500,
+   "catolica": "88,4",
+   "evangelica": "9,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2308609,
+   "catolica": "79,5",
+   "evangelica": "9,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "9,8",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2308708,
+   "catolica": "81,1",
+   "evangelica": "12,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 2308807,
+   "catolica": "93,9",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2308906,
+   "catolica": "90,5",
+   "evangelica": "8,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2309003,
+   "catolica": "89,7",
+   "evangelica": "8,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2309102,
+   "catolica": "89,6",
+   "evangelica": "8,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2309201,
+   "catolica": "88,9",
+   "evangelica": "8,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2309300,
+   "catolica": "85,3",
+   "evangelica": "9,2",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2309409,
+   "catolica": "83,9",
+   "evangelica": "12,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2309458,
+   "catolica": "89,3",
+   "evangelica": "9,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2309508,
+   "catolica": "86,0",
+   "evangelica": "10,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2309607,
+   "catolica": "72,0",
+   "evangelica": "20,5",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2309706,
+   "catolica": "67,0",
+   "evangelica": "24,9",
+   "espirita": "0,6",
+   "umbanda": "0,2",
+   "outras": "2,3",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2309805,
+   "catolica": "90,3",
+   "evangelica": "6,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2309904,
+   "catolica": "87,8",
+   "evangelica": "6,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2310001,
+   "catolica": "91,4",
+   "evangelica": "7,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2310100,
+   "catolica": "90,2",
+   "evangelica": "8,3",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2310209,
+   "catolica": "78,9",
+   "evangelica": "16,1",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2310258,
+   "catolica": "74,7",
+   "evangelica": "20,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 2310308,
+   "catolica": "78,6",
+   "evangelica": "17,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2310407,
+   "catolica": "92,2",
+   "evangelica": "7,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2310506,
+   "catolica": "90,4",
+   "evangelica": "7,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2310605,
+   "catolica": "82,5",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2310704,
+   "catolica": "85,7",
+   "evangelica": "12,1",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "0,2",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2310803,
+   "catolica": "94,9",
+   "evangelica": "3,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2310852,
+   "catolica": "82,2",
+   "evangelica": "13,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2310902,
+   "catolica": "89,7",
+   "evangelica": "6,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2310951,
+   "catolica": "91,3",
+   "evangelica": "5,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2311009,
+   "catolica": "79,7",
+   "evangelica": "17,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2311108,
+   "catolica": "93,1",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2311207,
+   "catolica": "89,3",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2311231,
+   "catolica": "90,0",
+   "evangelica": "6,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2311264,
+   "catolica": "86,0",
+   "evangelica": "11,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2311306,
+   "catolica": "83,4",
+   "evangelica": "11,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2311355,
+   "catolica": "86,3",
+   "evangelica": "6,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 2311405,
+   "catolica": "83,2",
+   "evangelica": "12,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2311504,
+   "catolica": "88,8",
+   "evangelica": "8,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2311603,
+   "catolica": "80,3",
+   "evangelica": "16,0",
+   "espirita": "0,2",
+   "umbanda": "0,3",
+   "outras": "0,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2311702,
+   "catolica": "92,1",
+   "evangelica": "4,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2311801,
+   "catolica": "83,4",
+   "evangelica": "11,6",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2311900,
+   "catolica": "84,2",
+   "evangelica": "12,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2311959,
+   "catolica": "90,2",
+   "evangelica": "8,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2312007,
+   "catolica": "91,8",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2312106,
+   "catolica": "92,9",
+   "evangelica": "4,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2312205,
+   "catolica": "92,7",
+   "evangelica": "5,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2312304,
+   "catolica": "91,5",
+   "evangelica": "5,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2312403,
+   "catolica": "77,2",
+   "evangelica": "16,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2312502,
+   "catolica": "80,7",
+   "evangelica": "10,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 2312601,
+   "catolica": "82,8",
+   "evangelica": "13,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2312700,
+   "catolica": "88,6",
+   "evangelica": "8,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2312809,
+   "catolica": "92,4",
+   "evangelica": "5,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2312908,
+   "catolica": "81,1",
+   "evangelica": "12,3",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "2,0",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2313005,
+   "catolica": "89,6",
+   "evangelica": "8,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2313104,
+   "catolica": "78,7",
+   "evangelica": "13,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 2313203,
+   "catolica": "90,9",
+   "evangelica": "5,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2313252,
+   "catolica": "90,3",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2313302,
+   "catolica": "79,9",
+   "evangelica": "13,9",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2313351,
+   "catolica": "91,6",
+   "evangelica": "7,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 2313401,
+   "catolica": "85,6",
+   "evangelica": "11,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2313500,
+   "catolica": "82,0",
+   "evangelica": "15,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2313559,
+   "catolica": "84,8",
+   "evangelica": "13,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2313609,
+   "catolica": "87,8",
+   "evangelica": "8,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2313708,
+   "catolica": "90,2",
+   "evangelica": "8,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2313757,
+   "catolica": "81,5",
+   "evangelica": "15,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2313807,
+   "catolica": "84,5",
+   "evangelica": "13,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2313906,
+   "catolica": "89,5",
+   "evangelica": "8,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2313955,
+   "catolica": "83,8",
+   "evangelica": "11,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2314003,
+   "catolica": "90,1",
+   "evangelica": "7,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2314102,
+   "catolica": "90,0",
+   "evangelica": "7,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2400109,
+   "catolica": "90,3",
+   "evangelica": "6,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2400208,
+   "catolica": "77,2",
+   "evangelica": "12,9",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 2400307,
+   "catolica": "80,6",
+   "evangelica": "12,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 2400406,
+   "catolica": "95,8",
+   "evangelica": "2,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2400505,
+   "catolica": "90,4",
+   "evangelica": "7,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2400604,
+   "catolica": "82,3",
+   "evangelica": "10,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2400703,
+   "catolica": "77,8",
+   "evangelica": "16,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2400802,
+   "catolica": "82,4",
+   "evangelica": "11,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2400901,
+   "catolica": "84,0",
+   "evangelica": "10,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2401008,
+   "catolica": "79,6",
+   "evangelica": "14,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2401107,
+   "catolica": "72,6",
+   "evangelica": "15,8",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "1,5",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 2401206,
+   "catolica": "72,5",
+   "evangelica": "14,0",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "12,8"
+ },
+ {
+   "codigo": 2401305,
+   "catolica": "91,5",
+   "evangelica": "5,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2401404,
+   "catolica": "57,4",
+   "evangelica": "30,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 2401453,
+   "catolica": "75,7",
+   "evangelica": "17,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 2401503,
+   "catolica": "91,6",
+   "evangelica": "6,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2401602,
+   "catolica": "85,6",
+   "evangelica": "10,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2401651,
+   "catolica": "88,9",
+   "evangelica": "5,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2401701,
+   "catolica": "86,1",
+   "evangelica": "9,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2401800,
+   "catolica": "80,7",
+   "evangelica": "11,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2401859,
+   "catolica": "86,4",
+   "evangelica": "10,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2401909,
+   "catolica": "85,3",
+   "evangelica": "8,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 2402006,
+   "catolica": "85,5",
+   "evangelica": "7,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2402105,
+   "catolica": "86,4",
+   "evangelica": "10,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2402204,
+   "catolica": "73,2",
+   "evangelica": "15,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 2402303,
+   "catolica": "81,2",
+   "evangelica": "10,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 2402402,
+   "catolica": "88,8",
+   "evangelica": "7,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2402501,
+   "catolica": "83,0",
+   "evangelica": "11,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2402600,
+   "catolica": "82,2",
+   "evangelica": "13,0",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2402709,
+   "catolica": "92,7",
+   "evangelica": "5,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2402808,
+   "catolica": "83,6",
+   "evangelica": "10,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2402907,
+   "catolica": "90,6",
+   "evangelica": "8,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2403004,
+   "catolica": "90,8",
+   "evangelica": "7,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2403103,
+   "catolica": "85,9",
+   "evangelica": "9,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2403202,
+   "catolica": "90,3",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2403251,
+   "catolica": "63,0",
+   "evangelica": "23,7",
+   "espirita": "2,1",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 2403301,
+   "catolica": "92,4",
+   "evangelica": "6,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2403400,
+   "catolica": "78,9",
+   "evangelica": "11,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 2403509,
+   "catolica": "66,8",
+   "evangelica": "10,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "22,2"
+ },
+ {
+   "codigo": 2403608,
+   "catolica": "73,0",
+   "evangelica": "18,0",
+   "espirita": "1,2",
+   "umbanda": "0,3",
+   "outras": "0,7",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 2403707,
+   "catolica": "58,7",
+   "evangelica": "20,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "20,8"
+ },
+ {
+   "codigo": 2403756,
+   "catolica": "79,2",
+   "evangelica": "13,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 2403806,
+   "catolica": "90,4",
+   "evangelica": "7,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2403905,
+   "catolica": "94,6",
+   "evangelica": "4,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 2404002,
+   "catolica": "78,4",
+   "evangelica": "13,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 2404101,
+   "catolica": "72,5",
+   "evangelica": "17,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 2404200,
+   "catolica": "71,7",
+   "evangelica": "20,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 2404309,
+   "catolica": "74,9",
+   "evangelica": "13,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 2404408,
+   "catolica": "61,0",
+   "evangelica": "23,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "15,3"
+ },
+ {
+   "codigo": 2404507,
+   "catolica": "73,8",
+   "evangelica": "18,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 2404606,
+   "catolica": "83,0",
+   "evangelica": "11,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2404705,
+   "catolica": "88,0",
+   "evangelica": "8,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2404804,
+   "catolica": "91,6",
+   "evangelica": "4,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2404853,
+   "catolica": "84,4",
+   "evangelica": "7,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 2404903,
+   "catolica": "79,8",
+   "evangelica": "15,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2405009,
+   "catolica": "83,7",
+   "evangelica": "10,1",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,1",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2405108,
+   "catolica": "78,4",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,3",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 2405207,
+   "catolica": "90,2",
+   "evangelica": "6,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2405306,
+   "catolica": "81,9",
+   "evangelica": "15,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2405405,
+   "catolica": "79,7",
+   "evangelica": "13,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 2405504,
+   "catolica": "85,8",
+   "evangelica": "11,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2405603,
+   "catolica": "91,7",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2405702,
+   "catolica": "91,7",
+   "evangelica": "5,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2405801,
+   "catolica": "83,4",
+   "evangelica": "9,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2405900,
+   "catolica": "85,7",
+   "evangelica": "10,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2406007,
+   "catolica": "87,6",
+   "evangelica": "9,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2406106,
+   "catolica": "91,7",
+   "evangelica": "5,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2406155,
+   "catolica": "84,7",
+   "evangelica": "9,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2406205,
+   "catolica": "81,5",
+   "evangelica": "13,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2406304,
+   "catolica": "86,7",
+   "evangelica": "7,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 2406403,
+   "catolica": "87,7",
+   "evangelica": "8,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2406502,
+   "catolica": "93,4",
+   "evangelica": "5,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2406601,
+   "catolica": "83,7",
+   "evangelica": "9,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2406700,
+   "catolica": "85,9",
+   "evangelica": "9,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2406809,
+   "catolica": "88,2",
+   "evangelica": "10,7",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,1",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2406908,
+   "catolica": "80,7",
+   "evangelica": "10,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 2407005,
+   "catolica": "87,5",
+   "evangelica": "8,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2407104,
+   "catolica": "73,8",
+   "evangelica": "17,6",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 2407203,
+   "catolica": "72,7",
+   "evangelica": "16,1",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 2407252,
+   "catolica": "88,4",
+   "evangelica": "9,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2407302,
+   "catolica": "92,0",
+   "evangelica": "6,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2407401,
+   "catolica": "82,3",
+   "evangelica": "13,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2407500,
+   "catolica": "80,7",
+   "evangelica": "14,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 2407609,
+   "catolica": "88,1",
+   "evangelica": "3,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 2407708,
+   "catolica": "82,4",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 2407807,
+   "catolica": "74,4",
+   "evangelica": "13,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,9",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 2407906,
+   "catolica": "91,8",
+   "evangelica": "5,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2408003,
+   "catolica": "70,7",
+   "evangelica": "18,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 2408102,
+   "catolica": "67,4",
+   "evangelica": "20,9",
+   "espirita": "1,8",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2408201,
+   "catolica": "73,8",
+   "evangelica": "16,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 2408300,
+   "catolica": "83,4",
+   "evangelica": "11,1",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2408409,
+   "catolica": "86,3",
+   "evangelica": "9,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2408508,
+   "catolica": "93,3",
+   "evangelica": "3,0",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2408607,
+   "catolica": "96,6",
+   "evangelica": "3,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "-0,1"
+ },
+ {
+   "codigo": 2408706,
+   "catolica": "73,3",
+   "evangelica": "16,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "9,9"
+ },
+ {
+   "codigo": 2408805,
+   "catolica": "85,2",
+   "evangelica": "11,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2408904,
+   "catolica": "83,6",
+   "evangelica": "10,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 2408953,
+   "catolica": "80,2",
+   "evangelica": "14,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2409100,
+   "catolica": "86,0",
+   "evangelica": "10,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2409209,
+   "catolica": "79,7",
+   "evangelica": "13,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 2409308,
+   "catolica": "86,5",
+   "evangelica": "8,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2409332,
+   "catolica": "85,7",
+   "evangelica": "12,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2409407,
+   "catolica": "84,6",
+   "evangelica": "10,0",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2409506,
+   "catolica": "91,0",
+   "evangelica": "7,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2409605,
+   "catolica": "88,5",
+   "evangelica": "9,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2409704,
+   "catolica": "88,9",
+   "evangelica": "7,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2409803,
+   "catolica": "76,7",
+   "evangelica": "11,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 2409902,
+   "catolica": "85,4",
+   "evangelica": "11,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2410009,
+   "catolica": "85,9",
+   "evangelica": "7,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2410108,
+   "catolica": "88,9",
+   "evangelica": "6,3",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2410207,
+   "catolica": "91,2",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2410256,
+   "catolica": "67,3",
+   "evangelica": "18,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "13,7"
+ },
+ {
+   "codigo": 2410306,
+   "catolica": "86,6",
+   "evangelica": "9,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2410405,
+   "catolica": "82,1",
+   "evangelica": "12,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2410504,
+   "catolica": "91,4",
+   "evangelica": "6,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2410603,
+   "catolica": "86,1",
+   "evangelica": "11,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2410702,
+   "catolica": "89,6",
+   "evangelica": "7,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2410801,
+   "catolica": "90,0",
+   "evangelica": "8,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2410900,
+   "catolica": "83,6",
+   "evangelica": "8,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 2411007,
+   "catolica": "87,4",
+   "evangelica": "5,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2411056,
+   "catolica": "71,0",
+   "evangelica": "21,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 2411106,
+   "catolica": "87,1",
+   "evangelica": "10,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2411205,
+   "catolica": "85,3",
+   "evangelica": "10,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2411403,
+   "catolica": "91,4",
+   "evangelica": "6,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2411429,
+   "catolica": "81,9",
+   "evangelica": "10,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 2411502,
+   "catolica": "79,6",
+   "evangelica": "15,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2411601,
+   "catolica": "87,3",
+   "evangelica": "7,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2411700,
+   "catolica": "82,1",
+   "evangelica": "9,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 2411809,
+   "catolica": "90,5",
+   "evangelica": "2,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2411908,
+   "catolica": "89,2",
+   "evangelica": "7,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2412005,
+   "catolica": "70,4",
+   "evangelica": "20,2",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 2412104,
+   "catolica": "90,0",
+   "evangelica": "9,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2412203,
+   "catolica": "78,5",
+   "evangelica": "13,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 2412302,
+   "catolica": "83,3",
+   "evangelica": "9,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 2412401,
+   "catolica": "93,0",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2412500,
+   "catolica": "93,6",
+   "evangelica": "4,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2412559,
+   "catolica": "86,7",
+   "evangelica": "8,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2412609,
+   "catolica": "82,1",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "7,2",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2412708,
+   "catolica": "85,4",
+   "evangelica": "9,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2412807,
+   "catolica": "88,5",
+   "evangelica": "6,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2412906,
+   "catolica": "94,4",
+   "evangelica": "4,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2413003,
+   "catolica": "93,4",
+   "evangelica": "3,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2413102,
+   "catolica": "84,8",
+   "evangelica": "10,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2413201,
+   "catolica": "83,8",
+   "evangelica": "11,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2413300,
+   "catolica": "92,6",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2413359,
+   "catolica": "68,8",
+   "evangelica": "24,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 2413409,
+   "catolica": "93,6",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2413508,
+   "catolica": "77,4",
+   "evangelica": "17,6",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "0,0",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2413557,
+   "catolica": "75,4",
+   "evangelica": "19,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2413607,
+   "catolica": "92,5",
+   "evangelica": "5,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2413706,
+   "catolica": "94,1",
+   "evangelica": "3,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2413805,
+   "catolica": "81,3",
+   "evangelica": "13,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 2413904,
+   "catolica": "89,0",
+   "evangelica": "6,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2414001,
+   "catolica": "84,5",
+   "evangelica": "11,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2414100,
+   "catolica": "91,7",
+   "evangelica": "6,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2414159,
+   "catolica": "89,2",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2414209,
+   "catolica": "61,4",
+   "evangelica": "13,1",
+   "espirita": "0,6",
+   "umbanda": "0,2",
+   "outras": "0,8",
+   "sem": "23,9"
+ },
+ {
+   "codigo": 2414308,
+   "catolica": "88,0",
+   "evangelica": "8,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2414407,
+   "catolica": "82,9",
+   "evangelica": "11,4",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 2414456,
+   "catolica": "85,1",
+   "evangelica": "11,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2414506,
+   "catolica": "87,7",
+   "evangelica": "9,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2414605,
+   "catolica": "69,1",
+   "evangelica": "19,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 2414704,
+   "catolica": "82,1",
+   "evangelica": "13,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2414753,
+   "catolica": "96,2",
+   "evangelica": "3,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 2414803,
+   "catolica": "85,4",
+   "evangelica": "9,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 2414902,
+   "catolica": "84,5",
+   "evangelica": "8,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 2415008,
+   "catolica": "69,8",
+   "evangelica": "11,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "17,5"
+ },
+ {
+   "codigo": 2500106,
+   "catolica": "96,3",
+   "evangelica": "2,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2500205,
+   "catolica": "89,9",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2500304,
+   "catolica": "88,1",
+   "evangelica": "7,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2500403,
+   "catolica": "87,3",
+   "evangelica": "9,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2500502,
+   "catolica": "84,7",
+   "evangelica": "10,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2500536,
+   "catolica": "91,7",
+   "evangelica": "6,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2500577,
+   "catolica": "87,3",
+   "evangelica": "7,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2500601,
+   "catolica": "65,5",
+   "evangelica": "20,9",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "12,1"
+ },
+ {
+   "codigo": 2500700,
+   "catolica": "88,0",
+   "evangelica": "8,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2500734,
+   "catolica": "92,2",
+   "evangelica": "3,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2500775,
+   "catolica": "89,6",
+   "evangelica": "8,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2500809,
+   "catolica": "90,3",
+   "evangelica": "6,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2500908,
+   "catolica": "90,2",
+   "evangelica": "8,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2501005,
+   "catolica": "84,5",
+   "evangelica": "11,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2501104,
+   "catolica": "82,8",
+   "evangelica": "12,0",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "0,5",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2501153,
+   "catolica": "91,7",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2501203,
+   "catolica": "91,3",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2501302,
+   "catolica": "85,7",
+   "evangelica": "10,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2501351,
+   "catolica": "84,3",
+   "evangelica": "13,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2501401,
+   "catolica": "76,3",
+   "evangelica": "14,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 2501500,
+   "catolica": "89,6",
+   "evangelica": "8,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2501534,
+   "catolica": "85,7",
+   "evangelica": "10,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2501575,
+   "catolica": "87,5",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2501609,
+   "catolica": "90,6",
+   "evangelica": "8,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2501708,
+   "catolica": "92,0",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2501807,
+   "catolica": "55,8",
+   "evangelica": "26,6",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "2,7",
+   "sem": "14,2"
+ },
+ {
+   "codigo": 2501906,
+   "catolica": "85,2",
+   "evangelica": "10,1",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2502003,
+   "catolica": "91,2",
+   "evangelica": "6,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2502052,
+   "catolica": "89,7",
+   "evangelica": "8,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2502102,
+   "catolica": "85,4",
+   "evangelica": "11,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2502151,
+   "catolica": "82,3",
+   "evangelica": "14,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2502201,
+   "catolica": "89,8",
+   "evangelica": "7,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2502300,
+   "catolica": "91,6",
+   "evangelica": "6,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2502409,
+   "catolica": "90,5",
+   "evangelica": "8,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2502508,
+   "catolica": "83,9",
+   "evangelica": "11,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 2502607,
+   "catolica": "90,7",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2502706,
+   "catolica": "88,4",
+   "evangelica": "6,1",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2502805,
+   "catolica": "91,9",
+   "evangelica": "4,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2502904,
+   "catolica": "62,4",
+   "evangelica": "28,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 2503001,
+   "catolica": "46,4",
+   "evangelica": "26,1",
+   "espirita": "0,3",
+   "umbanda": "0,4",
+   "outras": "1,0",
+   "sem": "25,9"
+ },
+ {
+   "codigo": 2503100,
+   "catolica": "74,3",
+   "evangelica": "16,7",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 2503209,
+   "catolica": "63,0",
+   "evangelica": "23,6",
+   "espirita": "0,9",
+   "umbanda": "0,3",
+   "outras": "1,5",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 2503308,
+   "catolica": "93,1",
+   "evangelica": "4,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2503407,
+   "catolica": "93,4",
+   "evangelica": "3,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2503506,
+   "catolica": "90,0",
+   "evangelica": "8,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2503555,
+   "catolica": "93,5",
+   "evangelica": "5,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2503605,
+   "catolica": "83,9",
+   "evangelica": "11,2",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 2503704,
+   "catolica": "87,0",
+   "evangelica": "8,0",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2503753,
+   "catolica": "95,4",
+   "evangelica": "4,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2503803,
+   "catolica": "82,7",
+   "evangelica": "9,0",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 2503902,
+   "catolica": "92,1",
+   "evangelica": "4,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2504009,
+   "catolica": "63,9",
+   "evangelica": "24,7",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2504033,
+   "catolica": "81,9",
+   "evangelica": "9,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 2504074,
+   "catolica": "89,5",
+   "evangelica": "4,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2504108,
+   "catolica": "92,5",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2504157,
+   "catolica": "93,4",
+   "evangelica": "4,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2504207,
+   "catolica": "92,7",
+   "evangelica": "5,1",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2504306,
+   "catolica": "81,9",
+   "evangelica": "12,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2504355,
+   "catolica": "86,8",
+   "evangelica": "9,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2504405,
+   "catolica": "91,5",
+   "evangelica": "6,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2504504,
+   "catolica": "92,3",
+   "evangelica": "4,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2504603,
+   "catolica": "68,4",
+   "evangelica": "21,3",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 2504702,
+   "catolica": "90,0",
+   "evangelica": "8,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2504801,
+   "catolica": "87,6",
+   "evangelica": "9,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2504850,
+   "catolica": "89,7",
+   "evangelica": "9,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 2504900,
+   "catolica": "70,4",
+   "evangelica": "16,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 2505006,
+   "catolica": "86,1",
+   "evangelica": "8,7",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 2505105,
+   "catolica": "87,6",
+   "evangelica": "7,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2505204,
+   "catolica": "84,2",
+   "evangelica": "8,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 2505238,
+   "catolica": "86,9",
+   "evangelica": "4,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 2505279,
+   "catolica": "90,7",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2505303,
+   "catolica": "94,0",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "-0,1"
+ },
+ {
+   "codigo": 2505352,
+   "catolica": "88,5",
+   "evangelica": "9,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2505402,
+   "catolica": "93,7",
+   "evangelica": "5,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2505501,
+   "catolica": "90,9",
+   "evangelica": "5,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2505600,
+   "catolica": "92,3",
+   "evangelica": "7,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2505709,
+   "catolica": "92,8",
+   "evangelica": "5,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2505808,
+   "catolica": "87,5",
+   "evangelica": "5,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2505907,
+   "catolica": "94,8",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 2506004,
+   "catolica": "87,8",
+   "evangelica": "9,5",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2506103,
+   "catolica": "88,0",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2506202,
+   "catolica": "87,1",
+   "evangelica": "7,6",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 2506251,
+   "catolica": "93,3",
+   "evangelica": "3,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2506301,
+   "catolica": "78,8",
+   "evangelica": "14,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2506400,
+   "catolica": "84,7",
+   "evangelica": "9,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2506509,
+   "catolica": "95,3",
+   "evangelica": "4,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 2506608,
+   "catolica": "93,9",
+   "evangelica": "5,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2506707,
+   "catolica": "95,1",
+   "evangelica": "4,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2506806,
+   "catolica": "84,3",
+   "evangelica": "11,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2506905,
+   "catolica": "82,3",
+   "evangelica": "11,9",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 2507002,
+   "catolica": "88,9",
+   "evangelica": "7,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2507101,
+   "catolica": "83,4",
+   "evangelica": "9,6",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2507200,
+   "catolica": "86,9",
+   "evangelica": "9,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2507309,
+   "catolica": "83,4",
+   "evangelica": "11,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2507408,
+   "catolica": "88,8",
+   "evangelica": "5,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2507507,
+   "catolica": "63,3",
+   "evangelica": "24,0",
+   "espirita": "1,7",
+   "umbanda": "0,2",
+   "outras": "2,0",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 2507606,
+   "catolica": "87,5",
+   "evangelica": "9,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2507705,
+   "catolica": "89,5",
+   "evangelica": "7,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2507804,
+   "catolica": "86,4",
+   "evangelica": "7,6",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2507903,
+   "catolica": "84,8",
+   "evangelica": "7,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 2508000,
+   "catolica": "94,2",
+   "evangelica": "4,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2508109,
+   "catolica": "87,0",
+   "evangelica": "9,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2508208,
+   "catolica": "91,0",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2508307,
+   "catolica": "84,9",
+   "evangelica": "12,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2508406,
+   "catolica": "96,4",
+   "evangelica": "3,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2508505,
+   "catolica": "90,8",
+   "evangelica": "8,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2508554,
+   "catolica": "87,5",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2508604,
+   "catolica": "61,7",
+   "evangelica": "24,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 2508703,
+   "catolica": "88,7",
+   "evangelica": "8,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2508802,
+   "catolica": "89,4",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2508901,
+   "catolica": "74,6",
+   "evangelica": "16,5",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 2509008,
+   "catolica": "92,5",
+   "evangelica": "5,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2509057,
+   "catolica": "82,8",
+   "evangelica": "11,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 2509107,
+   "catolica": "84,1",
+   "evangelica": "10,1",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2509156,
+   "catolica": "83,2",
+   "evangelica": "12,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2509206,
+   "catolica": "85,7",
+   "evangelica": "10,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2509305,
+   "catolica": "71,8",
+   "evangelica": "14,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 2509339,
+   "catolica": "93,8",
+   "evangelica": "5,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2509370,
+   "catolica": "92,5",
+   "evangelica": "5,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2509396,
+   "catolica": "91,6",
+   "evangelica": "5,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2509404,
+   "catolica": "82,4",
+   "evangelica": "12,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2509503,
+   "catolica": "91,5",
+   "evangelica": "7,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2509602,
+   "catolica": "94,2",
+   "evangelica": "5,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2509701,
+   "catolica": "85,8",
+   "evangelica": "10,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2509800,
+   "catolica": "91,8",
+   "evangelica": "6,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2509909,
+   "catolica": "90,6",
+   "evangelica": "8,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2510006,
+   "catolica": "95,2",
+   "evangelica": "4,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2510105,
+   "catolica": "80,0",
+   "evangelica": "11,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 2510204,
+   "catolica": "93,3",
+   "evangelica": "5,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2510303,
+   "catolica": "91,5",
+   "evangelica": "4,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2510402,
+   "catolica": "97,6",
+   "evangelica": "2,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 2510501,
+   "catolica": "91,9",
+   "evangelica": "7,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2510600,
+   "catolica": "88,1",
+   "evangelica": "8,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2510659,
+   "catolica": "95,7",
+   "evangelica": "3,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2510709,
+   "catolica": "90,5",
+   "evangelica": "6,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2510808,
+   "catolica": "84,8",
+   "evangelica": "10,5",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2510907,
+   "catolica": "92,6",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2511004,
+   "catolica": "92,4",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2511103,
+   "catolica": "86,8",
+   "evangelica": "6,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2511202,
+   "catolica": "74,3",
+   "evangelica": "15,3",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 2511301,
+   "catolica": "91,4",
+   "evangelica": "6,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2511400,
+   "catolica": "84,9",
+   "evangelica": "9,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2511509,
+   "catolica": "78,0",
+   "evangelica": "15,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2511608,
+   "catolica": "93,9",
+   "evangelica": "4,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2511707,
+   "catolica": "95,4",
+   "evangelica": "2,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2511806,
+   "catolica": "88,2",
+   "evangelica": "7,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2511905,
+   "catolica": "52,4",
+   "evangelica": "21,9",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "5,6",
+   "sem": "19,8"
+ },
+ {
+   "codigo": 2512002,
+   "catolica": "87,5",
+   "evangelica": "8,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2512036,
+   "catolica": "90,0",
+   "evangelica": "8,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2512077,
+   "catolica": "92,3",
+   "evangelica": "6,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 2512101,
+   "catolica": "87,6",
+   "evangelica": "9,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2512200,
+   "catolica": "85,1",
+   "evangelica": "11,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2512309,
+   "catolica": "93,7",
+   "evangelica": "4,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2512408,
+   "catolica": "83,8",
+   "evangelica": "12,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2512507,
+   "catolica": "75,9",
+   "evangelica": "17,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 2512606,
+   "catolica": "91,5",
+   "evangelica": "8,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 2512705,
+   "catolica": "87,3",
+   "evangelica": "8,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2512721,
+   "catolica": "86,0",
+   "evangelica": "9,7",
+   "espirita": "0,0",
+   "umbanda": "0,3",
+   "outras": "0,3",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2512747,
+   "catolica": "96,7",
+   "evangelica": "2,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2512754,
+   "catolica": "82,1",
+   "evangelica": "13,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2512762,
+   "catolica": "87,5",
+   "evangelica": "10,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2512788,
+   "catolica": "89,2",
+   "evangelica": "9,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2512804,
+   "catolica": "83,9",
+   "evangelica": "10,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2512903,
+   "catolica": "76,9",
+   "evangelica": "12,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 2513000,
+   "catolica": "89,5",
+   "evangelica": "8,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2513109,
+   "catolica": "88,3",
+   "evangelica": "8,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2513158,
+   "catolica": "94,3",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 2513208,
+   "catolica": "94,4",
+   "evangelica": "4,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 2513307,
+   "catolica": "92,6",
+   "evangelica": "6,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2513356,
+   "catolica": "95,5",
+   "evangelica": "3,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 2513406,
+   "catolica": "86,2",
+   "evangelica": "7,3",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 2513505,
+   "catolica": "92,0",
+   "evangelica": "6,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2513604,
+   "catolica": "94,0",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 2513653,
+   "catolica": "88,8",
+   "evangelica": "9,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2513703,
+   "catolica": "56,0",
+   "evangelica": "25,8",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "15,2"
+ },
+ {
+   "codigo": 2513802,
+   "catolica": "92,9",
+   "evangelica": "6,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2513851,
+   "catolica": "80,2",
+   "evangelica": "1,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "16,9",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2513901,
+   "catolica": "85,3",
+   "evangelica": "9,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 2513927,
+   "catolica": "90,9",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2513943,
+   "catolica": "90,2",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2513968,
+   "catolica": "88,4",
+   "evangelica": "9,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2513984,
+   "catolica": "95,8",
+   "evangelica": "3,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 2514008,
+   "catolica": "87,7",
+   "evangelica": "10,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2514107,
+   "catolica": "86,6",
+   "evangelica": "3,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "8,5",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2514206,
+   "catolica": "92,7",
+   "evangelica": "6,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 2514305,
+   "catolica": "91,0",
+   "evangelica": "8,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2514404,
+   "catolica": "94,4",
+   "evangelica": "4,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2514453,
+   "catolica": "88,5",
+   "evangelica": "6,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2514503,
+   "catolica": "88,4",
+   "evangelica": "10,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2514552,
+   "catolica": "96,8",
+   "evangelica": "2,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 2514602,
+   "catolica": "91,9",
+   "evangelica": "7,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2514651,
+   "catolica": "92,3",
+   "evangelica": "6,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2514701,
+   "catolica": "89,6",
+   "evangelica": "8,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2514800,
+   "catolica": "90,6",
+   "evangelica": "7,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2514909,
+   "catolica": "88,0",
+   "evangelica": "10,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2515005,
+   "catolica": "75,8",
+   "evangelica": "16,1",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 2515104,
+   "catolica": "88,8",
+   "evangelica": "8,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2515203,
+   "catolica": "93,4",
+   "evangelica": "6,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2515302,
+   "catolica": "79,8",
+   "evangelica": "11,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 2515401,
+   "catolica": "84,5",
+   "evangelica": "9,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 2515500,
+   "catolica": "88,4",
+   "evangelica": "8,6",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2515609,
+   "catolica": "90,8",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2515708,
+   "catolica": "90,0",
+   "evangelica": "8,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2515807,
+   "catolica": "85,4",
+   "evangelica": "8,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 2515906,
+   "catolica": "93,3",
+   "evangelica": "5,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2515930,
+   "catolica": "82,8",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "11,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2515971,
+   "catolica": "82,3",
+   "evangelica": "8,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 2516003,
+   "catolica": "85,4",
+   "evangelica": "11,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2516102,
+   "catolica": "84,9",
+   "evangelica": "10,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2516151,
+   "catolica": "72,3",
+   "evangelica": "16,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 2516201,
+   "catolica": "87,2",
+   "evangelica": "8,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2516300,
+   "catolica": "90,2",
+   "evangelica": "6,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2516409,
+   "catolica": "88,1",
+   "evangelica": "8,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2516508,
+   "catolica": "92,5",
+   "evangelica": "4,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2516607,
+   "catolica": "95,2",
+   "evangelica": "3,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2516706,
+   "catolica": "88,5",
+   "evangelica": "8,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2516755,
+   "catolica": "90,7",
+   "evangelica": "7,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2516805,
+   "catolica": "90,1",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2516904,
+   "catolica": "92,0",
+   "evangelica": "6,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2517001,
+   "catolica": "93,0",
+   "evangelica": "5,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2517100,
+   "catolica": "90,5",
+   "evangelica": "8,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2517209,
+   "catolica": "92,9",
+   "evangelica": "5,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2517407,
+   "catolica": "89,1",
+   "evangelica": "9,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2600054,
+   "catolica": "41,3",
+   "evangelica": "40,5",
+   "espirita": "1,3",
+   "umbanda": "0,2",
+   "outras": "1,6",
+   "sem": "15,2"
+ },
+ {
+   "codigo": 2600104,
+   "catolica": "84,6",
+   "evangelica": "8,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 2600203,
+   "catolica": "90,9",
+   "evangelica": "6,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2600302,
+   "catolica": "79,4",
+   "evangelica": "13,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 2600401,
+   "catolica": "41,1",
+   "evangelica": "37,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "21,2"
+ },
+ {
+   "codigo": 2600500,
+   "catolica": "91,0",
+   "evangelica": "4,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2600609,
+   "catolica": "89,6",
+   "evangelica": "6,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2600708,
+   "catolica": "69,4",
+   "evangelica": "20,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 2600807,
+   "catolica": "90,0",
+   "evangelica": "6,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2600906,
+   "catolica": "61,6",
+   "evangelica": "27,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "11,2"
+ },
+ {
+   "codigo": 2601003,
+   "catolica": "86,7",
+   "evangelica": "10,8",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2601052,
+   "catolica": "48,5",
+   "evangelica": "27,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "22,9"
+ },
+ {
+   "codigo": 2601102,
+   "catolica": "86,0",
+   "evangelica": "7,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2601201,
+   "catolica": "79,7",
+   "evangelica": "12,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2601300,
+   "catolica": "77,1",
+   "evangelica": "17,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2601409,
+   "catolica": "46,4",
+   "evangelica": "36,4",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "16,5"
+ },
+ {
+   "codigo": 2601508,
+   "catolica": "74,5",
+   "evangelica": "16,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 2601607,
+   "catolica": "86,3",
+   "evangelica": "6,9",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2601706,
+   "catolica": "79,7",
+   "evangelica": "13,1",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2601805,
+   "catolica": "86,0",
+   "evangelica": "11,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2601904,
+   "catolica": "84,4",
+   "evangelica": "9,5",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2602001,
+   "catolica": "89,7",
+   "evangelica": "6,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2602100,
+   "catolica": "91,5",
+   "evangelica": "5,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2602209,
+   "catolica": "89,7",
+   "evangelica": "7,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2602308,
+   "catolica": "77,5",
+   "evangelica": "14,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 2602407,
+   "catolica": "89,3",
+   "evangelica": "7,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2602506,
+   "catolica": "92,5",
+   "evangelica": "4,9",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2602605,
+   "catolica": "79,0",
+   "evangelica": "11,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 2602704,
+   "catolica": "84,2",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2602803,
+   "catolica": "86,6",
+   "evangelica": "8,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2602902,
+   "catolica": "37,6",
+   "evangelica": "36,9",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "22,7"
+ },
+ {
+   "codigo": 2603009,
+   "catolica": "80,0",
+   "evangelica": "15,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2603108,
+   "catolica": "90,9",
+   "evangelica": "5,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2603207,
+   "catolica": "92,3",
+   "evangelica": "5,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2603306,
+   "catolica": "95,3",
+   "evangelica": "3,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2603405,
+   "catolica": "87,2",
+   "evangelica": "9,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2603454,
+   "catolica": "49,7",
+   "evangelica": "31,2",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "15,3"
+ },
+ {
+   "codigo": 2603504,
+   "catolica": "84,2",
+   "evangelica": "10,0",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2603603,
+   "catolica": "70,4",
+   "evangelica": "17,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 2603702,
+   "catolica": "82,9",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 2603801,
+   "catolica": "95,2",
+   "evangelica": "3,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2603900,
+   "catolica": "90,9",
+   "evangelica": "5,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2603926,
+   "catolica": "84,8",
+   "evangelica": "3,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 2604007,
+   "catolica": "62,9",
+   "evangelica": "25,3",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "3,8",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 2604106,
+   "catolica": "66,4",
+   "evangelica": "21,7",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 2604155,
+   "catolica": "92,4",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2604205,
+   "catolica": "62,9",
+   "evangelica": "21,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "13,9"
+ },
+ {
+   "codigo": 2604304,
+   "catolica": "94,0",
+   "evangelica": "4,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2604403,
+   "catolica": "75,3",
+   "evangelica": "15,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 2604502,
+   "catolica": "79,6",
+   "evangelica": "13,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 2604601,
+   "catolica": "73,5",
+   "evangelica": "16,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 2604700,
+   "catolica": "92,3",
+   "evangelica": "5,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2604809,
+   "catolica": "54,4",
+   "evangelica": "26,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "18,9"
+ },
+ {
+   "codigo": 2604908,
+   "catolica": "91,0",
+   "evangelica": "5,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2605004,
+   "catolica": "74,3",
+   "evangelica": "19,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 2605103,
+   "catolica": "88,8",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2605152,
+   "catolica": "86,9",
+   "evangelica": "10,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2605202,
+   "catolica": "47,7",
+   "evangelica": "29,9",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "21,2"
+ },
+ {
+   "codigo": 2605301,
+   "catolica": "92,3",
+   "evangelica": "5,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2605400,
+   "catolica": "69,7",
+   "evangelica": "19,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 2605459,
+   "catolica": "45,7",
+   "evangelica": "37,8",
+   "espirita": "3,7",
+   "umbanda": "0,2",
+   "outras": "0,4",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 2605509,
+   "catolica": "86,3",
+   "evangelica": "10,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2605608,
+   "catolica": "86,1",
+   "evangelica": "9,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2605707,
+   "catolica": "86,4",
+   "evangelica": "6,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2605806,
+   "catolica": "92,3",
+   "evangelica": "6,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2605905,
+   "catolica": "50,9",
+   "evangelica": "30,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "17,6"
+ },
+ {
+   "codigo": 2606002,
+   "catolica": "76,8",
+   "evangelica": "16,4",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 2606101,
+   "catolica": "81,8",
+   "evangelica": "11,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2606200,
+   "catolica": "55,0",
+   "evangelica": "29,5",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "0,9",
+   "sem": "13,3"
+ },
+ {
+   "codigo": 2606309,
+   "catolica": "94,1",
+   "evangelica": "4,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2606408,
+   "catolica": "80,6",
+   "evangelica": "12,5",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2606507,
+   "catolica": "92,1",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2606606,
+   "catolica": "89,1",
+   "evangelica": "5,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2606705,
+   "catolica": "91,1",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2606804,
+   "catolica": "48,3",
+   "evangelica": "35,2",
+   "espirita": "0,6",
+   "umbanda": "0,2",
+   "outras": "2,5",
+   "sem": "13,2"
+ },
+ {
+   "codigo": 2606903,
+   "catolica": "91,6",
+   "evangelica": "6,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2607000,
+   "catolica": "87,4",
+   "evangelica": "3,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 2607109,
+   "catolica": "91,9",
+   "evangelica": "6,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2607208,
+   "catolica": "41,0",
+   "evangelica": "35,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "22,0"
+ },
+ {
+   "codigo": 2607307,
+   "catolica": "87,2",
+   "evangelica": "4,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,5",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2607406,
+   "catolica": "87,5",
+   "evangelica": "7,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2607505,
+   "catolica": "91,3",
+   "evangelica": "3,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2607604,
+   "catolica": "56,5",
+   "evangelica": "23,0",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "1,1",
+   "sem": "18,1"
+ },
+ {
+   "codigo": 2607653,
+   "catolica": "78,0",
+   "evangelica": "12,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 2607703,
+   "catolica": "88,6",
+   "evangelica": "7,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2607752,
+   "catolica": "43,8",
+   "evangelica": "29,2",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "24,0"
+ },
+ {
+   "codigo": 2607802,
+   "catolica": "60,0",
+   "evangelica": "29,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "9,9"
+ },
+ {
+   "codigo": 2607901,
+   "catolica": "47,3",
+   "evangelica": "31,4",
+   "espirita": "2,3",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "16,9"
+ },
+ {
+   "codigo": 2607950,
+   "catolica": "70,3",
+   "evangelica": "13,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "15,9"
+ },
+ {
+   "codigo": 2608008,
+   "catolica": "88,0",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2608057,
+   "catolica": "83,5",
+   "evangelica": "11,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2608107,
+   "catolica": "94,2",
+   "evangelica": "3,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2608206,
+   "catolica": "52,5",
+   "evangelica": "28,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "17,9"
+ },
+ {
+   "codigo": 2608255,
+   "catolica": "89,1",
+   "evangelica": "10,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2608305,
+   "catolica": "87,5",
+   "evangelica": "8,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2608404,
+   "catolica": "86,4",
+   "evangelica": "8,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,2",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2608453,
+   "catolica": "77,0",
+   "evangelica": "17,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2608503,
+   "catolica": "77,2",
+   "evangelica": "13,8",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "0,8",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 2608602,
+   "catolica": "87,0",
+   "evangelica": "8,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2608701,
+   "catolica": "85,4",
+   "evangelica": "10,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2608750,
+   "catolica": "82,6",
+   "evangelica": "13,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2608800,
+   "catolica": "85,1",
+   "evangelica": "11,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2608909,
+   "catolica": "80,6",
+   "evangelica": "10,6",
+   "espirita": "1,6",
+   "umbanda": "0,2",
+   "outras": "1,8",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2609006,
+   "catolica": "77,1",
+   "evangelica": "13,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 2609105,
+   "catolica": "87,7",
+   "evangelica": "7,6",
+   "espirita": "0,0",
+   "umbanda": "0,3",
+   "outras": "0,7",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2609154,
+   "catolica": "87,7",
+   "evangelica": "3,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2609204,
+   "catolica": "61,7",
+   "evangelica": "18,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "20,0"
+ },
+ {
+   "codigo": 2609303,
+   "catolica": "88,6",
+   "evangelica": "6,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2609402,
+   "catolica": "45,0",
+   "evangelica": "36,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "17,2"
+ },
+ {
+   "codigo": 2609501,
+   "catolica": "70,0",
+   "evangelica": "21,7",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 2609600,
+   "catolica": "52,2",
+   "evangelica": "25,1",
+   "espirita": "4,2",
+   "umbanda": "0,5",
+   "outras": "1,8",
+   "sem": "16,2"
+ },
+ {
+   "codigo": 2609709,
+   "catolica": "91,2",
+   "evangelica": "7,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2609808,
+   "catolica": "85,6",
+   "evangelica": "9,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 2609907,
+   "catolica": "86,4",
+   "evangelica": "8,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2610004,
+   "catolica": "59,0",
+   "evangelica": "26,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "13,2"
+ },
+ {
+   "codigo": 2610103,
+   "catolica": "90,6",
+   "evangelica": "7,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2610202,
+   "catolica": "89,6",
+   "evangelica": "6,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2610301,
+   "catolica": "87,4",
+   "evangelica": "10,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2610400,
+   "catolica": "85,4",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2610509,
+   "catolica": "82,3",
+   "evangelica": "11,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2610608,
+   "catolica": "60,3",
+   "evangelica": "25,1",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 2610707,
+   "catolica": "49,0",
+   "evangelica": "30,2",
+   "espirita": "3,2",
+   "umbanda": "0,3",
+   "outras": "2,1",
+   "sem": "15,2"
+ },
+ {
+   "codigo": 2610806,
+   "catolica": "89,1",
+   "evangelica": "6,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2610905,
+   "catolica": "86,1",
+   "evangelica": "8,5",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2611002,
+   "catolica": "79,2",
+   "evangelica": "10,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 2611101,
+   "catolica": "73,1",
+   "evangelica": "15,9",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 2611200,
+   "catolica": "92,8",
+   "evangelica": "4,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2611309,
+   "catolica": "69,2",
+   "evangelica": "18,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 2611408,
+   "catolica": "59,9",
+   "evangelica": "26,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 2611507,
+   "catolica": "87,9",
+   "evangelica": "8,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2611533,
+   "catolica": "87,6",
+   "evangelica": "8,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2611606,
+   "catolica": "54,3",
+   "evangelica": "25,0",
+   "espirita": "3,6",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "15,0"
+ },
+ {
+   "codigo": 2611705,
+   "catolica": "85,5",
+   "evangelica": "8,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2611804,
+   "catolica": "45,8",
+   "evangelica": "35,0",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "17,5"
+ },
+ {
+   "codigo": 2611903,
+   "catolica": "34,1",
+   "evangelica": "35,9",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "29,1"
+ },
+ {
+   "codigo": 2612000,
+   "catolica": "90,5",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2612109,
+   "catolica": "85,4",
+   "evangelica": "8,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2612208,
+   "catolica": "84,4",
+   "evangelica": "9,5",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2612307,
+   "catolica": "85,8",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2612406,
+   "catolica": "90,3",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2612455,
+   "catolica": "91,8",
+   "evangelica": "6,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2612471,
+   "catolica": "92,0",
+   "evangelica": "6,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2612505,
+   "catolica": "67,9",
+   "evangelica": "19,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 2612554,
+   "catolica": "89,9",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2612604,
+   "catolica": "83,9",
+   "evangelica": "13,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2612703,
+   "catolica": "89,3",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2612802,
+   "catolica": "84,8",
+   "evangelica": "12,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2612901,
+   "catolica": "76,8",
+   "evangelica": "12,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 2613008,
+   "catolica": "90,0",
+   "evangelica": "6,3",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2613107,
+   "catolica": "84,3",
+   "evangelica": "9,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 2613206,
+   "catolica": "90,4",
+   "evangelica": "8,4",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 2613305,
+   "catolica": "86,4",
+   "evangelica": "8,5",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "1,0",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2613404,
+   "catolica": "42,8",
+   "evangelica": "36,6",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "19,5"
+ },
+ {
+   "codigo": 2613503,
+   "catolica": "89,0",
+   "evangelica": "7,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2613602,
+   "catolica": "91,3",
+   "evangelica": "4,2",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2613701,
+   "catolica": "49,8",
+   "evangelica": "30,4",
+   "espirita": "1,5",
+   "umbanda": "0,3",
+   "outras": "1,0",
+   "sem": "17,0"
+ },
+ {
+   "codigo": 2613800,
+   "catolica": "82,8",
+   "evangelica": "11,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2613909,
+   "catolica": "80,1",
+   "evangelica": "11,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2614006,
+   "catolica": "94,8",
+   "evangelica": "4,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2614105,
+   "catolica": "86,3",
+   "evangelica": "7,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 2614204,
+   "catolica": "33,2",
+   "evangelica": "38,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "26,6"
+ },
+ {
+   "codigo": 2614303,
+   "catolica": "91,6",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2614402,
+   "catolica": "95,2",
+   "evangelica": "4,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 2614501,
+   "catolica": "84,9",
+   "evangelica": "10,6",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2614600,
+   "catolica": "93,8",
+   "evangelica": "4,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2614709,
+   "catolica": "85,2",
+   "evangelica": "7,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 2614808,
+   "catolica": "88,6",
+   "evangelica": "8,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2614857,
+   "catolica": "40,5",
+   "evangelica": "37,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "20,5"
+ },
+ {
+   "codigo": 2615003,
+   "catolica": "84,0",
+   "evangelica": "8,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2615102,
+   "catolica": "90,2",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2615201,
+   "catolica": "92,2",
+   "evangelica": "4,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2615300,
+   "catolica": "79,8",
+   "evangelica": "14,4",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2615409,
+   "catolica": "68,0",
+   "evangelica": "19,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 2615508,
+   "catolica": "58,0",
+   "evangelica": "22,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "18,9"
+ },
+ {
+   "codigo": 2615607,
+   "catolica": "88,0",
+   "evangelica": "6,8",
+   "espirita": "0,2",
+   "umbanda": "0,8",
+   "outras": "1,5",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2615706,
+   "catolica": "87,8",
+   "evangelica": "5,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "5,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2615805,
+   "catolica": "93,8",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2615904,
+   "catolica": "81,3",
+   "evangelica": "12,3",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2616001,
+   "catolica": "79,6",
+   "evangelica": "13,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2616100,
+   "catolica": "89,5",
+   "evangelica": "7,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2616183,
+   "catolica": "91,9",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2616209,
+   "catolica": "88,7",
+   "evangelica": "7,8",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2616308,
+   "catolica": "67,5",
+   "evangelica": "21,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 2616407,
+   "catolica": "63,3",
+   "evangelica": "22,7",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 2616506,
+   "catolica": "50,1",
+   "evangelica": "27,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "21,8"
+ },
+ {
+   "codigo": 2700102,
+   "catolica": "94,7",
+   "evangelica": "3,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2700201,
+   "catolica": "87,0",
+   "evangelica": "6,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2700300,
+   "catolica": "77,1",
+   "evangelica": "14,7",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 2700409,
+   "catolica": "70,0",
+   "evangelica": "12,2",
+   "espirita": "0,2",
+   "umbanda": "0,3",
+   "outras": "0,9",
+   "sem": "16,4"
+ },
+ {
+   "codigo": 2700508,
+   "catolica": "44,2",
+   "evangelica": "19,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "35,6"
+ },
+ {
+   "codigo": 2700607,
+   "catolica": "63,9",
+   "evangelica": "16,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "17,7"
+ },
+ {
+   "codigo": 2700706,
+   "catolica": "80,2",
+   "evangelica": "9,8",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 2700805,
+   "catolica": "83,3",
+   "evangelica": "10,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2700904,
+   "catolica": "91,8",
+   "evangelica": "4,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2701001,
+   "catolica": "75,9",
+   "evangelica": "16,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2701100,
+   "catolica": "74,1",
+   "evangelica": "10,9",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 2701209,
+   "catolica": "87,9",
+   "evangelica": "6,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 2701308,
+   "catolica": "81,5",
+   "evangelica": "10,4",
+   "espirita": "0,2",
+   "umbanda": "0,3",
+   "outras": "0,3",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 2701357,
+   "catolica": "40,3",
+   "evangelica": "30,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "28,8"
+ },
+ {
+   "codigo": 2701407,
+   "catolica": "64,3",
+   "evangelica": "16,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "17,1"
+ },
+ {
+   "codigo": 2701506,
+   "catolica": "80,4",
+   "evangelica": "12,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 2701605,
+   "catolica": "87,1",
+   "evangelica": "5,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,1",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2701704,
+   "catolica": "77,4",
+   "evangelica": "11,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 2701803,
+   "catolica": "90,7",
+   "evangelica": "4,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 2701902,
+   "catolica": "81,5",
+   "evangelica": "8,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 2702009,
+   "catolica": "91,2",
+   "evangelica": "4,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2702108,
+   "catolica": "75,4",
+   "evangelica": "10,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 2702207,
+   "catolica": "71,1",
+   "evangelica": "11,0",
+   "espirita": "0,6",
+   "umbanda": "0,5",
+   "outras": "1,0",
+   "sem": "15,8"
+ },
+ {
+   "codigo": 2702306,
+   "catolica": "64,8",
+   "evangelica": "16,4",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "2,4",
+   "sem": "16,1"
+ },
+ {
+   "codigo": 2702355,
+   "catolica": "90,1",
+   "evangelica": "4,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2702405,
+   "catolica": "81,4",
+   "evangelica": "11,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2702504,
+   "catolica": "91,4",
+   "evangelica": "4,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2702553,
+   "catolica": "92,5",
+   "evangelica": "4,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2702603,
+   "catolica": "93,8",
+   "evangelica": "3,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2702702,
+   "catolica": "81,2",
+   "evangelica": "7,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 2702801,
+   "catolica": "69,4",
+   "evangelica": "18,4",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 2702900,
+   "catolica": "91,7",
+   "evangelica": "5,5",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,1",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2703007,
+   "catolica": "74,9",
+   "evangelica": "14,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 2703106,
+   "catolica": "91,8",
+   "evangelica": "4,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2703205,
+   "catolica": "89,9",
+   "evangelica": "5,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2703304,
+   "catolica": "92,3",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2703403,
+   "catolica": "92,3",
+   "evangelica": "6,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2703502,
+   "catolica": "61,1",
+   "evangelica": "24,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "14,8"
+ },
+ {
+   "codigo": 2703601,
+   "catolica": "54,1",
+   "evangelica": "27,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "17,8"
+ },
+ {
+   "codigo": 2703700,
+   "catolica": "85,5",
+   "evangelica": "8,2",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2703759,
+   "catolica": "67,3",
+   "evangelica": "19,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "12,7"
+ },
+ {
+   "codigo": 2703809,
+   "catolica": "67,3",
+   "evangelica": "16,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "15,3"
+ },
+ {
+   "codigo": 2703908,
+   "catolica": "64,2",
+   "evangelica": "23,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 2704005,
+   "catolica": "80,0",
+   "evangelica": "8,6",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "10,0"
+ },
+ {
+   "codigo": 2704104,
+   "catolica": "88,0",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 2704203,
+   "catolica": "84,5",
+   "evangelica": "8,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2704302,
+   "catolica": "62,0",
+   "evangelica": "23,7",
+   "espirita": "1,4",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 2704401,
+   "catolica": "87,8",
+   "evangelica": "5,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2704500,
+   "catolica": "42,6",
+   "evangelica": "32,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "24,0"
+ },
+ {
+   "codigo": 2704609,
+   "catolica": "84,9",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2704708,
+   "catolica": "71,5",
+   "evangelica": "15,9",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 2704807,
+   "catolica": "88,2",
+   "evangelica": "6,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2704906,
+   "catolica": "93,1",
+   "evangelica": "3,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2705002,
+   "catolica": "93,0",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2705101,
+   "catolica": "43,7",
+   "evangelica": "28,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "27,0"
+ },
+ {
+   "codigo": 2705200,
+   "catolica": "61,2",
+   "evangelica": "20,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "17,9"
+ },
+ {
+   "codigo": 2705309,
+   "catolica": "89,4",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2705408,
+   "catolica": "92,6",
+   "evangelica": "1,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2705507,
+   "catolica": "72,2",
+   "evangelica": "12,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "14,4"
+ },
+ {
+   "codigo": 2705606,
+   "catolica": "61,8",
+   "evangelica": "22,8",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,1",
+   "sem": "15,1"
+ },
+ {
+   "codigo": 2705705,
+   "catolica": "89,6",
+   "evangelica": "6,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2705804,
+   "catolica": "92,7",
+   "evangelica": "3,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2705903,
+   "catolica": "89,3",
+   "evangelica": "4,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 2706000,
+   "catolica": "94,6",
+   "evangelica": "4,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2706109,
+   "catolica": "84,8",
+   "evangelica": "9,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2706208,
+   "catolica": "90,3",
+   "evangelica": "5,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2706307,
+   "catolica": "85,4",
+   "evangelica": "9,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2706406,
+   "catolica": "87,0",
+   "evangelica": "6,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2706422,
+   "catolica": "93,7",
+   "evangelica": "3,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2706448,
+   "catolica": "51,5",
+   "evangelica": "23,6",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "7,1",
+   "sem": "17,2"
+ },
+ {
+   "codigo": 2706505,
+   "catolica": "51,8",
+   "evangelica": "23,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "24,2"
+ },
+ {
+   "codigo": 2706604,
+   "catolica": "92,6",
+   "evangelica": "3,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2706703,
+   "catolica": "78,7",
+   "evangelica": "11,9",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 2706802,
+   "catolica": "77,9",
+   "evangelica": "6,6",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "14,8"
+ },
+ {
+   "codigo": 2706901,
+   "catolica": "69,8",
+   "evangelica": "13,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "15,3"
+ },
+ {
+   "codigo": 2707008,
+   "catolica": "86,5",
+   "evangelica": "4,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 2707107,
+   "catolica": "89,1",
+   "evangelica": "5,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2707206,
+   "catolica": "92,4",
+   "evangelica": "5,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2707305,
+   "catolica": "53,8",
+   "evangelica": "29,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "16,2"
+ },
+ {
+   "codigo": 2707404,
+   "catolica": "53,7",
+   "evangelica": "19,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "25,4"
+ },
+ {
+   "codigo": 2707503,
+   "catolica": "85,6",
+   "evangelica": "4,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 2707602,
+   "catolica": "89,4",
+   "evangelica": "6,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2707701,
+   "catolica": "59,2",
+   "evangelica": "26,4",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "2,0",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 2707800,
+   "catolica": "37,4",
+   "evangelica": "23,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "38,5"
+ },
+ {
+   "codigo": 2707909,
+   "catolica": "64,5",
+   "evangelica": "19,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "14,7"
+ },
+ {
+   "codigo": 2708006,
+   "catolica": "92,7",
+   "evangelica": "4,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2708105,
+   "catolica": "91,0",
+   "evangelica": "4,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2708204,
+   "catolica": "78,0",
+   "evangelica": "11,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "10,4"
+ },
+ {
+   "codigo": 2708303,
+   "catolica": "74,9",
+   "evangelica": "13,1",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 2708402,
+   "catolica": "91,8",
+   "evangelica": "3,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 2708501,
+   "catolica": "55,3",
+   "evangelica": "24,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "20,0"
+ },
+ {
+   "codigo": 2708600,
+   "catolica": "56,3",
+   "evangelica": "24,1",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "17,6"
+ },
+ {
+   "codigo": 2708709,
+   "catolica": "60,2",
+   "evangelica": "24,7",
+   "espirita": "0,0",
+   "umbanda": "0,3",
+   "outras": "0,9",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 2708808,
+   "catolica": "86,0",
+   "evangelica": "7,1",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "0,4",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2708907,
+   "catolica": "55,7",
+   "evangelica": "26,6",
+   "espirita": "0,0",
+   "umbanda": "0,4",
+   "outras": "1,1",
+   "sem": "16,2"
+ },
+ {
+   "codigo": 2708956,
+   "catolica": "93,9",
+   "evangelica": "2,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2709004,
+   "catolica": "87,7",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2709103,
+   "catolica": "86,8",
+   "evangelica": "8,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2709152,
+   "catolica": "67,0",
+   "evangelica": "17,1",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "1,7",
+   "sem": "13,5"
+ },
+ {
+   "codigo": 2709202,
+   "catolica": "91,2",
+   "evangelica": "3,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 2709301,
+   "catolica": "76,0",
+   "evangelica": "14,3",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 2709400,
+   "catolica": "83,6",
+   "evangelica": "7,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 2800100,
+   "catolica": "81,1",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 2800209,
+   "catolica": "81,6",
+   "evangelica": "8,2",
+   "espirita": "0,3",
+   "umbanda": "0,2",
+   "outras": "1,1",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 2800308,
+   "catolica": "70,9",
+   "evangelica": "15,2",
+   "espirita": "2,7",
+   "umbanda": "0,4",
+   "outras": "1,9",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 2800407,
+   "catolica": "80,9",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "7,8",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 2800506,
+   "catolica": "71,1",
+   "evangelica": "6,8",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "20,1"
+ },
+ {
+   "codigo": 2800605,
+   "catolica": "70,9",
+   "evangelica": "13,7",
+   "espirita": "1,4",
+   "umbanda": "0,5",
+   "outras": "1,9",
+   "sem": "11,6"
+ },
+ {
+   "codigo": 2800670,
+   "catolica": "80,0",
+   "evangelica": "11,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2800704,
+   "catolica": "83,9",
+   "evangelica": "5,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 2801009,
+   "catolica": "83,9",
+   "evangelica": "7,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 2801108,
+   "catolica": "88,9",
+   "evangelica": "4,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 2801207,
+   "catolica": "82,9",
+   "evangelica": "13,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2801306,
+   "catolica": "79,3",
+   "evangelica": "7,8",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "0,3",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 2801405,
+   "catolica": "85,7",
+   "evangelica": "8,5",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2801504,
+   "catolica": "74,8",
+   "evangelica": "9,5",
+   "espirita": "1,4",
+   "umbanda": "0,2",
+   "outras": "1,6",
+   "sem": "12,6"
+ },
+ {
+   "codigo": 2801603,
+   "catolica": "73,8",
+   "evangelica": "15,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 2801702,
+   "catolica": "78,9",
+   "evangelica": "8,9",
+   "espirita": "0,5",
+   "umbanda": "0,6",
+   "outras": "0,7",
+   "sem": "10,4"
+ },
+ {
+   "codigo": 2801900,
+   "catolica": "75,9",
+   "evangelica": "12,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "11,2"
+ },
+ {
+   "codigo": 2802007,
+   "catolica": "78,1",
+   "evangelica": "8,8",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "0,4",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 2802106,
+   "catolica": "75,7",
+   "evangelica": "12,9",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 2802205,
+   "catolica": "68,4",
+   "evangelica": "8,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "22,9"
+ },
+ {
+   "codigo": 2802304,
+   "catolica": "87,5",
+   "evangelica": "7,6",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2802403,
+   "catolica": "88,3",
+   "evangelica": "4,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 2802502,
+   "catolica": "76,2",
+   "evangelica": "9,5",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "12,7"
+ },
+ {
+   "codigo": 2802601,
+   "catolica": "86,2",
+   "evangelica": "9,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2802700,
+   "catolica": "75,3",
+   "evangelica": "7,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "17,2"
+ },
+ {
+   "codigo": 2802809,
+   "catolica": "77,4",
+   "evangelica": "13,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2802908,
+   "catolica": "85,2",
+   "evangelica": "5,5",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 2803005,
+   "catolica": "81,0",
+   "evangelica": "7,8",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 2803104,
+   "catolica": "90,7",
+   "evangelica": "3,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2803203,
+   "catolica": "73,0",
+   "evangelica": "12,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "11,5"
+ },
+ {
+   "codigo": 2803302,
+   "catolica": "80,3",
+   "evangelica": "9,0",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 2803401,
+   "catolica": "74,7",
+   "evangelica": "11,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 2803500,
+   "catolica": "82,9",
+   "evangelica": "10,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2803609,
+   "catolica": "69,4",
+   "evangelica": "13,3",
+   "espirita": "0,7",
+   "umbanda": "0,4",
+   "outras": "0,9",
+   "sem": "15,3"
+ },
+ {
+   "codigo": 2803708,
+   "catolica": "91,3",
+   "evangelica": "4,1",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "0,4",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2803807,
+   "catolica": "77,3",
+   "evangelica": "12,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2803906,
+   "catolica": "75,7",
+   "evangelica": "11,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 2804003,
+   "catolica": "63,2",
+   "evangelica": "11,8",
+   "espirita": "0,3",
+   "umbanda": "0,2",
+   "outras": "2,0",
+   "sem": "22,5"
+ },
+ {
+   "codigo": 2804102,
+   "catolica": "87,3",
+   "evangelica": "3,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 2804201,
+   "catolica": "75,9",
+   "evangelica": "10,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 2804300,
+   "catolica": "74,2",
+   "evangelica": "13,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "11,5"
+ },
+ {
+   "codigo": 2804409,
+   "catolica": "76,8",
+   "evangelica": "11,2",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 2804458,
+   "catolica": "87,5",
+   "evangelica": "7,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2804508,
+   "catolica": "84,0",
+   "evangelica": "7,9",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2804607,
+   "catolica": "75,4",
+   "evangelica": "7,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "14,4"
+ },
+ {
+   "codigo": 2804706,
+   "catolica": "81,6",
+   "evangelica": "6,8",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 2804805,
+   "catolica": "67,0",
+   "evangelica": "18,2",
+   "espirita": "0,8",
+   "umbanda": "0,4",
+   "outras": "1,8",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 2804904,
+   "catolica": "82,4",
+   "evangelica": "10,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 2805000,
+   "catolica": "84,5",
+   "evangelica": "4,2",
+   "espirita": "0,3",
+   "umbanda": "0,3",
+   "outras": "1,3",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 2805109,
+   "catolica": "81,4",
+   "evangelica": "8,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 2805208,
+   "catolica": "84,7",
+   "evangelica": "7,3",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 2805307,
+   "catolica": "74,8",
+   "evangelica": "16,7",
+   "espirita": "0,2",
+   "umbanda": "0,6",
+   "outras": "1,4",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2805406,
+   "catolica": "88,3",
+   "evangelica": "6,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2805505,
+   "catolica": "89,2",
+   "evangelica": "5,1",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2805604,
+   "catolica": "92,4",
+   "evangelica": "2,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2805703,
+   "catolica": "77,0",
+   "evangelica": "11,7",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 2805802,
+   "catolica": "91,1",
+   "evangelica": "4,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2805901,
+   "catolica": "78,7",
+   "evangelica": "8,0",
+   "espirita": "0,2",
+   "umbanda": "1,0",
+   "outras": "0,2",
+   "sem": "11,9"
+ },
+ {
+   "codigo": 2806008,
+   "catolica": "92,5",
+   "evangelica": "3,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2806107,
+   "catolica": "79,0",
+   "evangelica": "13,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 2806206,
+   "catolica": "84,5",
+   "evangelica": "8,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 2806305,
+   "catolica": "71,1",
+   "evangelica": "9,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "18,5"
+ },
+ {
+   "codigo": 2806404,
+   "catolica": "69,6",
+   "evangelica": "13,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "16,7"
+ },
+ {
+   "codigo": 2806503,
+   "catolica": "77,0",
+   "evangelica": "7,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "15,1"
+ },
+ {
+   "codigo": 2806602,
+   "catolica": "70,3",
+   "evangelica": "10,9",
+   "espirita": "0,9",
+   "umbanda": "0,4",
+   "outras": "1,2",
+   "sem": "16,3"
+ },
+ {
+   "codigo": 2806701,
+   "catolica": "67,1",
+   "evangelica": "17,7",
+   "espirita": "0,8",
+   "umbanda": "0,4",
+   "outras": "2,3",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 2806800,
+   "catolica": "86,8",
+   "evangelica": "4,7",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 2806909,
+   "catolica": "78,0",
+   "evangelica": "9,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 2807006,
+   "catolica": "86,1",
+   "evangelica": "4,6",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "0,0",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 2807105,
+   "catolica": "85,1",
+   "evangelica": "7,6",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2807204,
+   "catolica": "85,9",
+   "evangelica": "7,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 2807303,
+   "catolica": "81,8",
+   "evangelica": "7,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 2807402,
+   "catolica": "82,0",
+   "evangelica": "9,5",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 2807501,
+   "catolica": "78,8",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "2,5",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 2807600,
+   "catolica": "73,9",
+   "evangelica": "11,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 2900108,
+   "catolica": "82,6",
+   "evangelica": "11,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2900207,
+   "catolica": "86,4",
+   "evangelica": "11,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2900306,
+   "catolica": "78,4",
+   "evangelica": "10,5",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 2900355,
+   "catolica": "89,8",
+   "evangelica": "3,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2900405,
+   "catolica": "67,5",
+   "evangelica": "14,1",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "2,5",
+   "sem": "15,5"
+ },
+ {
+   "codigo": 2900504,
+   "catolica": "87,8",
+   "evangelica": "10,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2900603,
+   "catolica": "60,8",
+   "evangelica": "21,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "15,9"
+ },
+ {
+   "codigo": 2900702,
+   "catolica": "52,9",
+   "evangelica": "22,0",
+   "espirita": "1,7",
+   "umbanda": "0,3",
+   "outras": "4,8",
+   "sem": "18,3"
+ },
+ {
+   "codigo": 2900801,
+   "catolica": "61,9",
+   "evangelica": "23,3",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "13,1"
+ },
+ {
+   "codigo": 2900900,
+   "catolica": "71,3",
+   "evangelica": "14,7",
+   "espirita": "0,1",
+   "umbanda": "0,6",
+   "outras": "0,9",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 2901007,
+   "catolica": "72,4",
+   "evangelica": "17,9",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 2901106,
+   "catolica": "61,0",
+   "evangelica": "21,2",
+   "espirita": "0,4",
+   "umbanda": "0,4",
+   "outras": "3,5",
+   "sem": "13,5"
+ },
+ {
+   "codigo": 2901155,
+   "catolica": "82,1",
+   "evangelica": "12,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2901205,
+   "catolica": "88,5",
+   "evangelica": "7,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2901304,
+   "catolica": "81,2",
+   "evangelica": "11,9",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "1,1",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 2901353,
+   "catolica": "84,7",
+   "evangelica": "5,4",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "0,9",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 2901403,
+   "catolica": "90,7",
+   "evangelica": "8,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2901502,
+   "catolica": "83,0",
+   "evangelica": "11,5",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2901601,
+   "catolica": "85,9",
+   "evangelica": "6,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 2901700,
+   "catolica": "88,7",
+   "evangelica": "6,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2901809,
+   "catolica": "79,4",
+   "evangelica": "13,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2901908,
+   "catolica": "82,9",
+   "evangelica": "7,8",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "1,0",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 2901957,
+   "catolica": "62,6",
+   "evangelica": "22,6",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "14,2"
+ },
+ {
+   "codigo": 2902005,
+   "catolica": "86,9",
+   "evangelica": "6,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2902054,
+   "catolica": "78,5",
+   "evangelica": "9,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 2902104,
+   "catolica": "76,5",
+   "evangelica": "8,4",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "14,4"
+ },
+ {
+   "codigo": 2902203,
+   "catolica": "71,8",
+   "evangelica": "11,5",
+   "espirita": "0,6",
+   "umbanda": "1,3",
+   "outras": "2,5",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 2902252,
+   "catolica": "50,1",
+   "evangelica": "15,1",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "6,4",
+   "sem": "28,1"
+ },
+ {
+   "codigo": 2902302,
+   "catolica": "55,8",
+   "evangelica": "18,0",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "21,5"
+ },
+ {
+   "codigo": 2902401,
+   "catolica": "57,7",
+   "evangelica": "21,2",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "0,9",
+   "sem": "19,9"
+ },
+ {
+   "codigo": 2902500,
+   "catolica": "81,4",
+   "evangelica": "13,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2902609,
+   "catolica": "80,7",
+   "evangelica": "12,5",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2902658,
+   "catolica": "82,1",
+   "evangelica": "5,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 2902708,
+   "catolica": "82,8",
+   "evangelica": "9,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "3,7",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2902807,
+   "catolica": "81,8",
+   "evangelica": "12,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2902906,
+   "catolica": "74,8",
+   "evangelica": "13,1",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 2903003,
+   "catolica": "78,7",
+   "evangelica": "6,1",
+   "espirita": "3,7",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 2903102,
+   "catolica": "59,0",
+   "evangelica": "26,2",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 2903201,
+   "catolica": "70,2",
+   "evangelica": "18,4",
+   "espirita": "1,4",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 2903235,
+   "catolica": "85,1",
+   "evangelica": "10,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 2903276,
+   "catolica": "88,2",
+   "evangelica": "9,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2903300,
+   "catolica": "75,4",
+   "evangelica": "10,4",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "1,5",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 2903409,
+   "catolica": "46,3",
+   "evangelica": "26,3",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "3,2",
+   "sem": "23,6"
+ },
+ {
+   "codigo": 2903508,
+   "catolica": "80,6",
+   "evangelica": "11,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 2903607,
+   "catolica": "84,4",
+   "evangelica": "7,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2903706,
+   "catolica": "88,4",
+   "evangelica": "8,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2903805,
+   "catolica": "81,7",
+   "evangelica": "9,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 2903904,
+   "catolica": "78,5",
+   "evangelica": "16,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2903953,
+   "catolica": "90,7",
+   "evangelica": "6,2",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2904001,
+   "catolica": "80,6",
+   "evangelica": "12,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2904050,
+   "catolica": "80,3",
+   "evangelica": "12,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2904100,
+   "catolica": "89,4",
+   "evangelica": "6,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2904209,
+   "catolica": "95,5",
+   "evangelica": "3,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2904308,
+   "catolica": "81,7",
+   "evangelica": "14,1",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2904407,
+   "catolica": "85,3",
+   "evangelica": "10,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 2904506,
+   "catolica": "92,9",
+   "evangelica": "4,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2904605,
+   "catolica": "78,7",
+   "evangelica": "11,5",
+   "espirita": "1,5",
+   "umbanda": "0,1",
+   "outras": "3,9",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2904704,
+   "catolica": "76,2",
+   "evangelica": "13,0",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "2,0",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 2904753,
+   "catolica": "78,0",
+   "evangelica": "13,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2904803,
+   "catolica": "75,0",
+   "evangelica": "11,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 2904852,
+   "catolica": "86,3",
+   "evangelica": "8,9",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2904902,
+   "catolica": "51,1",
+   "evangelica": "21,2",
+   "espirita": "0,6",
+   "umbanda": "2,2",
+   "outras": "3,4",
+   "sem": "21,5"
+ },
+ {
+   "codigo": 2905008,
+   "catolica": "89,3",
+   "evangelica": "6,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2905107,
+   "catolica": "81,5",
+   "evangelica": "9,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 2905156,
+   "catolica": "91,4",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2905206,
+   "catolica": "88,2",
+   "evangelica": "7,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2905305,
+   "catolica": "68,7",
+   "evangelica": "17,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "11,9"
+ },
+ {
+   "codigo": 2905404,
+   "catolica": "58,1",
+   "evangelica": "24,5",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "4,5",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 2905503,
+   "catolica": "69,1",
+   "evangelica": "10,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "20,0"
+ },
+ {
+   "codigo": 2905602,
+   "catolica": "51,9",
+   "evangelica": "24,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "21,3"
+ },
+ {
+   "codigo": 2905701,
+   "catolica": "44,5",
+   "evangelica": "24,9",
+   "espirita": "1,1",
+   "umbanda": "0,3",
+   "outras": "6,7",
+   "sem": "22,5"
+ },
+ {
+   "codigo": 2905800,
+   "catolica": "56,5",
+   "evangelica": "22,4",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "3,0",
+   "sem": "17,8"
+ },
+ {
+   "codigo": 2905909,
+   "catolica": "83,1",
+   "evangelica": "11,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2906006,
+   "catolica": "79,3",
+   "evangelica": "13,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 2906105,
+   "catolica": "87,2",
+   "evangelica": "7,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2906204,
+   "catolica": "75,9",
+   "evangelica": "12,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 2906303,
+   "catolica": "54,1",
+   "evangelica": "20,4",
+   "espirita": "0,8",
+   "umbanda": "0,2",
+   "outras": "2,0",
+   "sem": "22,5"
+ },
+ {
+   "codigo": 2906402,
+   "catolica": "84,1",
+   "evangelica": "11,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2906501,
+   "catolica": "47,6",
+   "evangelica": "25,6",
+   "espirita": "0,2",
+   "umbanda": "0,3",
+   "outras": "7,5",
+   "sem": "18,8"
+ },
+ {
+   "codigo": 2906600,
+   "catolica": "78,4",
+   "evangelica": "11,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,3",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2906709,
+   "catolica": "70,6",
+   "evangelica": "20,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 2906808,
+   "catolica": "70,3",
+   "evangelica": "15,8",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "0,7",
+   "sem": "13,0"
+ },
+ {
+   "codigo": 2906824,
+   "catolica": "80,0",
+   "evangelica": "11,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 2906857,
+   "catolica": "72,9",
+   "evangelica": "15,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 2906873,
+   "catolica": "62,4",
+   "evangelica": "21,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "4,2",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 2906899,
+   "catolica": "92,3",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2906907,
+   "catolica": "61,1",
+   "evangelica": "24,5",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 2907004,
+   "catolica": "75,7",
+   "evangelica": "9,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 2907103,
+   "catolica": "82,6",
+   "evangelica": "13,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2907202,
+   "catolica": "80,1",
+   "evangelica": "12,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2907301,
+   "catolica": "79,7",
+   "evangelica": "10,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 2907400,
+   "catolica": "86,5",
+   "evangelica": "9,7",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2907509,
+   "catolica": "40,9",
+   "evangelica": "25,3",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "5,4",
+   "sem": "27,8"
+ },
+ {
+   "codigo": 2907558,
+   "catolica": "95,3",
+   "evangelica": "3,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2907608,
+   "catolica": "62,3",
+   "evangelica": "13,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "23,1"
+ },
+ {
+   "codigo": 2907707,
+   "catolica": "92,3",
+   "evangelica": "6,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 2907806,
+   "catolica": "86,6",
+   "evangelica": "6,5",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "1,6",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 2907905,
+   "catolica": "62,7",
+   "evangelica": "19,7",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "15,6"
+ },
+ {
+   "codigo": 2908002,
+   "catolica": "56,6",
+   "evangelica": "19,5",
+   "espirita": "0,5",
+   "umbanda": "0,5",
+   "outras": "1,1",
+   "sem": "21,8"
+ },
+ {
+   "codigo": 2908101,
+   "catolica": "79,9",
+   "evangelica": "16,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 2908200,
+   "catolica": "67,7",
+   "evangelica": "20,4",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 2908309,
+   "catolica": "74,7",
+   "evangelica": "11,6",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 2908408,
+   "catolica": "70,5",
+   "evangelica": "17,2",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 2908507,
+   "catolica": "69,9",
+   "evangelica": "14,4",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "4,0",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 2908606,
+   "catolica": "67,5",
+   "evangelica": "15,2",
+   "espirita": "0,3",
+   "umbanda": "0,2",
+   "outras": "2,3",
+   "sem": "14,5"
+ },
+ {
+   "codigo": 2908705,
+   "catolica": "86,9",
+   "evangelica": "10,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2908804,
+   "catolica": "80,2",
+   "evangelica": "10,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 2908903,
+   "catolica": "83,9",
+   "evangelica": "8,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2909000,
+   "catolica": "83,0",
+   "evangelica": "14,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2909109,
+   "catolica": "82,7",
+   "evangelica": "11,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2909208,
+   "catolica": "84,0",
+   "evangelica": "4,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 2909307,
+   "catolica": "79,7",
+   "evangelica": "11,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 2909406,
+   "catolica": "86,7",
+   "evangelica": "7,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 2909505,
+   "catolica": "70,6",
+   "evangelica": "13,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 2909604,
+   "catolica": "89,1",
+   "evangelica": "6,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2909703,
+   "catolica": "84,0",
+   "evangelica": "11,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2909802,
+   "catolica": "66,2",
+   "evangelica": "19,6",
+   "espirita": "1,1",
+   "umbanda": "0,5",
+   "outras": "3,3",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 2909901,
+   "catolica": "85,8",
+   "evangelica": "8,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 2910008,
+   "catolica": "62,9",
+   "evangelica": "19,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "15,1"
+ },
+ {
+   "codigo": 2910057,
+   "catolica": "39,3",
+   "evangelica": "29,0",
+   "espirita": "0,9",
+   "umbanda": "0,4",
+   "outras": "8,7",
+   "sem": "21,7"
+ },
+ {
+   "codigo": 2910107,
+   "catolica": "95,4",
+   "evangelica": "3,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2910206,
+   "catolica": "77,0",
+   "evangelica": "12,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 2910305,
+   "catolica": "77,5",
+   "evangelica": "14,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2910404,
+   "catolica": "75,8",
+   "evangelica": "14,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,2",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2910503,
+   "catolica": "59,2",
+   "evangelica": "18,4",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "3,7",
+   "sem": "18,0"
+ },
+ {
+   "codigo": 2910602,
+   "catolica": "68,1",
+   "evangelica": "10,2",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "4,1",
+   "sem": "16,3"
+ },
+ {
+   "codigo": 2910701,
+   "catolica": "80,8",
+   "evangelica": "9,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 2910727,
+   "catolica": "48,8",
+   "evangelica": "30,6",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "3,6",
+   "sem": "16,0"
+ },
+ {
+   "codigo": 2910750,
+   "catolica": "92,2",
+   "evangelica": "3,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2910776,
+   "catolica": "75,8",
+   "evangelica": "19,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 2910800,
+   "catolica": "57,2",
+   "evangelica": "25,2",
+   "espirita": "1,0",
+   "umbanda": "0,2",
+   "outras": "3,6",
+   "sem": "12,9"
+ },
+ {
+   "codigo": 2910859,
+   "catolica": "73,8",
+   "evangelica": "17,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 2910909,
+   "catolica": "64,1",
+   "evangelica": "14,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "10,6",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 2911006,
+   "catolica": "67,2",
+   "evangelica": "14,2",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "2,2",
+   "sem": "16,0"
+ },
+ {
+   "codigo": 2911105,
+   "catolica": "85,8",
+   "evangelica": "10,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2911204,
+   "catolica": "41,8",
+   "evangelica": "30,1",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "2,8",
+   "sem": "24,8"
+ },
+ {
+   "codigo": 2911253,
+   "catolica": "81,8",
+   "evangelica": "13,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2911303,
+   "catolica": "85,5",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2911402,
+   "catolica": "85,7",
+   "evangelica": "6,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 2911501,
+   "catolica": "63,6",
+   "evangelica": "17,1",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "2,6",
+   "sem": "16,3"
+ },
+ {
+   "codigo": 2911600,
+   "catolica": "78,3",
+   "evangelica": "11,0",
+   "espirita": "0,6",
+   "umbanda": "1,0",
+   "outras": "3,3",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2911659,
+   "catolica": "93,4",
+   "evangelica": "5,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2911709,
+   "catolica": "69,6",
+   "evangelica": "18,3",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "4,6",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 2911808,
+   "catolica": "67,3",
+   "evangelica": "24,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 2911857,
+   "catolica": "91,2",
+   "evangelica": "5,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2911907,
+   "catolica": "76,4",
+   "evangelica": "9,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 2912004,
+   "catolica": "92,2",
+   "evangelica": "5,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2912103,
+   "catolica": "72,5",
+   "evangelica": "15,4",
+   "espirita": "1,2",
+   "umbanda": "0,3",
+   "outras": "1,4",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 2912202,
+   "catolica": "63,6",
+   "evangelica": "21,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "12,1"
+ },
+ {
+   "codigo": 2912301,
+   "catolica": "73,4",
+   "evangelica": "14,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 2912400,
+   "catolica": "68,6",
+   "evangelica": "13,6",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "15,2"
+ },
+ {
+   "codigo": 2912509,
+   "catolica": "87,2",
+   "evangelica": "8,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 2912608,
+   "catolica": "90,4",
+   "evangelica": "6,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2912707,
+   "catolica": "49,4",
+   "evangelica": "20,0",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "0,8",
+   "sem": "29,5"
+ },
+ {
+   "codigo": 2912806,
+   "catolica": "68,6",
+   "evangelica": "17,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 2912905,
+   "catolica": "57,8",
+   "evangelica": "24,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "15,5"
+ },
+ {
+   "codigo": 2913002,
+   "catolica": "90,4",
+   "evangelica": "6,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2913101,
+   "catolica": "74,0",
+   "evangelica": "12,3",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "12,1"
+ },
+ {
+   "codigo": 2913200,
+   "catolica": "80,2",
+   "evangelica": "10,6",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 2913309,
+   "catolica": "86,8",
+   "evangelica": "8,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2913408,
+   "catolica": "87,2",
+   "evangelica": "8,9",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2913457,
+   "catolica": "61,4",
+   "evangelica": "21,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "16,1"
+ },
+ {
+   "codigo": 2913507,
+   "catolica": "68,6",
+   "evangelica": "17,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "13,3"
+ },
+ {
+   "codigo": 2913606,
+   "catolica": "52,5",
+   "evangelica": "24,6",
+   "espirita": "1,6",
+   "umbanda": "0,5",
+   "outras": "3,8",
+   "sem": "17,0"
+ },
+ {
+   "codigo": 2913705,
+   "catolica": "81,5",
+   "evangelica": "9,6",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "1,7",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 2913804,
+   "catolica": "80,7",
+   "evangelica": "13,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2913903,
+   "catolica": "63,9",
+   "evangelica": "19,2",
+   "espirita": "0,7",
+   "umbanda": "0,8",
+   "outras": "2,8",
+   "sem": "12,6"
+ },
+ {
+   "codigo": 2914000,
+   "catolica": "81,0",
+   "evangelica": "11,5",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "3,0",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 2914109,
+   "catolica": "80,2",
+   "evangelica": "10,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 2914208,
+   "catolica": "75,9",
+   "evangelica": "14,0",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 2914307,
+   "catolica": "81,0",
+   "evangelica": "11,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 2914406,
+   "catolica": "92,1",
+   "evangelica": "4,7",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2914505,
+   "catolica": "74,7",
+   "evangelica": "14,2",
+   "espirita": "1,1",
+   "umbanda": "0,3",
+   "outras": "1,9",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 2914604,
+   "catolica": "64,8",
+   "evangelica": "16,4",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 2914653,
+   "catolica": "59,6",
+   "evangelica": "22,8",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "15,1"
+ },
+ {
+   "codigo": 2914703,
+   "catolica": "62,1",
+   "evangelica": "16,3",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "5,7",
+   "sem": "15,5"
+ },
+ {
+   "codigo": 2914802,
+   "catolica": "54,7",
+   "evangelica": "24,4",
+   "espirita": "1,7",
+   "umbanda": "0,3",
+   "outras": "3,8",
+   "sem": "15,1"
+ },
+ {
+   "codigo": 2914901,
+   "catolica": "55,9",
+   "evangelica": "21,6",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "3,1",
+   "sem": "18,9"
+ },
+ {
+   "codigo": 2915007,
+   "catolica": "74,3",
+   "evangelica": "13,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "4,6",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 2915106,
+   "catolica": "70,8",
+   "evangelica": "17,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 2915205,
+   "catolica": "55,4",
+   "evangelica": "22,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "19,5"
+ },
+ {
+   "codigo": 2915304,
+   "catolica": "61,1",
+   "evangelica": "22,3",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "3,1",
+   "sem": "13,2"
+ },
+ {
+   "codigo": 2915353,
+   "catolica": "85,0",
+   "evangelica": "6,3",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2915403,
+   "catolica": "76,9",
+   "evangelica": "13,2",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 2915502,
+   "catolica": "71,0",
+   "evangelica": "14,1",
+   "espirita": "1,3",
+   "umbanda": "0,2",
+   "outras": "1,0",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 2915601,
+   "catolica": "58,8",
+   "evangelica": "24,6",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "13,9"
+ },
+ {
+   "codigo": 2915700,
+   "catolica": "45,6",
+   "evangelica": "23,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "30,2"
+ },
+ {
+   "codigo": 2915809,
+   "catolica": "78,3",
+   "evangelica": "13,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 2915908,
+   "catolica": "45,4",
+   "evangelica": "19,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "33,6"
+ },
+ {
+   "codigo": 2916005,
+   "catolica": "68,1",
+   "evangelica": "20,2",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 2916104,
+   "catolica": "48,0",
+   "evangelica": "21,3",
+   "espirita": "1,6",
+   "umbanda": "2,7",
+   "outras": "6,5",
+   "sem": "19,9"
+ },
+ {
+   "codigo": 2916203,
+   "catolica": "67,9",
+   "evangelica": "15,8",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 2916302,
+   "catolica": "68,6",
+   "evangelica": "18,7",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 2916401,
+   "catolica": "53,8",
+   "evangelica": "27,2",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "16,0"
+ },
+ {
+   "codigo": 2916500,
+   "catolica": "83,3",
+   "evangelica": "6,3",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 2916609,
+   "catolica": "58,7",
+   "evangelica": "19,5",
+   "espirita": "0,0",
+   "umbanda": "1,0",
+   "outras": "1,7",
+   "sem": "19,1"
+ },
+ {
+   "codigo": 2916708,
+   "catolica": "70,6",
+   "evangelica": "15,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 2916807,
+   "catolica": "62,2",
+   "evangelica": "24,1",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "0,9",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 2916856,
+   "catolica": "78,4",
+   "evangelica": "14,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2916906,
+   "catolica": "74,9",
+   "evangelica": "14,5",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 2917003,
+   "catolica": "81,1",
+   "evangelica": "12,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 2917102,
+   "catolica": "72,7",
+   "evangelica": "14,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "11,9"
+ },
+ {
+   "codigo": 2917201,
+   "catolica": "87,3",
+   "evangelica": "8,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2917300,
+   "catolica": "52,5",
+   "evangelica": "26,1",
+   "espirita": "0,6",
+   "umbanda": "0,4",
+   "outras": "1,6",
+   "sem": "18,8"
+ },
+ {
+   "codigo": 2917334,
+   "catolica": "83,5",
+   "evangelica": "10,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2917359,
+   "catolica": "88,6",
+   "evangelica": "6,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 2917409,
+   "catolica": "88,8",
+   "evangelica": "8,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2917508,
+   "catolica": "71,1",
+   "evangelica": "16,3",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 2917607,
+   "catolica": "58,5",
+   "evangelica": "25,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "13,1"
+ },
+ {
+   "codigo": 2917706,
+   "catolica": "82,7",
+   "evangelica": "9,5",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 2917805,
+   "catolica": "45,8",
+   "evangelica": "17,0",
+   "espirita": "0,2",
+   "umbanda": "0,8",
+   "outras": "3,0",
+   "sem": "33,2"
+ },
+ {
+   "codigo": 2917904,
+   "catolica": "82,7",
+   "evangelica": "12,6",
+   "espirita": "0,0",
+   "umbanda": "0,3",
+   "outras": "1,8",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2918001,
+   "catolica": "51,9",
+   "evangelica": "28,4",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "3,6",
+   "sem": "15,4"
+ },
+ {
+   "codigo": 2918100,
+   "catolica": "84,0",
+   "evangelica": "6,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2918209,
+   "catolica": "71,9",
+   "evangelica": "15,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "7,0",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2918308,
+   "catolica": "67,5",
+   "evangelica": "15,2",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "14,6"
+ },
+ {
+   "codigo": 2918357,
+   "catolica": "58,4",
+   "evangelica": "24,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "14,9"
+ },
+ {
+   "codigo": 2918407,
+   "catolica": "62,2",
+   "evangelica": "20,2",
+   "espirita": "0,8",
+   "umbanda": "0,2",
+   "outras": "3,2",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 2918456,
+   "catolica": "66,2",
+   "evangelica": "17,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "14,7"
+ },
+ {
+   "codigo": 2918506,
+   "catolica": "75,0",
+   "evangelica": "5,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "16,8"
+ },
+ {
+   "codigo": 2918555,
+   "catolica": "69,5",
+   "evangelica": "11,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "17,3"
+ },
+ {
+   "codigo": 2918605,
+   "catolica": "89,3",
+   "evangelica": "9,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2918704,
+   "catolica": "72,3",
+   "evangelica": "16,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 2918753,
+   "catolica": "92,7",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2918803,
+   "catolica": "75,0",
+   "evangelica": "16,9",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 2918902,
+   "catolica": "75,7",
+   "evangelica": "22,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2919009,
+   "catolica": "82,9",
+   "evangelica": "10,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 2919058,
+   "catolica": "81,7",
+   "evangelica": "8,3",
+   "espirita": "0,1",
+   "umbanda": "0,4",
+   "outras": "2,4",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 2919108,
+   "catolica": "88,4",
+   "evangelica": "3,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2919157,
+   "catolica": "69,0",
+   "evangelica": "15,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "4,5",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 2919207,
+   "catolica": "47,9",
+   "evangelica": "22,2",
+   "espirita": "3,5",
+   "umbanda": "1,1",
+   "outras": "5,8",
+   "sem": "19,5"
+ },
+ {
+   "codigo": 2919306,
+   "catolica": "62,6",
+   "evangelica": "7,3",
+   "espirita": "1,9",
+   "umbanda": "0,2",
+   "outras": "1,8",
+   "sem": "26,2"
+ },
+ {
+   "codigo": 2919405,
+   "catolica": "86,0",
+   "evangelica": "11,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 2919504,
+   "catolica": "91,0",
+   "evangelica": "6,1",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2919553,
+   "catolica": "64,2",
+   "evangelica": "23,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 2919603,
+   "catolica": "87,6",
+   "evangelica": "7,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2919702,
+   "catolica": "62,9",
+   "evangelica": "20,8",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "14,7"
+ },
+ {
+   "codigo": 2919801,
+   "catolica": "95,2",
+   "evangelica": "3,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2919900,
+   "catolica": "87,5",
+   "evangelica": "5,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2919926,
+   "catolica": "63,5",
+   "evangelica": "20,6",
+   "espirita": "1,1",
+   "umbanda": "0,4",
+   "outras": "2,2",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 2919959,
+   "catolica": "87,7",
+   "evangelica": "8,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2920007,
+   "catolica": "63,2",
+   "evangelica": "24,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 2920106,
+   "catolica": "83,9",
+   "evangelica": "7,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 2920205,
+   "catolica": "83,4",
+   "evangelica": "11,2",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 2920304,
+   "catolica": "80,1",
+   "evangelica": "17,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 2920403,
+   "catolica": "88,3",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2920452,
+   "catolica": "86,3",
+   "evangelica": "9,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2920502,
+   "catolica": "83,1",
+   "evangelica": "8,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2920601,
+   "catolica": "77,0",
+   "evangelica": "9,5",
+   "espirita": "0,6",
+   "umbanda": "1,0",
+   "outras": "1,8",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 2920700,
+   "catolica": "52,0",
+   "evangelica": "21,8",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "23,4"
+ },
+ {
+   "codigo": 2920809,
+   "catolica": "80,3",
+   "evangelica": "9,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 2920908,
+   "catolica": "53,9",
+   "evangelica": "19,8",
+   "espirita": "0,1",
+   "umbanda": "0,4",
+   "outras": "1,9",
+   "sem": "23,9"
+ },
+ {
+   "codigo": 2921005,
+   "catolica": "48,0",
+   "evangelica": "20,4",
+   "espirita": "0,9",
+   "umbanda": "0,6",
+   "outras": "7,6",
+   "sem": "22,5"
+ },
+ {
+   "codigo": 2921054,
+   "catolica": "94,1",
+   "evangelica": "4,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2921104,
+   "catolica": "70,2",
+   "evangelica": "17,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 2921203,
+   "catolica": "74,6",
+   "evangelica": "15,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 2921302,
+   "catolica": "80,9",
+   "evangelica": "10,6",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "1,0",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 2921401,
+   "catolica": "79,2",
+   "evangelica": "13,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 2921450,
+   "catolica": "91,1",
+   "evangelica": "5,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2921500,
+   "catolica": "80,5",
+   "evangelica": "8,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "5,3",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2921609,
+   "catolica": "84,4",
+   "evangelica": "8,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 2921708,
+   "catolica": "75,8",
+   "evangelica": "13,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 2921807,
+   "catolica": "90,9",
+   "evangelica": "8,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 2921906,
+   "catolica": "68,5",
+   "evangelica": "19,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 2922003,
+   "catolica": "49,0",
+   "evangelica": "33,2",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "15,0"
+ },
+ {
+   "codigo": 2922052,
+   "catolica": "75,5",
+   "evangelica": "9,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "6,1",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 2922102,
+   "catolica": "85,9",
+   "evangelica": "9,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2922201,
+   "catolica": "72,3",
+   "evangelica": "12,8",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "12,1"
+ },
+ {
+   "codigo": 2922250,
+   "catolica": "82,8",
+   "evangelica": "10,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 2922300,
+   "catolica": "69,6",
+   "evangelica": "11,7",
+   "espirita": "1,0",
+   "umbanda": "0,8",
+   "outras": "2,8",
+   "sem": "14,1"
+ },
+ {
+   "codigo": 2922409,
+   "catolica": "82,5",
+   "evangelica": "11,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 2922508,
+   "catolica": "61,2",
+   "evangelica": "16,0",
+   "espirita": "2,4",
+   "umbanda": "0,6",
+   "outras": "3,8",
+   "sem": "16,0"
+ },
+ {
+   "codigo": 2922607,
+   "catolica": "67,8",
+   "evangelica": "16,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "13,8"
+ },
+ {
+   "codigo": 2922656,
+   "catolica": "87,7",
+   "evangelica": "7,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2922706,
+   "catolica": "74,1",
+   "evangelica": "16,1",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 2922730,
+   "catolica": "73,9",
+   "evangelica": "17,0",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2922755,
+   "catolica": "52,0",
+   "evangelica": "30,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "17,5"
+ },
+ {
+   "codigo": 2922805,
+   "catolica": "85,3",
+   "evangelica": "5,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 2922854,
+   "catolica": "68,6",
+   "evangelica": "17,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 2922904,
+   "catolica": "81,8",
+   "evangelica": "7,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "5,0",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2923001,
+   "catolica": "53,2",
+   "evangelica": "30,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "13,7"
+ },
+ {
+   "codigo": 2923035,
+   "catolica": "72,8",
+   "evangelica": "16,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 2923050,
+   "catolica": "90,8",
+   "evangelica": "5,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2923100,
+   "catolica": "75,9",
+   "evangelica": "10,8",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "4,2",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 2923209,
+   "catolica": "87,8",
+   "evangelica": "8,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 2923308,
+   "catolica": "82,1",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "1,1",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 2923357,
+   "catolica": "71,4",
+   "evangelica": "15,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,2",
+   "sem": "10,0"
+ },
+ {
+   "codigo": 2923407,
+   "catolica": "86,8",
+   "evangelica": "9,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 2923506,
+   "catolica": "46,9",
+   "evangelica": "11,6",
+   "espirita": "3,3",
+   "umbanda": "0,2",
+   "outras": "13,3",
+   "sem": "24,7"
+ },
+ {
+   "codigo": 2923605,
+   "catolica": "88,9",
+   "evangelica": "7,1",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 2923704,
+   "catolica": "90,7",
+   "evangelica": "6,7",
+   "espirita": "0,4",
+   "umbanda": "0,4",
+   "outras": "0,9",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 2923803,
+   "catolica": "90,7",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2923902,
+   "catolica": "58,9",
+   "evangelica": "23,7",
+   "espirita": "0,0",
+   "umbanda": "0,8",
+   "outras": "1,4",
+   "sem": "15,2"
+ },
+ {
+   "codigo": 2924009,
+   "catolica": "72,8",
+   "evangelica": "15,6",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 2924058,
+   "catolica": "84,1",
+   "evangelica": "12,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2924108,
+   "catolica": "86,1",
+   "evangelica": "6,4",
+   "espirita": "0,4",
+   "umbanda": "0,8",
+   "outras": "1,2",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2924207,
+   "catolica": "88,6",
+   "evangelica": "3,8",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 2924306,
+   "catolica": "79,7",
+   "evangelica": "12,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 2924405,
+   "catolica": "72,6",
+   "evangelica": "12,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "13,5"
+ },
+ {
+   "codigo": 2924504,
+   "catolica": "84,0",
+   "evangelica": "11,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,2",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 2924603,
+   "catolica": "64,8",
+   "evangelica": "17,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,0",
+   "sem": "13,5"
+ },
+ {
+   "codigo": 2924652,
+   "catolica": "83,7",
+   "evangelica": "10,6",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "1,0",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2924678,
+   "catolica": "75,8",
+   "evangelica": "14,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 2924702,
+   "catolica": "90,9",
+   "evangelica": "7,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 2924801,
+   "catolica": "70,1",
+   "evangelica": "16,9",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 2924900,
+   "catolica": "91,0",
+   "evangelica": "5,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2925006,
+   "catolica": "82,6",
+   "evangelica": "11,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 2925105,
+   "catolica": "80,4",
+   "evangelica": "12,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 2925204,
+   "catolica": "51,9",
+   "evangelica": "20,0",
+   "espirita": "0,6",
+   "umbanda": "0,3",
+   "outras": "5,7",
+   "sem": "21,6"
+ },
+ {
+   "codigo": 2925253,
+   "catolica": "82,8",
+   "evangelica": "13,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 2925303,
+   "catolica": "45,5",
+   "evangelica": "29,2",
+   "espirita": "1,4",
+   "umbanda": "0,1",
+   "outras": "4,1",
+   "sem": "19,7"
+ },
+ {
+   "codigo": 2925402,
+   "catolica": "56,3",
+   "evangelica": "26,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "14,7"
+ },
+ {
+   "codigo": 2925501,
+   "catolica": "62,9",
+   "evangelica": "21,6",
+   "espirita": "0,7",
+   "umbanda": "0,2",
+   "outras": "4,0",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 2925600,
+   "catolica": "65,2",
+   "evangelica": "10,5",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "21,5"
+ },
+ {
+   "codigo": 2925709,
+   "catolica": "88,4",
+   "evangelica": "9,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 2925758,
+   "catolica": "79,7",
+   "evangelica": "12,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 2925808,
+   "catolica": "78,1",
+   "evangelica": "11,8",
+   "espirita": "0,8",
+   "umbanda": "0,2",
+   "outras": "1,7",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 2925907,
+   "catolica": "76,1",
+   "evangelica": "11,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 2925931,
+   "catolica": "72,4",
+   "evangelica": "16,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 2925956,
+   "catolica": "86,8",
+   "evangelica": "8,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2926004,
+   "catolica": "82,0",
+   "evangelica": "11,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2926103,
+   "catolica": "70,2",
+   "evangelica": "19,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 2926202,
+   "catolica": "67,4",
+   "evangelica": "12,4",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "19,0"
+ },
+ {
+   "codigo": 2926301,
+   "catolica": "80,2",
+   "evangelica": "10,4",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 2926400,
+   "catolica": "91,7",
+   "evangelica": "5,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 2926509,
+   "catolica": "83,1",
+   "evangelica": "8,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 2926608,
+   "catolica": "82,3",
+   "evangelica": "8,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 2926657,
+   "catolica": "75,1",
+   "evangelica": "16,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 2926707,
+   "catolica": "86,6",
+   "evangelica": "11,1",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 2926806,
+   "catolica": "86,6",
+   "evangelica": "9,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 2926905,
+   "catolica": "95,5",
+   "evangelica": "3,6",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "0,6",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 2927002,
+   "catolica": "75,5",
+   "evangelica": "12,4",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 2927101,
+   "catolica": "62,4",
+   "evangelica": "8,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "6,0",
+   "sem": "23,2"
+ },
+ {
+   "codigo": 2927200,
+   "catolica": "84,1",
+   "evangelica": "10,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 2927309,
+   "catolica": "43,8",
+   "evangelica": "21,6",
+   "espirita": "1,0",
+   "umbanda": "2,1",
+   "outras": "6,1",
+   "sem": "25,4"
+ },
+ {
+   "codigo": 2927408,
+   "catolica": "51,6",
+   "evangelica": "19,6",
+   "espirita": "3,2",
+   "umbanda": "1,1",
+   "outras": "6,1",
+   "sem": "18,6"
+ },
+ {
+   "codigo": 2927507,
+   "catolica": "75,5",
+   "evangelica": "13,7",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "4,8",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 2927606,
+   "catolica": "89,0",
+   "evangelica": "4,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2927705,
+   "catolica": "53,0",
+   "evangelica": "29,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "3,7",
+   "sem": "13,7"
+ },
+ {
+   "codigo": 2927804,
+   "catolica": "67,6",
+   "evangelica": "9,8",
+   "espirita": "0,9",
+   "umbanda": "0,3",
+   "outras": "1,3",
+   "sem": "20,1"
+ },
+ {
+   "codigo": 2927903,
+   "catolica": "70,4",
+   "evangelica": "17,0",
+   "espirita": "0,2",
+   "umbanda": "0,3",
+   "outras": "1,5",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 2928000,
+   "catolica": "73,6",
+   "evangelica": "11,8",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 2928059,
+   "catolica": "64,8",
+   "evangelica": "21,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "11,2"
+ },
+ {
+   "codigo": 2928109,
+   "catolica": "77,9",
+   "evangelica": "13,5",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "1,4",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 2928208,
+   "catolica": "90,2",
+   "evangelica": "5,5",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 2928307,
+   "catolica": "80,8",
+   "evangelica": "10,8",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 2928406,
+   "catolica": "89,2",
+   "evangelica": "6,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 2928505,
+   "catolica": "86,6",
+   "evangelica": "8,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2928604,
+   "catolica": "59,8",
+   "evangelica": "17,0",
+   "espirita": "0,9",
+   "umbanda": "0,9",
+   "outras": "4,4",
+   "sem": "17,1"
+ },
+ {
+   "codigo": 2928703,
+   "catolica": "59,1",
+   "evangelica": "21,8",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "5,1",
+   "sem": "12,9"
+ },
+ {
+   "codigo": 2928802,
+   "catolica": "76,7",
+   "evangelica": "14,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "3,8",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 2928901,
+   "catolica": "80,9",
+   "evangelica": "12,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 2928950,
+   "catolica": "74,2",
+   "evangelica": "14,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 2929008,
+   "catolica": "58,5",
+   "evangelica": "14,3",
+   "espirita": "0,9",
+   "umbanda": "1,1",
+   "outras": "5,2",
+   "sem": "20,1"
+ },
+ {
+   "codigo": 2929057,
+   "catolica": "75,6",
+   "evangelica": "14,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 2929107,
+   "catolica": "85,5",
+   "evangelica": "9,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2929206,
+   "catolica": "62,7",
+   "evangelica": "16,7",
+   "espirita": "0,2",
+   "umbanda": "1,1",
+   "outras": "5,1",
+   "sem": "14,2"
+ },
+ {
+   "codigo": 2929255,
+   "catolica": "80,1",
+   "evangelica": "6,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "11,6"
+ },
+ {
+   "codigo": 2929305,
+   "catolica": "75,9",
+   "evangelica": "16,0",
+   "espirita": "0,3",
+   "umbanda": "0,6",
+   "outras": "2,5",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 2929354,
+   "catolica": "58,2",
+   "evangelica": "17,8",
+   "espirita": "0,3",
+   "umbanda": "0,5",
+   "outras": "0,9",
+   "sem": "22,3"
+ },
+ {
+   "codigo": 2929370,
+   "catolica": "69,4",
+   "evangelica": "15,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "15,1"
+ },
+ {
+   "codigo": 2929404,
+   "catolica": "84,9",
+   "evangelica": "8,6",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2929503,
+   "catolica": "65,8",
+   "evangelica": "16,2",
+   "espirita": "0,4",
+   "umbanda": "0,3",
+   "outras": "4,1",
+   "sem": "13,2"
+ },
+ {
+   "codigo": 2929602,
+   "catolica": "81,1",
+   "evangelica": "9,5",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "3,5",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 2929701,
+   "catolica": "89,1",
+   "evangelica": "6,9",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2929750,
+   "catolica": "53,2",
+   "evangelica": "20,1",
+   "espirita": "0,1",
+   "umbanda": "0,6",
+   "outras": "3,6",
+   "sem": "22,4"
+ },
+ {
+   "codigo": 2929800,
+   "catolica": "80,5",
+   "evangelica": "13,2",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "0,9",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 2929909,
+   "catolica": "82,6",
+   "evangelica": "9,8",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 2930006,
+   "catolica": "78,5",
+   "evangelica": "16,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,7",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 2930105,
+   "catolica": "75,4",
+   "evangelica": "14,1",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "2,0",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 2930154,
+   "catolica": "77,4",
+   "evangelica": "17,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 2930204,
+   "catolica": "74,7",
+   "evangelica": "14,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 2930303,
+   "catolica": "91,6",
+   "evangelica": "7,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 2930402,
+   "catolica": "80,9",
+   "evangelica": "11,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 2930501,
+   "catolica": "77,6",
+   "evangelica": "11,3",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 2930600,
+   "catolica": "66,0",
+   "evangelica": "21,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 2930709,
+   "catolica": "37,3",
+   "evangelica": "31,4",
+   "espirita": "0,6",
+   "umbanda": "0,5",
+   "outras": "6,7",
+   "sem": "23,5"
+ },
+ {
+   "codigo": 2930758,
+   "catolica": "74,2",
+   "evangelica": "16,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 2930766,
+   "catolica": "81,2",
+   "evangelica": "4,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "14,5"
+ },
+ {
+   "codigo": 2930774,
+   "catolica": "64,0",
+   "evangelica": "19,3",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "0,9",
+   "sem": "15,4"
+ },
+ {
+   "codigo": 2930808,
+   "catolica": "90,9",
+   "evangelica": "5,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 2930907,
+   "catolica": "91,2",
+   "evangelica": "8,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2931004,
+   "catolica": "91,0",
+   "evangelica": "6,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 2931053,
+   "catolica": "93,8",
+   "evangelica": "3,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 2931103,
+   "catolica": "84,0",
+   "evangelica": "10,1",
+   "espirita": "0,9",
+   "umbanda": "0,3",
+   "outras": "0,2",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 2931202,
+   "catolica": "79,5",
+   "evangelica": "11,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 2931301,
+   "catolica": "75,6",
+   "evangelica": "8,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "5,0",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 2931350,
+   "catolica": "52,7",
+   "evangelica": "31,2",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "13,1"
+ },
+ {
+   "codigo": 2931400,
+   "catolica": "66,2",
+   "evangelica": "12,1",
+   "espirita": "0,5",
+   "umbanda": "1,3",
+   "outras": "2,2",
+   "sem": "17,7"
+ },
+ {
+   "codigo": 2931509,
+   "catolica": "83,1",
+   "evangelica": "8,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 2931608,
+   "catolica": "69,8",
+   "evangelica": "13,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "16,2"
+ },
+ {
+   "codigo": 2931707,
+   "catolica": "73,7",
+   "evangelica": "12,6",
+   "espirita": "0,4",
+   "umbanda": "0,4",
+   "outras": "3,8",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 2931806,
+   "catolica": "84,9",
+   "evangelica": "9,4",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,1",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 2931905,
+   "catolica": "75,8",
+   "evangelica": "10,5",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 2932002,
+   "catolica": "87,5",
+   "evangelica": "7,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 2932101,
+   "catolica": "76,0",
+   "evangelica": "18,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 2932200,
+   "catolica": "59,8",
+   "evangelica": "18,3",
+   "espirita": "0,9",
+   "umbanda": "0,2",
+   "outras": "2,3",
+   "sem": "18,5"
+ },
+ {
+   "codigo": 2932309,
+   "catolica": "56,4",
+   "evangelica": "24,4",
+   "espirita": "0,2",
+   "umbanda": "0,3",
+   "outras": "2,3",
+   "sem": "16,5"
+ },
+ {
+   "codigo": 2932408,
+   "catolica": "65,3",
+   "evangelica": "8,4",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "23,5"
+ },
+ {
+   "codigo": 2932457,
+   "catolica": "74,8",
+   "evangelica": "18,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 2932507,
+   "catolica": "56,2",
+   "evangelica": "21,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "19,7"
+ },
+ {
+   "codigo": 2932606,
+   "catolica": "81,7",
+   "evangelica": "13,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 2932705,
+   "catolica": "56,9",
+   "evangelica": "19,1",
+   "espirita": "0,4",
+   "umbanda": "0,3",
+   "outras": "2,5",
+   "sem": "20,9"
+ },
+ {
+   "codigo": 2932804,
+   "catolica": "68,9",
+   "evangelica": "12,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "14,5"
+ },
+ {
+   "codigo": 2932903,
+   "catolica": "52,0",
+   "evangelica": "22,3",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "4,5",
+   "sem": "20,5"
+ },
+ {
+   "codigo": 2933000,
+   "catolica": "67,4",
+   "evangelica": "15,0",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 2933059,
+   "catolica": "71,4",
+   "evangelica": "14,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 2933109,
+   "catolica": "71,8",
+   "evangelica": "14,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 2933158,
+   "catolica": "73,9",
+   "evangelica": "14,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 2933174,
+   "catolica": "86,0",
+   "evangelica": "10,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 2933208,
+   "catolica": "53,4",
+   "evangelica": "20,8",
+   "espirita": "0,8",
+   "umbanda": "1,7",
+   "outras": "6,0",
+   "sem": "17,3"
+ },
+ {
+   "codigo": 2933257,
+   "catolica": "74,9",
+   "evangelica": "19,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 2933307,
+   "catolica": "59,8",
+   "evangelica": "24,7",
+   "espirita": "1,8",
+   "umbanda": "0,2",
+   "outras": "2,5",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 2933406,
+   "catolica": "75,1",
+   "evangelica": "14,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 2933455,
+   "catolica": "89,0",
+   "evangelica": "8,6",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 2933505,
+   "catolica": "43,3",
+   "evangelica": "27,8",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "0,9",
+   "sem": "27,8"
+ },
+ {
+   "codigo": 2933604,
+   "catolica": "78,0",
+   "evangelica": "9,6",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "2,4",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 3100104,
+   "catolica": "75,0",
+   "evangelica": "17,1",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3100203,
+   "catolica": "82,1",
+   "evangelica": "11,7",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3100302,
+   "catolica": "87,0",
+   "evangelica": "11,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3100401,
+   "catolica": "83,6",
+   "evangelica": "13,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3100500,
+   "catolica": "71,5",
+   "evangelica": "22,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3100609,
+   "catolica": "75,6",
+   "evangelica": "20,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3100708,
+   "catolica": "82,1",
+   "evangelica": "8,8",
+   "espirita": "1,6",
+   "umbanda": "0,2",
+   "outras": "1,4",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3100807,
+   "catolica": "77,9",
+   "evangelica": "18,3",
+   "espirita": "0,1",
+   "umbanda": "0,3",
+   "outras": "1,6",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3100906,
+   "catolica": "74,8",
+   "evangelica": "21,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3101003,
+   "catolica": "77,6",
+   "evangelica": "16,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 3101102,
+   "catolica": "44,7",
+   "evangelica": "39,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "12,6"
+ },
+ {
+   "codigo": 3101201,
+   "catolica": "89,3",
+   "evangelica": "7,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3101300,
+   "catolica": "80,3",
+   "evangelica": "17,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3101409,
+   "catolica": "78,3",
+   "evangelica": "16,8",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "1,8",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3101508,
+   "catolica": "60,9",
+   "evangelica": "24,7",
+   "espirita": "4,8",
+   "umbanda": "0,3",
+   "outras": "1,0",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 3101607,
+   "catolica": "77,7",
+   "evangelica": "15,8",
+   "espirita": "2,2",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3101631,
+   "catolica": "94,2",
+   "evangelica": "3,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3101706,
+   "catolica": "73,7",
+   "evangelica": "17,5",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3101805,
+   "catolica": "58,5",
+   "evangelica": "34,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 3101904,
+   "catolica": "89,0",
+   "evangelica": "8,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3102001,
+   "catolica": "88,2",
+   "evangelica": "8,9",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3102050,
+   "catolica": "29,0",
+   "evangelica": "55,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "14,7"
+ },
+ {
+   "codigo": 3102100,
+   "catolica": "96,1",
+   "evangelica": "3,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 3102209,
+   "catolica": "74,6",
+   "evangelica": "22,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3102308,
+   "catolica": "87,2",
+   "evangelica": "9,5",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3102407,
+   "catolica": "91,4",
+   "evangelica": "8,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 3102506,
+   "catolica": "84,3",
+   "evangelica": "13,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3102605,
+   "catolica": "75,7",
+   "evangelica": "17,9",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3102704,
+   "catolica": "85,3",
+   "evangelica": "11,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3102803,
+   "catolica": "87,8",
+   "evangelica": "8,9",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3102852,
+   "catolica": "68,5",
+   "evangelica": "23,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3102902,
+   "catolica": "87,6",
+   "evangelica": "8,3",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3103009,
+   "catolica": "69,5",
+   "evangelica": "26,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3103108,
+   "catolica": "78,9",
+   "evangelica": "17,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3103207,
+   "catolica": "79,8",
+   "evangelica": "12,0",
+   "espirita": "2,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3103306,
+   "catolica": "92,0",
+   "evangelica": "6,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3103405,
+   "catolica": "88,6",
+   "evangelica": "8,9",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3103504,
+   "catolica": "66,1",
+   "evangelica": "24,2",
+   "espirita": "3,0",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3103603,
+   "catolica": "90,4",
+   "evangelica": "7,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3103702,
+   "catolica": "83,3",
+   "evangelica": "12,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3103751,
+   "catolica": "75,6",
+   "evangelica": "15,3",
+   "espirita": "2,4",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3103801,
+   "catolica": "87,1",
+   "evangelica": "12,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3103900,
+   "catolica": "89,0",
+   "evangelica": "8,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3104007,
+   "catolica": "71,0",
+   "evangelica": "14,4",
+   "espirita": "7,3",
+   "umbanda": "0,2",
+   "outras": "1,6",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3104106,
+   "catolica": "74,7",
+   "evangelica": "16,9",
+   "espirita": "1,1",
+   "umbanda": "0,3",
+   "outras": "2,1",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3104205,
+   "catolica": "78,2",
+   "evangelica": "16,4",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3104304,
+   "catolica": "82,6",
+   "evangelica": "13,0",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3104403,
+   "catolica": "87,2",
+   "evangelica": "9,2",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3104452,
+   "catolica": "83,9",
+   "evangelica": "13,5",
+   "espirita": "0,1",
+   "umbanda": "0,6",
+   "outras": "0,0",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3104502,
+   "catolica": "82,9",
+   "evangelica": "14,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3104601,
+   "catolica": "70,6",
+   "evangelica": "16,5",
+   "espirita": "6,1",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3104700,
+   "catolica": "71,1",
+   "evangelica": "20,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "4,2",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3104809,
+   "catolica": "82,6",
+   "evangelica": "15,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3104908,
+   "catolica": "72,9",
+   "evangelica": "22,3",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3105004,
+   "catolica": "78,8",
+   "evangelica": "15,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3105103,
+   "catolica": "87,8",
+   "evangelica": "7,5",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3105202,
+   "catolica": "88,2",
+   "evangelica": "7,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3105301,
+   "catolica": "86,1",
+   "evangelica": "12,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3105400,
+   "catolica": "79,1",
+   "evangelica": "16,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3105509,
+   "catolica": "80,1",
+   "evangelica": "12,5",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3105608,
+   "catolica": "87,0",
+   "evangelica": "7,4",
+   "espirita": "1,8",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3105707,
+   "catolica": "91,4",
+   "evangelica": "7,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3105905,
+   "catolica": "84,3",
+   "evangelica": "12,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3106002,
+   "catolica": "67,2",
+   "evangelica": "25,1",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3106101,
+   "catolica": "83,5",
+   "evangelica": "13,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3106200,
+   "catolica": "59,9",
+   "evangelica": "25,1",
+   "espirita": "4,1",
+   "umbanda": "0,2",
+   "outras": "2,2",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 3106309,
+   "catolica": "48,3",
+   "evangelica": "37,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 3106408,
+   "catolica": "85,4",
+   "evangelica": "10,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3106507,
+   "catolica": "84,5",
+   "evangelica": "11,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3106606,
+   "catolica": "69,8",
+   "evangelica": "15,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "12,0",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3106655,
+   "catolica": "71,5",
+   "evangelica": "12,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "15,2"
+ },
+ {
+   "codigo": 3106705,
+   "catolica": "50,8",
+   "evangelica": "35,7",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 3106804,
+   "catolica": "93,5",
+   "evangelica": "5,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3106903,
+   "catolica": "70,4",
+   "evangelica": "16,2",
+   "espirita": "5,9",
+   "umbanda": "0,4",
+   "outras": "1,2",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3107000,
+   "catolica": "82,6",
+   "evangelica": "12,7",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3107109,
+   "catolica": "81,8",
+   "evangelica": "11,7",
+   "espirita": "3,6",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3107208,
+   "catolica": "87,3",
+   "evangelica": "6,2",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3107307,
+   "catolica": "81,8",
+   "evangelica": "12,7",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3107406,
+   "catolica": "82,4",
+   "evangelica": "12,8",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3107505,
+   "catolica": "85,1",
+   "evangelica": "12,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3107604,
+   "catolica": "85,9",
+   "evangelica": "10,6",
+   "espirita": "0,7",
+   "umbanda": "0,2",
+   "outras": "1,3",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3107703,
+   "catolica": "84,6",
+   "evangelica": "12,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3107802,
+   "catolica": "77,0",
+   "evangelica": "16,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3107901,
+   "catolica": "94,9",
+   "evangelica": "4,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 3108008,
+   "catolica": "91,5",
+   "evangelica": "6,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3108107,
+   "catolica": "87,6",
+   "evangelica": "10,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3108206,
+   "catolica": "83,2",
+   "evangelica": "11,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3108255,
+   "catolica": "90,4",
+   "evangelica": "8,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 3108305,
+   "catolica": "82,8",
+   "evangelica": "13,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3108404,
+   "catolica": "81,0",
+   "evangelica": "16,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3108503,
+   "catolica": "71,4",
+   "evangelica": "20,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 3108552,
+   "catolica": "79,7",
+   "evangelica": "16,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3108602,
+   "catolica": "83,6",
+   "evangelica": "11,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3108701,
+   "catolica": "93,8",
+   "evangelica": "3,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3108800,
+   "catolica": "69,5",
+   "evangelica": "22,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3108909,
+   "catolica": "91,6",
+   "evangelica": "5,7",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3109006,
+   "catolica": "74,8",
+   "evangelica": "17,1",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3109105,
+   "catolica": "86,2",
+   "evangelica": "9,5",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3109204,
+   "catolica": "82,2",
+   "evangelica": "9,7",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3109253,
+   "catolica": "63,4",
+   "evangelica": "28,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 3109303,
+   "catolica": "72,8",
+   "evangelica": "19,3",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "3,5",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3109402,
+   "catolica": "70,6",
+   "evangelica": "20,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3109451,
+   "catolica": "71,0",
+   "evangelica": "21,0",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 3109501,
+   "catolica": "78,3",
+   "evangelica": "19,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3109600,
+   "catolica": "56,2",
+   "evangelica": "15,6",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "26,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3109709,
+   "catolica": "86,4",
+   "evangelica": "10,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3109808,
+   "catolica": "65,6",
+   "evangelica": "22,2",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 3109907,
+   "catolica": "81,0",
+   "evangelica": "13,1",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3110004,
+   "catolica": "81,8",
+   "evangelica": "14,3",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3110103,
+   "catolica": "62,4",
+   "evangelica": "24,5",
+   "espirita": "2,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 3110202,
+   "catolica": "87,5",
+   "evangelica": "11,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3110301,
+   "catolica": "84,5",
+   "evangelica": "10,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3110400,
+   "catolica": "97,4",
+   "evangelica": "2,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 3110509,
+   "catolica": "74,7",
+   "evangelica": "19,1",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3110608,
+   "catolica": "80,6",
+   "evangelica": "14,6",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3110707,
+   "catolica": "83,0",
+   "evangelica": "11,7",
+   "espirita": "1,8",
+   "umbanda": "0,2",
+   "outras": "1,1",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3110806,
+   "catolica": "90,1",
+   "evangelica": "8,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3110905,
+   "catolica": "83,1",
+   "evangelica": "13,8",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3111002,
+   "catolica": "78,2",
+   "evangelica": "19,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3111101,
+   "catolica": "89,5",
+   "evangelica": "5,2",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3111150,
+   "catolica": "85,3",
+   "evangelica": "9,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3111200,
+   "catolica": "69,3",
+   "evangelica": "25,6",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3111309,
+   "catolica": "78,7",
+   "evangelica": "11,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "7,6",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3111408,
+   "catolica": "59,6",
+   "evangelica": "17,0",
+   "espirita": "17,2",
+   "umbanda": "0,3",
+   "outras": "1,3",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3111507,
+   "catolica": "72,8",
+   "evangelica": "18,8",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3111606,
+   "catolica": "89,7",
+   "evangelica": "8,3",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3111705,
+   "catolica": "89,3",
+   "evangelica": "8,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3111804,
+   "catolica": "74,8",
+   "evangelica": "12,7",
+   "espirita": "3,5",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 3111903,
+   "catolica": "68,5",
+   "evangelica": "29,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3112000,
+   "catolica": "87,0",
+   "evangelica": "10,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3112059,
+   "catolica": "80,4",
+   "evangelica": "16,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3112109,
+   "catolica": "60,3",
+   "evangelica": "28,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 3112208,
+   "catolica": "95,5",
+   "evangelica": "3,1",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3112307,
+   "catolica": "78,5",
+   "evangelica": "17,9",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3112406,
+   "catolica": "80,0",
+   "evangelica": "13,8",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3112505,
+   "catolica": "69,2",
+   "evangelica": "24,5",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3112604,
+   "catolica": "61,9",
+   "evangelica": "22,9",
+   "espirita": "4,7",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "9,9"
+ },
+ {
+   "codigo": 3112653,
+   "catolica": "75,0",
+   "evangelica": "21,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3112703,
+   "catolica": "83,0",
+   "evangelica": "10,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3112802,
+   "catolica": "81,9",
+   "evangelica": "12,7",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3112901,
+   "catolica": "82,3",
+   "evangelica": "15,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3113008,
+   "catolica": "82,9",
+   "evangelica": "14,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3113107,
+   "catolica": "88,8",
+   "evangelica": "9,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3113206,
+   "catolica": "81,7",
+   "evangelica": "12,2",
+   "espirita": "2,5",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3113305,
+   "catolica": "63,3",
+   "evangelica": "27,1",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3113404,
+   "catolica": "67,6",
+   "evangelica": "25,2",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3113503,
+   "catolica": "89,0",
+   "evangelica": "8,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3113602,
+   "catolica": "75,0",
+   "evangelica": "20,5",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3113701,
+   "catolica": "76,9",
+   "evangelica": "16,6",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3113800,
+   "catolica": "75,9",
+   "evangelica": "22,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3113909,
+   "catolica": "85,7",
+   "evangelica": "8,9",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3114006,
+   "catolica": "90,0",
+   "evangelica": "6,4",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3114105,
+   "catolica": "78,7",
+   "evangelica": "17,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3114204,
+   "catolica": "88,4",
+   "evangelica": "8,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3114303,
+   "catolica": "85,3",
+   "evangelica": "10,6",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3114402,
+   "catolica": "88,9",
+   "evangelica": "8,3",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3114501,
+   "catolica": "88,1",
+   "evangelica": "10,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3114550,
+   "catolica": "76,5",
+   "evangelica": "18,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3114600,
+   "catolica": "90,7",
+   "evangelica": "6,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3114709,
+   "catolica": "79,7",
+   "evangelica": "14,0",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3114808,
+   "catolica": "88,1",
+   "evangelica": "7,0",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3114907,
+   "catolica": "86,1",
+   "evangelica": "10,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 3115003,
+   "catolica": "78,0",
+   "evangelica": "18,6",
+   "espirita": "0,9",
+   "umbanda": "0,7",
+   "outras": "0,5",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3115102,
+   "catolica": "75,4",
+   "evangelica": "15,5",
+   "espirita": "2,3",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3115201,
+   "catolica": "92,4",
+   "evangelica": "6,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3115300,
+   "catolica": "66,4",
+   "evangelica": "21,7",
+   "espirita": "4,2",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3115359,
+   "catolica": "79,7",
+   "evangelica": "17,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3115409,
+   "catolica": "96,6",
+   "evangelica": "3,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 3115458,
+   "catolica": "84,8",
+   "evangelica": "12,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3115474,
+   "catolica": "90,7",
+   "evangelica": "4,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3115508,
+   "catolica": "67,2",
+   "evangelica": "25,2",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3115607,
+   "catolica": "80,5",
+   "evangelica": "14,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3115706,
+   "catolica": "49,3",
+   "evangelica": "36,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "12,9"
+ },
+ {
+   "codigo": 3115805,
+   "catolica": "74,9",
+   "evangelica": "13,0",
+   "espirita": "4,7",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3115904,
+   "catolica": "83,2",
+   "evangelica": "9,9",
+   "espirita": "3,8",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3116001,
+   "catolica": "54,9",
+   "evangelica": "36,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 3116100,
+   "catolica": "86,5",
+   "evangelica": "8,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3116159,
+   "catolica": "84,2",
+   "evangelica": "12,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3116209,
+   "catolica": "68,5",
+   "evangelica": "20,7",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 3116308,
+   "catolica": "96,6",
+   "evangelica": "2,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3116407,
+   "catolica": "76,3",
+   "evangelica": "17,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3116506,
+   "catolica": "83,1",
+   "evangelica": "10,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,8",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3116605,
+   "catolica": "90,9",
+   "evangelica": "5,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3116704,
+   "catolica": "83,5",
+   "evangelica": "11,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3116803,
+   "catolica": "87,1",
+   "evangelica": "10,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3116902,
+   "catolica": "80,2",
+   "evangelica": "7,8",
+   "espirita": "6,5",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3117009,
+   "catolica": "94,3",
+   "evangelica": "5,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 3117108,
+   "catolica": "82,1",
+   "evangelica": "14,9",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3117207,
+   "catolica": "95,3",
+   "evangelica": "4,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3117306,
+   "catolica": "66,8",
+   "evangelica": "16,2",
+   "espirita": "7,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 3117405,
+   "catolica": "63,8",
+   "evangelica": "31,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3117504,
+   "catolica": "79,1",
+   "evangelica": "14,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3117603,
+   "catolica": "88,5",
+   "evangelica": "8,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3117702,
+   "catolica": "82,5",
+   "evangelica": "14,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3117801,
+   "catolica": "86,2",
+   "evangelica": "11,3",
+   "espirita": "0,3",
+   "umbanda": "0,6",
+   "outras": "0,2",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3117836,
+   "catolica": "85,3",
+   "evangelica": "13,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3117876,
+   "catolica": "72,9",
+   "evangelica": "20,7",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3117900,
+   "catolica": "87,6",
+   "evangelica": "10,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3118007,
+   "catolica": "80,3",
+   "evangelica": "15,5",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3118106,
+   "catolica": "87,0",
+   "evangelica": "10,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3118205,
+   "catolica": "74,1",
+   "evangelica": "7,2",
+   "espirita": "13,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3118304,
+   "catolica": "81,0",
+   "evangelica": "13,0",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3118403,
+   "catolica": "59,9",
+   "evangelica": "31,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 3118502,
+   "catolica": "90,3",
+   "evangelica": "8,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3118601,
+   "catolica": "55,9",
+   "evangelica": "31,6",
+   "espirita": "2,3",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3118700,
+   "catolica": "87,6",
+   "evangelica": "10,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3118809,
+   "catolica": "78,8",
+   "evangelica": "14,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "5,7",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3118908,
+   "catolica": "84,2",
+   "evangelica": "13,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3119005,
+   "catolica": "82,3",
+   "evangelica": "16,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3119104,
+   "catolica": "80,2",
+   "evangelica": "14,9",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3119203,
+   "catolica": "77,5",
+   "evangelica": "18,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3119302,
+   "catolica": "84,1",
+   "evangelica": "10,8",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3119401,
+   "catolica": "49,3",
+   "evangelica": "38,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 3119500,
+   "catolica": "85,3",
+   "evangelica": "11,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3119609,
+   "catolica": "83,0",
+   "evangelica": "13,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3119708,
+   "catolica": "92,8",
+   "evangelica": "5,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3119807,
+   "catolica": "82,7",
+   "evangelica": "14,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3119906,
+   "catolica": "83,3",
+   "evangelica": "14,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3119955,
+   "catolica": "92,8",
+   "evangelica": "6,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 3120003,
+   "catolica": "79,4",
+   "evangelica": "16,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3120102,
+   "catolica": "82,8",
+   "evangelica": "9,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3120151,
+   "catolica": "74,8",
+   "evangelica": "16,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "7,7",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3120201,
+   "catolica": "81,7",
+   "evangelica": "14,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3120300,
+   "catolica": "57,6",
+   "evangelica": "29,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,0",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 3120409,
+   "catolica": "78,5",
+   "evangelica": "16,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3120508,
+   "catolica": "83,6",
+   "evangelica": "11,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3120607,
+   "catolica": "82,6",
+   "evangelica": "14,1",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3120706,
+   "catolica": "91,5",
+   "evangelica": "6,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3120805,
+   "catolica": "92,0",
+   "evangelica": "6,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3120839,
+   "catolica": "42,4",
+   "evangelica": "37,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "19,5"
+ },
+ {
+   "codigo": 3120870,
+   "catolica": "77,2",
+   "evangelica": "15,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3120904,
+   "catolica": "82,2",
+   "evangelica": "11,5",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3121001,
+   "catolica": "84,5",
+   "evangelica": "12,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3121100,
+   "catolica": "83,5",
+   "evangelica": "11,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3121209,
+   "catolica": "77,3",
+   "evangelica": "12,7",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "4,4",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3121258,
+   "catolica": "64,8",
+   "evangelica": "13,0",
+   "espirita": "3,9",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "17,0"
+ },
+ {
+   "codigo": 3121308,
+   "catolica": "72,2",
+   "evangelica": "12,9",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "9,8",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3121407,
+   "catolica": "86,2",
+   "evangelica": "11,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3121506,
+   "catolica": "96,7",
+   "evangelica": "2,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 3121605,
+   "catolica": "82,5",
+   "evangelica": "12,5",
+   "espirita": "1,5",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3121704,
+   "catolica": "88,9",
+   "evangelica": "8,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3121803,
+   "catolica": "68,5",
+   "evangelica": "21,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 3121902,
+   "catolica": "89,7",
+   "evangelica": "8,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3122009,
+   "catolica": "68,0",
+   "evangelica": "25,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3122108,
+   "catolica": "51,3",
+   "evangelica": "35,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "11,5"
+ },
+ {
+   "codigo": 3122207,
+   "catolica": "80,4",
+   "evangelica": "15,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3122306,
+   "catolica": "81,1",
+   "evangelica": "12,6",
+   "espirita": "2,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3122355,
+   "catolica": "66,9",
+   "evangelica": "22,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 3122405,
+   "catolica": "76,7",
+   "evangelica": "17,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3122454,
+   "catolica": "70,6",
+   "evangelica": "22,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 3122470,
+   "catolica": "85,9",
+   "evangelica": "12,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3122504,
+   "catolica": "67,4",
+   "evangelica": "25,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3122603,
+   "catolica": "80,3",
+   "evangelica": "15,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3122702,
+   "catolica": "89,7",
+   "evangelica": "7,6",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3122801,
+   "catolica": "93,3",
+   "evangelica": "6,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 3122900,
+   "catolica": "67,2",
+   "evangelica": "23,1",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 3123007,
+   "catolica": "90,1",
+   "evangelica": "7,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3123106,
+   "catolica": "67,4",
+   "evangelica": "27,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3123205,
+   "catolica": "83,5",
+   "evangelica": "10,9",
+   "espirita": "1,3",
+   "umbanda": "0,2",
+   "outras": "1,1",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3123304,
+   "catolica": "95,9",
+   "evangelica": "3,0",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "0,3",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3123403,
+   "catolica": "87,8",
+   "evangelica": "9,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3123502,
+   "catolica": "75,4",
+   "evangelica": "17,0",
+   "espirita": "3,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3123528,
+   "catolica": "80,8",
+   "evangelica": "15,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3123601,
+   "catolica": "85,8",
+   "evangelica": "10,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3123700,
+   "catolica": "75,1",
+   "evangelica": "16,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 3123809,
+   "catolica": "80,6",
+   "evangelica": "13,6",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3123858,
+   "catolica": "68,1",
+   "evangelica": "24,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 3123908,
+   "catolica": "91,1",
+   "evangelica": "7,0",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3124005,
+   "catolica": "92,2",
+   "evangelica": "5,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3124104,
+   "catolica": "59,7",
+   "evangelica": "28,6",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 3124203,
+   "catolica": "62,8",
+   "evangelica": "24,3",
+   "espirita": "2,3",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "10,0"
+ },
+ {
+   "codigo": 3124302,
+   "catolica": "86,3",
+   "evangelica": "10,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3124401,
+   "catolica": "93,2",
+   "evangelica": "5,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3124500,
+   "catolica": "92,3",
+   "evangelica": "5,6",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3124609,
+   "catolica": "67,0",
+   "evangelica": "22,2",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,1",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 3124708,
+   "catolica": "89,1",
+   "evangelica": "9,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3124807,
+   "catolica": "73,6",
+   "evangelica": "19,9",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3124906,
+   "catolica": "62,0",
+   "evangelica": "29,3",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3125002,
+   "catolica": "74,2",
+   "evangelica": "24,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3125101,
+   "catolica": "70,9",
+   "evangelica": "19,4",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3125200,
+   "catolica": "82,7",
+   "evangelica": "12,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3125309,
+   "catolica": "65,0",
+   "evangelica": "24,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 3125408,
+   "catolica": "85,4",
+   "evangelica": "9,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3125507,
+   "catolica": "89,4",
+   "evangelica": "8,5",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 3125606,
+   "catolica": "83,5",
+   "evangelica": "14,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3125705,
+   "catolica": "87,6",
+   "evangelica": "8,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3125804,
+   "catolica": "69,2",
+   "evangelica": "22,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3125903,
+   "catolica": "83,4",
+   "evangelica": "14,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3125952,
+   "catolica": "74,2",
+   "evangelica": "18,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 3126000,
+   "catolica": "78,5",
+   "evangelica": "15,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3126109,
+   "catolica": "79,5",
+   "evangelica": "14,9",
+   "espirita": "1,6",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3126208,
+   "catolica": "79,5",
+   "evangelica": "12,2",
+   "espirita": "3,2",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3126307,
+   "catolica": "84,0",
+   "evangelica": "11,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3126406,
+   "catolica": "81,0",
+   "evangelica": "11,9",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3126505,
+   "catolica": "95,3",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 3126604,
+   "catolica": "70,6",
+   "evangelica": "20,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 3126703,
+   "catolica": "80,4",
+   "evangelica": "13,3",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "2,9",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3126752,
+   "catolica": "82,3",
+   "evangelica": "14,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3126802,
+   "catolica": "79,5",
+   "evangelica": "17,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3126901,
+   "catolica": "69,6",
+   "evangelica": "25,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3126950,
+   "catolica": "89,0",
+   "evangelica": "9,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3127008,
+   "catolica": "60,6",
+   "evangelica": "23,7",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 3127057,
+   "catolica": "89,1",
+   "evangelica": "8,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3127073,
+   "catolica": "87,7",
+   "evangelica": "8,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3127107,
+   "catolica": "60,4",
+   "evangelica": "20,5",
+   "espirita": "6,9",
+   "umbanda": "0,2",
+   "outras": "2,4",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 3127206,
+   "catolica": "78,7",
+   "evangelica": "12,6",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "2,8",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3127305,
+   "catolica": "51,7",
+   "evangelica": "34,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "13,3"
+ },
+ {
+   "codigo": 3127339,
+   "catolica": "90,8",
+   "evangelica": "6,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3127354,
+   "catolica": "88,3",
+   "evangelica": "9,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3127370,
+   "catolica": "57,1",
+   "evangelica": "29,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "13,0"
+ },
+ {
+   "codigo": 3127388,
+   "catolica": "80,9",
+   "evangelica": "14,9",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3127404,
+   "catolica": "91,8",
+   "evangelica": "5,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3127503,
+   "catolica": "78,0",
+   "evangelica": "20,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3127602,
+   "catolica": "86,3",
+   "evangelica": "11,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3127701,
+   "catolica": "51,0",
+   "evangelica": "37,5",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 3127800,
+   "catolica": "78,7",
+   "evangelica": "13,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,4",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3127909,
+   "catolica": "67,0",
+   "evangelica": "26,0",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3128006,
+   "catolica": "76,1",
+   "evangelica": "16,8",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3128105,
+   "catolica": "89,5",
+   "evangelica": "7,7",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3128204,
+   "catolica": "95,3",
+   "evangelica": "3,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3128253,
+   "catolica": "87,1",
+   "evangelica": "10,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3128303,
+   "catolica": "76,3",
+   "evangelica": "16,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3128402,
+   "catolica": "83,2",
+   "evangelica": "9,5",
+   "espirita": "3,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3128501,
+   "catolica": "60,9",
+   "evangelica": "24,1",
+   "espirita": "2,6",
+   "umbanda": "0,2",
+   "outras": "1,4",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 3128600,
+   "catolica": "75,2",
+   "evangelica": "21,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3128709,
+   "catolica": "77,0",
+   "evangelica": "15,0",
+   "espirita": "2,8",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3128808,
+   "catolica": "76,5",
+   "evangelica": "14,6",
+   "espirita": "3,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3128907,
+   "catolica": "85,1",
+   "evangelica": "10,6",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3129004,
+   "catolica": "86,1",
+   "evangelica": "10,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3129103,
+   "catolica": "80,0",
+   "evangelica": "16,1",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3129202,
+   "catolica": "88,6",
+   "evangelica": "6,8",
+   "espirita": "0,9",
+   "umbanda": "0,2",
+   "outras": "0,5",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3129301,
+   "catolica": "69,8",
+   "evangelica": "22,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 3129400,
+   "catolica": "94,5",
+   "evangelica": "4,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3129509,
+   "catolica": "75,7",
+   "evangelica": "14,6",
+   "espirita": "3,6",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3129608,
+   "catolica": "82,3",
+   "evangelica": "12,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3129657,
+   "catolica": "87,0",
+   "evangelica": "11,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3129707,
+   "catolica": "80,7",
+   "evangelica": "10,1",
+   "espirita": "3,5",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3129806,
+   "catolica": "49,4",
+   "evangelica": "37,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 3129905,
+   "catolica": "73,5",
+   "evangelica": "25,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3130002,
+   "catolica": "90,1",
+   "evangelica": "8,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3130051,
+   "catolica": "86,5",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,6",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3130101,
+   "catolica": "60,2",
+   "evangelica": "29,0",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3130200,
+   "catolica": "83,1",
+   "evangelica": "13,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3130309,
+   "catolica": "83,9",
+   "evangelica": "12,9",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3130408,
+   "catolica": "78,9",
+   "evangelica": "14,2",
+   "espirita": "3,9",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3130507,
+   "catolica": "90,1",
+   "evangelica": "8,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3130556,
+   "catolica": "87,6",
+   "evangelica": "9,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3130606,
+   "catolica": "87,2",
+   "evangelica": "8,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3130655,
+   "catolica": "84,8",
+   "evangelica": "11,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3130705,
+   "catolica": "76,8",
+   "evangelica": "11,7",
+   "espirita": "2,5",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 3130804,
+   "catolica": "89,9",
+   "evangelica": "8,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3130903,
+   "catolica": "86,3",
+   "evangelica": "11,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3131000,
+   "catolica": "78,9",
+   "evangelica": "16,4",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3131109,
+   "catolica": "87,6",
+   "evangelica": "9,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3131158,
+   "catolica": "43,8",
+   "evangelica": "38,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "16,6"
+ },
+ {
+   "codigo": 3131208,
+   "catolica": "67,5",
+   "evangelica": "23,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 3131307,
+   "catolica": "47,1",
+   "evangelica": "40,2",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 3131406,
+   "catolica": "80,3",
+   "evangelica": "10,5",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3131505,
+   "catolica": "80,7",
+   "evangelica": "16,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3131604,
+   "catolica": "74,3",
+   "evangelica": "20,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3131703,
+   "catolica": "75,0",
+   "evangelica": "19,2",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3131802,
+   "catolica": "58,0",
+   "evangelica": "30,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 3131901,
+   "catolica": "80,3",
+   "evangelica": "14,2",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3132008,
+   "catolica": "86,8",
+   "evangelica": "10,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3132107,
+   "catolica": "72,0",
+   "evangelica": "17,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 3132206,
+   "catolica": "83,2",
+   "evangelica": "11,3",
+   "espirita": "1,3",
+   "umbanda": "0,4",
+   "outras": "1,6",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3132305,
+   "catolica": "80,9",
+   "evangelica": "17,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3132404,
+   "catolica": "69,5",
+   "evangelica": "24,6",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3132503,
+   "catolica": "78,7",
+   "evangelica": "17,0",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3132602,
+   "catolica": "75,8",
+   "evangelica": "16,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 3132701,
+   "catolica": "82,9",
+   "evangelica": "14,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3132800,
+   "catolica": "92,7",
+   "evangelica": "6,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3132909,
+   "catolica": "83,9",
+   "evangelica": "10,5",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3133006,
+   "catolica": "73,3",
+   "evangelica": "22,0",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3133105,
+   "catolica": "80,4",
+   "evangelica": "15,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3133204,
+   "catolica": "77,0",
+   "evangelica": "16,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3133303,
+   "catolica": "75,3",
+   "evangelica": "18,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3133402,
+   "catolica": "74,5",
+   "evangelica": "13,2",
+   "espirita": "2,5",
+   "umbanda": "0,4",
+   "outras": "2,8",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3133501,
+   "catolica": "91,5",
+   "evangelica": "5,0",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3133600,
+   "catolica": "72,9",
+   "evangelica": "20,0",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3133709,
+   "catolica": "77,5",
+   "evangelica": "16,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3133758,
+   "catolica": "66,5",
+   "evangelica": "25,5",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "3,8",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3133808,
+   "catolica": "78,0",
+   "evangelica": "16,4",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3133907,
+   "catolica": "95,5",
+   "evangelica": "3,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3134004,
+   "catolica": "86,6",
+   "evangelica": "11,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3134103,
+   "catolica": "46,7",
+   "evangelica": "41,0",
+   "espirita": "4,5",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 3134202,
+   "catolica": "72,6",
+   "evangelica": "15,1",
+   "espirita": "4,5",
+   "umbanda": "0,2",
+   "outras": "1,2",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3134301,
+   "catolica": "95,9",
+   "evangelica": "3,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 3134400,
+   "catolica": "76,7",
+   "evangelica": "13,7",
+   "espirita": "2,1",
+   "umbanda": "0,2",
+   "outras": "2,2",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3134509,
+   "catolica": "87,9",
+   "evangelica": "8,0",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3134608,
+   "catolica": "75,7",
+   "evangelica": "18,7",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3134707,
+   "catolica": "77,3",
+   "evangelica": "16,5",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3134806,
+   "catolica": "87,7",
+   "evangelica": "10,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3134905,
+   "catolica": "64,1",
+   "evangelica": "29,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3135001,
+   "catolica": "59,5",
+   "evangelica": "31,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 3135050,
+   "catolica": "76,3",
+   "evangelica": "16,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3135076,
+   "catolica": "77,3",
+   "evangelica": "17,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3135100,
+   "catolica": "83,8",
+   "evangelica": "11,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3135209,
+   "catolica": "82,8",
+   "evangelica": "13,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3135308,
+   "catolica": "94,1",
+   "evangelica": "3,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3135357,
+   "catolica": "89,8",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3135407,
+   "catolica": "91,5",
+   "evangelica": "7,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3135456,
+   "catolica": "93,9",
+   "evangelica": "4,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3135506,
+   "catolica": "87,1",
+   "evangelica": "11,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3135605,
+   "catolica": "78,3",
+   "evangelica": "10,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 3135704,
+   "catolica": "81,7",
+   "evangelica": "14,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3135803,
+   "catolica": "84,4",
+   "evangelica": "12,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3135902,
+   "catolica": "86,8",
+   "evangelica": "11,8",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3136009,
+   "catolica": "80,7",
+   "evangelica": "16,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3136108,
+   "catolica": "68,6",
+   "evangelica": "24,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3136207,
+   "catolica": "74,1",
+   "evangelica": "21,1",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3136306,
+   "catolica": "86,6",
+   "evangelica": "11,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3136405,
+   "catolica": "81,1",
+   "evangelica": "15,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3136504,
+   "catolica": "73,0",
+   "evangelica": "18,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 3136520,
+   "catolica": "85,4",
+   "evangelica": "10,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3136553,
+   "catolica": "84,0",
+   "evangelica": "13,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3136579,
+   "catolica": "82,8",
+   "evangelica": "14,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3136603,
+   "catolica": "79,1",
+   "evangelica": "18,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3136652,
+   "catolica": "62,9",
+   "evangelica": "27,1",
+   "espirita": "0,8",
+   "umbanda": "0,2",
+   "outras": "3,7",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3136702,
+   "catolica": "64,4",
+   "evangelica": "21,7",
+   "espirita": "5,3",
+   "umbanda": "0,4",
+   "outras": "1,8",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3136801,
+   "catolica": "80,1",
+   "evangelica": "17,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3136900,
+   "catolica": "80,0",
+   "evangelica": "18,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3136959,
+   "catolica": "77,9",
+   "evangelica": "18,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3137007,
+   "catolica": "84,9",
+   "evangelica": "11,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3137106,
+   "catolica": "82,0",
+   "evangelica": "16,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3137205,
+   "catolica": "81,8",
+   "evangelica": "13,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3137304,
+   "catolica": "83,6",
+   "evangelica": "12,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3137403,
+   "catolica": "92,7",
+   "evangelica": "5,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3137502,
+   "catolica": "89,3",
+   "evangelica": "8,4",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3137536,
+   "catolica": "86,4",
+   "evangelica": "11,4",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3137601,
+   "catolica": "61,2",
+   "evangelica": "25,5",
+   "espirita": "2,7",
+   "umbanda": "0,2",
+   "outras": "2,3",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 3137700,
+   "catolica": "62,5",
+   "evangelica": "27,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 3137809,
+   "catolica": "74,1",
+   "evangelica": "20,5",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3137908,
+   "catolica": "95,3",
+   "evangelica": "3,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3138005,
+   "catolica": "88,2",
+   "evangelica": "8,8",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3138104,
+   "catolica": "82,9",
+   "evangelica": "12,0",
+   "espirita": "0,3",
+   "umbanda": "0,2",
+   "outras": "1,6",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3138203,
+   "catolica": "74,7",
+   "evangelica": "16,8",
+   "espirita": "3,2",
+   "umbanda": "0,2",
+   "outras": "1,7",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3138302,
+   "catolica": "85,6",
+   "evangelica": "11,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3138351,
+   "catolica": "82,2",
+   "evangelica": "14,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3138401,
+   "catolica": "71,5",
+   "evangelica": "16,6",
+   "espirita": "3,7",
+   "umbanda": "0,4",
+   "outras": "1,2",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3138500,
+   "catolica": "88,7",
+   "evangelica": "8,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3138609,
+   "catolica": "87,0",
+   "evangelica": "8,5",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3138625,
+   "catolica": "79,8",
+   "evangelica": "12,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3138658,
+   "catolica": "82,9",
+   "evangelica": "12,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3138674,
+   "catolica": "76,7",
+   "evangelica": "18,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3138682,
+   "catolica": "89,5",
+   "evangelica": "6,2",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "3,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3138708,
+   "catolica": "89,7",
+   "evangelica": "5,3",
+   "espirita": "4,4",
+   "umbanda": "0,1",
+   "outras": "0,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 3138807,
+   "catolica": "88,0",
+   "evangelica": "8,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3138906,
+   "catolica": "79,8",
+   "evangelica": "17,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3139003,
+   "catolica": "76,5",
+   "evangelica": "20,3",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3139102,
+   "catolica": "96,6",
+   "evangelica": "1,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 3139201,
+   "catolica": "84,7",
+   "evangelica": "12,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3139250,
+   "catolica": "93,8",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3139300,
+   "catolica": "84,0",
+   "evangelica": "12,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3139409,
+   "catolica": "64,5",
+   "evangelica": "27,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3139508,
+   "catolica": "67,6",
+   "evangelica": "24,5",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3139607,
+   "catolica": "40,9",
+   "evangelica": "44,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 3139706,
+   "catolica": "88,6",
+   "evangelica": "9,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3139805,
+   "catolica": "74,1",
+   "evangelica": "20,0",
+   "espirita": "1,9",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3139904,
+   "catolica": "90,0",
+   "evangelica": "8,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 3140001,
+   "catolica": "79,4",
+   "evangelica": "14,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3140100,
+   "catolica": "84,7",
+   "evangelica": "13,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3140159,
+   "catolica": "49,7",
+   "evangelica": "37,3",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 3140209,
+   "catolica": "76,4",
+   "evangelica": "14,9",
+   "espirita": "2,7",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3140308,
+   "catolica": "54,5",
+   "evangelica": "32,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 3140407,
+   "catolica": "79,9",
+   "evangelica": "16,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3140506,
+   "catolica": "83,7",
+   "evangelica": "11,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3140530,
+   "catolica": "67,2",
+   "evangelica": "24,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 3140555,
+   "catolica": "68,8",
+   "evangelica": "17,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 3140605,
+   "catolica": "86,1",
+   "evangelica": "12,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3140704,
+   "catolica": "69,7",
+   "evangelica": "21,1",
+   "espirita": "1,8",
+   "umbanda": "0,1",
+   "outras": "2,9",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3140803,
+   "catolica": "71,3",
+   "evangelica": "17,3",
+   "espirita": "2,4",
+   "umbanda": "0,1",
+   "outras": "2,6",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3140852,
+   "catolica": "81,6",
+   "evangelica": "13,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3140902,
+   "catolica": "70,8",
+   "evangelica": "22,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3141009,
+   "catolica": "90,5",
+   "evangelica": "5,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3141108,
+   "catolica": "67,2",
+   "evangelica": "23,0",
+   "espirita": "2,0",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3141207,
+   "catolica": "87,6",
+   "evangelica": "10,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3141306,
+   "catolica": "89,3",
+   "evangelica": "7,1",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3141405,
+   "catolica": "82,8",
+   "evangelica": "13,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3141504,
+   "catolica": "61,1",
+   "evangelica": "24,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "6,5",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3141603,
+   "catolica": "94,5",
+   "evangelica": "3,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3141702,
+   "catolica": "73,4",
+   "evangelica": "23,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3141801,
+   "catolica": "81,4",
+   "evangelica": "9,1",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "8,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3141900,
+   "catolica": "78,0",
+   "evangelica": "18,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3142007,
+   "catolica": "72,8",
+   "evangelica": "19,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,9",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3142106,
+   "catolica": "83,4",
+   "evangelica": "12,6",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3142205,
+   "catolica": "68,8",
+   "evangelica": "25,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3142254,
+   "catolica": "82,1",
+   "evangelica": "15,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3142304,
+   "catolica": "82,2",
+   "evangelica": "15,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3142403,
+   "catolica": "87,5",
+   "evangelica": "8,9",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3142502,
+   "catolica": "90,0",
+   "evangelica": "5,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3142601,
+   "catolica": "86,5",
+   "evangelica": "11,8",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 3142700,
+   "catolica": "87,9",
+   "evangelica": "10,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3142809,
+   "catolica": "59,8",
+   "evangelica": "15,7",
+   "espirita": "8,5",
+   "umbanda": "0,2",
+   "outras": "0,8",
+   "sem": "15,0"
+ },
+ {
+   "codigo": 3142908,
+   "catolica": "85,2",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,7",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3143005,
+   "catolica": "91,1",
+   "evangelica": "6,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3143104,
+   "catolica": "70,8",
+   "evangelica": "18,8",
+   "espirita": "3,6",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3143153,
+   "catolica": "81,8",
+   "evangelica": "14,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3143203,
+   "catolica": "79,3",
+   "evangelica": "13,1",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3143302,
+   "catolica": "68,0",
+   "evangelica": "23,2",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3143401,
+   "catolica": "76,1",
+   "evangelica": "16,9",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3143450,
+   "catolica": "91,5",
+   "evangelica": "6,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3143500,
+   "catolica": "78,3",
+   "evangelica": "16,0",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3143609,
+   "catolica": "93,0",
+   "evangelica": "6,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 3143708,
+   "catolica": "88,0",
+   "evangelica": "8,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3143807,
+   "catolica": "75,9",
+   "evangelica": "20,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3143906,
+   "catolica": "61,7",
+   "evangelica": "29,1",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 3144003,
+   "catolica": "58,2",
+   "evangelica": "29,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 3144102,
+   "catolica": "82,9",
+   "evangelica": "13,2",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3144201,
+   "catolica": "75,1",
+   "evangelica": "14,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 3144300,
+   "catolica": "59,2",
+   "evangelica": "26,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "11,5"
+ },
+ {
+   "codigo": 3144359,
+   "catolica": "49,6",
+   "evangelica": "36,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 3144375,
+   "catolica": "83,5",
+   "evangelica": "14,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3144409,
+   "catolica": "92,4",
+   "evangelica": "6,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3144508,
+   "catolica": "90,8",
+   "evangelica": "8,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 3144607,
+   "catolica": "84,8",
+   "evangelica": "13,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3144656,
+   "catolica": "78,9",
+   "evangelica": "11,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 3144672,
+   "catolica": "62,0",
+   "evangelica": "26,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 3144706,
+   "catolica": "70,5",
+   "evangelica": "23,6",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3144805,
+   "catolica": "70,7",
+   "evangelica": "18,2",
+   "espirita": "2,4",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3144904,
+   "catolica": "76,7",
+   "evangelica": "17,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3145000,
+   "catolica": "68,0",
+   "evangelica": "22,0",
+   "espirita": "2,6",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 3145059,
+   "catolica": "87,1",
+   "evangelica": "10,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3145109,
+   "catolica": "82,5",
+   "evangelica": "15,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3145208,
+   "catolica": "66,6",
+   "evangelica": "26,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3145307,
+   "catolica": "88,8",
+   "evangelica": "8,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3145356,
+   "catolica": "80,7",
+   "evangelica": "16,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3145372,
+   "catolica": "82,7",
+   "evangelica": "14,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3145406,
+   "catolica": "92,3",
+   "evangelica": "5,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3145455,
+   "catolica": "81,7",
+   "evangelica": "16,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3145505,
+   "catolica": "82,7",
+   "evangelica": "12,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3145604,
+   "catolica": "88,5",
+   "evangelica": "8,6",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 3145703,
+   "catolica": "95,8",
+   "evangelica": "3,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 3145802,
+   "catolica": "82,7",
+   "evangelica": "12,0",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3145851,
+   "catolica": "72,6",
+   "evangelica": "20,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3145877,
+   "catolica": "66,9",
+   "evangelica": "27,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3145901,
+   "catolica": "72,0",
+   "evangelica": "19,9",
+   "espirita": "2,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3146008,
+   "catolica": "74,0",
+   "evangelica": "19,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3146107,
+   "catolica": "82,9",
+   "evangelica": "10,7",
+   "espirita": "1,4",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3146206,
+   "catolica": "67,5",
+   "evangelica": "25,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3146255,
+   "catolica": "86,3",
+   "evangelica": "10,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3146305,
+   "catolica": "75,1",
+   "evangelica": "19,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3146404,
+   "catolica": "79,4",
+   "evangelica": "14,2",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3146503,
+   "catolica": "85,2",
+   "evangelica": "11,4",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3146552,
+   "catolica": "88,7",
+   "evangelica": "9,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 3146602,
+   "catolica": "94,4",
+   "evangelica": "3,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3146701,
+   "catolica": "81,3",
+   "evangelica": "15,0",
+   "espirita": "0,6",
+   "umbanda": "0,4",
+   "outras": "0,4",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3146750,
+   "catolica": "84,0",
+   "evangelica": "11,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3146909,
+   "catolica": "91,0",
+   "evangelica": "6,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3147006,
+   "catolica": "70,6",
+   "evangelica": "21,7",
+   "espirita": "2,6",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3147105,
+   "catolica": "83,7",
+   "evangelica": "10,7",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3147204,
+   "catolica": "87,1",
+   "evangelica": "10,1",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3147303,
+   "catolica": "90,1",
+   "evangelica": "7,0",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "0,9",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3147402,
+   "catolica": "80,3",
+   "evangelica": "16,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3147501,
+   "catolica": "81,4",
+   "evangelica": "14,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3147600,
+   "catolica": "85,2",
+   "evangelica": "12,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3147709,
+   "catolica": "91,0",
+   "evangelica": "6,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3147808,
+   "catolica": "86,8",
+   "evangelica": "10,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3147907,
+   "catolica": "75,0",
+   "evangelica": "18,6",
+   "espirita": "1,9",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3147956,
+   "catolica": "75,4",
+   "evangelica": "18,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3148004,
+   "catolica": "79,5",
+   "evangelica": "14,1",
+   "espirita": "1,8",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3148103,
+   "catolica": "77,3",
+   "evangelica": "17,0",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3148202,
+   "catolica": "77,9",
+   "evangelica": "13,0",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3148301,
+   "catolica": "93,0",
+   "evangelica": "6,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 3148400,
+   "catolica": "94,2",
+   "evangelica": "4,4",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3148509,
+   "catolica": "82,4",
+   "evangelica": "12,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3148608,
+   "catolica": "84,6",
+   "evangelica": "13,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3148707,
+   "catolica": "80,7",
+   "evangelica": "12,3",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3148756,
+   "catolica": "58,3",
+   "evangelica": "26,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,5",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 3148806,
+   "catolica": "86,1",
+   "evangelica": "10,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3148905,
+   "catolica": "91,6",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3149002,
+   "catolica": "78,4",
+   "evangelica": "15,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3149101,
+   "catolica": "94,1",
+   "evangelica": "4,8",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3149150,
+   "catolica": "72,0",
+   "evangelica": "12,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "12,6",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3149200,
+   "catolica": "83,5",
+   "evangelica": "10,4",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3149309,
+   "catolica": "65,6",
+   "evangelica": "23,4",
+   "espirita": "3,9",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3149408,
+   "catolica": "89,4",
+   "evangelica": "9,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3149507,
+   "catolica": "62,0",
+   "evangelica": "28,0",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3149606,
+   "catolica": "77,2",
+   "evangelica": "17,3",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3149705,
+   "catolica": "80,3",
+   "evangelica": "15,9",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3149804,
+   "catolica": "72,6",
+   "evangelica": "9,9",
+   "espirita": "13,4",
+   "umbanda": "0,4",
+   "outras": "0,8",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3149903,
+   "catolica": "77,6",
+   "evangelica": "17,9",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3149952,
+   "catolica": "48,7",
+   "evangelica": "41,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 3150000,
+   "catolica": "85,3",
+   "evangelica": "11,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3150109,
+   "catolica": "85,2",
+   "evangelica": "10,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3150158,
+   "catolica": "75,6",
+   "evangelica": "19,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3150208,
+   "catolica": "78,1",
+   "evangelica": "19,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3150307,
+   "catolica": "93,5",
+   "evangelica": "5,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3150406,
+   "catolica": "87,5",
+   "evangelica": "9,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3150505,
+   "catolica": "86,4",
+   "evangelica": "8,1",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3150539,
+   "catolica": "63,2",
+   "evangelica": "27,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 3150570,
+   "catolica": "85,6",
+   "evangelica": "9,6",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "3,9",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 3150604,
+   "catolica": "89,7",
+   "evangelica": "9,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3150703,
+   "catolica": "63,4",
+   "evangelica": "12,4",
+   "espirita": "9,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "14,4"
+ },
+ {
+   "codigo": 3150802,
+   "catolica": "91,8",
+   "evangelica": "5,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3150901,
+   "catolica": "92,3",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3151008,
+   "catolica": "83,2",
+   "evangelica": "13,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3151107,
+   "catolica": "65,4",
+   "evangelica": "24,5",
+   "espirita": "1,1",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 3151206,
+   "catolica": "67,1",
+   "evangelica": "22,6",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3151305,
+   "catolica": "82,8",
+   "evangelica": "11,8",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3151404,
+   "catolica": "81,9",
+   "evangelica": "14,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3151503,
+   "catolica": "76,3",
+   "evangelica": "16,7",
+   "espirita": "2,9",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3151602,
+   "catolica": "63,3",
+   "evangelica": "23,8",
+   "espirita": "2,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 3151701,
+   "catolica": "89,8",
+   "evangelica": "8,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3151800,
+   "catolica": "66,7",
+   "evangelica": "23,4",
+   "espirita": "2,3",
+   "umbanda": "0,2",
+   "outras": "2,6",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3151909,
+   "catolica": "64,7",
+   "evangelica": "28,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3152006,
+   "catolica": "80,8",
+   "evangelica": "9,2",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "4,9",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3152105,
+   "catolica": "77,6",
+   "evangelica": "16,3",
+   "espirita": "2,6",
+   "umbanda": "0,2",
+   "outras": "0,8",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3152131,
+   "catolica": "78,8",
+   "evangelica": "11,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 3152170,
+   "catolica": "82,7",
+   "evangelica": "14,7",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3152204,
+   "catolica": "83,8",
+   "evangelica": "12,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3152303,
+   "catolica": "92,5",
+   "evangelica": "5,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3152402,
+   "catolica": "75,7",
+   "evangelica": "18,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3152501,
+   "catolica": "71,8",
+   "evangelica": "19,9",
+   "espirita": "2,4",
+   "umbanda": "0,2",
+   "outras": "1,8",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3152600,
+   "catolica": "82,8",
+   "evangelica": "14,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3152709,
+   "catolica": "92,0",
+   "evangelica": "5,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3152808,
+   "catolica": "72,5",
+   "evangelica": "12,1",
+   "espirita": "7,2",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3152907,
+   "catolica": "79,9",
+   "evangelica": "13,0",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "3,9",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3153004,
+   "catolica": "53,4",
+   "evangelica": "10,2",
+   "espirita": "20,4",
+   "umbanda": "0,0",
+   "outras": "12,7",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3153103,
+   "catolica": "93,2",
+   "evangelica": "5,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3153202,
+   "catolica": "87,1",
+   "evangelica": "10,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3153301,
+   "catolica": "91,9",
+   "evangelica": "6,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3153400,
+   "catolica": "88,5",
+   "evangelica": "7,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3153509,
+   "catolica": "49,3",
+   "evangelica": "41,0",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 3153608,
+   "catolica": "69,4",
+   "evangelica": "21,7",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3153707,
+   "catolica": "84,9",
+   "evangelica": "11,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3153806,
+   "catolica": "92,5",
+   "evangelica": "5,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3153905,
+   "catolica": "68,6",
+   "evangelica": "24,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 3154002,
+   "catolica": "87,2",
+   "evangelica": "11,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3154101,
+   "catolica": "67,7",
+   "evangelica": "20,1",
+   "espirita": "1,9",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 3154150,
+   "catolica": "68,7",
+   "evangelica": "20,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 3154200,
+   "catolica": "88,6",
+   "evangelica": "8,1",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3154309,
+   "catolica": "48,6",
+   "evangelica": "38,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "11,4"
+ },
+ {
+   "codigo": 3154408,
+   "catolica": "95,0",
+   "evangelica": "3,5",
+   "espirita": "0,6",
+   "umbanda": "0,2",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3154457,
+   "catolica": "88,8",
+   "evangelica": "10,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3154507,
+   "catolica": "81,8",
+   "evangelica": "15,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3154606,
+   "catolica": "49,1",
+   "evangelica": "35,4",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "11,9"
+ },
+ {
+   "codigo": 3154705,
+   "catolica": "82,8",
+   "evangelica": "12,8",
+   "espirita": "1,8",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3154804,
+   "catolica": "71,0",
+   "evangelica": "21,4",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3154903,
+   "catolica": "82,8",
+   "evangelica": "13,4",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3155009,
+   "catolica": "90,1",
+   "evangelica": "9,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 3155108,
+   "catolica": "87,1",
+   "evangelica": "9,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3155207,
+   "catolica": "94,8",
+   "evangelica": "4,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3155306,
+   "catolica": "83,2",
+   "evangelica": "12,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3155405,
+   "catolica": "78,5",
+   "evangelica": "10,9",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3155504,
+   "catolica": "84,2",
+   "evangelica": "12,0",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3155603,
+   "catolica": "84,9",
+   "evangelica": "9,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3155702,
+   "catolica": "76,0",
+   "evangelica": "17,6",
+   "espirita": "0,9",
+   "umbanda": "0,2",
+   "outras": "1,2",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3155801,
+   "catolica": "78,0",
+   "evangelica": "10,6",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "7,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3155900,
+   "catolica": "86,6",
+   "evangelica": "9,2",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3156007,
+   "catolica": "82,6",
+   "evangelica": "15,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3156106,
+   "catolica": "92,0",
+   "evangelica": "5,2",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3156205,
+   "catolica": "78,1",
+   "evangelica": "18,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3156304,
+   "catolica": "70,9",
+   "evangelica": "13,7",
+   "espirita": "8,1",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3156403,
+   "catolica": "87,4",
+   "evangelica": "10,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3156452,
+   "catolica": "81,8",
+   "evangelica": "15,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3156502,
+   "catolica": "93,1",
+   "evangelica": "4,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 3156601,
+   "catolica": "79,4",
+   "evangelica": "14,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3156700,
+   "catolica": "55,6",
+   "evangelica": "31,5",
+   "espirita": "2,1",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 3156809,
+   "catolica": "82,5",
+   "evangelica": "12,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3156908,
+   "catolica": "74,8",
+   "evangelica": "8,9",
+   "espirita": "11,8",
+   "umbanda": "0,2",
+   "outras": "1,0",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3157005,
+   "catolica": "83,8",
+   "evangelica": "11,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3157104,
+   "catolica": "76,7",
+   "evangelica": "15,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3157203,
+   "catolica": "79,6",
+   "evangelica": "15,5",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3157252,
+   "catolica": "72,1",
+   "evangelica": "20,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 3157278,
+   "catolica": "87,2",
+   "evangelica": "10,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3157302,
+   "catolica": "93,6",
+   "evangelica": "5,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 3157336,
+   "catolica": "74,6",
+   "evangelica": "17,1",
+   "espirita": "1,8",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3157377,
+   "catolica": "96,2",
+   "evangelica": "3,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3157401,
+   "catolica": "81,2",
+   "evangelica": "13,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3157500,
+   "catolica": "75,1",
+   "evangelica": "19,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3157609,
+   "catolica": "87,7",
+   "evangelica": "9,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3157658,
+   "catolica": "69,8",
+   "evangelica": "16,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "12,7",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3157708,
+   "catolica": "85,6",
+   "evangelica": "11,0",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3157807,
+   "catolica": "52,1",
+   "evangelica": "33,8",
+   "espirita": "1,5",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 3157906,
+   "catolica": "67,8",
+   "evangelica": "28,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3158003,
+   "catolica": "87,9",
+   "evangelica": "11,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3158102,
+   "catolica": "71,2",
+   "evangelica": "24,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3158201,
+   "catolica": "87,9",
+   "evangelica": "10,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3158300,
+   "catolica": "87,8",
+   "evangelica": "9,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3158409,
+   "catolica": "81,0",
+   "evangelica": "15,2",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3158508,
+   "catolica": "91,5",
+   "evangelica": "7,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 3158607,
+   "catolica": "70,8",
+   "evangelica": "23,4",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3158706,
+   "catolica": "95,4",
+   "evangelica": "4,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3158805,
+   "catolica": "80,8",
+   "evangelica": "15,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3158904,
+   "catolica": "82,3",
+   "evangelica": "13,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3158953,
+   "catolica": "44,5",
+   "evangelica": "42,6",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 3159001,
+   "catolica": "82,6",
+   "evangelica": "12,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3159100,
+   "catolica": "88,9",
+   "evangelica": "7,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3159209,
+   "catolica": "90,1",
+   "evangelica": "6,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3159308,
+   "catolica": "92,5",
+   "evangelica": "4,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3159357,
+   "catolica": "67,1",
+   "evangelica": "25,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 3159407,
+   "catolica": "89,8",
+   "evangelica": "9,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3159506,
+   "catolica": "67,4",
+   "evangelica": "24,8",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3159605,
+   "catolica": "79,3",
+   "evangelica": "13,1",
+   "espirita": "3,0",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3159704,
+   "catolica": "69,5",
+   "evangelica": "25,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3159803,
+   "catolica": "73,2",
+   "evangelica": "16,1",
+   "espirita": "2,8",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3159902,
+   "catolica": "86,5",
+   "evangelica": "11,1",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3160009,
+   "catolica": "84,8",
+   "evangelica": "9,5",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3160108,
+   "catolica": "90,0",
+   "evangelica": "7,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3160207,
+   "catolica": "88,4",
+   "evangelica": "10,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 3160306,
+   "catolica": "69,6",
+   "evangelica": "22,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 3160405,
+   "catolica": "84,2",
+   "evangelica": "12,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3160454,
+   "catolica": "90,0",
+   "evangelica": "8,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3160504,
+   "catolica": "92,1",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3160603,
+   "catolica": "78,5",
+   "evangelica": "13,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3160702,
+   "catolica": "76,4",
+   "evangelica": "17,6",
+   "espirita": "2,3",
+   "umbanda": "0,2",
+   "outras": "0,6",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3160801,
+   "catolica": "84,6",
+   "evangelica": "15,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 3160900,
+   "catolica": "86,0",
+   "evangelica": "12,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3160959,
+   "catolica": "93,1",
+   "evangelica": "6,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3161007,
+   "catolica": "81,7",
+   "evangelica": "14,1",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3161056,
+   "catolica": "51,4",
+   "evangelica": "35,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 3161106,
+   "catolica": "88,8",
+   "evangelica": "8,7",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "1,5",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 3161205,
+   "catolica": "65,5",
+   "evangelica": "7,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "24,9",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3161304,
+   "catolica": "87,2",
+   "evangelica": "7,3",
+   "espirita": "2,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3161403,
+   "catolica": "84,8",
+   "evangelica": "11,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3161502,
+   "catolica": "82,6",
+   "evangelica": "13,4",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3161601,
+   "catolica": "86,2",
+   "evangelica": "13,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 3161650,
+   "catolica": "61,0",
+   "evangelica": "24,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "14,3"
+ },
+ {
+   "codigo": 3161700,
+   "catolica": "81,8",
+   "evangelica": "14,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3161809,
+   "catolica": "83,2",
+   "evangelica": "12,5",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3161908,
+   "catolica": "83,1",
+   "evangelica": "13,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3162005,
+   "catolica": "83,7",
+   "evangelica": "14,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3162104,
+   "catolica": "76,7",
+   "evangelica": "14,0",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3162203,
+   "catolica": "78,9",
+   "evangelica": "16,1",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3162252,
+   "catolica": "94,4",
+   "evangelica": "4,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3162302,
+   "catolica": "79,4",
+   "evangelica": "18,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3162401,
+   "catolica": "89,8",
+   "evangelica": "8,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3162450,
+   "catolica": "85,9",
+   "evangelica": "11,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3162500,
+   "catolica": "85,3",
+   "evangelica": "8,6",
+   "espirita": "1,9",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3162559,
+   "catolica": "53,4",
+   "evangelica": "36,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 3162575,
+   "catolica": "51,6",
+   "evangelica": "34,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "13,5"
+ },
+ {
+   "codigo": 3162609,
+   "catolica": "57,1",
+   "evangelica": "31,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 3162658,
+   "catolica": "75,8",
+   "evangelica": "16,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3162708,
+   "catolica": "83,9",
+   "evangelica": "12,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3162807,
+   "catolica": "85,3",
+   "evangelica": "11,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3162906,
+   "catolica": "76,0",
+   "evangelica": "17,6",
+   "espirita": "2,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3162922,
+   "catolica": "60,0",
+   "evangelica": "26,4",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "10,0"
+ },
+ {
+   "codigo": 3162948,
+   "catolica": "81,9",
+   "evangelica": "12,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3162955,
+   "catolica": "58,2",
+   "evangelica": "28,5",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "3,8",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 3163003,
+   "catolica": "71,5",
+   "evangelica": "24,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3163102,
+   "catolica": "85,6",
+   "evangelica": "12,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3163201,
+   "catolica": "81,7",
+   "evangelica": "14,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3163300,
+   "catolica": "64,5",
+   "evangelica": "23,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 3163409,
+   "catolica": "81,6",
+   "evangelica": "13,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3163508,
+   "catolica": "84,7",
+   "evangelica": "14,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3163607,
+   "catolica": "68,4",
+   "evangelica": "20,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "9,9",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3163706,
+   "catolica": "69,1",
+   "evangelica": "20,5",
+   "espirita": "2,4",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3163805,
+   "catolica": "89,6",
+   "evangelica": "7,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3163904,
+   "catolica": "85,3",
+   "evangelica": "12,0",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3164001,
+   "catolica": "82,7",
+   "evangelica": "13,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3164100,
+   "catolica": "76,9",
+   "evangelica": "19,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3164209,
+   "catolica": "86,9",
+   "evangelica": "10,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3164308,
+   "catolica": "81,1",
+   "evangelica": "9,9",
+   "espirita": "5,4",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3164407,
+   "catolica": "66,1",
+   "evangelica": "26,8",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3164431,
+   "catolica": "77,3",
+   "evangelica": "20,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3164472,
+   "catolica": "78,9",
+   "evangelica": "17,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3164506,
+   "catolica": "79,8",
+   "evangelica": "16,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3164605,
+   "catolica": "91,8",
+   "evangelica": "7,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 3164704,
+   "catolica": "71,6",
+   "evangelica": "17,7",
+   "espirita": "3,8",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3164803,
+   "catolica": "87,4",
+   "evangelica": "10,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3164902,
+   "catolica": "86,7",
+   "evangelica": "13,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 3165008,
+   "catolica": "92,1",
+   "evangelica": "5,2",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3165107,
+   "catolica": "86,8",
+   "evangelica": "8,0",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3165206,
+   "catolica": "82,6",
+   "evangelica": "9,3",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3165305,
+   "catolica": "86,9",
+   "evangelica": "7,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3165404,
+   "catolica": "82,8",
+   "evangelica": "13,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3165503,
+   "catolica": "84,2",
+   "evangelica": "13,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3165537,
+   "catolica": "50,4",
+   "evangelica": "40,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 3165552,
+   "catolica": "81,0",
+   "evangelica": "12,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,4",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3165560,
+   "catolica": "88,6",
+   "evangelica": "10,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3165578,
+   "catolica": "87,0",
+   "evangelica": "9,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3165602,
+   "catolica": "77,4",
+   "evangelica": "19,0",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3165701,
+   "catolica": "96,9",
+   "evangelica": "2,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3165800,
+   "catolica": "87,5",
+   "evangelica": "11,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3165909,
+   "catolica": "91,1",
+   "evangelica": "6,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3166006,
+   "catolica": "93,7",
+   "evangelica": "5,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3166105,
+   "catolica": "87,1",
+   "evangelica": "11,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3166204,
+   "catolica": "97,3",
+   "evangelica": "2,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 3166303,
+   "catolica": "75,7",
+   "evangelica": "20,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3166402,
+   "catolica": "86,4",
+   "evangelica": "9,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3166501,
+   "catolica": "83,2",
+   "evangelica": "14,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3166600,
+   "catolica": "85,2",
+   "evangelica": "9,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3166709,
+   "catolica": "69,7",
+   "evangelica": "20,4",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 3166808,
+   "catolica": "84,6",
+   "evangelica": "12,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3166907,
+   "catolica": "73,7",
+   "evangelica": "21,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3166956,
+   "catolica": "93,0",
+   "evangelica": "5,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3167004,
+   "catolica": "90,8",
+   "evangelica": "7,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3167103,
+   "catolica": "87,2",
+   "evangelica": "10,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3167202,
+   "catolica": "74,2",
+   "evangelica": "17,0",
+   "espirita": "2,6",
+   "umbanda": "0,2",
+   "outras": "2,0",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3167301,
+   "catolica": "87,1",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "6,8",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3167400,
+   "catolica": "84,0",
+   "evangelica": "12,0",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3167509,
+   "catolica": "71,1",
+   "evangelica": "24,4",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3167608,
+   "catolica": "80,8",
+   "evangelica": "14,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3167707,
+   "catolica": "66,3",
+   "evangelica": "23,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 3167806,
+   "catolica": "77,3",
+   "evangelica": "17,7",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3167905,
+   "catolica": "92,0",
+   "evangelica": "7,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3168002,
+   "catolica": "83,6",
+   "evangelica": "12,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3168051,
+   "catolica": "61,8",
+   "evangelica": "27,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 3168101,
+   "catolica": "73,9",
+   "evangelica": "19,6",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3168200,
+   "catolica": "81,9",
+   "evangelica": "10,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 3168309,
+   "catolica": "79,8",
+   "evangelica": "15,4",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3168408,
+   "catolica": "73,4",
+   "evangelica": "21,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3168507,
+   "catolica": "85,1",
+   "evangelica": "10,5",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3168606,
+   "catolica": "61,3",
+   "evangelica": "29,7",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 3168705,
+   "catolica": "46,6",
+   "evangelica": "40,9",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "10,0"
+ },
+ {
+   "codigo": 3168804,
+   "catolica": "76,5",
+   "evangelica": "13,9",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3168903,
+   "catolica": "90,6",
+   "evangelica": "8,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 3169000,
+   "catolica": "84,5",
+   "evangelica": "10,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3169059,
+   "catolica": "96,3",
+   "evangelica": "2,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3169109,
+   "catolica": "87,3",
+   "evangelica": "10,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3169208,
+   "catolica": "73,4",
+   "evangelica": "17,3",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 3169307,
+   "catolica": "75,9",
+   "evangelica": "18,3",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3169356,
+   "catolica": "73,2",
+   "evangelica": "19,6",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3169406,
+   "catolica": "85,2",
+   "evangelica": "11,8",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3169505,
+   "catolica": "57,7",
+   "evangelica": "29,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 3169604,
+   "catolica": "64,7",
+   "evangelica": "14,9",
+   "espirita": "10,0",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 3169703,
+   "catolica": "76,9",
+   "evangelica": "15,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3169802,
+   "catolica": "76,4",
+   "evangelica": "18,2",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3169901,
+   "catolica": "77,2",
+   "evangelica": "14,9",
+   "espirita": "3,0",
+   "umbanda": "0,2",
+   "outras": "1,2",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3170008,
+   "catolica": "93,0",
+   "evangelica": "5,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3170057,
+   "catolica": "76,2",
+   "evangelica": "18,4",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3170107,
+   "catolica": "60,9",
+   "evangelica": "12,8",
+   "espirita": "15,6",
+   "umbanda": "0,9",
+   "outras": "1,3",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 3170206,
+   "catolica": "54,7",
+   "evangelica": "25,2",
+   "espirita": "7,4",
+   "umbanda": "0,3",
+   "outras": "3,5",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 3170305,
+   "catolica": "72,9",
+   "evangelica": "18,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 3170404,
+   "catolica": "78,3",
+   "evangelica": "16,2",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3170438,
+   "catolica": "79,7",
+   "evangelica": "16,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3170479,
+   "catolica": "78,6",
+   "evangelica": "17,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3170503,
+   "catolica": "78,0",
+   "evangelica": "19,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3170529,
+   "catolica": "83,4",
+   "evangelica": "14,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3170578,
+   "catolica": "55,3",
+   "evangelica": "29,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "14,6"
+ },
+ {
+   "codigo": 3170602,
+   "catolica": "67,0",
+   "evangelica": "22,1",
+   "espirita": "4,9",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3170651,
+   "catolica": "92,5",
+   "evangelica": "4,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 3170701,
+   "catolica": "79,4",
+   "evangelica": "14,2",
+   "espirita": "1,9",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3170750,
+   "catolica": "88,6",
+   "evangelica": "8,6",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3170800,
+   "catolica": "80,6",
+   "evangelica": "14,6",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3170909,
+   "catolica": "82,4",
+   "evangelica": "11,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3171006,
+   "catolica": "82,8",
+   "evangelica": "12,3",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3171030,
+   "catolica": "90,3",
+   "evangelica": "4,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3171071,
+   "catolica": "92,8",
+   "evangelica": "6,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 3171105,
+   "catolica": "70,3",
+   "evangelica": "12,5",
+   "espirita": "12,4",
+   "umbanda": "0,2",
+   "outras": "0,1",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3171154,
+   "catolica": "95,2",
+   "evangelica": "4,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 3171204,
+   "catolica": "51,7",
+   "evangelica": "34,3",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 3171303,
+   "catolica": "81,3",
+   "evangelica": "11,6",
+   "espirita": "1,9",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3171402,
+   "catolica": "85,4",
+   "evangelica": "11,6",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3171501,
+   "catolica": "62,6",
+   "evangelica": "25,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 3171600,
+   "catolica": "85,4",
+   "evangelica": "12,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3171709,
+   "catolica": "91,8",
+   "evangelica": "7,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3171808,
+   "catolica": "88,7",
+   "evangelica": "8,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3171907,
+   "catolica": "86,6",
+   "evangelica": "12,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3172004,
+   "catolica": "80,3",
+   "evangelica": "14,8",
+   "espirita": "1,8",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3172103,
+   "catolica": "69,5",
+   "evangelica": "18,0",
+   "espirita": "0,9",
+   "umbanda": "0,4",
+   "outras": "2,0",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 3172202,
+   "catolica": "87,6",
+   "evangelica": "11,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3200102,
+   "catolica": "56,0",
+   "evangelica": "37,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3200136,
+   "catolica": "79,8",
+   "evangelica": "16,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3200169,
+   "catolica": "45,5",
+   "evangelica": "38,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "14,5"
+ },
+ {
+   "codigo": 3200201,
+   "catolica": "54,9",
+   "evangelica": "27,4",
+   "espirita": "6,3",
+   "umbanda": "1,5",
+   "outras": "0,6",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 3200300,
+   "catolica": "89,5",
+   "evangelica": "8,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3200359,
+   "catolica": "45,4",
+   "evangelica": "35,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "19,1"
+ },
+ {
+   "codigo": 3200409,
+   "catolica": "59,8",
+   "evangelica": "27,8",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 3200508,
+   "catolica": "70,6",
+   "evangelica": "23,2",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3200607,
+   "catolica": "54,9",
+   "evangelica": "33,0",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 3200706,
+   "catolica": "63,1",
+   "evangelica": "29,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 3200805,
+   "catolica": "50,9",
+   "evangelica": "38,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 3200904,
+   "catolica": "42,3",
+   "evangelica": "40,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "15,3"
+ },
+ {
+   "codigo": 3201001,
+   "catolica": "69,5",
+   "evangelica": "22,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3201100,
+   "catolica": "67,1",
+   "evangelica": "24,5",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3201159,
+   "catolica": "48,2",
+   "evangelica": "28,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "20,2"
+ },
+ {
+   "codigo": 3201209,
+   "catolica": "59,0",
+   "evangelica": "31,9",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 3201308,
+   "catolica": "41,4",
+   "evangelica": "41,0",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "15,3"
+ },
+ {
+   "codigo": 3201407,
+   "catolica": "86,8",
+   "evangelica": "10,6",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3201506,
+   "catolica": "69,8",
+   "evangelica": "22,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3201605,
+   "catolica": "51,9",
+   "evangelica": "30,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "4,0",
+   "sem": "13,7"
+ },
+ {
+   "codigo": 3201704,
+   "catolica": "80,5",
+   "evangelica": "14,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3201803,
+   "catolica": "53,0",
+   "evangelica": "32,9",
+   "espirita": "3,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 3201902,
+   "catolica": "55,2",
+   "evangelica": "42,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3202009,
+   "catolica": "66,4",
+   "evangelica": "21,9",
+   "espirita": "2,3",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 3202108,
+   "catolica": "66,7",
+   "evangelica": "25,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3202207,
+   "catolica": "61,7",
+   "evangelica": "28,0",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 3202256,
+   "catolica": "89,4",
+   "evangelica": "10,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 3202306,
+   "catolica": "55,0",
+   "evangelica": "28,9",
+   "espirita": "3,3",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 3202405,
+   "catolica": "53,7",
+   "evangelica": "31,7",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 3202454,
+   "catolica": "47,1",
+   "evangelica": "31,6",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "19,5"
+ },
+ {
+   "codigo": 3202504,
+   "catolica": "66,4",
+   "evangelica": "22,8",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 3202553,
+   "catolica": "46,0",
+   "evangelica": "33,1",
+   "espirita": "3,9",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "16,2"
+ },
+ {
+   "codigo": 3202603,
+   "catolica": "82,5",
+   "evangelica": "15,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3202652,
+   "catolica": "45,0",
+   "evangelica": "38,2",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "13,5"
+ },
+ {
+   "codigo": 3202702,
+   "catolica": "63,0",
+   "evangelica": "33,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3202801,
+   "catolica": "35,4",
+   "evangelica": "43,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "18,5"
+ },
+ {
+   "codigo": 3202900,
+   "catolica": "62,9",
+   "evangelica": "34,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3203007,
+   "catolica": "49,5",
+   "evangelica": "34,7",
+   "espirita": "2,2",
+   "umbanda": "0,2",
+   "outras": "1,1",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 3203056,
+   "catolica": "70,4",
+   "evangelica": "22,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3203106,
+   "catolica": "59,3",
+   "evangelica": "27,9",
+   "espirita": "2,2",
+   "umbanda": "0,3",
+   "outras": "0,5",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 3203130,
+   "catolica": "73,0",
+   "evangelica": "21,6",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3203163,
+   "catolica": "25,8",
+   "evangelica": "71,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3203205,
+   "catolica": "57,6",
+   "evangelica": "30,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 3203304,
+   "catolica": "42,9",
+   "evangelica": "37,0",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "19,0"
+ },
+ {
+   "codigo": 3203320,
+   "catolica": "35,3",
+   "evangelica": "47,1",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "15,8"
+ },
+ {
+   "codigo": 3203346,
+   "catolica": "68,4",
+   "evangelica": "27,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3203353,
+   "catolica": "85,5",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3203403,
+   "catolica": "74,9",
+   "evangelica": "16,7",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 3203502,
+   "catolica": "68,3",
+   "evangelica": "23,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3203601,
+   "catolica": "70,9",
+   "evangelica": "23,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3203700,
+   "catolica": "73,2",
+   "evangelica": "21,0",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3203809,
+   "catolica": "77,3",
+   "evangelica": "16,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3203908,
+   "catolica": "71,1",
+   "evangelica": "22,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3204005,
+   "catolica": "46,8",
+   "evangelica": "42,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 3204054,
+   "catolica": "51,6",
+   "evangelica": "31,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "14,9"
+ },
+ {
+   "codigo": 3204104,
+   "catolica": "65,5",
+   "evangelica": "23,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "9,9"
+ },
+ {
+   "codigo": 3204203,
+   "catolica": "52,9",
+   "evangelica": "32,3",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "2,8",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 3204252,
+   "catolica": "66,4",
+   "evangelica": "22,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 3204302,
+   "catolica": "35,6",
+   "evangelica": "39,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "24,7"
+ },
+ {
+   "codigo": 3204351,
+   "catolica": "85,3",
+   "evangelica": "12,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3204401,
+   "catolica": "62,2",
+   "evangelica": "31,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3204500,
+   "catolica": "60,6",
+   "evangelica": "35,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3204559,
+   "catolica": "21,0",
+   "evangelica": "77,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 3204609,
+   "catolica": "78,0",
+   "evangelica": "18,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3204658,
+   "catolica": "73,7",
+   "evangelica": "22,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3204708,
+   "catolica": "68,5",
+   "evangelica": "25,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3204807,
+   "catolica": "60,8",
+   "evangelica": "29,3",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 3204906,
+   "catolica": "54,9",
+   "evangelica": "33,2",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "2,0",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 3204955,
+   "catolica": "82,3",
+   "evangelica": "15,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3205002,
+   "catolica": "38,7",
+   "evangelica": "40,5",
+   "espirita": "1,0",
+   "umbanda": "0,2",
+   "outras": "2,4",
+   "sem": "17,2"
+ },
+ {
+   "codigo": 3205010,
+   "catolica": "59,5",
+   "evangelica": "29,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 3205036,
+   "catolica": "76,5",
+   "evangelica": "19,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3205069,
+   "catolica": "82,7",
+   "evangelica": "13,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3205101,
+   "catolica": "45,6",
+   "evangelica": "34,4",
+   "espirita": "0,8",
+   "umbanda": "0,2",
+   "outras": "1,3",
+   "sem": "17,7"
+ },
+ {
+   "codigo": 3205150,
+   "catolica": "43,0",
+   "evangelica": "49,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3205176,
+   "catolica": "62,7",
+   "evangelica": "30,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3205200,
+   "catolica": "48,5",
+   "evangelica": "35,9",
+   "espirita": "1,8",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 3205309,
+   "catolica": "54,1",
+   "evangelica": "29,6",
+   "espirita": "2,7",
+   "umbanda": "0,2",
+   "outras": "2,3",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 3300100,
+   "catolica": "41,4",
+   "evangelica": "35,6",
+   "espirita": "1,8",
+   "umbanda": "0,2",
+   "outras": "4,5",
+   "sem": "16,5"
+ },
+ {
+   "codigo": 3300159,
+   "catolica": "49,4",
+   "evangelica": "35,3",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "12,6"
+ },
+ {
+   "codigo": 3300209,
+   "catolica": "39,3",
+   "evangelica": "34,0",
+   "espirita": "3,4",
+   "umbanda": "0,7",
+   "outras": "3,2",
+   "sem": "19,4"
+ },
+ {
+   "codigo": 3300225,
+   "catolica": "65,3",
+   "evangelica": "18,6",
+   "espirita": "9,2",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3300233,
+   "catolica": "30,9",
+   "evangelica": "39,6",
+   "espirita": "2,1",
+   "umbanda": "0,2",
+   "outras": "3,4",
+   "sem": "23,8"
+ },
+ {
+   "codigo": 3300258,
+   "catolica": "46,2",
+   "evangelica": "33,3",
+   "espirita": "1,6",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "16,7"
+ },
+ {
+   "codigo": 3300308,
+   "catolica": "54,9",
+   "evangelica": "28,7",
+   "espirita": "4,8",
+   "umbanda": "1,1",
+   "outras": "1,5",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 3300407,
+   "catolica": "54,8",
+   "evangelica": "30,5",
+   "espirita": "2,6",
+   "umbanda": "0,3",
+   "outras": "2,5",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 3300456,
+   "catolica": "32,5",
+   "evangelica": "37,1",
+   "espirita": "1,8",
+   "umbanda": "0,8",
+   "outras": "4,4",
+   "sem": "23,4"
+ },
+ {
+   "codigo": 3300506,
+   "catolica": "70,5",
+   "evangelica": "19,6",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 3300605,
+   "catolica": "67,3",
+   "evangelica": "25,0",
+   "espirita": "1,5",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3300704,
+   "catolica": "33,9",
+   "evangelica": "41,9",
+   "espirita": "2,5",
+   "umbanda": "0,5",
+   "outras": "3,6",
+   "sem": "17,6"
+ },
+ {
+   "codigo": 3300803,
+   "catolica": "32,5",
+   "evangelica": "38,5",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "2,6",
+   "sem": "25,6"
+ },
+ {
+   "codigo": 3300902,
+   "catolica": "60,7",
+   "evangelica": "27,7",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 3300936,
+   "catolica": "40,1",
+   "evangelica": "37,6",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "3,4",
+   "sem": "18,2"
+ },
+ {
+   "codigo": 3300951,
+   "catolica": "59,9",
+   "evangelica": "27,5",
+   "espirita": "1,8",
+   "umbanda": "0,5",
+   "outras": "1,7",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 3301009,
+   "catolica": "50,2",
+   "evangelica": "31,1",
+   "espirita": "2,4",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "14,3"
+ },
+ {
+   "codigo": 3301108,
+   "catolica": "66,9",
+   "evangelica": "22,0",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 3301157,
+   "catolica": "32,2",
+   "evangelica": "38,6",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "26,9"
+ },
+ {
+   "codigo": 3301207,
+   "catolica": "61,7",
+   "evangelica": "23,4",
+   "espirita": "4,6",
+   "umbanda": "0,3",
+   "outras": "0,7",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 3301306,
+   "catolica": "32,8",
+   "evangelica": "40,8",
+   "espirita": "2,0",
+   "umbanda": "0,3",
+   "outras": "2,8",
+   "sem": "21,4"
+ },
+ {
+   "codigo": 3301405,
+   "catolica": "45,2",
+   "evangelica": "35,7",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "16,9"
+ },
+ {
+   "codigo": 3301504,
+   "catolica": "60,2",
+   "evangelica": "29,3",
+   "espirita": "1,6",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 3301603,
+   "catolica": "69,5",
+   "evangelica": "19,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 3301702,
+   "catolica": "35,1",
+   "evangelica": "36,8",
+   "espirita": "2,2",
+   "umbanda": "0,8",
+   "outras": "4,2",
+   "sem": "20,9"
+ },
+ {
+   "codigo": 3301801,
+   "catolica": "46,5",
+   "evangelica": "31,3",
+   "espirita": "1,6",
+   "umbanda": "0,6",
+   "outras": "2,1",
+   "sem": "17,9"
+ },
+ {
+   "codigo": 3301850,
+   "catolica": "35,8",
+   "evangelica": "33,7",
+   "espirita": "1,8",
+   "umbanda": "0,7",
+   "outras": "2,0",
+   "sem": "26,0"
+ },
+ {
+   "codigo": 3301876,
+   "catolica": "40,2",
+   "evangelica": "32,3",
+   "espirita": "4,1",
+   "umbanda": "0,4",
+   "outras": "3,2",
+   "sem": "19,9"
+ },
+ {
+   "codigo": 3301900,
+   "catolica": "33,5",
+   "evangelica": "39,1",
+   "espirita": "1,5",
+   "umbanda": "0,6",
+   "outras": "2,9",
+   "sem": "22,5"
+ },
+ {
+   "codigo": 3302007,
+   "catolica": "32,5",
+   "evangelica": "41,4",
+   "espirita": "1,4",
+   "umbanda": "0,3",
+   "outras": "3,5",
+   "sem": "20,9"
+ },
+ {
+   "codigo": 3302056,
+   "catolica": "45,1",
+   "evangelica": "39,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 3302106,
+   "catolica": "55,8",
+   "evangelica": "32,8",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 3302205,
+   "catolica": "52,9",
+   "evangelica": "36,9",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 3302254,
+   "catolica": "55,6",
+   "evangelica": "26,6",
+   "espirita": "1,5",
+   "umbanda": "0,3",
+   "outras": "3,7",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 3302270,
+   "catolica": "26,3",
+   "evangelica": "38,2",
+   "espirita": "1,0",
+   "umbanda": "0,3",
+   "outras": "4,0",
+   "sem": "30,2"
+ },
+ {
+   "codigo": 3302304,
+   "catolica": "77,0",
+   "evangelica": "17,0",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3302403,
+   "catolica": "37,0",
+   "evangelica": "34,9",
+   "espirita": "3,8",
+   "umbanda": "0,3",
+   "outras": "3,5",
+   "sem": "20,5"
+ },
+ {
+   "codigo": 3302452,
+   "catolica": "74,9",
+   "evangelica": "19,1",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3302502,
+   "catolica": "39,7",
+   "evangelica": "34,5",
+   "espirita": "2,2",
+   "umbanda": "0,9",
+   "outras": "2,5",
+   "sem": "20,2"
+ },
+ {
+   "codigo": 3302601,
+   "catolica": "42,8",
+   "evangelica": "32,0",
+   "espirita": "2,8",
+   "umbanda": "0,3",
+   "outras": "3,2",
+   "sem": "18,9"
+ },
+ {
+   "codigo": 3302700,
+   "catolica": "46,8",
+   "evangelica": "26,7",
+   "espirita": "5,0",
+   "umbanda": "1,2",
+   "outras": "4,3",
+   "sem": "16,0"
+ },
+ {
+   "codigo": 3302809,
+   "catolica": "56,2",
+   "evangelica": "23,6",
+   "espirita": "3,4",
+   "umbanda": "0,8",
+   "outras": "3,2",
+   "sem": "12,9"
+ },
+ {
+   "codigo": 3302858,
+   "catolica": "34,1",
+   "evangelica": "37,8",
+   "espirita": "3,4",
+   "umbanda": "1,1",
+   "outras": "4,5",
+   "sem": "19,1"
+ },
+ {
+   "codigo": 3302908,
+   "catolica": "44,0",
+   "evangelica": "27,3",
+   "espirita": "6,8",
+   "umbanda": "1,4",
+   "outras": "2,5",
+   "sem": "18,0"
+ },
+ {
+   "codigo": 3303005,
+   "catolica": "75,8",
+   "evangelica": "18,0",
+   "espirita": "0,7",
+   "umbanda": "0,2",
+   "outras": "0,7",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3303104,
+   "catolica": "64,8",
+   "evangelica": "26,1",
+   "espirita": "2,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3303203,
+   "catolica": "39,2",
+   "evangelica": "33,0",
+   "espirita": "3,9",
+   "umbanda": "1,4",
+   "outras": "4,4",
+   "sem": "18,1"
+ },
+ {
+   "codigo": 3303302,
+   "catolica": "53,0",
+   "evangelica": "20,1",
+   "espirita": "7,1",
+   "umbanda": "1,0",
+   "outras": "3,7",
+   "sem": "15,1"
+ },
+ {
+   "codigo": 3303401,
+   "catolica": "47,7",
+   "evangelica": "28,2",
+   "espirita": "3,5",
+   "umbanda": "0,3",
+   "outras": "4,8",
+   "sem": "15,5"
+ },
+ {
+   "codigo": 3303500,
+   "catolica": "33,1",
+   "evangelica": "36,9",
+   "espirita": "2,6",
+   "umbanda": "0,9",
+   "outras": "4,6",
+   "sem": "21,9"
+ },
+ {
+   "codigo": 3303609,
+   "catolica": "34,0",
+   "evangelica": "35,9",
+   "espirita": "2,0",
+   "umbanda": "0,4",
+   "outras": "3,3",
+   "sem": "24,4"
+ },
+ {
+   "codigo": 3303708,
+   "catolica": "61,5",
+   "evangelica": "27,4",
+   "espirita": "3,0",
+   "umbanda": "0,4",
+   "outras": "1,4",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3303807,
+   "catolica": "46,3",
+   "evangelica": "31,9",
+   "espirita": "1,9",
+   "umbanda": "0,4",
+   "outras": "3,6",
+   "sem": "15,9"
+ },
+ {
+   "codigo": 3303856,
+   "catolica": "35,2",
+   "evangelica": "46,2",
+   "espirita": "2,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "14,8"
+ },
+ {
+   "codigo": 3303906,
+   "catolica": "57,0",
+   "evangelica": "26,7",
+   "espirita": "4,3",
+   "umbanda": "0,3",
+   "outras": "2,2",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 3303955,
+   "catolica": "50,1",
+   "evangelica": "29,6",
+   "espirita": "3,4",
+   "umbanda": "1,3",
+   "outras": "2,8",
+   "sem": "12,8"
+ },
+ {
+   "codigo": 3304003,
+   "catolica": "47,5",
+   "evangelica": "29,6",
+   "espirita": "3,8",
+   "umbanda": "0,1",
+   "outras": "2,6",
+   "sem": "16,4"
+ },
+ {
+   "codigo": 3304102,
+   "catolica": "66,2",
+   "evangelica": "24,4",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 3304110,
+   "catolica": "58,9",
+   "evangelica": "31,1",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3304128,
+   "catolica": "73,3",
+   "evangelica": "19,7",
+   "espirita": "1,6",
+   "umbanda": "0,3",
+   "outras": "1,3",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3304144,
+   "catolica": "26,3",
+   "evangelica": "42,8",
+   "espirita": "1,4",
+   "umbanda": "0,4",
+   "outras": "5,1",
+   "sem": "24,0"
+ },
+ {
+   "codigo": 3304151,
+   "catolica": "58,2",
+   "evangelica": "23,5",
+   "espirita": "1,5",
+   "umbanda": "0,4",
+   "outras": "2,6",
+   "sem": "13,8"
+ },
+ {
+   "codigo": 3304201,
+   "catolica": "61,5",
+   "evangelica": "24,7",
+   "espirita": "2,5",
+   "umbanda": "0,2",
+   "outras": "2,9",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 3304300,
+   "catolica": "37,4",
+   "evangelica": "38,3",
+   "espirita": "1,6",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "21,5"
+ },
+ {
+   "codigo": 3304409,
+   "catolica": "69,6",
+   "evangelica": "20,6",
+   "espirita": "2,3",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3304508,
+   "catolica": "58,0",
+   "evangelica": "17,7",
+   "espirita": "1,7",
+   "umbanda": "0,2",
+   "outras": "11,3",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 3304524,
+   "catolica": "38,1",
+   "evangelica": "37,0",
+   "espirita": "4,3",
+   "umbanda": "0,4",
+   "outras": "4,5",
+   "sem": "15,7"
+ },
+ {
+   "codigo": 3304557,
+   "catolica": "51,1",
+   "evangelica": "23,4",
+   "espirita": "5,9",
+   "umbanda": "1,3",
+   "outras": "4,1",
+   "sem": "14,2"
+ },
+ {
+   "codigo": 3304607,
+   "catolica": "64,7",
+   "evangelica": "25,2",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 3304706,
+   "catolica": "55,5",
+   "evangelica": "32,8",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 3304755,
+   "catolica": "41,6",
+   "evangelica": "36,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "20,6"
+ },
+ {
+   "codigo": 3304805,
+   "catolica": "40,9",
+   "evangelica": "38,2",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "17,6"
+ },
+ {
+   "codigo": 3304904,
+   "catolica": "41,8",
+   "evangelica": "32,5",
+   "espirita": "2,8",
+   "umbanda": "0,8",
+   "outras": "4,0",
+   "sem": "18,2"
+ },
+ {
+   "codigo": 3305000,
+   "catolica": "61,5",
+   "evangelica": "21,4",
+   "espirita": "2,3",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 3305109,
+   "catolica": "36,6",
+   "evangelica": "35,5",
+   "espirita": "2,6",
+   "umbanda": "1,1",
+   "outras": "3,8",
+   "sem": "20,4"
+ },
+ {
+   "codigo": 3305133,
+   "catolica": "66,2",
+   "evangelica": "25,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 3305158,
+   "catolica": "40,9",
+   "evangelica": "39,0",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "4,1",
+   "sem": "15,1"
+ },
+ {
+   "codigo": 3305208,
+   "catolica": "32,2",
+   "evangelica": "42,9",
+   "espirita": "2,3",
+   "umbanda": "0,4",
+   "outras": "2,7",
+   "sem": "19,6"
+ },
+ {
+   "codigo": 3305307,
+   "catolica": "67,7",
+   "evangelica": "26,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3305406,
+   "catolica": "65,5",
+   "evangelica": "25,6",
+   "espirita": "1,6",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3305505,
+   "catolica": "42,5",
+   "evangelica": "30,2",
+   "espirita": "3,2",
+   "umbanda": "0,5",
+   "outras": "3,6",
+   "sem": "20,0"
+ },
+ {
+   "codigo": 3305554,
+   "catolica": "27,4",
+   "evangelica": "44,0",
+   "espirita": "1,4",
+   "umbanda": "0,5",
+   "outras": "3,7",
+   "sem": "23,0"
+ },
+ {
+   "codigo": 3305604,
+   "catolica": "26,9",
+   "evangelica": "45,7",
+   "espirita": "0,8",
+   "umbanda": "0,3",
+   "outras": "1,3",
+   "sem": "25,0"
+ },
+ {
+   "codigo": 3305703,
+   "catolica": "50,6",
+   "evangelica": "31,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "16,2"
+ },
+ {
+   "codigo": 3305752,
+   "catolica": "30,7",
+   "evangelica": "41,1",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "25,6"
+ },
+ {
+   "codigo": 3305802,
+   "catolica": "42,0",
+   "evangelica": "34,0",
+   "espirita": "2,9",
+   "umbanda": "0,3",
+   "outras": "3,6",
+   "sem": "17,3"
+ },
+ {
+   "codigo": 3305901,
+   "catolica": "52,6",
+   "evangelica": "31,9",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "14,1"
+ },
+ {
+   "codigo": 3306008,
+   "catolica": "61,2",
+   "evangelica": "27,1",
+   "espirita": "3,3",
+   "umbanda": "0,4",
+   "outras": "2,5",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3306107,
+   "catolica": "69,9",
+   "evangelica": "16,8",
+   "espirita": "5,7",
+   "umbanda": "1,0",
+   "outras": "1,1",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3306156,
+   "catolica": "67,2",
+   "evangelica": "26,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3306206,
+   "catolica": "59,6",
+   "evangelica": "25,7",
+   "espirita": "3,5",
+   "umbanda": "1,1",
+   "outras": "1,9",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 3306305,
+   "catolica": "49,0",
+   "evangelica": "33,4",
+   "espirita": "5,1",
+   "umbanda": "0,5",
+   "outras": "2,1",
+   "sem": "9,9"
+ },
+ {
+   "codigo": 3500105,
+   "catolica": "74,2",
+   "evangelica": "17,4",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3500204,
+   "catolica": "64,4",
+   "evangelica": "22,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "10,8",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3500303,
+   "catolica": "68,9",
+   "evangelica": "20,5",
+   "espirita": "1,6",
+   "umbanda": "0,1",
+   "outras": "3,2",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3500402,
+   "catolica": "69,1",
+   "evangelica": "21,3",
+   "espirita": "3,5",
+   "umbanda": "0,2",
+   "outras": "1,4",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3500501,
+   "catolica": "69,8",
+   "evangelica": "19,1",
+   "espirita": "2,7",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 3500550,
+   "catolica": "72,6",
+   "evangelica": "17,2",
+   "espirita": "1,3",
+   "umbanda": "0,2",
+   "outras": "3,2",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3500600,
+   "catolica": "67,8",
+   "evangelica": "16,1",
+   "espirita": "4,6",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 3500709,
+   "catolica": "49,9",
+   "evangelica": "35,9",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "3,8",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 3500758,
+   "catolica": "66,3",
+   "evangelica": "22,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "5,4",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3500808,
+   "catolica": "81,2",
+   "evangelica": "15,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3500907,
+   "catolica": "74,0",
+   "evangelica": "19,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3501004,
+   "catolica": "72,4",
+   "evangelica": "19,9",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3501103,
+   "catolica": "76,7",
+   "evangelica": "17,6",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3501152,
+   "catolica": "66,7",
+   "evangelica": "24,3",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "3,1",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3501202,
+   "catolica": "72,7",
+   "evangelica": "15,7",
+   "espirita": "2,8",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3501301,
+   "catolica": "68,1",
+   "evangelica": "22,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "3,9",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3501400,
+   "catolica": "44,3",
+   "evangelica": "13,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,8",
+   "sem": "38,5"
+ },
+ {
+   "codigo": 3501509,
+   "catolica": "50,6",
+   "evangelica": "44,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3501608,
+   "catolica": "60,0",
+   "evangelica": "27,0",
+   "espirita": "3,0",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3501707,
+   "catolica": "64,6",
+   "evangelica": "23,3",
+   "espirita": "1,3",
+   "umbanda": "0,2",
+   "outras": "2,9",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 3501806,
+   "catolica": "80,1",
+   "evangelica": "15,2",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3501905,
+   "catolica": "74,8",
+   "evangelica": "14,3",
+   "espirita": "3,4",
+   "umbanda": "1,4",
+   "outras": "2,2",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3502002,
+   "catolica": "65,2",
+   "evangelica": "26,5",
+   "espirita": "2,7",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3502101,
+   "catolica": "57,4",
+   "evangelica": "26,1",
+   "espirita": "3,8",
+   "umbanda": "0,1",
+   "outras": "2,9",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 3502200,
+   "catolica": "74,8",
+   "evangelica": "17,6",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3502309,
+   "catolica": "67,6",
+   "evangelica": "22,4",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 3502408,
+   "catolica": "81,0",
+   "evangelica": "16,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3502507,
+   "catolica": "85,3",
+   "evangelica": "11,8",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "0,1",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3502606,
+   "catolica": "70,7",
+   "evangelica": "15,5",
+   "espirita": "6,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3502705,
+   "catolica": "63,5",
+   "evangelica": "27,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3502754,
+   "catolica": "55,1",
+   "evangelica": "32,0",
+   "espirita": "1,0",
+   "umbanda": "0,2",
+   "outras": "3,2",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 3502804,
+   "catolica": "54,3",
+   "evangelica": "29,3",
+   "espirita": "3,4",
+   "umbanda": "0,2",
+   "outras": "3,0",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 3502903,
+   "catolica": "55,5",
+   "evangelica": "29,7",
+   "espirita": "1,8",
+   "umbanda": "0,6",
+   "outras": "4,8",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3503000,
+   "catolica": "69,9",
+   "evangelica": "17,8",
+   "espirita": "7,7",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3503109,
+   "catolica": "77,5",
+   "evangelica": "18,4",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3503158,
+   "catolica": "69,9",
+   "evangelica": "18,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3503208,
+   "catolica": "61,2",
+   "evangelica": "21,1",
+   "espirita": "7,2",
+   "umbanda": "0,5",
+   "outras": "3,2",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 3503307,
+   "catolica": "62,7",
+   "evangelica": "26,0",
+   "espirita": "2,1",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 3503356,
+   "catolica": "65,5",
+   "evangelica": "28,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3503406,
+   "catolica": "73,6",
+   "evangelica": "21,3",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3503505,
+   "catolica": "78,4",
+   "evangelica": "20,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3503604,
+   "catolica": "59,9",
+   "evangelica": "27,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 3503703,
+   "catolica": "71,6",
+   "evangelica": "19,3",
+   "espirita": "1,4",
+   "umbanda": "0,2",
+   "outras": "0,6",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 3503802,
+   "catolica": "63,0",
+   "evangelica": "27,2",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 3503901,
+   "catolica": "53,4",
+   "evangelica": "29,0",
+   "espirita": "2,7",
+   "umbanda": "0,4",
+   "outras": "4,2",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 3503950,
+   "catolica": "76,1",
+   "evangelica": "21,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3504008,
+   "catolica": "61,2",
+   "evangelica": "28,9",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "2,6",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3504107,
+   "catolica": "62,7",
+   "evangelica": "21,8",
+   "espirita": "4,8",
+   "umbanda": "0,3",
+   "outras": "3,8",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3504206,
+   "catolica": "61,5",
+   "evangelica": "28,5",
+   "espirita": "3,2",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3504305,
+   "catolica": "54,0",
+   "evangelica": "30,1",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "14,1"
+ },
+ {
+   "codigo": 3504404,
+   "catolica": "54,2",
+   "evangelica": "23,4",
+   "espirita": "1,9",
+   "umbanda": "0,2",
+   "outras": "1,1",
+   "sem": "19,2"
+ },
+ {
+   "codigo": 3504503,
+   "catolica": "69,5",
+   "evangelica": "19,9",
+   "espirita": "2,4",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3504602,
+   "catolica": "64,3",
+   "evangelica": "23,7",
+   "espirita": "4,0",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3504701,
+   "catolica": "45,4",
+   "evangelica": "20,4",
+   "espirita": "0,7",
+   "umbanda": "0,2",
+   "outras": "4,0",
+   "sem": "29,3"
+ },
+ {
+   "codigo": 3504800,
+   "catolica": "70,4",
+   "evangelica": "19,2",
+   "espirita": "3,4",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3504909,
+   "catolica": "68,5",
+   "evangelica": "20,7",
+   "espirita": "2,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 3505005,
+   "catolica": "76,1",
+   "evangelica": "16,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3505104,
+   "catolica": "51,2",
+   "evangelica": "32,0",
+   "espirita": "0,7",
+   "umbanda": "0,3",
+   "outras": "2,6",
+   "sem": "13,2"
+ },
+ {
+   "codigo": 3505203,
+   "catolica": "77,1",
+   "evangelica": "14,1",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3505302,
+   "catolica": "72,6",
+   "evangelica": "17,0",
+   "espirita": "3,2",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3505351,
+   "catolica": "58,9",
+   "evangelica": "34,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3505401,
+   "catolica": "52,2",
+   "evangelica": "33,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "14,2"
+ },
+ {
+   "codigo": 3505500,
+   "catolica": "67,5",
+   "evangelica": "19,8",
+   "espirita": "3,9",
+   "umbanda": "0,3",
+   "outras": "2,7",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3505609,
+   "catolica": "52,6",
+   "evangelica": "27,8",
+   "espirita": "0,6",
+   "umbanda": "0,2",
+   "outras": "2,0",
+   "sem": "16,8"
+ },
+ {
+   "codigo": 3505708,
+   "catolica": "50,5",
+   "evangelica": "33,1",
+   "espirita": "1,6",
+   "umbanda": "0,2",
+   "outras": "3,1",
+   "sem": "11,5"
+ },
+ {
+   "codigo": 3505807,
+   "catolica": "62,1",
+   "evangelica": "26,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 3505906,
+   "catolica": "76,5",
+   "evangelica": "14,7",
+   "espirita": "2,6",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3506003,
+   "catolica": "51,7",
+   "evangelica": "31,3",
+   "espirita": "3,9",
+   "umbanda": "0,3",
+   "outras": "3,2",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 3506102,
+   "catolica": "62,7",
+   "evangelica": "25,5",
+   "espirita": "4,3",
+   "umbanda": "0,3",
+   "outras": "1,3",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 3506201,
+   "catolica": "65,3",
+   "evangelica": "27,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3506300,
+   "catolica": "72,8",
+   "evangelica": "22,4",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3506359,
+   "catolica": "54,7",
+   "evangelica": "27,4",
+   "espirita": "2,9",
+   "umbanda": "0,2",
+   "outras": "3,6",
+   "sem": "11,2"
+ },
+ {
+   "codigo": 3506409,
+   "catolica": "69,1",
+   "evangelica": "23,3",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3506508,
+   "catolica": "61,8",
+   "evangelica": "23,9",
+   "espirita": "3,6",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 3506607,
+   "catolica": "57,1",
+   "evangelica": "27,6",
+   "espirita": "1,3",
+   "umbanda": "0,3",
+   "outras": "3,6",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 3506706,
+   "catolica": "70,5",
+   "evangelica": "21,0",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3506805,
+   "catolica": "73,6",
+   "evangelica": "17,3",
+   "espirita": "2,5",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3506904,
+   "catolica": "65,9",
+   "evangelica": "26,2",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3507001,
+   "catolica": "63,2",
+   "evangelica": "25,7",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 3507100,
+   "catolica": "67,9",
+   "evangelica": "20,9",
+   "espirita": "1,1",
+   "umbanda": "0,3",
+   "outras": "3,2",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3507159,
+   "catolica": "69,4",
+   "evangelica": "25,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 3507209,
+   "catolica": "68,8",
+   "evangelica": "27,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3507308,
+   "catolica": "72,4",
+   "evangelica": "22,4",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "1,0",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3507407,
+   "catolica": "81,4",
+   "evangelica": "14,0",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "0,6",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3507456,
+   "catolica": "55,0",
+   "evangelica": "31,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "12,6"
+ },
+ {
+   "codigo": 3507506,
+   "catolica": "61,0",
+   "evangelica": "27,5",
+   "espirita": "2,4",
+   "umbanda": "0,2",
+   "outras": "2,6",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3507605,
+   "catolica": "64,0",
+   "evangelica": "22,7",
+   "espirita": "2,8",
+   "umbanda": "0,4",
+   "outras": "2,9",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3507704,
+   "catolica": "73,5",
+   "evangelica": "17,9",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3507753,
+   "catolica": "60,4",
+   "evangelica": "25,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "5,3",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 3507803,
+   "catolica": "68,0",
+   "evangelica": "21,4",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 3507902,
+   "catolica": "67,8",
+   "evangelica": "20,2",
+   "espirita": "2,6",
+   "umbanda": "0,3",
+   "outras": "2,7",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3508009,
+   "catolica": "52,2",
+   "evangelica": "32,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "11,9"
+ },
+ {
+   "codigo": 3508108,
+   "catolica": "62,8",
+   "evangelica": "20,9",
+   "espirita": "5,4",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 3508207,
+   "catolica": "65,5",
+   "evangelica": "21,8",
+   "espirita": "5,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3508306,
+   "catolica": "63,9",
+   "evangelica": "23,5",
+   "espirita": "2,4",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 3508405,
+   "catolica": "57,2",
+   "evangelica": "29,2",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "3,5",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 3508504,
+   "catolica": "71,0",
+   "evangelica": "19,7",
+   "espirita": "2,5",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3508603,
+   "catolica": "76,5",
+   "evangelica": "17,0",
+   "espirita": "2,4",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3508702,
+   "catolica": "81,2",
+   "evangelica": "12,1",
+   "espirita": "2,2",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3508801,
+   "catolica": "69,9",
+   "evangelica": "21,2",
+   "espirita": "2,5",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3508900,
+   "catolica": "82,7",
+   "evangelica": "14,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3509007,
+   "catolica": "53,0",
+   "evangelica": "29,9",
+   "espirita": "2,2",
+   "umbanda": "0,2",
+   "outras": "2,4",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 3509106,
+   "catolica": "71,9",
+   "evangelica": "22,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3509205,
+   "catolica": "53,6",
+   "evangelica": "31,4",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "3,8",
+   "sem": "10,4"
+ },
+ {
+   "codigo": 3509254,
+   "catolica": "29,9",
+   "evangelica": "43,1",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "22,8"
+ },
+ {
+   "codigo": 3509304,
+   "catolica": "74,9",
+   "evangelica": "17,8",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3509403,
+   "catolica": "74,7",
+   "evangelica": "17,4",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3509452,
+   "catolica": "69,0",
+   "evangelica": "21,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "6,0",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3509502,
+   "catolica": "59,0",
+   "evangelica": "25,4",
+   "espirita": "3,3",
+   "umbanda": "0,3",
+   "outras": "3,0",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 3509601,
+   "catolica": "52,8",
+   "evangelica": "31,9",
+   "espirita": "1,6",
+   "umbanda": "0,2",
+   "outras": "3,5",
+   "sem": "10,0"
+ },
+ {
+   "codigo": 3509700,
+   "catolica": "70,2",
+   "evangelica": "22,1",
+   "espirita": "1,2",
+   "umbanda": "0,3",
+   "outras": "1,4",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3509809,
+   "catolica": "69,4",
+   "evangelica": "24,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3509908,
+   "catolica": "45,8",
+   "evangelica": "31,7",
+   "espirita": "2,0",
+   "umbanda": "0,4",
+   "outras": "3,4",
+   "sem": "16,7"
+ },
+ {
+   "codigo": 3509957,
+   "catolica": "74,1",
+   "evangelica": "22,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3510005,
+   "catolica": "72,2",
+   "evangelica": "21,5",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3510104,
+   "catolica": "81,5",
+   "evangelica": "14,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3510153,
+   "catolica": "64,2",
+   "evangelica": "27,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3510203,
+   "catolica": "64,3",
+   "evangelica": "27,2",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3510302,
+   "catolica": "69,4",
+   "evangelica": "21,9",
+   "espirita": "0,4",
+   "umbanda": "0,4",
+   "outras": "4,0",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3510401,
+   "catolica": "67,9",
+   "evangelica": "23,7",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3510500,
+   "catolica": "53,4",
+   "evangelica": "28,8",
+   "espirita": "2,8",
+   "umbanda": "0,3",
+   "outras": "3,0",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 3510609,
+   "catolica": "53,4",
+   "evangelica": "30,8",
+   "espirita": "1,5",
+   "umbanda": "0,2",
+   "outras": "2,7",
+   "sem": "11,4"
+ },
+ {
+   "codigo": 3510708,
+   "catolica": "67,7",
+   "evangelica": "19,6",
+   "espirita": "2,6",
+   "umbanda": "0,0",
+   "outras": "3,8",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3510807,
+   "catolica": "63,9",
+   "evangelica": "20,6",
+   "espirita": "1,5",
+   "umbanda": "0,3",
+   "outras": "1,9",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 3510906,
+   "catolica": "84,3",
+   "evangelica": "11,5",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3511003,
+   "catolica": "63,6",
+   "evangelica": "24,0",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 3511102,
+   "catolica": "62,2",
+   "evangelica": "23,8",
+   "espirita": "5,8",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3511201,
+   "catolica": "65,2",
+   "evangelica": "24,2",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "3,4",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3511300,
+   "catolica": "69,1",
+   "evangelica": "18,4",
+   "espirita": "4,3",
+   "umbanda": "0,4",
+   "outras": "3,6",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3511409,
+   "catolica": "70,2",
+   "evangelica": "20,3",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3511508,
+   "catolica": "67,1",
+   "evangelica": "22,8",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 3511607,
+   "catolica": "62,8",
+   "evangelica": "23,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "9,6",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3511706,
+   "catolica": "64,0",
+   "evangelica": "28,3",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3511904,
+   "catolica": "71,1",
+   "evangelica": "20,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3512001,
+   "catolica": "65,8",
+   "evangelica": "16,7",
+   "espirita": "3,9",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 3512100,
+   "catolica": "67,8",
+   "evangelica": "21,6",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 3512209,
+   "catolica": "60,5",
+   "evangelica": "22,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "15,4"
+ },
+ {
+   "codigo": 3512308,
+   "catolica": "70,6",
+   "evangelica": "20,8",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3512407,
+   "catolica": "75,0",
+   "evangelica": "19,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3512506,
+   "catolica": "65,3",
+   "evangelica": "25,9",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3512605,
+   "catolica": "83,4",
+   "evangelica": "12,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3512704,
+   "catolica": "68,9",
+   "evangelica": "25,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3512803,
+   "catolica": "50,4",
+   "evangelica": "34,4",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "3,7",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 3512902,
+   "catolica": "78,0",
+   "evangelica": "12,7",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3513009,
+   "catolica": "58,8",
+   "evangelica": "24,4",
+   "espirita": "2,9",
+   "umbanda": "0,3",
+   "outras": "4,3",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 3513108,
+   "catolica": "72,2",
+   "evangelica": "17,7",
+   "espirita": "2,1",
+   "umbanda": "0,1",
+   "outras": "3,1",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3513207,
+   "catolica": "71,8",
+   "evangelica": "14,7",
+   "espirita": "4,7",
+   "umbanda": "0,0",
+   "outras": "4,5",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3513306,
+   "catolica": "72,9",
+   "evangelica": "24,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 3513405,
+   "catolica": "70,0",
+   "evangelica": "20,7",
+   "espirita": "1,5",
+   "umbanda": "0,1",
+   "outras": "3,0",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3513504,
+   "catolica": "52,1",
+   "evangelica": "30,1",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "2,6",
+   "sem": "14,2"
+ },
+ {
+   "codigo": 3513603,
+   "catolica": "75,2",
+   "evangelica": "21,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3513702,
+   "catolica": "77,6",
+   "evangelica": "14,2",
+   "espirita": "2,2",
+   "umbanda": "0,3",
+   "outras": "1,7",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3513801,
+   "catolica": "56,6",
+   "evangelica": "27,1",
+   "espirita": "1,9",
+   "umbanda": "0,5",
+   "outras": "3,4",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 3513850,
+   "catolica": "74,4",
+   "evangelica": "15,1",
+   "espirita": "2,6",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3513900,
+   "catolica": "84,0",
+   "evangelica": "11,4",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3514007,
+   "catolica": "68,1",
+   "evangelica": "21,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "9,9"
+ },
+ {
+   "codigo": 3514106,
+   "catolica": "75,4",
+   "evangelica": "17,7",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3514205,
+   "catolica": "73,7",
+   "evangelica": "20,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3514304,
+   "catolica": "77,7",
+   "evangelica": "15,1",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3514403,
+   "catolica": "70,0",
+   "evangelica": "21,3",
+   "espirita": "2,5",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3514502,
+   "catolica": "65,7",
+   "evangelica": "23,9",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 3514601,
+   "catolica": "75,6",
+   "evangelica": "17,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3514700,
+   "catolica": "71,6",
+   "evangelica": "23,0",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3514809,
+   "catolica": "44,4",
+   "evangelica": "31,6",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "20,5"
+ },
+ {
+   "codigo": 3514908,
+   "catolica": "55,4",
+   "evangelica": "23,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "11,5",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 3514924,
+   "catolica": "70,9",
+   "evangelica": "22,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3514957,
+   "catolica": "73,3",
+   "evangelica": "20,7",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3515004,
+   "catolica": "58,2",
+   "evangelica": "25,6",
+   "espirita": "1,6",
+   "umbanda": "0,3",
+   "outras": "3,1",
+   "sem": "11,4"
+ },
+ {
+   "codigo": 3515103,
+   "catolica": "54,3",
+   "evangelica": "25,6",
+   "espirita": "1,6",
+   "umbanda": "0,6",
+   "outras": "3,9",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 3515129,
+   "catolica": "81,2",
+   "evangelica": "13,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3515152,
+   "catolica": "54,4",
+   "evangelica": "36,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3515186,
+   "catolica": "73,6",
+   "evangelica": "16,7",
+   "espirita": "3,3",
+   "umbanda": "0,2",
+   "outras": "2,0",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3515194,
+   "catolica": "64,8",
+   "evangelica": "25,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 3515202,
+   "catolica": "77,0",
+   "evangelica": "16,0",
+   "espirita": "1,1",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3515301,
+   "catolica": "80,4",
+   "evangelica": "15,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3515350,
+   "catolica": "67,6",
+   "evangelica": "22,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 3515400,
+   "catolica": "86,3",
+   "evangelica": "10,5",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3515509,
+   "catolica": "62,1",
+   "evangelica": "23,2",
+   "espirita": "4,5",
+   "umbanda": "0,3",
+   "outras": "3,7",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3515608,
+   "catolica": "84,3",
+   "evangelica": "12,6",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3515657,
+   "catolica": "64,6",
+   "evangelica": "25,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 3515707,
+   "catolica": "44,9",
+   "evangelica": "35,3",
+   "espirita": "1,6",
+   "umbanda": "0,3",
+   "outras": "3,8",
+   "sem": "14,1"
+ },
+ {
+   "codigo": 3515806,
+   "catolica": "67,9",
+   "evangelica": "25,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3515905,
+   "catolica": "81,5",
+   "evangelica": "12,7",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3516002,
+   "catolica": "67,2",
+   "evangelica": "23,3",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 3516101,
+   "catolica": "75,6",
+   "evangelica": "20,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3516200,
+   "catolica": "63,1",
+   "evangelica": "20,1",
+   "espirita": "7,2",
+   "umbanda": "0,1",
+   "outras": "3,6",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3516309,
+   "catolica": "47,5",
+   "evangelica": "32,9",
+   "espirita": "1,3",
+   "umbanda": "0,3",
+   "outras": "3,0",
+   "sem": "15,1"
+ },
+ {
+   "codigo": 3516408,
+   "catolica": "52,2",
+   "evangelica": "26,7",
+   "espirita": "1,9",
+   "umbanda": "0,5",
+   "outras": "3,6",
+   "sem": "15,1"
+ },
+ {
+   "codigo": 3516507,
+   "catolica": "88,1",
+   "evangelica": "7,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3516606,
+   "catolica": "59,8",
+   "evangelica": "27,9",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 3516705,
+   "catolica": "67,3",
+   "evangelica": "23,6",
+   "espirita": "1,7",
+   "umbanda": "0,2",
+   "outras": "1,8",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3516804,
+   "catolica": "85,8",
+   "evangelica": "11,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3516853,
+   "catolica": "67,2",
+   "evangelica": "24,3",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3516903,
+   "catolica": "67,4",
+   "evangelica": "18,9",
+   "espirita": "4,4",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 3517000,
+   "catolica": "59,9",
+   "evangelica": "20,5",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "17,1"
+ },
+ {
+   "codigo": 3517109,
+   "catolica": "69,7",
+   "evangelica": "20,3",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 3517208,
+   "catolica": "58,6",
+   "evangelica": "32,6",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3517307,
+   "catolica": "65,3",
+   "evangelica": "19,2",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 3517406,
+   "catolica": "76,5",
+   "evangelica": "14,1",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3517505,
+   "catolica": "67,1",
+   "evangelica": "21,7",
+   "espirita": "2,5",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3517604,
+   "catolica": "75,4",
+   "evangelica": "18,3",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3517703,
+   "catolica": "59,4",
+   "evangelica": "20,0",
+   "espirita": "3,4",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "13,7"
+ },
+ {
+   "codigo": 3517802,
+   "catolica": "75,0",
+   "evangelica": "14,8",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3517901,
+   "catolica": "78,1",
+   "evangelica": "10,6",
+   "espirita": "2,4",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3518008,
+   "catolica": "66,3",
+   "evangelica": "23,3",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "3,8",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3518107,
+   "catolica": "64,5",
+   "evangelica": "27,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 3518206,
+   "catolica": "61,4",
+   "evangelica": "26,5",
+   "espirita": "2,5",
+   "umbanda": "0,2",
+   "outras": "1,7",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 3518305,
+   "catolica": "60,7",
+   "evangelica": "26,0",
+   "espirita": "2,1",
+   "umbanda": "0,4",
+   "outras": "2,4",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 3518404,
+   "catolica": "71,9",
+   "evangelica": "20,0",
+   "espirita": "2,6",
+   "umbanda": "0,4",
+   "outras": "1,3",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3518503,
+   "catolica": "60,7",
+   "evangelica": "19,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "3,7",
+   "sem": "15,4"
+ },
+ {
+   "codigo": 3518602,
+   "catolica": "59,7",
+   "evangelica": "26,3",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "11,2"
+ },
+ {
+   "codigo": 3518701,
+   "catolica": "54,5",
+   "evangelica": "25,0",
+   "espirita": "2,3",
+   "umbanda": "0,4",
+   "outras": "4,2",
+   "sem": "13,7"
+ },
+ {
+   "codigo": 3518800,
+   "catolica": "52,9",
+   "evangelica": "28,4",
+   "espirita": "3,0",
+   "umbanda": "0,4",
+   "outras": "3,8",
+   "sem": "11,6"
+ },
+ {
+   "codigo": 3518859,
+   "catolica": "62,2",
+   "evangelica": "24,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "10,4"
+ },
+ {
+   "codigo": 3518909,
+   "catolica": "56,3",
+   "evangelica": "28,5",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 3519006,
+   "catolica": "58,2",
+   "evangelica": "32,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3519055,
+   "catolica": "74,3",
+   "evangelica": "17,4",
+   "espirita": "2,1",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3519071,
+   "catolica": "49,4",
+   "evangelica": "35,8",
+   "espirita": "1,1",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 3519105,
+   "catolica": "64,9",
+   "evangelica": "28,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3519204,
+   "catolica": "68,7",
+   "evangelica": "22,4",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3519253,
+   "catolica": "58,1",
+   "evangelica": "32,5",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 3519303,
+   "catolica": "60,4",
+   "evangelica": "27,8",
+   "espirita": "0,7",
+   "umbanda": "0,3",
+   "outras": "1,6",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 3519402,
+   "catolica": "75,5",
+   "evangelica": "17,2",
+   "espirita": "2,0",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3519501,
+   "catolica": "65,5",
+   "evangelica": "26,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "4,8",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3519600,
+   "catolica": "67,8",
+   "evangelica": "23,5",
+   "espirita": "2,1",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 3519709,
+   "catolica": "61,7",
+   "evangelica": "22,7",
+   "espirita": "1,2",
+   "umbanda": "0,2",
+   "outras": "5,3",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 3519808,
+   "catolica": "72,3",
+   "evangelica": "16,7",
+   "espirita": "2,8",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3519907,
+   "catolica": "80,0",
+   "evangelica": "17,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3520004,
+   "catolica": "72,7",
+   "evangelica": "17,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 3520103,
+   "catolica": "68,4",
+   "evangelica": "15,7",
+   "espirita": "8,3",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 3520202,
+   "catolica": "68,4",
+   "evangelica": "19,8",
+   "espirita": "1,8",
+   "umbanda": "0,3",
+   "outras": "2,1",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3520301,
+   "catolica": "52,7",
+   "evangelica": "30,3",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "3,8",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 3520400,
+   "catolica": "56,3",
+   "evangelica": "25,5",
+   "espirita": "2,5",
+   "umbanda": "0,3",
+   "outras": "3,0",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 3520426,
+   "catolica": "56,8",
+   "evangelica": "23,5",
+   "espirita": "5,8",
+   "umbanda": "0,2",
+   "outras": "4,0",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 3520442,
+   "catolica": "55,0",
+   "evangelica": "28,4",
+   "espirita": "3,8",
+   "umbanda": "0,0",
+   "outras": "3,8",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 3520509,
+   "catolica": "63,7",
+   "evangelica": "21,3",
+   "espirita": "3,7",
+   "umbanda": "0,1",
+   "outras": "3,6",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3520608,
+   "catolica": "74,2",
+   "evangelica": "20,9",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3520707,
+   "catolica": "69,9",
+   "evangelica": "16,7",
+   "espirita": "3,2",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 3520806,
+   "catolica": "75,8",
+   "evangelica": "20,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3520905,
+   "catolica": "72,3",
+   "evangelica": "21,1",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3521002,
+   "catolica": "49,7",
+   "evangelica": "31,2",
+   "espirita": "0,9",
+   "umbanda": "0,2",
+   "outras": "4,7",
+   "sem": "13,3"
+ },
+ {
+   "codigo": 3521101,
+   "catolica": "60,9",
+   "evangelica": "30,8",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3521150,
+   "catolica": "70,7",
+   "evangelica": "18,9",
+   "espirita": "1,1",
+   "umbanda": "0,4",
+   "outras": "2,0",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 3521200,
+   "catolica": "55,8",
+   "evangelica": "32,9",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "2,8",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 3521309,
+   "catolica": "80,6",
+   "evangelica": "10,3",
+   "espirita": "4,3",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3521408,
+   "catolica": "68,3",
+   "evangelica": "25,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3521507,
+   "catolica": "78,8",
+   "evangelica": "17,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3521606,
+   "catolica": "66,0",
+   "evangelica": "23,7",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3521705,
+   "catolica": "70,3",
+   "evangelica": "21,8",
+   "espirita": "2,7",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3521804,
+   "catolica": "66,9",
+   "evangelica": "20,5",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "2,8",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 3521903,
+   "catolica": "80,3",
+   "evangelica": "14,0",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3522000,
+   "catolica": "72,3",
+   "evangelica": "24,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3522109,
+   "catolica": "50,9",
+   "evangelica": "25,6",
+   "espirita": "4,6",
+   "umbanda": "0,8",
+   "outras": "4,3",
+   "sem": "13,9"
+ },
+ {
+   "codigo": 3522158,
+   "catolica": "56,4",
+   "evangelica": "19,7",
+   "espirita": "16,3",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3522208,
+   "catolica": "59,4",
+   "evangelica": "25,3",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "2,3",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 3522307,
+   "catolica": "62,0",
+   "evangelica": "26,3",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 3522406,
+   "catolica": "52,3",
+   "evangelica": "33,8",
+   "espirita": "2,4",
+   "umbanda": "0,1",
+   "outras": "3,9",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 3522505,
+   "catolica": "45,6",
+   "evangelica": "35,3",
+   "espirita": "1,0",
+   "umbanda": "0,4",
+   "outras": "3,8",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 3522604,
+   "catolica": "71,1",
+   "evangelica": "17,4",
+   "espirita": "2,8",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3522653,
+   "catolica": "57,0",
+   "evangelica": "31,9",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "2,0",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 3522703,
+   "catolica": "81,2",
+   "evangelica": "12,4",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3522802,
+   "catolica": "83,1",
+   "evangelica": "12,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3522901,
+   "catolica": "77,1",
+   "evangelica": "17,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3523008,
+   "catolica": "57,7",
+   "evangelica": "25,4",
+   "espirita": "3,5",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 3523107,
+   "catolica": "48,2",
+   "evangelica": "32,8",
+   "espirita": "1,5",
+   "umbanda": "0,2",
+   "outras": "3,8",
+   "sem": "13,5"
+ },
+ {
+   "codigo": 3523206,
+   "catolica": "56,2",
+   "evangelica": "33,4",
+   "espirita": "1,5",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 3523305,
+   "catolica": "44,7",
+   "evangelica": "30,8",
+   "espirita": "1,4",
+   "umbanda": "0,5",
+   "outras": "3,2",
+   "sem": "19,4"
+ },
+ {
+   "codigo": 3523404,
+   "catolica": "66,8",
+   "evangelica": "21,2",
+   "espirita": "4,0",
+   "umbanda": "0,7",
+   "outras": "3,1",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3523503,
+   "catolica": "62,2",
+   "evangelica": "28,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 3523602,
+   "catolica": "63,9",
+   "evangelica": "22,8",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 3523701,
+   "catolica": "79,1",
+   "evangelica": "15,9",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3523800,
+   "catolica": "77,1",
+   "evangelica": "15,9",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3523909,
+   "catolica": "68,4",
+   "evangelica": "20,9",
+   "espirita": "2,1",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3524006,
+   "catolica": "58,1",
+   "evangelica": "29,1",
+   "espirita": "1,6",
+   "umbanda": "0,3",
+   "outras": "3,1",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 3524105,
+   "catolica": "70,4",
+   "evangelica": "19,2",
+   "espirita": "3,3",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3524204,
+   "catolica": "72,1",
+   "evangelica": "19,1",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "4,2",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3524303,
+   "catolica": "61,0",
+   "evangelica": "20,6",
+   "espirita": "5,5",
+   "umbanda": "0,2",
+   "outras": "2,3",
+   "sem": "10,4"
+ },
+ {
+   "codigo": 3524402,
+   "catolica": "62,3",
+   "evangelica": "26,0",
+   "espirita": "2,6",
+   "umbanda": "0,3",
+   "outras": "2,5",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3524501,
+   "catolica": "78,4",
+   "evangelica": "14,4",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3524600,
+   "catolica": "33,7",
+   "evangelica": "41,8",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "21,4"
+ },
+ {
+   "codigo": 3524709,
+   "catolica": "65,1",
+   "evangelica": "22,8",
+   "espirita": "3,1",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3524808,
+   "catolica": "61,8",
+   "evangelica": "23,0",
+   "espirita": "4,3",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3524907,
+   "catolica": "72,7",
+   "evangelica": "21,5",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3525003,
+   "catolica": "47,2",
+   "evangelica": "34,6",
+   "espirita": "1,2",
+   "umbanda": "0,3",
+   "outras": "3,0",
+   "sem": "13,7"
+ },
+ {
+   "codigo": 3525102,
+   "catolica": "69,8",
+   "evangelica": "20,8",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3525201,
+   "catolica": "65,1",
+   "evangelica": "22,2",
+   "espirita": "1,8",
+   "umbanda": "0,1",
+   "outras": "3,2",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3525300,
+   "catolica": "72,6",
+   "evangelica": "19,8",
+   "espirita": "1,6",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3525409,
+   "catolica": "60,8",
+   "evangelica": "19,1",
+   "espirita": "9,5",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 3525508,
+   "catolica": "75,0",
+   "evangelica": "18,6",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3525607,
+   "catolica": "63,6",
+   "evangelica": "29,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 3525706,
+   "catolica": "74,6",
+   "evangelica": "19,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3525805,
+   "catolica": "69,0",
+   "evangelica": "22,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 3525854,
+   "catolica": "74,3",
+   "evangelica": "20,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3525904,
+   "catolica": "66,0",
+   "evangelica": "20,4",
+   "espirita": "3,9",
+   "umbanda": "0,3",
+   "outras": "3,3",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 3526001,
+   "catolica": "68,9",
+   "evangelica": "22,1",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3526100,
+   "catolica": "40,6",
+   "evangelica": "41,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "16,5"
+ },
+ {
+   "codigo": 3526209,
+   "catolica": "57,6",
+   "evangelica": "26,9",
+   "espirita": "1,8",
+   "umbanda": "0,3",
+   "outras": "2,6",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 3526308,
+   "catolica": "93,4",
+   "evangelica": "4,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3526407,
+   "catolica": "74,2",
+   "evangelica": "20,2",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3526506,
+   "catolica": "60,6",
+   "evangelica": "14,9",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "21,3"
+ },
+ {
+   "codigo": 3526605,
+   "catolica": "76,3",
+   "evangelica": "17,2",
+   "espirita": "1,1",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3526704,
+   "catolica": "70,1",
+   "evangelica": "17,1",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 3526803,
+   "catolica": "57,7",
+   "evangelica": "32,0",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 3526902,
+   "catolica": "57,9",
+   "evangelica": "30,9",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 3527009,
+   "catolica": "72,2",
+   "evangelica": "17,5",
+   "espirita": "2,3",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3527108,
+   "catolica": "59,8",
+   "evangelica": "27,9",
+   "espirita": "2,8",
+   "umbanda": "0,1",
+   "outras": "3,6",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3527207,
+   "catolica": "71,5",
+   "evangelica": "21,7",
+   "espirita": "1,5",
+   "umbanda": "0,2",
+   "outras": "1,2",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3527256,
+   "catolica": "66,7",
+   "evangelica": "21,5",
+   "espirita": "10,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3527306,
+   "catolica": "71,7",
+   "evangelica": "20,7",
+   "espirita": "1,4",
+   "umbanda": "0,2",
+   "outras": "2,6",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3527405,
+   "catolica": "76,9",
+   "evangelica": "15,8",
+   "espirita": "1,5",
+   "umbanda": "0,3",
+   "outras": "1,8",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3527504,
+   "catolica": "59,0",
+   "evangelica": "31,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 3527603,
+   "catolica": "65,5",
+   "evangelica": "25,2",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3527702,
+   "catolica": "76,6",
+   "evangelica": "16,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 3527801,
+   "catolica": "69,0",
+   "evangelica": "24,2",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3527900,
+   "catolica": "78,0",
+   "evangelica": "18,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3528007,
+   "catolica": "66,2",
+   "evangelica": "21,7",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 3528106,
+   "catolica": "76,2",
+   "evangelica": "17,0",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3528205,
+   "catolica": "68,6",
+   "evangelica": "21,2",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3528304,
+   "catolica": "69,1",
+   "evangelica": "23,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "4,6",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3528403,
+   "catolica": "58,6",
+   "evangelica": "26,5",
+   "espirita": "1,2",
+   "umbanda": "0,5",
+   "outras": "2,8",
+   "sem": "10,4"
+ },
+ {
+   "codigo": 3528502,
+   "catolica": "61,7",
+   "evangelica": "23,3",
+   "espirita": "2,6",
+   "umbanda": "0,3",
+   "outras": "3,1",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 3528601,
+   "catolica": "77,4",
+   "evangelica": "17,9",
+   "espirita": "0,5",
+   "umbanda": "0,6",
+   "outras": "0,7",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3528700,
+   "catolica": "73,7",
+   "evangelica": "20,3",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "0,8",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3528809,
+   "catolica": "67,5",
+   "evangelica": "27,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3528858,
+   "catolica": "51,2",
+   "evangelica": "46,3",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3528908,
+   "catolica": "82,6",
+   "evangelica": "14,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 3529005,
+   "catolica": "62,5",
+   "evangelica": "25,4",
+   "espirita": "3,3",
+   "umbanda": "0,1",
+   "outras": "3,1",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3529104,
+   "catolica": "71,1",
+   "evangelica": "15,4",
+   "espirita": "7,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3529203,
+   "catolica": "66,5",
+   "evangelica": "21,2",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "0,8",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 3529302,
+   "catolica": "73,0",
+   "evangelica": "17,6",
+   "espirita": "3,2",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3529401,
+   "catolica": "51,3",
+   "evangelica": "31,8",
+   "espirita": "1,6",
+   "umbanda": "0,4",
+   "outras": "3,6",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 3529500,
+   "catolica": "78,0",
+   "evangelica": "17,4",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3529609,
+   "catolica": "72,2",
+   "evangelica": "22,7",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3529658,
+   "catolica": "67,6",
+   "evangelica": "25,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3529708,
+   "catolica": "75,5",
+   "evangelica": "15,4",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 3529807,
+   "catolica": "69,9",
+   "evangelica": "21,3",
+   "espirita": "2,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3529906,
+   "catolica": "50,8",
+   "evangelica": "34,9",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 3530003,
+   "catolica": "77,0",
+   "evangelica": "16,0",
+   "espirita": "0,8",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3530102,
+   "catolica": "59,9",
+   "evangelica": "22,0",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "9,8",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3530201,
+   "catolica": "72,7",
+   "evangelica": "21,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3530300,
+   "catolica": "69,1",
+   "evangelica": "20,3",
+   "espirita": "4,1",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3530409,
+   "catolica": "62,8",
+   "evangelica": "26,0",
+   "espirita": "2,8",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3530508,
+   "catolica": "77,2",
+   "evangelica": "16,3",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3530607,
+   "catolica": "51,5",
+   "evangelica": "29,4",
+   "espirita": "3,7",
+   "umbanda": "0,5",
+   "outras": "4,1",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 3530706,
+   "catolica": "64,1",
+   "evangelica": "25,0",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 3530805,
+   "catolica": "66,1",
+   "evangelica": "21,3",
+   "espirita": "2,4",
+   "umbanda": "0,1",
+   "outras": "3,3",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 3530904,
+   "catolica": "58,9",
+   "evangelica": "28,8",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 3531001,
+   "catolica": "78,8",
+   "evangelica": "15,2",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3531100,
+   "catolica": "53,4",
+   "evangelica": "21,5",
+   "espirita": "4,7",
+   "umbanda": "2,5",
+   "outras": "4,2",
+   "sem": "13,9"
+ },
+ {
+   "codigo": 3531209,
+   "catolica": "76,2",
+   "evangelica": "11,3",
+   "espirita": "2,6",
+   "umbanda": "0,5",
+   "outras": "3,6",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3531308,
+   "catolica": "69,7",
+   "evangelica": "19,8",
+   "espirita": "3,9",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3531407,
+   "catolica": "71,9",
+   "evangelica": "18,6",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3531506,
+   "catolica": "71,2",
+   "evangelica": "19,8",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3531605,
+   "catolica": "71,9",
+   "evangelica": "23,3",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3531704,
+   "catolica": "75,6",
+   "evangelica": "18,1",
+   "espirita": "0,6",
+   "umbanda": "0,3",
+   "outras": "1,3",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3531803,
+   "catolica": "53,7",
+   "evangelica": "32,7",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "3,2",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 3531902,
+   "catolica": "62,8",
+   "evangelica": "24,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 3532009,
+   "catolica": "76,1",
+   "evangelica": "17,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3532058,
+   "catolica": "63,8",
+   "evangelica": "23,7",
+   "espirita": "2,7",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 3532108,
+   "catolica": "74,7",
+   "evangelica": "17,9",
+   "espirita": "2,3",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3532157,
+   "catolica": "72,8",
+   "evangelica": "21,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3532207,
+   "catolica": "74,8",
+   "evangelica": "19,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3532306,
+   "catolica": "73,6",
+   "evangelica": "20,0",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "2,0",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3532405,
+   "catolica": "74,5",
+   "evangelica": "17,9",
+   "espirita": "1,6",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3532504,
+   "catolica": "77,4",
+   "evangelica": "11,0",
+   "espirita": "3,6",
+   "umbanda": "0,4",
+   "outras": "2,6",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3532603,
+   "catolica": "78,8",
+   "evangelica": "13,8",
+   "espirita": "4,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3532702,
+   "catolica": "77,4",
+   "evangelica": "16,5",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3532801,
+   "catolica": "73,3",
+   "evangelica": "15,5",
+   "espirita": "2,8",
+   "umbanda": "0,0",
+   "outras": "4,3",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3532827,
+   "catolica": "39,4",
+   "evangelica": "46,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 3532843,
+   "catolica": "76,7",
+   "evangelica": "19,8",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3532868,
+   "catolica": "74,4",
+   "evangelica": "19,2",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3532900,
+   "catolica": "69,3",
+   "evangelica": "22,3",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3533007,
+   "catolica": "77,2",
+   "evangelica": "14,8",
+   "espirita": "2,7",
+   "umbanda": "0,1",
+   "outras": "2,0",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3533106,
+   "catolica": "80,3",
+   "evangelica": "15,0",
+   "espirita": "0,6",
+   "umbanda": "0,2",
+   "outras": "2,6",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 3533205,
+   "catolica": "69,7",
+   "evangelica": "21,4",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3533254,
+   "catolica": "61,5",
+   "evangelica": "18,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "15,7"
+ },
+ {
+   "codigo": 3533304,
+   "catolica": "74,7",
+   "evangelica": "16,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 3533403,
+   "catolica": "55,7",
+   "evangelica": "34,4",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3533502,
+   "catolica": "73,6",
+   "evangelica": "22,1",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3533601,
+   "catolica": "79,3",
+   "evangelica": "14,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3533700,
+   "catolica": "87,6",
+   "evangelica": "11,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 3533809,
+   "catolica": "81,4",
+   "evangelica": "14,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3533908,
+   "catolica": "73,0",
+   "evangelica": "16,9",
+   "espirita": "4,1",
+   "umbanda": "0,2",
+   "outras": "1,5",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3534005,
+   "catolica": "66,1",
+   "evangelica": "23,6",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "2,6",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 3534104,
+   "catolica": "78,4",
+   "evangelica": "14,8",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3534203,
+   "catolica": "74,6",
+   "evangelica": "16,6",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "4,5",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3534302,
+   "catolica": "74,8",
+   "evangelica": "13,9",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3534401,
+   "catolica": "55,0",
+   "evangelica": "28,1",
+   "espirita": "2,8",
+   "umbanda": "0,4",
+   "outras": "2,9",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 3534500,
+   "catolica": "84,4",
+   "evangelica": "11,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3534609,
+   "catolica": "71,2",
+   "evangelica": "17,1",
+   "espirita": "1,6",
+   "umbanda": "0,2",
+   "outras": "2,8",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 3534708,
+   "catolica": "67,6",
+   "evangelica": "24,2",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3534757,
+   "catolica": "67,4",
+   "evangelica": "20,6",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 3534807,
+   "catolica": "70,2",
+   "evangelica": "20,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 3534906,
+   "catolica": "64,2",
+   "evangelica": "18,0",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "14,7"
+ },
+ {
+   "codigo": 3535002,
+   "catolica": "76,9",
+   "evangelica": "16,1",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3535101,
+   "catolica": "70,0",
+   "evangelica": "21,5",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3535200,
+   "catolica": "75,9",
+   "evangelica": "13,7",
+   "espirita": "3,5",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3535309,
+   "catolica": "77,4",
+   "evangelica": "16,3",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3535408,
+   "catolica": "57,2",
+   "evangelica": "28,7",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 3535507,
+   "catolica": "61,4",
+   "evangelica": "27,4",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 3535606,
+   "catolica": "82,3",
+   "evangelica": "12,1",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3535705,
+   "catolica": "70,8",
+   "evangelica": "18,9",
+   "espirita": "3,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3535804,
+   "catolica": "69,5",
+   "evangelica": "22,1",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3535903,
+   "catolica": "65,4",
+   "evangelica": "24,1",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3536000,
+   "catolica": "74,3",
+   "evangelica": "15,3",
+   "espirita": "2,3",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3536109,
+   "catolica": "73,9",
+   "evangelica": "17,9",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "3,7",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3536208,
+   "catolica": "43,4",
+   "evangelica": "33,7",
+   "espirita": "2,3",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "18,5"
+ },
+ {
+   "codigo": 3536257,
+   "catolica": "80,3",
+   "evangelica": "12,8",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3536307,
+   "catolica": "77,3",
+   "evangelica": "18,0",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3536406,
+   "catolica": "67,9",
+   "evangelica": "22,0",
+   "espirita": "0,3",
+   "umbanda": "0,2",
+   "outras": "3,4",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3536505,
+   "catolica": "58,1",
+   "evangelica": "25,9",
+   "espirita": "2,9",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 3536570,
+   "catolica": "74,0",
+   "evangelica": "20,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3536604,
+   "catolica": "75,3",
+   "evangelica": "13,1",
+   "espirita": "1,9",
+   "umbanda": "0,2",
+   "outras": "2,9",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 3536703,
+   "catolica": "64,0",
+   "evangelica": "27,6",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3536802,
+   "catolica": "79,7",
+   "evangelica": "15,5",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3536901,
+   "catolica": "69,7",
+   "evangelica": "21,5",
+   "espirita": "2,5",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 3537008,
+   "catolica": "67,0",
+   "evangelica": "15,6",
+   "espirita": "9,8",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3537107,
+   "catolica": "76,7",
+   "evangelica": "13,6",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3537156,
+   "catolica": "76,0",
+   "evangelica": "19,5",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3537206,
+   "catolica": "55,9",
+   "evangelica": "30,9",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 3537305,
+   "catolica": "64,8",
+   "evangelica": "22,9",
+   "espirita": "3,3",
+   "umbanda": "0,2",
+   "outras": "2,8",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3537404,
+   "catolica": "55,3",
+   "evangelica": "29,3",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "3,7",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 3537503,
+   "catolica": "76,4",
+   "evangelica": "19,3",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3537602,
+   "catolica": "51,5",
+   "evangelica": "26,4",
+   "espirita": "5,2",
+   "umbanda": "0,3",
+   "outras": "3,5",
+   "sem": "13,1"
+ },
+ {
+   "codigo": 3537701,
+   "catolica": "74,3",
+   "evangelica": "19,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3537800,
+   "catolica": "61,9",
+   "evangelica": "21,8",
+   "espirita": "1,1",
+   "umbanda": "0,1",
+   "outras": "6,2",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 3537909,
+   "catolica": "59,8",
+   "evangelica": "22,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "4,4",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 3538006,
+   "catolica": "64,4",
+   "evangelica": "24,5",
+   "espirita": "2,4",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 3538105,
+   "catolica": "71,2",
+   "evangelica": "20,9",
+   "espirita": "3,1",
+   "umbanda": "0,1",
+   "outras": "2,0",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3538204,
+   "catolica": "72,7",
+   "evangelica": "18,4",
+   "espirita": "1,8",
+   "umbanda": "0,2",
+   "outras": "3,4",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3538303,
+   "catolica": "69,4",
+   "evangelica": "23,1",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3538501,
+   "catolica": "79,4",
+   "evangelica": "15,8",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3538600,
+   "catolica": "74,8",
+   "evangelica": "18,8",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "2,0",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3538709,
+   "catolica": "59,8",
+   "evangelica": "27,4",
+   "espirita": "2,3",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 3538808,
+   "catolica": "78,5",
+   "evangelica": "16,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3538907,
+   "catolica": "61,0",
+   "evangelica": "20,6",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "15,4"
+ },
+ {
+   "codigo": 3539004,
+   "catolica": "74,9",
+   "evangelica": "18,9",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3539103,
+   "catolica": "54,6",
+   "evangelica": "28,5",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "3,3",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 3539202,
+   "catolica": "71,9",
+   "evangelica": "22,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3539301,
+   "catolica": "67,4",
+   "evangelica": "20,8",
+   "espirita": "3,3",
+   "umbanda": "0,7",
+   "outras": "2,3",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3539400,
+   "catolica": "59,3",
+   "evangelica": "28,8",
+   "espirita": "1,8",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 3539509,
+   "catolica": "63,7",
+   "evangelica": "20,8",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "11,9"
+ },
+ {
+   "codigo": 3539608,
+   "catolica": "67,1",
+   "evangelica": "24,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 3539707,
+   "catolica": "63,8",
+   "evangelica": "28,7",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3539806,
+   "catolica": "43,3",
+   "evangelica": "34,7",
+   "espirita": "3,3",
+   "umbanda": "0,3",
+   "outras": "4,6",
+   "sem": "13,8"
+ },
+ {
+   "codigo": 3539905,
+   "catolica": "78,4",
+   "evangelica": "12,3",
+   "espirita": "4,2",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3540002,
+   "catolica": "66,2",
+   "evangelica": "24,1",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3540101,
+   "catolica": "67,0",
+   "evangelica": "25,3",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3540200,
+   "catolica": "63,7",
+   "evangelica": "19,0",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "4,1",
+   "sem": "11,9"
+ },
+ {
+   "codigo": 3540259,
+   "catolica": "69,3",
+   "evangelica": "18,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 3540309,
+   "catolica": "66,3",
+   "evangelica": "26,0",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3540408,
+   "catolica": "67,3",
+   "evangelica": "17,8",
+   "espirita": "4,8",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 3540507,
+   "catolica": "69,1",
+   "evangelica": "25,4",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3540606,
+   "catolica": "56,4",
+   "evangelica": "33,8",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3540705,
+   "catolica": "65,8",
+   "evangelica": "21,4",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 3540754,
+   "catolica": "77,7",
+   "evangelica": "17,1",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 3540804,
+   "catolica": "75,4",
+   "evangelica": "16,3",
+   "espirita": "1,0",
+   "umbanda": "0,3",
+   "outras": "3,3",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3540853,
+   "catolica": "66,1",
+   "evangelica": "18,6",
+   "espirita": "1,4",
+   "umbanda": "0,2",
+   "outras": "0,6",
+   "sem": "13,1"
+ },
+ {
+   "codigo": 3540903,
+   "catolica": "67,7",
+   "evangelica": "20,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "9,9"
+ },
+ {
+   "codigo": 3541000,
+   "catolica": "55,7",
+   "evangelica": "22,6",
+   "espirita": "5,1",
+   "umbanda": "0,8",
+   "outras": "3,8",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 3541059,
+   "catolica": "66,9",
+   "evangelica": "23,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3541109,
+   "catolica": "41,8",
+   "evangelica": "32,1",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "24,1"
+ },
+ {
+   "codigo": 3541208,
+   "catolica": "78,5",
+   "evangelica": "16,7",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 3541307,
+   "catolica": "65,8",
+   "evangelica": "25,4",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3541406,
+   "catolica": "64,3",
+   "evangelica": "26,7",
+   "espirita": "1,1",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3541505,
+   "catolica": "68,2",
+   "evangelica": "22,3",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3541604,
+   "catolica": "60,0",
+   "evangelica": "28,4",
+   "espirita": "2,0",
+   "umbanda": "0,2",
+   "outras": "2,1",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 3541653,
+   "catolica": "73,5",
+   "evangelica": "18,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3541703,
+   "catolica": "63,2",
+   "evangelica": "29,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 3541802,
+   "catolica": "76,4",
+   "evangelica": "16,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3541901,
+   "catolica": "78,6",
+   "evangelica": "15,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3542008,
+   "catolica": "69,7",
+   "evangelica": "21,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3542107,
+   "catolica": "64,9",
+   "evangelica": "24,2",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 3542206,
+   "catolica": "70,4",
+   "evangelica": "23,8",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3542305,
+   "catolica": "82,8",
+   "evangelica": "13,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3542404,
+   "catolica": "72,5",
+   "evangelica": "20,1",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3542503,
+   "catolica": "63,0",
+   "evangelica": "24,6",
+   "espirita": "0,4",
+   "umbanda": "0,3",
+   "outras": "1,4",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 3542602,
+   "catolica": "41,9",
+   "evangelica": "36,1",
+   "espirita": "2,5",
+   "umbanda": "0,2",
+   "outras": "3,7",
+   "sem": "15,6"
+ },
+ {
+   "codigo": 3542701,
+   "catolica": "64,7",
+   "evangelica": "25,9",
+   "espirita": "1,7",
+   "umbanda": "0,3",
+   "outras": "2,0",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3542800,
+   "catolica": "61,4",
+   "evangelica": "29,8",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 3542909,
+   "catolica": "63,1",
+   "evangelica": "24,4",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 3543006,
+   "catolica": "62,1",
+   "evangelica": "29,6",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3543105,
+   "catolica": "69,1",
+   "evangelica": "20,8",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 3543204,
+   "catolica": "85,9",
+   "evangelica": "11,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3543238,
+   "catolica": "89,1",
+   "evangelica": "8,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3543253,
+   "catolica": "85,2",
+   "evangelica": "11,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 3543303,
+   "catolica": "55,9",
+   "evangelica": "26,4",
+   "espirita": "3,0",
+   "umbanda": "0,4",
+   "outras": "4,2",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 3543402,
+   "catolica": "60,8",
+   "evangelica": "19,9",
+   "espirita": "6,7",
+   "umbanda": "0,3",
+   "outras": "3,7",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 3543501,
+   "catolica": "81,8",
+   "evangelica": "11,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3543600,
+   "catolica": "64,1",
+   "evangelica": "19,2",
+   "espirita": "9,2",
+   "umbanda": "0,2",
+   "outras": "0,8",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 3543709,
+   "catolica": "63,9",
+   "evangelica": "15,2",
+   "espirita": "3,8",
+   "umbanda": "0,0",
+   "outras": "4,6",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 3543808,
+   "catolica": "68,7",
+   "evangelica": "20,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "6,0",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 3543907,
+   "catolica": "58,7",
+   "evangelica": "28,4",
+   "espirita": "2,3",
+   "umbanda": "0,3",
+   "outras": "3,6",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 3544004,
+   "catolica": "50,6",
+   "evangelica": "36,0",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "11,2"
+ },
+ {
+   "codigo": 3544103,
+   "catolica": "45,7",
+   "evangelica": "34,3",
+   "espirita": "1,3",
+   "umbanda": "0,2",
+   "outras": "3,3",
+   "sem": "15,2"
+ },
+ {
+   "codigo": 3544202,
+   "catolica": "82,6",
+   "evangelica": "11,7",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3544251,
+   "catolica": "62,9",
+   "evangelica": "23,7",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 3544301,
+   "catolica": "75,4",
+   "evangelica": "18,6",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3544400,
+   "catolica": "59,7",
+   "evangelica": "29,0",
+   "espirita": "0,2",
+   "umbanda": "0,3",
+   "outras": "1,9",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 3544509,
+   "catolica": "60,1",
+   "evangelica": "28,6",
+   "espirita": "2,0",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3544608,
+   "catolica": "69,4",
+   "evangelica": "22,2",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3544707,
+   "catolica": "71,8",
+   "evangelica": "23,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3544806,
+   "catolica": "66,3",
+   "evangelica": "23,9",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 3544905,
+   "catolica": "75,9",
+   "evangelica": "14,6",
+   "espirita": "3,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3545001,
+   "catolica": "82,7",
+   "evangelica": "11,4",
+   "espirita": "2,2",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3545100,
+   "catolica": "74,8",
+   "evangelica": "13,2",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 3545159,
+   "catolica": "77,0",
+   "evangelica": "17,5",
+   "espirita": "0,7",
+   "umbanda": "0,2",
+   "outras": "2,5",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3545209,
+   "catolica": "69,4",
+   "evangelica": "19,2",
+   "espirita": "1,5",
+   "umbanda": "0,2",
+   "outras": "3,0",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 3545308,
+   "catolica": "47,9",
+   "evangelica": "31,7",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "6,7",
+   "sem": "12,7"
+ },
+ {
+   "codigo": 3545407,
+   "catolica": "70,4",
+   "evangelica": "23,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3545506,
+   "catolica": "76,0",
+   "evangelica": "17,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 3545605,
+   "catolica": "69,2",
+   "evangelica": "21,9",
+   "espirita": "2,4",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3545704,
+   "catolica": "77,4",
+   "evangelica": "17,0",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 3545803,
+   "catolica": "62,2",
+   "evangelica": "28,7",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3546009,
+   "catolica": "70,7",
+   "evangelica": "20,8",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3546108,
+   "catolica": "80,7",
+   "evangelica": "12,3",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 3546207,
+   "catolica": "76,0",
+   "evangelica": "15,3",
+   "espirita": "2,1",
+   "umbanda": "0,7",
+   "outras": "1,1",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 3546256,
+   "catolica": "78,2",
+   "evangelica": "15,3",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "2,1",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 3546306,
+   "catolica": "78,7",
+   "evangelica": "14,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3546405,
+   "catolica": "78,8",
+   "evangelica": "15,4",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3546504,
+   "catolica": "68,9",
+   "evangelica": "25,0",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3546603,
+   "catolica": "64,8",
+   "evangelica": "23,2",
+   "espirita": "4,2",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 3546702,
+   "catolica": "64,6",
+   "evangelica": "25,4",
+   "espirita": "0,5",
+   "umbanda": "0,3",
+   "outras": "2,5",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 3546801,
+   "catolica": "59,2",
+   "evangelica": "27,9",
+   "espirita": "1,3",
+   "umbanda": "0,4",
+   "outras": "2,8",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 3546900,
+   "catolica": "70,1",
+   "evangelica": "18,1",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 3547007,
+   "catolica": "68,3",
+   "evangelica": "23,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3547106,
+   "catolica": "56,8",
+   "evangelica": "30,4",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 3547205,
+   "catolica": "79,1",
+   "evangelica": "14,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3547304,
+   "catolica": "52,8",
+   "evangelica": "27,2",
+   "espirita": "3,2",
+   "umbanda": "0,3",
+   "outras": "3,9",
+   "sem": "12,7"
+ },
+ {
+   "codigo": 3547403,
+   "catolica": "85,1",
+   "evangelica": "10,2",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3547502,
+   "catolica": "70,0",
+   "evangelica": "19,6",
+   "espirita": "2,9",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 3547601,
+   "catolica": "66,2",
+   "evangelica": "19,4",
+   "espirita": "1,9",
+   "umbanda": "0,1",
+   "outras": "3,0",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 3547650,
+   "catolica": "73,4",
+   "evangelica": "21,0",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3547700,
+   "catolica": "73,7",
+   "evangelica": "18,0",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 3547809,
+   "catolica": "58,8",
+   "evangelica": "24,8",
+   "espirita": "4,0",
+   "umbanda": "0,5",
+   "outras": "3,7",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 3547908,
+   "catolica": "82,4",
+   "evangelica": "11,1",
+   "espirita": "2,2",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3548005,
+   "catolica": "73,6",
+   "evangelica": "18,9",
+   "espirita": "1,4",
+   "umbanda": "0,4",
+   "outras": "1,7",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 3548054,
+   "catolica": "63,0",
+   "evangelica": "26,5",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3548104,
+   "catolica": "81,4",
+   "evangelica": "12,8",
+   "espirita": "2,6",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 3548203,
+   "catolica": "81,9",
+   "evangelica": "11,1",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3548302,
+   "catolica": "75,3",
+   "evangelica": "19,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3548401,
+   "catolica": "74,5",
+   "evangelica": "19,4",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3548500,
+   "catolica": "66,0",
+   "evangelica": "13,4",
+   "espirita": "7,6",
+   "umbanda": "0,6",
+   "outras": "3,8",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 3548609,
+   "catolica": "85,5",
+   "evangelica": "10,4",
+   "espirita": "0,7",
+   "umbanda": "0,2",
+   "outras": "1,2",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 3548708,
+   "catolica": "59,0",
+   "evangelica": "23,0",
+   "espirita": "4,4",
+   "umbanda": "0,5",
+   "outras": "4,5",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 3548807,
+   "catolica": "66,3",
+   "evangelica": "17,2",
+   "espirita": "7,0",
+   "umbanda": "0,6",
+   "outras": "2,9",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3548906,
+   "catolica": "65,6",
+   "evangelica": "21,2",
+   "espirita": "3,7",
+   "umbanda": "0,4",
+   "outras": "2,7",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 3549003,
+   "catolica": "74,8",
+   "evangelica": "18,1",
+   "espirita": "2,9",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3549102,
+   "catolica": "69,1",
+   "evangelica": "19,6",
+   "espirita": "3,9",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3549201,
+   "catolica": "86,2",
+   "evangelica": "10,5",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 3549250,
+   "catolica": "64,9",
+   "evangelica": "26,4",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3549300,
+   "catolica": "88,5",
+   "evangelica": "8,6",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 3549409,
+   "catolica": "71,3",
+   "evangelica": "18,0",
+   "espirita": "3,6",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 3549508,
+   "catolica": "75,7",
+   "evangelica": "17,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 3549607,
+   "catolica": "84,6",
+   "evangelica": "12,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3549706,
+   "catolica": "81,3",
+   "evangelica": "12,8",
+   "espirita": "2,7",
+   "umbanda": "0,3",
+   "outras": "0,8",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 3549805,
+   "catolica": "58,7",
+   "evangelica": "23,8",
+   "espirita": "6,8",
+   "umbanda": "0,2",
+   "outras": "3,7",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 3549904,
+   "catolica": "67,1",
+   "evangelica": "22,7",
+   "espirita": "2,2",
+   "umbanda": "0,1",
+   "outras": "3,0",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3549953,
+   "catolica": "67,2",
+   "evangelica": "17,7",
+   "espirita": "2,4",
+   "umbanda": "0,1",
+   "outras": "5,0",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 3550001,
+   "catolica": "84,6",
+   "evangelica": "11,0",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3550100,
+   "catolica": "73,6",
+   "evangelica": "18,6",
+   "espirita": "1,5",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3550209,
+   "catolica": "70,5",
+   "evangelica": "20,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 3550308,
+   "catolica": "58,2",
+   "evangelica": "22,1",
+   "espirita": "4,7",
+   "umbanda": "0,6",
+   "outras": "4,4",
+   "sem": "10,0"
+ },
+ {
+   "codigo": 3550407,
+   "catolica": "59,1",
+   "evangelica": "27,1",
+   "espirita": "2,2",
+   "umbanda": "0,1",
+   "outras": "2,8",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 3550506,
+   "catolica": "79,0",
+   "evangelica": "17,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3550605,
+   "catolica": "65,5",
+   "evangelica": "20,4",
+   "espirita": "3,8",
+   "umbanda": "0,3",
+   "outras": "3,3",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 3550704,
+   "catolica": "52,7",
+   "evangelica": "27,7",
+   "espirita": "3,1",
+   "umbanda": "0,2",
+   "outras": "3,6",
+   "sem": "12,7"
+ },
+ {
+   "codigo": 3550803,
+   "catolica": "82,2",
+   "evangelica": "14,4",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3550902,
+   "catolica": "72,1",
+   "evangelica": "16,6",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 3551009,
+   "catolica": "53,4",
+   "evangelica": "25,0",
+   "espirita": "4,2",
+   "umbanda": "0,7",
+   "outras": "4,3",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 3551108,
+   "catolica": "74,0",
+   "evangelica": "14,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "5,4",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3551207,
+   "catolica": "67,0",
+   "evangelica": "22,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 3551306,
+   "catolica": "77,7",
+   "evangelica": "14,8",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 3551405,
+   "catolica": "65,6",
+   "evangelica": "23,1",
+   "espirita": "1,6",
+   "umbanda": "0,1",
+   "outras": "3,6",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 3551504,
+   "catolica": "74,7",
+   "evangelica": "16,8",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3551603,
+   "catolica": "69,9",
+   "evangelica": "19,6",
+   "espirita": "3,4",
+   "umbanda": "0,2",
+   "outras": "2,7",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 3551702,
+   "catolica": "61,9",
+   "evangelica": "23,3",
+   "espirita": "2,3",
+   "umbanda": "0,1",
+   "outras": "2,8",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 3551801,
+   "catolica": "45,2",
+   "evangelica": "31,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "20,9"
+ },
+ {
+   "codigo": 3551900,
+   "catolica": "72,5",
+   "evangelica": "22,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 3552007,
+   "catolica": "88,5",
+   "evangelica": "8,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3552106,
+   "catolica": "76,3",
+   "evangelica": "15,7",
+   "espirita": "1,8",
+   "umbanda": "0,2",
+   "outras": "2,4",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3552205,
+   "catolica": "56,5",
+   "evangelica": "27,8",
+   "espirita": "3,4",
+   "umbanda": "0,3",
+   "outras": "4,1",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 3552304,
+   "catolica": "67,1",
+   "evangelica": "23,4",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3552403,
+   "catolica": "53,5",
+   "evangelica": "32,6",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 3552502,
+   "catolica": "46,7",
+   "evangelica": "33,6",
+   "espirita": "2,0",
+   "umbanda": "0,6",
+   "outras": "3,2",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 3552551,
+   "catolica": "73,1",
+   "evangelica": "21,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3552601,
+   "catolica": "76,0",
+   "evangelica": "13,9",
+   "espirita": "3,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3552700,
+   "catolica": "70,5",
+   "evangelica": "19,1",
+   "espirita": "1,8",
+   "umbanda": "0,2",
+   "outras": "1,5",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 3552809,
+   "catolica": "59,4",
+   "evangelica": "22,4",
+   "espirita": "2,8",
+   "umbanda": "0,5",
+   "outras": "4,3",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 3552908,
+   "catolica": "77,3",
+   "evangelica": "16,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3553005,
+   "catolica": "80,3",
+   "evangelica": "16,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 3553104,
+   "catolica": "69,5",
+   "evangelica": "21,7",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 3553203,
+   "catolica": "75,7",
+   "evangelica": "17,2",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3553302,
+   "catolica": "75,7",
+   "evangelica": "15,3",
+   "espirita": "3,8",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3553401,
+   "catolica": "69,1",
+   "evangelica": "23,3",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3553500,
+   "catolica": "46,2",
+   "evangelica": "33,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "3,2",
+   "sem": "17,0"
+ },
+ {
+   "codigo": 3553609,
+   "catolica": "81,7",
+   "evangelica": "13,7",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 3553658,
+   "catolica": "81,3",
+   "evangelica": "16,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 3553708,
+   "catolica": "65,7",
+   "evangelica": "21,2",
+   "espirita": "2,9",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 3553807,
+   "catolica": "74,6",
+   "evangelica": "18,4",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 3553856,
+   "catolica": "71,9",
+   "evangelica": "22,9",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3553906,
+   "catolica": "77,7",
+   "evangelica": "18,1",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 3553955,
+   "catolica": "60,4",
+   "evangelica": "31,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 3554003,
+   "catolica": "52,6",
+   "evangelica": "33,6",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "4,7",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 3554102,
+   "catolica": "67,0",
+   "evangelica": "21,7",
+   "espirita": "2,7",
+   "umbanda": "0,2",
+   "outras": "2,6",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3554201,
+   "catolica": "82,7",
+   "evangelica": "13,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 3554300,
+   "catolica": "67,5",
+   "evangelica": "22,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 3554409,
+   "catolica": "73,3",
+   "evangelica": "20,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 3554508,
+   "catolica": "76,6",
+   "evangelica": "15,9",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 3554607,
+   "catolica": "83,1",
+   "evangelica": "15,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 3554656,
+   "catolica": "38,0",
+   "evangelica": "49,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,2",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 3554706,
+   "catolica": "80,3",
+   "evangelica": "14,8",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 3554755,
+   "catolica": "84,6",
+   "evangelica": "11,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 3554805,
+   "catolica": "65,8",
+   "evangelica": "23,5",
+   "espirita": "1,3",
+   "umbanda": "0,3",
+   "outras": "2,3",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 3554904,
+   "catolica": "66,4",
+   "evangelica": "20,3",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "6,9",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 3554953,
+   "catolica": "80,1",
+   "evangelica": "15,3",
+   "espirita": "0,8",
+   "umbanda": "0,6",
+   "outras": "1,3",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 3555000,
+   "catolica": "60,2",
+   "evangelica": "26,3",
+   "espirita": "4,2",
+   "umbanda": "0,1",
+   "outras": "2,9",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 3555109,
+   "catolica": "74,1",
+   "evangelica": "16,6",
+   "espirita": "2,1",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 3555208,
+   "catolica": "80,1",
+   "evangelica": "14,8",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 3555307,
+   "catolica": "74,9",
+   "evangelica": "16,3",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3555356,
+   "catolica": "67,8",
+   "evangelica": "22,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 3555406,
+   "catolica": "47,9",
+   "evangelica": "30,9",
+   "espirita": "1,6",
+   "umbanda": "0,2",
+   "outras": "3,8",
+   "sem": "15,7"
+ },
+ {
+   "codigo": 3555505,
+   "catolica": "65,2",
+   "evangelica": "25,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 3555604,
+   "catolica": "72,8",
+   "evangelica": "15,5",
+   "espirita": "3,6",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 3555703,
+   "catolica": "79,6",
+   "evangelica": "15,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 3555802,
+   "catolica": "70,6",
+   "evangelica": "17,8",
+   "espirita": "1,6",
+   "umbanda": "0,4",
+   "outras": "2,4",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 3555901,
+   "catolica": "75,6",
+   "evangelica": "23,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 3556008,
+   "catolica": "74,3",
+   "evangelica": "20,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 3556107,
+   "catolica": "65,5",
+   "evangelica": "16,4",
+   "espirita": "5,1",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 3556206,
+   "catolica": "66,3",
+   "evangelica": "21,1",
+   "espirita": "3,5",
+   "umbanda": "0,3",
+   "outras": "3,0",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 3556305,
+   "catolica": "54,5",
+   "evangelica": "23,3",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "20,7"
+ },
+ {
+   "codigo": 3556354,
+   "catolica": "65,4",
+   "evangelica": "27,0",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 3556404,
+   "catolica": "68,5",
+   "evangelica": "24,0",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 3556453,
+   "catolica": "60,7",
+   "evangelica": "25,6",
+   "espirita": "3,6",
+   "umbanda": "0,5",
+   "outras": "2,5",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 3556503,
+   "catolica": "59,1",
+   "evangelica": "30,9",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 3556602,
+   "catolica": "75,2",
+   "evangelica": "16,4",
+   "espirita": "2,6",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 3556701,
+   "catolica": "65,1",
+   "evangelica": "22,6",
+   "espirita": "3,0",
+   "umbanda": "0,4",
+   "outras": "2,6",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 3556800,
+   "catolica": "67,3",
+   "evangelica": "25,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3556909,
+   "catolica": "75,1",
+   "evangelica": "16,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 3556958,
+   "catolica": "72,2",
+   "evangelica": "10,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "11,4",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3557006,
+   "catolica": "52,7",
+   "evangelica": "32,7",
+   "espirita": "1,1",
+   "umbanda": "0,1",
+   "outras": "4,4",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 3557105,
+   "catolica": "62,7",
+   "evangelica": "22,0",
+   "espirita": "7,1",
+   "umbanda": "0,1",
+   "outras": "2,6",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 3557154,
+   "catolica": "72,7",
+   "evangelica": "18,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 3557204,
+   "catolica": "67,9",
+   "evangelica": "23,0",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 3557303,
+   "catolica": "67,6",
+   "evangelica": "23,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "4,1",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 4100103,
+   "catolica": "81,4",
+   "evangelica": "14,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4100202,
+   "catolica": "53,3",
+   "evangelica": "41,1",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 4100301,
+   "catolica": "74,4",
+   "evangelica": "23,0",
+   "espirita": "0,0",
+   "umbanda": "0,3",
+   "outras": "0,5",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4100400,
+   "catolica": "58,6",
+   "evangelica": "29,8",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "3,4",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 4100459,
+   "catolica": "82,2",
+   "evangelica": "15,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4100509,
+   "catolica": "78,3",
+   "evangelica": "16,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4100608,
+   "catolica": "79,6",
+   "evangelica": "15,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 4100707,
+   "catolica": "82,4",
+   "evangelica": "13,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4100806,
+   "catolica": "81,5",
+   "evangelica": "14,9",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4100905,
+   "catolica": "77,8",
+   "evangelica": "14,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 4101002,
+   "catolica": "90,0",
+   "evangelica": "9,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4101051,
+   "catolica": "81,6",
+   "evangelica": "13,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 4101101,
+   "catolica": "76,7",
+   "evangelica": "17,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 4101150,
+   "catolica": "69,9",
+   "evangelica": "25,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4101200,
+   "catolica": "40,8",
+   "evangelica": "40,8",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "1,4",
+   "sem": "15,7"
+ },
+ {
+   "codigo": 4101309,
+   "catolica": "90,8",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4101408,
+   "catolica": "70,9",
+   "evangelica": "21,6",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "2,6",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 4101507,
+   "catolica": "74,6",
+   "evangelica": "20,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4101606,
+   "catolica": "68,6",
+   "evangelica": "26,7",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 4101655,
+   "catolica": "87,6",
+   "evangelica": "10,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4101705,
+   "catolica": "82,4",
+   "evangelica": "13,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4101804,
+   "catolica": "64,9",
+   "evangelica": "24,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 4101853,
+   "catolica": "84,3",
+   "evangelica": "13,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4101903,
+   "catolica": "68,8",
+   "evangelica": "20,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "4,5",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 4102000,
+   "catolica": "80,7",
+   "evangelica": "14,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 4102109,
+   "catolica": "74,4",
+   "evangelica": "21,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4102208,
+   "catolica": "80,4",
+   "evangelica": "14,9",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4102307,
+   "catolica": "74,3",
+   "evangelica": "21,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 4102406,
+   "catolica": "75,6",
+   "evangelica": "20,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 4102505,
+   "catolica": "78,8",
+   "evangelica": "17,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 4102604,
+   "catolica": "72,7",
+   "evangelica": "24,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 4102703,
+   "catolica": "89,1",
+   "evangelica": "10,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4102752,
+   "catolica": "74,7",
+   "evangelica": "24,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4102802,
+   "catolica": "76,2",
+   "evangelica": "17,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 4102901,
+   "catolica": "83,3",
+   "evangelica": "15,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4103008,
+   "catolica": "84,0",
+   "evangelica": "12,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4103024,
+   "catolica": "93,0",
+   "evangelica": "6,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4103040,
+   "catolica": "90,2",
+   "evangelica": "9,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4103057,
+   "catolica": "84,5",
+   "evangelica": "12,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4103107,
+   "catolica": "68,9",
+   "evangelica": "25,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 4103156,
+   "catolica": "86,6",
+   "evangelica": "12,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4103206,
+   "catolica": "79,3",
+   "evangelica": "15,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 4103222,
+   "catolica": "95,6",
+   "evangelica": "3,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4103305,
+   "catolica": "85,8",
+   "evangelica": "11,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4103354,
+   "catolica": "88,7",
+   "evangelica": "9,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4103370,
+   "catolica": "88,5",
+   "evangelica": "9,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4103404,
+   "catolica": "83,4",
+   "evangelica": "12,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 4103453,
+   "catolica": "88,0",
+   "evangelica": "9,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4103479,
+   "catolica": "75,9",
+   "evangelica": "17,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 4103503,
+   "catolica": "82,6",
+   "evangelica": "14,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4103602,
+   "catolica": "76,5",
+   "evangelica": "18,6",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 4103701,
+   "catolica": "65,7",
+   "evangelica": "23,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 4103800,
+   "catolica": "81,1",
+   "evangelica": "16,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4103909,
+   "catolica": "81,0",
+   "evangelica": "15,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4103958,
+   "catolica": "81,2",
+   "evangelica": "12,9",
+   "espirita": "4,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4104006,
+   "catolica": "57,5",
+   "evangelica": "32,6",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 4104055,
+   "catolica": "85,7",
+   "evangelica": "12,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4104105,
+   "catolica": "75,5",
+   "evangelica": "21,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4104204,
+   "catolica": "73,3",
+   "evangelica": "19,3",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "2,0",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 4104253,
+   "catolica": "68,6",
+   "evangelica": "21,2",
+   "espirita": "0,8",
+   "umbanda": "0,2",
+   "outras": "2,0",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 4104303,
+   "catolica": "69,4",
+   "evangelica": "23,8",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 4104402,
+   "catolica": "86,2",
+   "evangelica": "12,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4104428,
+   "catolica": "85,2",
+   "evangelica": "13,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4104451,
+   "catolica": "87,4",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4104501,
+   "catolica": "76,8",
+   "evangelica": "22,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4104600,
+   "catolica": "84,2",
+   "evangelica": "13,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4104659,
+   "catolica": "66,6",
+   "evangelica": "30,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4104709,
+   "catolica": "83,7",
+   "evangelica": "11,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4104808,
+   "catolica": "72,4",
+   "evangelica": "20,4",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 4104907,
+   "catolica": "68,3",
+   "evangelica": "24,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 4105003,
+   "catolica": "87,4",
+   "evangelica": "11,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4105102,
+   "catolica": "77,1",
+   "evangelica": "20,1",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "0,7",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4105201,
+   "catolica": "52,9",
+   "evangelica": "40,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 4105300,
+   "catolica": "77,9",
+   "evangelica": "19,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4105409,
+   "catolica": "87,6",
+   "evangelica": "10,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4105508,
+   "catolica": "68,5",
+   "evangelica": "21,6",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 4105607,
+   "catolica": "80,7",
+   "evangelica": "15,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4105706,
+   "catolica": "81,9",
+   "evangelica": "15,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4105805,
+   "catolica": "58,0",
+   "evangelica": "30,2",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 4105904,
+   "catolica": "72,9",
+   "evangelica": "21,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4106001,
+   "catolica": "82,2",
+   "evangelica": "15,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4106100,
+   "catolica": "79,3",
+   "evangelica": "16,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 4106209,
+   "catolica": "81,4",
+   "evangelica": "14,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4106308,
+   "catolica": "83,9",
+   "evangelica": "14,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4106407,
+   "catolica": "70,5",
+   "evangelica": "23,3",
+   "espirita": "1,1",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 4106456,
+   "catolica": "84,4",
+   "evangelica": "14,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4106506,
+   "catolica": "83,8",
+   "evangelica": "13,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4106555,
+   "catolica": "77,0",
+   "evangelica": "16,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 4106571,
+   "catolica": "90,0",
+   "evangelica": "9,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4106605,
+   "catolica": "72,4",
+   "evangelica": "22,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 4106704,
+   "catolica": "74,7",
+   "evangelica": "17,6",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 4106803,
+   "catolica": "86,6",
+   "evangelica": "11,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4106852,
+   "catolica": "82,3",
+   "evangelica": "15,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4106902,
+   "catolica": "62,1",
+   "evangelica": "24,2",
+   "espirita": "2,8",
+   "umbanda": "0,3",
+   "outras": "3,2",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 4107009,
+   "catolica": "72,9",
+   "evangelica": "23,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4107108,
+   "catolica": "67,4",
+   "evangelica": "22,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 4107124,
+   "catolica": "76,7",
+   "evangelica": "18,5",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 4107157,
+   "catolica": "71,7",
+   "evangelica": "14,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "9,0",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 4107207,
+   "catolica": "85,3",
+   "evangelica": "12,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4107256,
+   "catolica": "77,5",
+   "evangelica": "18,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4107306,
+   "catolica": "81,6",
+   "evangelica": "15,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4107405,
+   "catolica": "92,5",
+   "evangelica": "6,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4107504,
+   "catolica": "80,6",
+   "evangelica": "16,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4107520,
+   "catolica": "85,0",
+   "evangelica": "10,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 4107538,
+   "catolica": "74,0",
+   "evangelica": "25,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4107546,
+   "catolica": "81,9",
+   "evangelica": "13,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4107553,
+   "catolica": "84,4",
+   "evangelica": "13,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4107603,
+   "catolica": "67,5",
+   "evangelica": "25,9",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 4107652,
+   "catolica": "62,6",
+   "evangelica": "29,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 4107702,
+   "catolica": "75,1",
+   "evangelica": "18,7",
+   "espirita": "0,2",
+   "umbanda": "0,4",
+   "outras": "0,7",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 4107736,
+   "catolica": "82,6",
+   "evangelica": "14,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 4107751,
+   "catolica": "68,6",
+   "evangelica": "24,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 4107801,
+   "catolica": "88,5",
+   "evangelica": "8,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4107850,
+   "catolica": "84,3",
+   "evangelica": "14,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4107900,
+   "catolica": "71,7",
+   "evangelica": "22,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 4108007,
+   "catolica": "76,7",
+   "evangelica": "18,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4108106,
+   "catolica": "78,0",
+   "evangelica": "18,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4108205,
+   "catolica": "85,5",
+   "evangelica": "9,5",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4108304,
+   "catolica": "58,6",
+   "evangelica": "27,5",
+   "espirita": "1,4",
+   "umbanda": "0,1",
+   "outras": "4,6",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 4108320,
+   "catolica": "79,4",
+   "evangelica": "15,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 4108403,
+   "catolica": "82,8",
+   "evangelica": "14,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4108452,
+   "catolica": "69,3",
+   "evangelica": "25,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 4108502,
+   "catolica": "79,8",
+   "evangelica": "16,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4108551,
+   "catolica": "85,3",
+   "evangelica": "10,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4108601,
+   "catolica": "79,4",
+   "evangelica": "15,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4108650,
+   "catolica": "88,1",
+   "evangelica": "10,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4108700,
+   "catolica": "77,5",
+   "evangelica": "15,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 4108809,
+   "catolica": "59,5",
+   "evangelica": "27,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 4108908,
+   "catolica": "76,0",
+   "evangelica": "15,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 4108957,
+   "catolica": "80,2",
+   "evangelica": "18,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4109005,
+   "catolica": "79,0",
+   "evangelica": "14,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 4109104,
+   "catolica": "83,0",
+   "evangelica": "12,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4109203,
+   "catolica": "73,7",
+   "evangelica": "22,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 4109302,
+   "catolica": "87,4",
+   "evangelica": "10,0",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4109401,
+   "catolica": "78,6",
+   "evangelica": "17,4",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4109500,
+   "catolica": "37,5",
+   "evangelica": "46,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "14,6"
+ },
+ {
+   "codigo": 4109609,
+   "catolica": "59,2",
+   "evangelica": "29,9",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 4109658,
+   "catolica": "85,2",
+   "evangelica": "14,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4109708,
+   "catolica": "67,5",
+   "evangelica": "26,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 4109757,
+   "catolica": "83,1",
+   "evangelica": "15,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4109807,
+   "catolica": "71,0",
+   "evangelica": "20,7",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 4109906,
+   "catolica": "77,7",
+   "evangelica": "15,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 4110003,
+   "catolica": "61,6",
+   "evangelica": "24,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 4110052,
+   "catolica": "91,2",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4110078,
+   "catolica": "63,9",
+   "evangelica": "29,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 4110102,
+   "catolica": "69,8",
+   "evangelica": "28,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4110201,
+   "catolica": "77,9",
+   "evangelica": "15,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,6",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4110300,
+   "catolica": "75,0",
+   "evangelica": "19,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 4110409,
+   "catolica": "84,9",
+   "evangelica": "11,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4110508,
+   "catolica": "90,3",
+   "evangelica": "7,8",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4110607,
+   "catolica": "74,2",
+   "evangelica": "17,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 4110656,
+   "catolica": "90,5",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4110706,
+   "catolica": "84,9",
+   "evangelica": "12,2",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4110805,
+   "catolica": "81,3",
+   "evangelica": "14,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4110904,
+   "catolica": "83,3",
+   "evangelica": "13,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4110953,
+   "catolica": "75,8",
+   "evangelica": "20,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4111001,
+   "catolica": "76,0",
+   "evangelica": "17,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 4111100,
+   "catolica": "80,5",
+   "evangelica": "13,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 4111209,
+   "catolica": "91,5",
+   "evangelica": "7,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4111258,
+   "catolica": "61,6",
+   "evangelica": "29,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 4111308,
+   "catolica": "77,4",
+   "evangelica": "15,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 4111407,
+   "catolica": "86,5",
+   "evangelica": "12,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4111506,
+   "catolica": "76,4",
+   "evangelica": "19,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4111555,
+   "catolica": "82,6",
+   "evangelica": "13,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 4111605,
+   "catolica": "61,0",
+   "evangelica": "36,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4111704,
+   "catolica": "81,2",
+   "evangelica": "14,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 4111803,
+   "catolica": "74,2",
+   "evangelica": "18,7",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 4111902,
+   "catolica": "68,3",
+   "evangelica": "23,9",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 4112009,
+   "catolica": "55,7",
+   "evangelica": "36,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 4112108,
+   "catolica": "81,6",
+   "evangelica": "13,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4112207,
+   "catolica": "87,4",
+   "evangelica": "7,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4112306,
+   "catolica": "75,2",
+   "evangelica": "20,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 4112405,
+   "catolica": "85,4",
+   "evangelica": "12,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4112504,
+   "catolica": "80,7",
+   "evangelica": "14,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 4112603,
+   "catolica": "68,8",
+   "evangelica": "23,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 4112702,
+   "catolica": "64,7",
+   "evangelica": "24,7",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "2,8",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 4112751,
+   "catolica": "87,1",
+   "evangelica": "9,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4112801,
+   "catolica": "78,2",
+   "evangelica": "18,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4112900,
+   "catolica": "79,6",
+   "evangelica": "15,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 4112959,
+   "catolica": "82,5",
+   "evangelica": "15,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4113007,
+   "catolica": "68,9",
+   "evangelica": "23,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 4113106,
+   "catolica": "92,3",
+   "evangelica": "6,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4113205,
+   "catolica": "84,9",
+   "evangelica": "11,0",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "0,7",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4113254,
+   "catolica": "86,0",
+   "evangelica": "10,2",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4113304,
+   "catolica": "85,0",
+   "evangelica": "11,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4113403,
+   "catolica": "83,3",
+   "evangelica": "14,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4113429,
+   "catolica": "81,4",
+   "evangelica": "14,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4113452,
+   "catolica": "83,6",
+   "evangelica": "15,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4113502,
+   "catolica": "76,3",
+   "evangelica": "16,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4113601,
+   "catolica": "77,2",
+   "evangelica": "20,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4113700,
+   "catolica": "60,6",
+   "evangelica": "29,1",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "2,8",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 4113734,
+   "catolica": "77,3",
+   "evangelica": "18,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4113759,
+   "catolica": "80,7",
+   "evangelica": "13,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 4113809,
+   "catolica": "74,6",
+   "evangelica": "20,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 4113908,
+   "catolica": "90,4",
+   "evangelica": "8,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4114005,
+   "catolica": "73,9",
+   "evangelica": "19,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "4,3",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4114104,
+   "catolica": "65,3",
+   "evangelica": "23,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 4114203,
+   "catolica": "66,4",
+   "evangelica": "28,0",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 4114302,
+   "catolica": "74,6",
+   "evangelica": "19,9",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 4114351,
+   "catolica": "76,3",
+   "evangelica": "8,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "13,9",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4114401,
+   "catolica": "80,0",
+   "evangelica": "18,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4114500,
+   "catolica": "91,1",
+   "evangelica": "7,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4114609,
+   "catolica": "56,5",
+   "evangelica": "40,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4114708,
+   "catolica": "78,9",
+   "evangelica": "17,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4114807,
+   "catolica": "74,9",
+   "evangelica": "18,8",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4114906,
+   "catolica": "78,9",
+   "evangelica": "17,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4115002,
+   "catolica": "76,5",
+   "evangelica": "18,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 4115101,
+   "catolica": "74,3",
+   "evangelica": "17,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 4115200,
+   "catolica": "64,7",
+   "evangelica": "25,5",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "2,8",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 4115309,
+   "catolica": "85,4",
+   "evangelica": "13,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4115358,
+   "catolica": "49,7",
+   "evangelica": "48,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4115408,
+   "catolica": "86,1",
+   "evangelica": "12,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4115457,
+   "catolica": "90,4",
+   "evangelica": "5,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4115507,
+   "catolica": "86,7",
+   "evangelica": "10,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4115606,
+   "catolica": "76,3",
+   "evangelica": "20,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4115705,
+   "catolica": "58,2",
+   "evangelica": "28,3",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 4115739,
+   "catolica": "92,9",
+   "evangelica": "6,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4115754,
+   "catolica": "58,9",
+   "evangelica": "32,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 4115804,
+   "catolica": "77,0",
+   "evangelica": "18,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4115853,
+   "catolica": "57,4",
+   "evangelica": "39,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4115903,
+   "catolica": "77,1",
+   "evangelica": "15,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 4116000,
+   "catolica": "84,1",
+   "evangelica": "14,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4116059,
+   "catolica": "88,5",
+   "evangelica": "9,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4116109,
+   "catolica": "81,1",
+   "evangelica": "14,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 4116208,
+   "catolica": "55,2",
+   "evangelica": "33,8",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 4116307,
+   "catolica": "76,0",
+   "evangelica": "21,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4116406,
+   "catolica": "77,8",
+   "evangelica": "20,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4116505,
+   "catolica": "83,0",
+   "evangelica": "14,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4116604,
+   "catolica": "80,9",
+   "evangelica": "14,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 4116703,
+   "catolica": "85,3",
+   "evangelica": "11,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4116802,
+   "catolica": "84,3",
+   "evangelica": "13,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4116901,
+   "catolica": "67,6",
+   "evangelica": "22,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 4116950,
+   "catolica": "91,5",
+   "evangelica": "7,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4117008,
+   "catolica": "78,7",
+   "evangelica": "15,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 4117057,
+   "catolica": "85,8",
+   "evangelica": "8,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4117107,
+   "catolica": "71,3",
+   "evangelica": "20,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 4117206,
+   "catolica": "77,4",
+   "evangelica": "16,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 4117214,
+   "catolica": "73,7",
+   "evangelica": "21,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 4117222,
+   "catolica": "39,0",
+   "evangelica": "58,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4117255,
+   "catolica": "92,4",
+   "evangelica": "6,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4117271,
+   "catolica": "81,6",
+   "evangelica": "16,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4117297,
+   "catolica": "92,4",
+   "evangelica": "6,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4117305,
+   "catolica": "70,2",
+   "evangelica": "26,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4117404,
+   "catolica": "77,2",
+   "evangelica": "16,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 4117453,
+   "catolica": "87,0",
+   "evangelica": "11,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4117503,
+   "catolica": "68,2",
+   "evangelica": "24,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 4117602,
+   "catolica": "77,1",
+   "evangelica": "19,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4117701,
+   "catolica": "70,4",
+   "evangelica": "24,0",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 4117800,
+   "catolica": "83,9",
+   "evangelica": "13,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4117909,
+   "catolica": "77,7",
+   "evangelica": "17,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 4118006,
+   "catolica": "79,9",
+   "evangelica": "14,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4118105,
+   "catolica": "76,5",
+   "evangelica": "17,2",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 4118204,
+   "catolica": "42,5",
+   "evangelica": "38,3",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "2,2",
+   "sem": "15,7"
+ },
+ {
+   "codigo": 4118303,
+   "catolica": "69,3",
+   "evangelica": "22,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 4118402,
+   "catolica": "70,7",
+   "evangelica": "20,6",
+   "espirita": "1,2",
+   "umbanda": "0,2",
+   "outras": "2,4",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 4118451,
+   "catolica": "68,6",
+   "evangelica": "29,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4118501,
+   "catolica": "78,5",
+   "evangelica": "17,4",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4118600,
+   "catolica": "88,1",
+   "evangelica": "10,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4118709,
+   "catolica": "90,0",
+   "evangelica": "7,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4118808,
+   "catolica": "74,9",
+   "evangelica": "19,5",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4118857,
+   "catolica": "79,6",
+   "evangelica": "16,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 4118907,
+   "catolica": "81,8",
+   "evangelica": "11,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 4119004,
+   "catolica": "83,3",
+   "evangelica": "16,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4119103,
+   "catolica": "86,4",
+   "evangelica": "12,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4119152,
+   "catolica": "59,9",
+   "evangelica": "28,4",
+   "espirita": "1,2",
+   "umbanda": "0,2",
+   "outras": "2,6",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 4119202,
+   "catolica": "81,9",
+   "evangelica": "14,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4119251,
+   "catolica": "92,3",
+   "evangelica": "7,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4119301,
+   "catolica": "85,3",
+   "evangelica": "13,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4119400,
+   "catolica": "78,1",
+   "evangelica": "17,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4119509,
+   "catolica": "57,0",
+   "evangelica": "29,7",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "9,6"
+ },
+ {
+   "codigo": 4119608,
+   "catolica": "85,3",
+   "evangelica": "10,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4119657,
+   "catolica": "80,7",
+   "evangelica": "18,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4119707,
+   "catolica": "85,1",
+   "evangelica": "12,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4119806,
+   "catolica": "79,0",
+   "evangelica": "19,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4119905,
+   "catolica": "67,3",
+   "evangelica": "24,0",
+   "espirita": "2,4",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 4119954,
+   "catolica": "57,1",
+   "evangelica": "28,5",
+   "espirita": "1,9",
+   "umbanda": "0,2",
+   "outras": "3,4",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 4120002,
+   "catolica": "69,4",
+   "evangelica": "21,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 4120101,
+   "catolica": "64,4",
+   "evangelica": "27,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 4120150,
+   "catolica": "92,2",
+   "evangelica": "6,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4120200,
+   "catolica": "73,9",
+   "evangelica": "19,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 4120309,
+   "catolica": "80,2",
+   "evangelica": "18,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4120333,
+   "catolica": "71,1",
+   "evangelica": "26,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4120358,
+   "catolica": "84,6",
+   "evangelica": "12,8",
+   "espirita": "0,3",
+   "umbanda": "0,5",
+   "outras": "0,0",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4120408,
+   "catolica": "71,3",
+   "evangelica": "18,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 4120507,
+   "catolica": "80,4",
+   "evangelica": "14,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 4120606,
+   "catolica": "86,4",
+   "evangelica": "6,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "6,2",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4120655,
+   "catolica": "89,4",
+   "evangelica": "8,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4120705,
+   "catolica": "82,8",
+   "evangelica": "14,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4120804,
+   "catolica": "48,4",
+   "evangelica": "34,3",
+   "espirita": "1,0",
+   "umbanda": "0,2",
+   "outras": "7,3",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 4120853,
+   "catolica": "81,8",
+   "evangelica": "17,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4120903,
+   "catolica": "85,4",
+   "evangelica": "11,5",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4121000,
+   "catolica": "77,9",
+   "evangelica": "15,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 4121109,
+   "catolica": "75,0",
+   "evangelica": "19,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 4121208,
+   "catolica": "80,7",
+   "evangelica": "16,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4121257,
+   "catolica": "72,6",
+   "evangelica": "20,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 4121307,
+   "catolica": "70,6",
+   "evangelica": "22,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 4121356,
+   "catolica": "80,7",
+   "evangelica": "15,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 4121406,
+   "catolica": "89,8",
+   "evangelica": "8,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4121505,
+   "catolica": "86,6",
+   "evangelica": "11,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4121604,
+   "catolica": "87,7",
+   "evangelica": "10,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4121703,
+   "catolica": "81,9",
+   "evangelica": "15,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4121752,
+   "catolica": "72,0",
+   "evangelica": "25,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4121802,
+   "catolica": "84,9",
+   "evangelica": "11,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4121901,
+   "catolica": "79,1",
+   "evangelica": "16,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 4122008,
+   "catolica": "91,4",
+   "evangelica": "7,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4122107,
+   "catolica": "83,0",
+   "evangelica": "12,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4122156,
+   "catolica": "81,8",
+   "evangelica": "16,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4122172,
+   "catolica": "75,4",
+   "evangelica": "19,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 4122206,
+   "catolica": "59,2",
+   "evangelica": "32,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 4122305,
+   "catolica": "79,2",
+   "evangelica": "16,1",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4122404,
+   "catolica": "66,5",
+   "evangelica": "25,2",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 4122503,
+   "catolica": "88,2",
+   "evangelica": "10,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4122602,
+   "catolica": "85,7",
+   "evangelica": "10,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4122651,
+   "catolica": "83,4",
+   "evangelica": "14,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4122701,
+   "catolica": "76,7",
+   "evangelica": "20,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4122800,
+   "catolica": "79,3",
+   "evangelica": "20,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4122909,
+   "catolica": "81,7",
+   "evangelica": "15,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 4123006,
+   "catolica": "94,3",
+   "evangelica": "5,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4123105,
+   "catolica": "81,7",
+   "evangelica": "13,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4123204,
+   "catolica": "68,1",
+   "evangelica": "22,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 4123303,
+   "catolica": "77,6",
+   "evangelica": "19,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4123402,
+   "catolica": "78,9",
+   "evangelica": "16,8",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4123501,
+   "catolica": "79,7",
+   "evangelica": "18,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4123600,
+   "catolica": "86,8",
+   "evangelica": "10,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4123709,
+   "catolica": "79,5",
+   "evangelica": "15,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4123808,
+   "catolica": "93,6",
+   "evangelica": "5,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4123824,
+   "catolica": "81,8",
+   "evangelica": "17,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4123857,
+   "catolica": "87,4",
+   "evangelica": "11,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4123907,
+   "catolica": "79,0",
+   "evangelica": "16,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4123956,
+   "catolica": "69,1",
+   "evangelica": "24,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 4124004,
+   "catolica": "89,2",
+   "evangelica": "8,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4124020,
+   "catolica": "79,1",
+   "evangelica": "15,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 4124053,
+   "catolica": "74,4",
+   "evangelica": "22,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4124103,
+   "catolica": "71,8",
+   "evangelica": "22,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 4124202,
+   "catolica": "88,6",
+   "evangelica": "6,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 4124301,
+   "catolica": "80,4",
+   "evangelica": "14,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 4124400,
+   "catolica": "76,5",
+   "evangelica": "20,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4124509,
+   "catolica": "74,8",
+   "evangelica": "20,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 4124608,
+   "catolica": "78,4",
+   "evangelica": "17,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 4124707,
+   "catolica": "67,3",
+   "evangelica": "24,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 4124806,
+   "catolica": "81,3",
+   "evangelica": "17,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4124905,
+   "catolica": "75,5",
+   "evangelica": "15,4",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 4125001,
+   "catolica": "73,0",
+   "evangelica": "20,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 4125100,
+   "catolica": "87,0",
+   "evangelica": "10,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4125209,
+   "catolica": "86,7",
+   "evangelica": "12,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4125308,
+   "catolica": "82,6",
+   "evangelica": "14,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4125357,
+   "catolica": "83,8",
+   "evangelica": "11,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4125407,
+   "catolica": "85,6",
+   "evangelica": "12,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4125456,
+   "catolica": "79,5",
+   "evangelica": "16,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 4125506,
+   "catolica": "63,3",
+   "evangelica": "26,1",
+   "espirita": "1,2",
+   "umbanda": "0,2",
+   "outras": "2,4",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 4125555,
+   "catolica": "81,9",
+   "evangelica": "14,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4125605,
+   "catolica": "83,6",
+   "evangelica": "12,2",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4125704,
+   "catolica": "80,8",
+   "evangelica": "12,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4125753,
+   "catolica": "81,9",
+   "evangelica": "15,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4125803,
+   "catolica": "82,3",
+   "evangelica": "11,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 4125902,
+   "catolica": "76,9",
+   "evangelica": "16,7",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 4126009,
+   "catolica": "75,3",
+   "evangelica": "18,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 4126108,
+   "catolica": "78,5",
+   "evangelica": "17,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4126207,
+   "catolica": "74,2",
+   "evangelica": "18,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 4126256,
+   "catolica": "63,5",
+   "evangelica": "28,1",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 4126272,
+   "catolica": "84,8",
+   "evangelica": "13,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4126306,
+   "catolica": "57,3",
+   "evangelica": "32,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 4126355,
+   "catolica": "87,3",
+   "evangelica": "12,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4126405,
+   "catolica": "72,0",
+   "evangelica": "23,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4126504,
+   "catolica": "76,3",
+   "evangelica": "19,7",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "0,9",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4126603,
+   "catolica": "84,7",
+   "evangelica": "11,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4126652,
+   "catolica": "87,8",
+   "evangelica": "11,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4126678,
+   "catolica": "65,5",
+   "evangelica": "25,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "4,5",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 4126702,
+   "catolica": "84,8",
+   "evangelica": "12,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4126801,
+   "catolica": "69,6",
+   "evangelica": "22,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 4126900,
+   "catolica": "81,7",
+   "evangelica": "14,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4127007,
+   "catolica": "75,3",
+   "evangelica": "19,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 4127106,
+   "catolica": "52,8",
+   "evangelica": "38,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 4127205,
+   "catolica": "76,1",
+   "evangelica": "19,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4127304,
+   "catolica": "72,7",
+   "evangelica": "18,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 4127403,
+   "catolica": "75,8",
+   "evangelica": "19,3",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 4127502,
+   "catolica": "77,9",
+   "evangelica": "17,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 4127601,
+   "catolica": "79,1",
+   "evangelica": "15,3",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 4127700,
+   "catolica": "74,6",
+   "evangelica": "19,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4127809,
+   "catolica": "87,7",
+   "evangelica": "11,1",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "0,2",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4127858,
+   "catolica": "87,3",
+   "evangelica": "11,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4127882,
+   "catolica": "48,7",
+   "evangelica": "34,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "16,7"
+ },
+ {
+   "codigo": 4127908,
+   "catolica": "77,1",
+   "evangelica": "18,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 4127957,
+   "catolica": "85,9",
+   "evangelica": "12,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4127965,
+   "catolica": "83,5",
+   "evangelica": "15,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4128005,
+   "catolica": "83,2",
+   "evangelica": "12,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4128104,
+   "catolica": "73,8",
+   "evangelica": "20,2",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 4128203,
+   "catolica": "77,2",
+   "evangelica": "16,7",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "2,2",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 4128302,
+   "catolica": "85,4",
+   "evangelica": "9,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 4128401,
+   "catolica": "78,5",
+   "evangelica": "15,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 4128500,
+   "catolica": "80,4",
+   "evangelica": "16,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4128534,
+   "catolica": "78,8",
+   "evangelica": "15,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 4128559,
+   "catolica": "74,7",
+   "evangelica": "18,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 4128609,
+   "catolica": "90,3",
+   "evangelica": "9,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4128625,
+   "catolica": "81,7",
+   "evangelica": "10,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 4128633,
+   "catolica": "50,9",
+   "evangelica": "47,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4128658,
+   "catolica": "92,6",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4128708,
+   "catolica": "89,0",
+   "evangelica": "9,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4128807,
+   "catolica": "84,4",
+   "evangelica": "12,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4200051,
+   "catolica": "97,3",
+   "evangelica": "2,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4200101,
+   "catolica": "80,2",
+   "evangelica": "18,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4200200,
+   "catolica": "63,4",
+   "evangelica": "34,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4200309,
+   "catolica": "86,4",
+   "evangelica": "12,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4200408,
+   "catolica": "87,3",
+   "evangelica": "11,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4200507,
+   "catolica": "76,3",
+   "evangelica": "21,7",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "0,6",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4200556,
+   "catolica": "90,7",
+   "evangelica": "9,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4200606,
+   "catolica": "78,4",
+   "evangelica": "19,4",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4200705,
+   "catolica": "73,7",
+   "evangelica": "25,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4200754,
+   "catolica": "46,9",
+   "evangelica": "51,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4200804,
+   "catolica": "87,7",
+   "evangelica": "11,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4200903,
+   "catolica": "70,9",
+   "evangelica": "28,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4201000,
+   "catolica": "89,6",
+   "evangelica": "9,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4201109,
+   "catolica": "93,7",
+   "evangelica": "6,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4201208,
+   "catolica": "91,9",
+   "evangelica": "4,4",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4201257,
+   "catolica": "84,5",
+   "evangelica": "13,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4201273,
+   "catolica": "15,6",
+   "evangelica": "83,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4201307,
+   "catolica": "57,7",
+   "evangelica": "32,3",
+   "espirita": "0,8",
+   "umbanda": "0,2",
+   "outras": "5,3",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4201406,
+   "catolica": "73,3",
+   "evangelica": "19,1",
+   "espirita": "1,3",
+   "umbanda": "0,7",
+   "outras": "2,0",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 4201505,
+   "catolica": "89,4",
+   "evangelica": "8,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4201604,
+   "catolica": "91,3",
+   "evangelica": "8,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4201653,
+   "catolica": "86,4",
+   "evangelica": "12,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4201703,
+   "catolica": "84,3",
+   "evangelica": "14,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4201802,
+   "catolica": "82,6",
+   "evangelica": "16,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4201901,
+   "catolica": "73,3",
+   "evangelica": "26,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4201950,
+   "catolica": "70,9",
+   "evangelica": "19,5",
+   "espirita": "2,8",
+   "umbanda": "0,9",
+   "outras": "1,8",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 4202008,
+   "catolica": "60,7",
+   "evangelica": "25,2",
+   "espirita": "4,1",
+   "umbanda": "0,5",
+   "outras": "2,4",
+   "sem": "7,1"
+ },
+ {
+   "codigo": 4202057,
+   "catolica": "58,9",
+   "evangelica": "35,8",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 4202073,
+   "catolica": "74,1",
+   "evangelica": "19,9",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4202081,
+   "catolica": "85,4",
+   "evangelica": "13,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4202099,
+   "catolica": "88,0",
+   "evangelica": "11,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4202107,
+   "catolica": "67,1",
+   "evangelica": "26,6",
+   "espirita": "1,5",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4202131,
+   "catolica": "91,9",
+   "evangelica": "7,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4202156,
+   "catolica": "86,7",
+   "evangelica": "9,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 4202206,
+   "catolica": "48,8",
+   "evangelica": "50,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4202305,
+   "catolica": "72,3",
+   "evangelica": "16,9",
+   "espirita": "2,8",
+   "umbanda": "0,5",
+   "outras": "2,6",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 4202404,
+   "catolica": "67,8",
+   "evangelica": "25,7",
+   "espirita": "1,5",
+   "umbanda": "0,1",
+   "outras": "2,0",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4202438,
+   "catolica": "92,8",
+   "evangelica": "5,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4202453,
+   "catolica": "58,2",
+   "evangelica": "24,9",
+   "espirita": "2,0",
+   "umbanda": "0,1",
+   "outras": "5,0",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 4202503,
+   "catolica": "88,6",
+   "evangelica": "10,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4202537,
+   "catolica": "79,5",
+   "evangelica": "17,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4202578,
+   "catolica": "73,9",
+   "evangelica": "23,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4202602,
+   "catolica": "86,8",
+   "evangelica": "11,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4202701,
+   "catolica": "92,3",
+   "evangelica": "7,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4202800,
+   "catolica": "89,4",
+   "evangelica": "7,6",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4202859,
+   "catolica": "44,4",
+   "evangelica": "55,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4202875,
+   "catolica": "82,9",
+   "evangelica": "16,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4202909,
+   "catolica": "79,1",
+   "evangelica": "17,0",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4203006,
+   "catolica": "76,1",
+   "evangelica": "19,0",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4203105,
+   "catolica": "88,8",
+   "evangelica": "9,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4203154,
+   "catolica": "68,7",
+   "evangelica": "27,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4203204,
+   "catolica": "52,8",
+   "evangelica": "37,8",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 4203253,
+   "catolica": "90,5",
+   "evangelica": "7,6",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4203303,
+   "catolica": "84,2",
+   "evangelica": "12,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4203402,
+   "catolica": "93,4",
+   "evangelica": "5,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4203501,
+   "catolica": "78,0",
+   "evangelica": "19,2",
+   "espirita": "1,0",
+   "umbanda": "0,2",
+   "outras": "0,3",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4203600,
+   "catolica": "85,7",
+   "evangelica": "12,1",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4203709,
+   "catolica": "77,8",
+   "evangelica": "16,6",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 4203808,
+   "catolica": "81,9",
+   "evangelica": "15,7",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4203907,
+   "catolica": "84,4",
+   "evangelica": "12,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4203956,
+   "catolica": "77,5",
+   "evangelica": "18,8",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4204004,
+   "catolica": "75,4",
+   "evangelica": "19,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "4,6",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4204103,
+   "catolica": "81,9",
+   "evangelica": "16,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4204152,
+   "catolica": "90,5",
+   "evangelica": "8,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4204178,
+   "catolica": "95,3",
+   "evangelica": "4,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4204194,
+   "catolica": "95,4",
+   "evangelica": "4,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4204202,
+   "catolica": "71,6",
+   "evangelica": "21,5",
+   "espirita": "1,5",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 4204251,
+   "catolica": "82,8",
+   "evangelica": "14,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4204301,
+   "catolica": "81,1",
+   "evangelica": "16,3",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4204350,
+   "catolica": "92,8",
+   "evangelica": "6,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4204400,
+   "catolica": "86,7",
+   "evangelica": "12,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4204459,
+   "catolica": "90,7",
+   "evangelica": "9,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4204509,
+   "catolica": "68,2",
+   "evangelica": "27,9",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4204558,
+   "catolica": "74,9",
+   "evangelica": "20,8",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 4204608,
+   "catolica": "65,9",
+   "evangelica": "26,2",
+   "espirita": "1,3",
+   "umbanda": "0,2",
+   "outras": "1,6",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 4204707,
+   "catolica": "45,8",
+   "evangelica": "52,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4204756,
+   "catolica": "89,9",
+   "evangelica": "10,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4204806,
+   "catolica": "81,3",
+   "evangelica": "14,1",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4204905,
+   "catolica": "91,9",
+   "evangelica": "7,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4205001,
+   "catolica": "71,3",
+   "evangelica": "26,0",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4205100,
+   "catolica": "71,8",
+   "evangelica": "24,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4205159,
+   "catolica": "74,3",
+   "evangelica": "24,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4205175,
+   "catolica": "65,2",
+   "evangelica": "31,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 4205191,
+   "catolica": "86,7",
+   "evangelica": "11,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4205209,
+   "catolica": "90,8",
+   "evangelica": "9,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "-0,1"
+ },
+ {
+   "codigo": 4205308,
+   "catolica": "77,5",
+   "evangelica": "20,5",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4205357,
+   "catolica": "82,9",
+   "evangelica": "15,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4205407,
+   "catolica": "63,5",
+   "evangelica": "13,0",
+   "espirita": "7,3",
+   "umbanda": "0,7",
+   "outras": "3,1",
+   "sem": "12,4"
+ },
+ {
+   "codigo": 4205431,
+   "catolica": "90,4",
+   "evangelica": "9,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4205456,
+   "catolica": "74,4",
+   "evangelica": "21,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 4205506,
+   "catolica": "79,0",
+   "evangelica": "17,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4205555,
+   "catolica": "85,1",
+   "evangelica": "13,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4205605,
+   "catolica": "86,7",
+   "evangelica": "12,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4205704,
+   "catolica": "73,8",
+   "evangelica": "12,6",
+   "espirita": "3,1",
+   "umbanda": "0,2",
+   "outras": "3,4",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 4205803,
+   "catolica": "68,6",
+   "evangelica": "27,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4205902,
+   "catolica": "76,2",
+   "evangelica": "19,5",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4206009,
+   "catolica": "69,3",
+   "evangelica": "23,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 4206108,
+   "catolica": "96,4",
+   "evangelica": "2,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4206207,
+   "catolica": "86,5",
+   "evangelica": "10,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4206306,
+   "catolica": "79,4",
+   "evangelica": "17,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4206405,
+   "catolica": "87,4",
+   "evangelica": "12,3",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4206504,
+   "catolica": "74,8",
+   "evangelica": "21,7",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "0,3",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4206603,
+   "catolica": "83,9",
+   "evangelica": "15,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4206652,
+   "catolica": "79,3",
+   "evangelica": "17,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4206702,
+   "catolica": "83,2",
+   "evangelica": "14,2",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4206751,
+   "catolica": "92,8",
+   "evangelica": "5,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4206801,
+   "catolica": "85,5",
+   "evangelica": "12,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4206900,
+   "catolica": "66,1",
+   "evangelica": "31,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4207007,
+   "catolica": "73,9",
+   "evangelica": "22,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4207106,
+   "catolica": "69,3",
+   "evangelica": "25,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4207205,
+   "catolica": "84,0",
+   "evangelica": "12,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4207304,
+   "catolica": "71,1",
+   "evangelica": "17,7",
+   "espirita": "2,7",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 4207403,
+   "catolica": "79,0",
+   "evangelica": "20,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4207502,
+   "catolica": "70,5",
+   "evangelica": "25,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4207577,
+   "catolica": "92,6",
+   "evangelica": "6,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4207601,
+   "catolica": "59,4",
+   "evangelica": "39,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4207650,
+   "catolica": "86,0",
+   "evangelica": "13,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4207684,
+   "catolica": "74,0",
+   "evangelica": "19,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 4207700,
+   "catolica": "81,1",
+   "evangelica": "17,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4207759,
+   "catolica": "86,5",
+   "evangelica": "12,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4207809,
+   "catolica": "77,3",
+   "evangelica": "20,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4207858,
+   "catolica": "90,1",
+   "evangelica": "9,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4207908,
+   "catolica": "85,3",
+   "evangelica": "12,2",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4208005,
+   "catolica": "78,5",
+   "evangelica": "19,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4208104,
+   "catolica": "86,4",
+   "evangelica": "9,9",
+   "espirita": "2,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4208203,
+   "catolica": "61,7",
+   "evangelica": "28,2",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 4208302,
+   "catolica": "63,3",
+   "evangelica": "25,8",
+   "espirita": "3,0",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 4208401,
+   "catolica": "94,8",
+   "evangelica": "4,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4208450,
+   "catolica": "64,1",
+   "evangelica": "24,6",
+   "espirita": "2,4",
+   "umbanda": "0,3",
+   "outras": "1,9",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 4208500,
+   "catolica": "79,9",
+   "evangelica": "18,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4208609,
+   "catolica": "93,1",
+   "evangelica": "6,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4208708,
+   "catolica": "89,0",
+   "evangelica": "9,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4208807,
+   "catolica": "80,1",
+   "evangelica": "16,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4208906,
+   "catolica": "70,3",
+   "evangelica": "25,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4208955,
+   "catolica": "87,7",
+   "evangelica": "10,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4209003,
+   "catolica": "83,1",
+   "evangelica": "13,4",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4209102,
+   "catolica": "65,2",
+   "evangelica": "28,3",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 4209151,
+   "catolica": "69,1",
+   "evangelica": "29,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4209177,
+   "catolica": "95,0",
+   "evangelica": "4,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4209201,
+   "catolica": "95,1",
+   "evangelica": "4,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4209300,
+   "catolica": "76,4",
+   "evangelica": "18,2",
+   "espirita": "1,7",
+   "umbanda": "0,2",
+   "outras": "1,1",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4209409,
+   "catolica": "78,0",
+   "evangelica": "12,1",
+   "espirita": "2,8",
+   "umbanda": "0,3",
+   "outras": "1,6",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 4209458,
+   "catolica": "92,9",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4209508,
+   "catolica": "91,2",
+   "evangelica": "6,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4209607,
+   "catolica": "85,3",
+   "evangelica": "11,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4209706,
+   "catolica": "74,7",
+   "evangelica": "22,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4209805,
+   "catolica": "82,6",
+   "evangelica": "16,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4209854,
+   "catolica": "92,8",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "-0,1"
+ },
+ {
+   "codigo": 4209904,
+   "catolica": "77,8",
+   "evangelica": "21,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4210001,
+   "catolica": "87,7",
+   "evangelica": "10,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4210035,
+   "catolica": "74,6",
+   "evangelica": "24,6",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4210050,
+   "catolica": "91,5",
+   "evangelica": "8,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4210100,
+   "catolica": "84,1",
+   "evangelica": "11,9",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "1,3",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4210209,
+   "catolica": "87,2",
+   "evangelica": "12,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4210308,
+   "catolica": "91,9",
+   "evangelica": "7,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4210407,
+   "catolica": "72,8",
+   "evangelica": "12,5",
+   "espirita": "0,4",
+   "umbanda": "0,5",
+   "outras": "10,6",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 4210506,
+   "catolica": "74,3",
+   "evangelica": "23,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4210555,
+   "catolica": "95,4",
+   "evangelica": "3,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4210605,
+   "catolica": "75,5",
+   "evangelica": "23,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4210704,
+   "catolica": "76,5",
+   "evangelica": "17,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 4210803,
+   "catolica": "83,2",
+   "evangelica": "15,2",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4210852,
+   "catolica": "82,3",
+   "evangelica": "16,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4210902,
+   "catolica": "83,5",
+   "evangelica": "16,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4211009,
+   "catolica": "54,1",
+   "evangelica": "44,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4211058,
+   "catolica": "78,8",
+   "evangelica": "20,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4211108,
+   "catolica": "76,6",
+   "evangelica": "21,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4211207,
+   "catolica": "74,4",
+   "evangelica": "21,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 4211256,
+   "catolica": "91,2",
+   "evangelica": "6,6",
+   "espirita": "0,0",
+   "umbanda": "0,2",
+   "outras": "1,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4211306,
+   "catolica": "60,9",
+   "evangelica": "28,9",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "2,7",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 4211405,
+   "catolica": "84,3",
+   "evangelica": "13,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4211454,
+   "catolica": "83,9",
+   "evangelica": "15,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4211504,
+   "catolica": "88,2",
+   "evangelica": "10,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4211603,
+   "catolica": "87,6",
+   "evangelica": "10,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4211652,
+   "catolica": "95,7",
+   "evangelica": "4,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4211702,
+   "catolica": "89,4",
+   "evangelica": "9,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4211751,
+   "catolica": "80,3",
+   "evangelica": "17,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4211801,
+   "catolica": "92,2",
+   "evangelica": "5,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4211850,
+   "catolica": "84,1",
+   "evangelica": "14,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4211876,
+   "catolica": "62,3",
+   "evangelica": "36,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4211892,
+   "catolica": "91,2",
+   "evangelica": "7,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4211900,
+   "catolica": "70,9",
+   "evangelica": "17,3",
+   "espirita": "3,4",
+   "umbanda": "0,5",
+   "outras": "2,1",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 4212007,
+   "catolica": "84,1",
+   "evangelica": "14,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4212056,
+   "catolica": "82,6",
+   "evangelica": "16,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4212106,
+   "catolica": "70,9",
+   "evangelica": "27,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4212205,
+   "catolica": "88,1",
+   "evangelica": "9,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4212239,
+   "catolica": "82,0",
+   "evangelica": "17,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4212254,
+   "catolica": "76,4",
+   "evangelica": "14,4",
+   "espirita": "2,2",
+   "umbanda": "1,5",
+   "outras": "1,7",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 4212270,
+   "catolica": "90,8",
+   "evangelica": "8,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4212304,
+   "catolica": "68,6",
+   "evangelica": "22,9",
+   "espirita": "0,2",
+   "umbanda": "0,9",
+   "outras": "0,8",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 4212403,
+   "catolica": "92,3",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4212502,
+   "catolica": "65,0",
+   "evangelica": "27,8",
+   "espirita": "1,3",
+   "umbanda": "0,2",
+   "outras": "1,6",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 4212601,
+   "catolica": "79,8",
+   "evangelica": "19,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4212650,
+   "catolica": "0,0",
+   "evangelica": "0,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4212700,
+   "catolica": "66,1",
+   "evangelica": "32,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4212809,
+   "catolica": "64,6",
+   "evangelica": "26,9",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 4212908,
+   "catolica": "86,9",
+   "evangelica": "10,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4213005,
+   "catolica": "92,6",
+   "evangelica": "6,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4213104,
+   "catolica": "76,9",
+   "evangelica": "19,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4213153,
+   "catolica": "82,9",
+   "evangelica": "14,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4213203,
+   "catolica": "35,8",
+   "evangelica": "60,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4213302,
+   "catolica": "83,1",
+   "evangelica": "13,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4213351,
+   "catolica": "79,7",
+   "evangelica": "16,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4213401,
+   "catolica": "78,9",
+   "evangelica": "19,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4213500,
+   "catolica": "62,6",
+   "evangelica": "27,6",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 4213609,
+   "catolica": "82,4",
+   "evangelica": "13,0",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4213708,
+   "catolica": "82,8",
+   "evangelica": "15,6",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4213807,
+   "catolica": "83,6",
+   "evangelica": "11,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4213906,
+   "catolica": "81,9",
+   "evangelica": "17,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4214003,
+   "catolica": "76,7",
+   "evangelica": "20,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4214102,
+   "catolica": "90,4",
+   "evangelica": "9,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4214151,
+   "catolica": "86,9",
+   "evangelica": "12,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4214201,
+   "catolica": "84,7",
+   "evangelica": "12,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4214300,
+   "catolica": "44,1",
+   "evangelica": "53,1",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4214409,
+   "catolica": "73,7",
+   "evangelica": "23,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4214508,
+   "catolica": "89,5",
+   "evangelica": "9,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4214607,
+   "catolica": "92,2",
+   "evangelica": "6,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4214706,
+   "catolica": "81,4",
+   "evangelica": "16,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4214805,
+   "catolica": "77,4",
+   "evangelica": "19,5",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4214904,
+   "catolica": "96,3",
+   "evangelica": "3,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4215000,
+   "catolica": "80,1",
+   "evangelica": "16,9",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4215059,
+   "catolica": "95,9",
+   "evangelica": "3,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4215075,
+   "catolica": "74,6",
+   "evangelica": "24,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4215109,
+   "catolica": "83,7",
+   "evangelica": "14,6",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4215208,
+   "catolica": "83,6",
+   "evangelica": "15,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4215307,
+   "catolica": "89,4",
+   "evangelica": "9,0",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4215356,
+   "catolica": "76,9",
+   "evangelica": "20,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4215406,
+   "catolica": "92,6",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4215455,
+   "catolica": "79,4",
+   "evangelica": "17,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4215505,
+   "catolica": "81,3",
+   "evangelica": "15,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4215554,
+   "catolica": "93,2",
+   "evangelica": "5,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4215604,
+   "catolica": "87,4",
+   "evangelica": "12,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4215653,
+   "catolica": "78,8",
+   "evangelica": "18,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4215679,
+   "catolica": "93,5",
+   "evangelica": "5,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4215687,
+   "catolica": "81,1",
+   "evangelica": "18,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4215695,
+   "catolica": "88,8",
+   "evangelica": "11,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4215703,
+   "catolica": "88,0",
+   "evangelica": "7,6",
+   "espirita": "1,8",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4215752,
+   "catolica": "90,3",
+   "evangelica": "9,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4215802,
+   "catolica": "78,1",
+   "evangelica": "19,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4215901,
+   "catolica": "72,7",
+   "evangelica": "25,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4216008,
+   "catolica": "86,4",
+   "evangelica": "11,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4216057,
+   "catolica": "73,3",
+   "evangelica": "24,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4216107,
+   "catolica": "86,7",
+   "evangelica": "9,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4216206,
+   "catolica": "62,1",
+   "evangelica": "27,6",
+   "espirita": "1,9",
+   "umbanda": "0,1",
+   "outras": "3,0",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 4216255,
+   "catolica": "98,5",
+   "evangelica": "1,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4216305,
+   "catolica": "76,8",
+   "evangelica": "19,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 4216354,
+   "catolica": "85,4",
+   "evangelica": "12,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4216404,
+   "catolica": "87,3",
+   "evangelica": "10,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4216503,
+   "catolica": "91,5",
+   "evangelica": "5,4",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4216602,
+   "catolica": "68,8",
+   "evangelica": "16,4",
+   "espirita": "5,0",
+   "umbanda": "0,8",
+   "outras": "2,7",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 4216701,
+   "catolica": "92,8",
+   "evangelica": "6,1",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4216800,
+   "catolica": "95,3",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4216909,
+   "catolica": "89,0",
+   "evangelica": "8,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4217006,
+   "catolica": "91,8",
+   "evangelica": "6,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4217105,
+   "catolica": "77,5",
+   "evangelica": "22,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4217154,
+   "catolica": "81,1",
+   "evangelica": "18,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4217204,
+   "catolica": "80,7",
+   "evangelica": "15,2",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4217253,
+   "catolica": "75,6",
+   "evangelica": "12,1",
+   "espirita": "0,9",
+   "umbanda": "0,5",
+   "outras": "6,2",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 4217303,
+   "catolica": "89,2",
+   "evangelica": "9,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4217402,
+   "catolica": "57,3",
+   "evangelica": "39,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4217501,
+   "catolica": "80,4",
+   "evangelica": "17,4",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4217550,
+   "catolica": "91,8",
+   "evangelica": "8,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4217600,
+   "catolica": "84,4",
+   "evangelica": "11,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4217709,
+   "catolica": "74,7",
+   "evangelica": "19,1",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4217758,
+   "catolica": "92,1",
+   "evangelica": "7,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4217808,
+   "catolica": "71,0",
+   "evangelica": "25,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4217907,
+   "catolica": "89,9",
+   "evangelica": "9,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4217956,
+   "catolica": "69,8",
+   "evangelica": "29,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4218004,
+   "catolica": "72,0",
+   "evangelica": "18,1",
+   "espirita": "1,4",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 4218103,
+   "catolica": "87,3",
+   "evangelica": "10,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4218202,
+   "catolica": "58,9",
+   "evangelica": "37,0",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4218251,
+   "catolica": "71,4",
+   "evangelica": "25,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4218301,
+   "catolica": "68,8",
+   "evangelica": "22,1",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 4218350,
+   "catolica": "90,3",
+   "evangelica": "7,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4218400,
+   "catolica": "86,6",
+   "evangelica": "12,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4218509,
+   "catolica": "90,8",
+   "evangelica": "6,8",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4218608,
+   "catolica": "69,9",
+   "evangelica": "29,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4218707,
+   "catolica": "77,4",
+   "evangelica": "17,0",
+   "espirita": "1,5",
+   "umbanda": "0,2",
+   "outras": "1,9",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4218756,
+   "catolica": "96,2",
+   "evangelica": "2,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4218806,
+   "catolica": "88,2",
+   "evangelica": "9,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4218855,
+   "catolica": "86,2",
+   "evangelica": "10,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 4218905,
+   "catolica": "84,5",
+   "evangelica": "12,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4218954,
+   "catolica": "91,3",
+   "evangelica": "6,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4219002,
+   "catolica": "86,0",
+   "evangelica": "11,0",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4219101,
+   "catolica": "83,6",
+   "evangelica": "15,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4219150,
+   "catolica": "96,5",
+   "evangelica": "3,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "-0,1"
+ },
+ {
+   "codigo": 4219176,
+   "catolica": "82,1",
+   "evangelica": "15,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4219200,
+   "catolica": "90,2",
+   "evangelica": "8,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4219309,
+   "catolica": "83,4",
+   "evangelica": "12,9",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4219358,
+   "catolica": "77,8",
+   "evangelica": "21,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4219408,
+   "catolica": "79,7",
+   "evangelica": "19,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4219507,
+   "catolica": "73,0",
+   "evangelica": "22,3",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4219606,
+   "catolica": "92,2",
+   "evangelica": "7,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4219705,
+   "catolica": "82,0",
+   "evangelica": "14,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4219853,
+   "catolica": "85,6",
+   "evangelica": "11,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4220000,
+   "catolica": "0,0",
+   "evangelica": "0,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4300034,
+   "catolica": "47,7",
+   "evangelica": "38,8",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 4300059,
+   "catolica": "87,1",
+   "evangelica": "12,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4300109,
+   "catolica": "56,6",
+   "evangelica": "41,8",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4300208,
+   "catolica": "57,4",
+   "evangelica": "38,6",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4300307,
+   "catolica": "88,7",
+   "evangelica": "9,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4300406,
+   "catolica": "64,2",
+   "evangelica": "22,8",
+   "espirita": "3,2",
+   "umbanda": "0,8",
+   "outras": "2,8",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 4300455,
+   "catolica": "77,9",
+   "evangelica": "21,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4300471,
+   "catolica": "86,2",
+   "evangelica": "13,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4300505,
+   "catolica": "90,4",
+   "evangelica": "9,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4300554,
+   "catolica": "95,9",
+   "evangelica": "3,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4300570,
+   "catolica": "81,1",
+   "evangelica": "18,6",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,1",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4300604,
+   "catolica": "62,2",
+   "evangelica": "18,7",
+   "espirita": "2,5",
+   "umbanda": "4,1",
+   "outras": "2,4",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 4300638,
+   "catolica": "89,7",
+   "evangelica": "6,2",
+   "espirita": "0,1",
+   "umbanda": "0,5",
+   "outras": "0,0",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 4300646,
+   "catolica": "86,8",
+   "evangelica": "11,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4300661,
+   "catolica": "90,9",
+   "evangelica": "7,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4300703,
+   "catolica": "93,0",
+   "evangelica": "5,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4300802,
+   "catolica": "89,5",
+   "evangelica": "7,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4300851,
+   "catolica": "81,4",
+   "evangelica": "12,4",
+   "espirita": "2,1",
+   "umbanda": "0,2",
+   "outras": "1,1",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 4300877,
+   "catolica": "66,7",
+   "evangelica": "29,2",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4300901,
+   "catolica": "94,3",
+   "evangelica": "5,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4301008,
+   "catolica": "78,8",
+   "evangelica": "19,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4301057,
+   "catolica": "71,3",
+   "evangelica": "16,3",
+   "espirita": "4,4",
+   "umbanda": "0,8",
+   "outras": "3,2",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 4301073,
+   "catolica": "7,8",
+   "evangelica": "85,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 4301107,
+   "catolica": "71,3",
+   "evangelica": "17,2",
+   "espirita": "3,3",
+   "umbanda": "1,0",
+   "outras": "0,8",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 4301206,
+   "catolica": "81,0",
+   "evangelica": "18,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4301305,
+   "catolica": "66,9",
+   "evangelica": "13,2",
+   "espirita": "2,9",
+   "umbanda": "1,9",
+   "outras": "2,3",
+   "sem": "12,9"
+ },
+ {
+   "codigo": 4301404,
+   "catolica": "95,2",
+   "evangelica": "3,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4301503,
+   "catolica": "66,7",
+   "evangelica": "32,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4301552,
+   "catolica": "92,2",
+   "evangelica": "7,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4301602,
+   "catolica": "50,5",
+   "evangelica": "19,6",
+   "espirita": "7,8",
+   "umbanda": "3,9",
+   "outras": "3,2",
+   "sem": "15,0"
+ },
+ {
+   "codigo": 4301636,
+   "catolica": "67,4",
+   "evangelica": "17,7",
+   "espirita": "3,7",
+   "umbanda": "2,8",
+   "outras": "2,6",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 4301651,
+   "catolica": "80,6",
+   "evangelica": "18,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4301701,
+   "catolica": "90,8",
+   "evangelica": "7,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4301750,
+   "catolica": "85,5",
+   "evangelica": "12,2",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "0,4",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4301800,
+   "catolica": "84,2",
+   "evangelica": "13,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4301859,
+   "catolica": "81,9",
+   "evangelica": "15,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4301875,
+   "catolica": "61,4",
+   "evangelica": "25,9",
+   "espirita": "1,0",
+   "umbanda": "1,2",
+   "outras": "1,7",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 4301909,
+   "catolica": "70,9",
+   "evangelica": "18,2",
+   "espirita": "3,2",
+   "umbanda": "3,1",
+   "outras": "1,5",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4301925,
+   "catolica": "98,0",
+   "evangelica": "1,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4301958,
+   "catolica": "94,1",
+   "evangelica": "5,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4302006,
+   "catolica": "89,8",
+   "evangelica": "8,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4302055,
+   "catolica": "81,3",
+   "evangelica": "17,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4302105,
+   "catolica": "83,7",
+   "evangelica": "11,4",
+   "espirita": "1,1",
+   "umbanda": "0,2",
+   "outras": "1,2",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4302154,
+   "catolica": "82,5",
+   "evangelica": "14,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4302204,
+   "catolica": "90,2",
+   "evangelica": "9,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4302220,
+   "catolica": "83,6",
+   "evangelica": "15,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4302238,
+   "catolica": "71,7",
+   "evangelica": "27,1",
+   "espirita": "0,1",
+   "umbanda": "0,4",
+   "outras": "0,1",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4302253,
+   "catolica": "94,5",
+   "evangelica": "3,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4302303,
+   "catolica": "81,8",
+   "evangelica": "15,0",
+   "espirita": "1,6",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4302352,
+   "catolica": "93,1",
+   "evangelica": "5,2",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "0,7",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4302378,
+   "catolica": "44,8",
+   "evangelica": "39,8",
+   "espirita": "6,7",
+   "umbanda": "0,0",
+   "outras": "7,9",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4302402,
+   "catolica": "77,3",
+   "evangelica": "20,3",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4302451,
+   "catolica": "94,6",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4302501,
+   "catolica": "66,8",
+   "evangelica": "22,6",
+   "espirita": "4,0",
+   "umbanda": "0,5",
+   "outras": "0,3",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 4302584,
+   "catolica": "85,3",
+   "evangelica": "13,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4302600,
+   "catolica": "72,0",
+   "evangelica": "20,4",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 4302659,
+   "catolica": "60,8",
+   "evangelica": "37,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4302709,
+   "catolica": "67,7",
+   "evangelica": "19,7",
+   "espirita": "1,4",
+   "umbanda": "1,8",
+   "outras": "3,3",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 4302808,
+   "catolica": "74,9",
+   "evangelica": "13,8",
+   "espirita": "3,8",
+   "umbanda": "0,9",
+   "outras": "0,9",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 4302907,
+   "catolica": "69,2",
+   "evangelica": "16,1",
+   "espirita": "3,7",
+   "umbanda": "1,8",
+   "outras": "0,5",
+   "sem": "8,7"
+ },
+ {
+   "codigo": 4303004,
+   "catolica": "77,0",
+   "evangelica": "16,3",
+   "espirita": "2,2",
+   "umbanda": "0,5",
+   "outras": "1,5",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4303103,
+   "catolica": "62,5",
+   "evangelica": "21,0",
+   "espirita": "3,5",
+   "umbanda": "2,3",
+   "outras": "3,5",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 4303202,
+   "catolica": "85,9",
+   "evangelica": "13,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4303301,
+   "catolica": "76,5",
+   "evangelica": "17,3",
+   "espirita": "2,6",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4303400,
+   "catolica": "92,9",
+   "evangelica": "6,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4303509,
+   "catolica": "65,1",
+   "evangelica": "28,0",
+   "espirita": "1,5",
+   "umbanda": "0,2",
+   "outras": "1,1",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 4303558,
+   "catolica": "94,2",
+   "evangelica": "5,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4303608,
+   "catolica": "70,7",
+   "evangelica": "24,4",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4303673,
+   "catolica": "93,3",
+   "evangelica": "4,9",
+   "espirita": "0,3",
+   "umbanda": "0,3",
+   "outras": "0,1",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4303707,
+   "catolica": "92,2",
+   "evangelica": "5,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4303806,
+   "catolica": "90,9",
+   "evangelica": "8,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4303905,
+   "catolica": "68,5",
+   "evangelica": "26,2",
+   "espirita": "1,1",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4304002,
+   "catolica": "72,0",
+   "evangelica": "25,1",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "0,8",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4304101,
+   "catolica": "89,5",
+   "evangelica": "9,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4304200,
+   "catolica": "65,1",
+   "evangelica": "32,4",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4304309,
+   "catolica": "71,2",
+   "evangelica": "27,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4304358,
+   "catolica": "61,5",
+   "evangelica": "17,8",
+   "espirita": "3,8",
+   "umbanda": "2,3",
+   "outras": "3,0",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 4304408,
+   "catolica": "76,1",
+   "evangelica": "18,0",
+   "espirita": "1,3",
+   "umbanda": "0,3",
+   "outras": "1,5",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4304507,
+   "catolica": "44,4",
+   "evangelica": "43,9",
+   "espirita": "1,9",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 4304606,
+   "catolica": "64,4",
+   "evangelica": "18,8",
+   "espirita": "4,4",
+   "umbanda": "2,5",
+   "outras": "2,4",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 4304614,
+   "catolica": "85,8",
+   "evangelica": "14,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4304622,
+   "catolica": "91,6",
+   "evangelica": "7,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4304630,
+   "catolica": "70,1",
+   "evangelica": "17,1",
+   "espirita": "3,4",
+   "umbanda": "1,0",
+   "outras": "3,4",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 4304655,
+   "catolica": "75,6",
+   "evangelica": "20,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 4304663,
+   "catolica": "37,8",
+   "evangelica": "25,0",
+   "espirita": "3,7",
+   "umbanda": "2,1",
+   "outras": "2,5",
+   "sem": "28,9"
+ },
+ {
+   "codigo": 4304671,
+   "catolica": "76,2",
+   "evangelica": "12,2",
+   "espirita": "0,9",
+   "umbanda": "0,2",
+   "outras": "3,2",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 4304689,
+   "catolica": "76,1",
+   "evangelica": "19,5",
+   "espirita": "0,3",
+   "umbanda": "1,3",
+   "outras": "0,6",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4304697,
+   "catolica": "90,3",
+   "evangelica": "8,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4304705,
+   "catolica": "75,1",
+   "evangelica": "20,5",
+   "espirita": "1,8",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4304713,
+   "catolica": "81,6",
+   "evangelica": "15,7",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4304804,
+   "catolica": "87,5",
+   "evangelica": "9,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4304853,
+   "catolica": "98,7",
+   "evangelica": "1,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4304903,
+   "catolica": "97,0",
+   "evangelica": "2,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4304952,
+   "catolica": "87,7",
+   "evangelica": "11,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4305009,
+   "catolica": "81,2",
+   "evangelica": "17,8",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4305108,
+   "catolica": "76,3",
+   "evangelica": "13,8",
+   "espirita": "2,7",
+   "umbanda": "0,8",
+   "outras": "3,1",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 4305116,
+   "catolica": "98,3",
+   "evangelica": "1,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4305124,
+   "catolica": "45,5",
+   "evangelica": "29,8",
+   "espirita": "3,3",
+   "umbanda": "1,0",
+   "outras": "0,5",
+   "sem": "19,9"
+ },
+ {
+   "codigo": 4305132,
+   "catolica": "59,4",
+   "evangelica": "39,2",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4305157,
+   "catolica": "73,3",
+   "evangelica": "25,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4305173,
+   "catolica": "79,6",
+   "evangelica": "17,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4305207,
+   "catolica": "85,3",
+   "evangelica": "11,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4305306,
+   "catolica": "79,3",
+   "evangelica": "18,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4305355,
+   "catolica": "65,6",
+   "evangelica": "16,5",
+   "espirita": "3,5",
+   "umbanda": "2,9",
+   "outras": "1,1",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 4305371,
+   "catolica": "75,6",
+   "evangelica": "23,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4305405,
+   "catolica": "67,2",
+   "evangelica": "30,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 4305439,
+   "catolica": "22,5",
+   "evangelica": "7,5",
+   "espirita": "2,6",
+   "umbanda": "1,5",
+   "outras": "11,3",
+   "sem": "54,7"
+ },
+ {
+   "codigo": 4305447,
+   "catolica": "56,4",
+   "evangelica": "40,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4305454,
+   "catolica": "67,9",
+   "evangelica": "12,0",
+   "espirita": "4,8",
+   "umbanda": "5,9",
+   "outras": "3,1",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 4305504,
+   "catolica": "92,1",
+   "evangelica": "7,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4305587,
+   "catolica": "42,0",
+   "evangelica": "56,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4305603,
+   "catolica": "93,2",
+   "evangelica": "6,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4305702,
+   "catolica": "41,6",
+   "evangelica": "53,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4305801,
+   "catolica": "85,6",
+   "evangelica": "12,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4305835,
+   "catolica": "95,6",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4305850,
+   "catolica": "48,7",
+   "evangelica": "50,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4305871,
+   "catolica": "36,1",
+   "evangelica": "62,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4305900,
+   "catolica": "78,1",
+   "evangelica": "19,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4305934,
+   "catolica": "98,2",
+   "evangelica": "0,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4305959,
+   "catolica": "96,0",
+   "evangelica": "2,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4305975,
+   "catolica": "91,3",
+   "evangelica": "8,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4306007,
+   "catolica": "64,5",
+   "evangelica": "34,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4306056,
+   "catolica": "59,1",
+   "evangelica": "33,3",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 4306072,
+   "catolica": "85,7",
+   "evangelica": "12,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4306106,
+   "catolica": "73,8",
+   "evangelica": "17,0",
+   "espirita": "3,4",
+   "umbanda": "0,4",
+   "outras": "1,8",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 4306130,
+   "catolica": "90,6",
+   "evangelica": "8,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4306205,
+   "catolica": "84,8",
+   "evangelica": "14,0",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4306304,
+   "catolica": "96,3",
+   "evangelica": "3,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4306320,
+   "catolica": "69,5",
+   "evangelica": "28,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4306353,
+   "catolica": "71,4",
+   "evangelica": "19,8",
+   "espirita": "6,9",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4306379,
+   "catolica": "75,8",
+   "evangelica": "18,2",
+   "espirita": "1,1",
+   "umbanda": "0,7",
+   "outras": "1,7",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 4306403,
+   "catolica": "79,5",
+   "evangelica": "17,1",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4306429,
+   "catolica": "55,7",
+   "evangelica": "33,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "10,4"
+ },
+ {
+   "codigo": 4306452,
+   "catolica": "98,4",
+   "evangelica": "0,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4306502,
+   "catolica": "88,3",
+   "evangelica": "11,0",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4306551,
+   "catolica": "95,5",
+   "evangelica": "3,6",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4306601,
+   "catolica": "60,1",
+   "evangelica": "19,9",
+   "espirita": "4,8",
+   "umbanda": "0,9",
+   "outras": "2,3",
+   "sem": "12,0"
+ },
+ {
+   "codigo": 4306700,
+   "catolica": "84,3",
+   "evangelica": "15,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4306734,
+   "catolica": "67,3",
+   "evangelica": "32,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4306759,
+   "catolica": "96,1",
+   "evangelica": "3,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4306767,
+   "catolica": "62,4",
+   "evangelica": "21,2",
+   "espirita": "3,1",
+   "umbanda": "1,5",
+   "outras": "1,4",
+   "sem": "10,4"
+ },
+ {
+   "codigo": 4306809,
+   "catolica": "85,1",
+   "evangelica": "13,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4306908,
+   "catolica": "80,5",
+   "evangelica": "9,2",
+   "espirita": "3,0",
+   "umbanda": "0,6",
+   "outras": "1,0",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 4306924,
+   "catolica": "85,1",
+   "evangelica": "13,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4306932,
+   "catolica": "62,8",
+   "evangelica": "31,5",
+   "espirita": "2,9",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4306957,
+   "catolica": "88,7",
+   "evangelica": "11,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4306973,
+   "catolica": "76,0",
+   "evangelica": "20,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 4307005,
+   "catolica": "81,6",
+   "evangelica": "14,4",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4307054,
+   "catolica": "74,8",
+   "evangelica": "24,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4307104,
+   "catolica": "54,4",
+   "evangelica": "15,7",
+   "espirita": "2,4",
+   "umbanda": "1,0",
+   "outras": "4,0",
+   "sem": "22,6"
+ },
+ {
+   "codigo": 4307203,
+   "catolica": "85,7",
+   "evangelica": "13,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4307302,
+   "catolica": "64,5",
+   "evangelica": "31,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 4307401,
+   "catolica": "82,3",
+   "evangelica": "14,6",
+   "espirita": "2,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4307450,
+   "catolica": "48,3",
+   "evangelica": "50,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4307500,
+   "catolica": "90,3",
+   "evangelica": "7,5",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4307559,
+   "catolica": "89,0",
+   "evangelica": "9,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4307609,
+   "catolica": "67,0",
+   "evangelica": "26,0",
+   "espirita": "1,1",
+   "umbanda": "0,3",
+   "outras": "2,7",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4307708,
+   "catolica": "69,7",
+   "evangelica": "17,3",
+   "espirita": "4,4",
+   "umbanda": "2,1",
+   "outras": "2,3",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 4307807,
+   "catolica": "73,0",
+   "evangelica": "23,8",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4307815,
+   "catolica": "82,6",
+   "evangelica": "17,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4307831,
+   "catolica": "62,0",
+   "evangelica": "30,7",
+   "espirita": "3,6",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4307864,
+   "catolica": "98,1",
+   "evangelica": "1,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4307906,
+   "catolica": "85,2",
+   "evangelica": "9,8",
+   "espirita": "1,3",
+   "umbanda": "0,2",
+   "outras": "1,4",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4308003,
+   "catolica": "84,9",
+   "evangelica": "12,8",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4308052,
+   "catolica": "85,8",
+   "evangelica": "13,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4308078,
+   "catolica": "75,3",
+   "evangelica": "22,7",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4308102,
+   "catolica": "79,6",
+   "evangelica": "18,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4308201,
+   "catolica": "85,6",
+   "evangelica": "9,8",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4308250,
+   "catolica": "83,9",
+   "evangelica": "16,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4308300,
+   "catolica": "89,8",
+   "evangelica": "7,3",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4308409,
+   "catolica": "81,3",
+   "evangelica": "14,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4308433,
+   "catolica": "39,4",
+   "evangelica": "60,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4308458,
+   "catolica": "77,2",
+   "evangelica": "22,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4308508,
+   "catolica": "88,5",
+   "evangelica": "9,5",
+   "espirita": "0,3",
+   "umbanda": "0,2",
+   "outras": "0,3",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4308607,
+   "catolica": "92,2",
+   "evangelica": "5,7",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4308656,
+   "catolica": "70,8",
+   "evangelica": "19,1",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 4308706,
+   "catolica": "89,2",
+   "evangelica": "10,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4308805,
+   "catolica": "76,4",
+   "evangelica": "13,7",
+   "espirita": "3,3",
+   "umbanda": "1,3",
+   "outras": "0,2",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 4308854,
+   "catolica": "90,6",
+   "evangelica": "8,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4308904,
+   "catolica": "80,7",
+   "evangelica": "16,6",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4309001,
+   "catolica": "68,3",
+   "evangelica": "27,7",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4309050,
+   "catolica": "79,6",
+   "evangelica": "13,3",
+   "espirita": "1,6",
+   "umbanda": "0,5",
+   "outras": "1,5",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 4309100,
+   "catolica": "73,4",
+   "evangelica": "20,3",
+   "espirita": "1,8",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4309126,
+   "catolica": "82,9",
+   "evangelica": "15,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4309159,
+   "catolica": "92,9",
+   "evangelica": "5,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4309209,
+   "catolica": "66,1",
+   "evangelica": "18,3",
+   "espirita": "3,8",
+   "umbanda": "2,7",
+   "outras": "3,0",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 4309258,
+   "catolica": "97,6",
+   "evangelica": "2,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4309308,
+   "catolica": "60,3",
+   "evangelica": "21,7",
+   "espirita": "4,9",
+   "umbanda": "3,0",
+   "outras": "1,9",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 4309407,
+   "catolica": "88,7",
+   "evangelica": "7,4",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4309506,
+   "catolica": "85,9",
+   "evangelica": "11,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4309555,
+   "catolica": "95,8",
+   "evangelica": "3,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4309571,
+   "catolica": "74,5",
+   "evangelica": "22,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4309605,
+   "catolica": "64,7",
+   "evangelica": "33,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4309654,
+   "catolica": "57,0",
+   "evangelica": "31,4",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "0,2",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 4309704,
+   "catolica": "82,5",
+   "evangelica": "16,0",
+   "espirita": "0,3",
+   "umbanda": "0,2",
+   "outras": "0,1",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4309753,
+   "catolica": "92,3",
+   "evangelica": "6,7",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4309803,
+   "catolica": "92,2",
+   "evangelica": "6,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4309902,
+   "catolica": "93,9",
+   "evangelica": "5,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4309951,
+   "catolica": "81,3",
+   "evangelica": "18,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4310009,
+   "catolica": "62,7",
+   "evangelica": "35,1",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4310108,
+   "catolica": "59,6",
+   "evangelica": "36,6",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4310207,
+   "catolica": "61,7",
+   "evangelica": "33,4",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 4310306,
+   "catolica": "91,1",
+   "evangelica": "8,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4310330,
+   "catolica": "70,9",
+   "evangelica": "16,1",
+   "espirita": "3,1",
+   "umbanda": "1,2",
+   "outras": "2,2",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 4310363,
+   "catolica": "51,0",
+   "evangelica": "47,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4310405,
+   "catolica": "76,0",
+   "evangelica": "22,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4310413,
+   "catolica": "64,1",
+   "evangelica": "30,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 4310439,
+   "catolica": "93,3",
+   "evangelica": "6,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4310462,
+   "catolica": "95,8",
+   "evangelica": "4,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4310504,
+   "catolica": "78,1",
+   "evangelica": "18,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4310538,
+   "catolica": "77,0",
+   "evangelica": "14,3",
+   "espirita": "2,3",
+   "umbanda": "0,4",
+   "outras": "1,3",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 4310553,
+   "catolica": "57,4",
+   "evangelica": "34,5",
+   "espirita": "2,6",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 4310579,
+   "catolica": "98,6",
+   "evangelica": "1,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4310603,
+   "catolica": "53,7",
+   "evangelica": "32,6",
+   "espirita": "4,0",
+   "umbanda": "0,7",
+   "outras": "4,3",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 4310652,
+   "catolica": "64,8",
+   "evangelica": "34,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4310702,
+   "catolica": "88,4",
+   "evangelica": "9,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4310751,
+   "catolica": "92,8",
+   "evangelica": "6,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4310801,
+   "catolica": "71,8",
+   "evangelica": "24,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4310850,
+   "catolica": "76,7",
+   "evangelica": "21,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4310876,
+   "catolica": "89,6",
+   "evangelica": "9,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4310900,
+   "catolica": "90,2",
+   "evangelica": "8,8",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4311007,
+   "catolica": "65,6",
+   "evangelica": "8,3",
+   "espirita": "6,3",
+   "umbanda": "2,1",
+   "outras": "1,0",
+   "sem": "16,7"
+ },
+ {
+   "codigo": 4311106,
+   "catolica": "88,9",
+   "evangelica": "8,0",
+   "espirita": "0,9",
+   "umbanda": "0,2",
+   "outras": "0,5",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4311122,
+   "catolica": "78,8",
+   "evangelica": "16,9",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4311130,
+   "catolica": "84,6",
+   "evangelica": "10,7",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 4311155,
+   "catolica": "74,8",
+   "evangelica": "20,5",
+   "espirita": "2,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4311205,
+   "catolica": "87,3",
+   "evangelica": "9,4",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4311239,
+   "catolica": "92,2",
+   "evangelica": "7,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4311254,
+   "catolica": "94,5",
+   "evangelica": "5,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4311270,
+   "catolica": "47,7",
+   "evangelica": "51,8",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4311304,
+   "catolica": "83,2",
+   "evangelica": "13,2",
+   "espirita": "1,3",
+   "umbanda": "0,3",
+   "outras": "1,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4311403,
+   "catolica": "73,0",
+   "evangelica": "22,8",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4311429,
+   "catolica": "37,9",
+   "evangelica": "46,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "16,1"
+ },
+ {
+   "codigo": 4311502,
+   "catolica": "72,9",
+   "evangelica": "13,0",
+   "espirita": "5,1",
+   "umbanda": "0,3",
+   "outras": "1,4",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 4311601,
+   "catolica": "92,4",
+   "evangelica": "7,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4311627,
+   "catolica": "60,0",
+   "evangelica": "37,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4311643,
+   "catolica": "27,1",
+   "evangelica": "71,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4311700,
+   "catolica": "92,3",
+   "evangelica": "6,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4311718,
+   "catolica": "67,1",
+   "evangelica": "27,9",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 4311734,
+   "catolica": "88,9",
+   "evangelica": "9,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4311759,
+   "catolica": "68,9",
+   "evangelica": "16,9",
+   "espirita": "2,1",
+   "umbanda": "0,3",
+   "outras": "0,8",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 4311775,
+   "catolica": "86,2",
+   "evangelica": "11,1",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "1,4",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4311791,
+   "catolica": "73,8",
+   "evangelica": "25,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4311809,
+   "catolica": "91,0",
+   "evangelica": "7,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4311908,
+   "catolica": "83,1",
+   "evangelica": "16,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4311981,
+   "catolica": "79,3",
+   "evangelica": "14,9",
+   "espirita": "1,1",
+   "umbanda": "0,3",
+   "outras": "0,1",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 4312005,
+   "catolica": "96,3",
+   "evangelica": "3,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4312054,
+   "catolica": "43,8",
+   "evangelica": "54,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4312104,
+   "catolica": "79,4",
+   "evangelica": "19,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4312138,
+   "catolica": "87,8",
+   "evangelica": "11,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4312153,
+   "catolica": "80,7",
+   "evangelica": "16,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4312179,
+   "catolica": "95,0",
+   "evangelica": "4,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4312203,
+   "catolica": "87,3",
+   "evangelica": "10,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4312252,
+   "catolica": "77,4",
+   "evangelica": "13,6",
+   "espirita": "1,3",
+   "umbanda": "0,4",
+   "outras": "0,4",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 4312302,
+   "catolica": "62,4",
+   "evangelica": "34,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4312351,
+   "catolica": "98,2",
+   "evangelica": "0,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4312377,
+   "catolica": "93,3",
+   "evangelica": "6,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4312385,
+   "catolica": "96,6",
+   "evangelica": "2,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4312401,
+   "catolica": "75,8",
+   "evangelica": "17,9",
+   "espirita": "1,9",
+   "umbanda": "0,6",
+   "outras": "1,5",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4312427,
+   "catolica": "86,8",
+   "evangelica": "11,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4312443,
+   "catolica": "95,3",
+   "evangelica": "3,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4312450,
+   "catolica": "42,0",
+   "evangelica": "43,6",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "3,5",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 4312476,
+   "catolica": "82,3",
+   "evangelica": "15,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4312500,
+   "catolica": "76,9",
+   "evangelica": "16,6",
+   "espirita": "0,2",
+   "umbanda": "0,4",
+   "outras": "1,3",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 4312609,
+   "catolica": "91,7",
+   "evangelica": "7,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4312617,
+   "catolica": "85,4",
+   "evangelica": "13,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4312625,
+   "catolica": "84,2",
+   "evangelica": "10,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 4312658,
+   "catolica": "76,7",
+   "evangelica": "21,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4312674,
+   "catolica": "89,9",
+   "evangelica": "8,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4312708,
+   "catolica": "73,5",
+   "evangelica": "23,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 4312757,
+   "catolica": "97,1",
+   "evangelica": "2,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4312807,
+   "catolica": "92,3",
+   "evangelica": "6,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4312906,
+   "catolica": "94,7",
+   "evangelica": "4,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4312955,
+   "catolica": "86,0",
+   "evangelica": "13,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4313003,
+   "catolica": "96,9",
+   "evangelica": "2,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4313011,
+   "catolica": "86,6",
+   "evangelica": "13,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4313037,
+   "catolica": "82,1",
+   "evangelica": "13,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4313060,
+   "catolica": "63,3",
+   "evangelica": "29,5",
+   "espirita": "0,5",
+   "umbanda": "0,4",
+   "outras": "2,9",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 4313086,
+   "catolica": "97,6",
+   "evangelica": "1,0",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4313102,
+   "catolica": "89,7",
+   "evangelica": "9,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4313201,
+   "catolica": "54,9",
+   "evangelica": "41,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 4313300,
+   "catolica": "85,6",
+   "evangelica": "10,9",
+   "espirita": "1,3",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4313334,
+   "catolica": "65,8",
+   "evangelica": "33,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4313359,
+   "catolica": "93,8",
+   "evangelica": "4,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4313375,
+   "catolica": "64,1",
+   "evangelica": "21,0",
+   "espirita": "2,5",
+   "umbanda": "2,0",
+   "outras": "5,1",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 4313391,
+   "catolica": "63,9",
+   "evangelica": "35,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4313409,
+   "catolica": "63,4",
+   "evangelica": "29,0",
+   "espirita": "1,4",
+   "umbanda": "0,4",
+   "outras": "2,3",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 4313425,
+   "catolica": "34,2",
+   "evangelica": "63,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4313441,
+   "catolica": "85,8",
+   "evangelica": "11,7",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4313466,
+   "catolica": "47,6",
+   "evangelica": "52,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4313490,
+   "catolica": "70,0",
+   "evangelica": "27,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4313508,
+   "catolica": "76,5",
+   "evangelica": "15,2",
+   "espirita": "2,3",
+   "umbanda": "0,8",
+   "outras": "1,4",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 4313607,
+   "catolica": "95,4",
+   "evangelica": "4,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4313656,
+   "catolica": "73,8",
+   "evangelica": "16,5",
+   "espirita": "2,8",
+   "umbanda": "0,9",
+   "outras": "1,8",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 4313706,
+   "catolica": "65,1",
+   "evangelica": "29,9",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 4313805,
+   "catolica": "85,9",
+   "evangelica": "13,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4313904,
+   "catolica": "42,5",
+   "evangelica": "52,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4313953,
+   "catolica": "87,1",
+   "evangelica": "8,5",
+   "espirita": "1,1",
+   "umbanda": "0,3",
+   "outras": "0,9",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4314001,
+   "catolica": "95,2",
+   "evangelica": "3,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4314027,
+   "catolica": "46,6",
+   "evangelica": "51,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4314035,
+   "catolica": "84,0",
+   "evangelica": "14,6",
+   "espirita": "0,2",
+   "umbanda": "0,4",
+   "outras": "0,5",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4314050,
+   "catolica": "70,0",
+   "evangelica": "24,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "2,4"
+ },
+ {
+   "codigo": 4314068,
+   "catolica": "93,3",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4314076,
+   "catolica": "92,2",
+   "evangelica": "6,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4314100,
+   "catolica": "78,2",
+   "evangelica": "15,0",
+   "espirita": "2,4",
+   "umbanda": "0,5",
+   "outras": "1,4",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4314134,
+   "catolica": "74,6",
+   "evangelica": "23,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4314159,
+   "catolica": "72,9",
+   "evangelica": "26,4",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4314175,
+   "catolica": "69,8",
+   "evangelica": "18,3",
+   "espirita": "1,5",
+   "umbanda": "0,3",
+   "outras": "0,2",
+   "sem": "9,9"
+ },
+ {
+   "codigo": 4314209,
+   "catolica": "46,0",
+   "evangelica": "19,9",
+   "espirita": "7,2",
+   "umbanda": "3,1",
+   "outras": "0,7",
+   "sem": "23,1"
+ },
+ {
+   "codigo": 4314308,
+   "catolica": "87,6",
+   "evangelica": "11,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4314407,
+   "catolica": "42,6",
+   "evangelica": "21,3",
+   "espirita": "8,8",
+   "umbanda": "3,4",
+   "outras": "2,5",
+   "sem": "21,4"
+ },
+ {
+   "codigo": 4314423,
+   "catolica": "68,2",
+   "evangelica": "31,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4314456,
+   "catolica": "89,4",
+   "evangelica": "9,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4314464,
+   "catolica": "81,3",
+   "evangelica": "15,8",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4314472,
+   "catolica": "92,7",
+   "evangelica": "6,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4314498,
+   "catolica": "82,9",
+   "evangelica": "14,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4314506,
+   "catolica": "64,9",
+   "evangelica": "15,0",
+   "espirita": "2,5",
+   "umbanda": "1,0",
+   "outras": "1,1",
+   "sem": "15,5"
+ },
+ {
+   "codigo": 4314548,
+   "catolica": "0,0",
+   "evangelica": "0,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4314555,
+   "catolica": "85,5",
+   "evangelica": "11,5",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4314605,
+   "catolica": "58,5",
+   "evangelica": "17,5",
+   "espirita": "5,0",
+   "umbanda": "2,9",
+   "outras": "2,4",
+   "sem": "13,7"
+ },
+ {
+   "codigo": 4314704,
+   "catolica": "90,3",
+   "evangelica": "7,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4314753,
+   "catolica": "84,8",
+   "evangelica": "14,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4314779,
+   "catolica": "87,0",
+   "evangelica": "12,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4314787,
+   "catolica": "95,4",
+   "evangelica": "4,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4314803,
+   "catolica": "70,5",
+   "evangelica": "23,2",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 4314902,
+   "catolica": "63,7",
+   "evangelica": "11,7",
+   "espirita": "6,9",
+   "umbanda": "3,4",
+   "outras": "3,5",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 4315008,
+   "catolica": "76,9",
+   "evangelica": "22,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4315057,
+   "catolica": "90,1",
+   "evangelica": "9,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4315073,
+   "catolica": "87,3",
+   "evangelica": "12,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4315107,
+   "catolica": "68,6",
+   "evangelica": "25,9",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 4315131,
+   "catolica": "96,1",
+   "evangelica": "3,5",
+   "espirita": "0,2",
+   "umbanda": "0,2",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4315149,
+   "catolica": "73,4",
+   "evangelica": "24,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4315156,
+   "catolica": "97,2",
+   "evangelica": "2,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4315172,
+   "catolica": "97,6",
+   "evangelica": "2,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4315206,
+   "catolica": "96,4",
+   "evangelica": "2,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4315305,
+   "catolica": "56,2",
+   "evangelica": "22,7",
+   "espirita": "2,6",
+   "umbanda": "0,6",
+   "outras": "5,4",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 4315313,
+   "catolica": "80,7",
+   "evangelica": "19,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4315321,
+   "catolica": "82,0",
+   "evangelica": "15,3",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4315354,
+   "catolica": "30,5",
+   "evangelica": "68,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4315404,
+   "catolica": "51,2",
+   "evangelica": "33,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "14,8"
+ },
+ {
+   "codigo": 4315453,
+   "catolica": "98,8",
+   "evangelica": "1,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4315503,
+   "catolica": "75,8",
+   "evangelica": "20,3",
+   "espirita": "1,3",
+   "umbanda": "0,6",
+   "outras": "0,2",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4315552,
+   "catolica": "86,5",
+   "evangelica": "12,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4315602,
+   "catolica": "45,3",
+   "evangelica": "14,5",
+   "espirita": "10,8",
+   "umbanda": "3,9",
+   "outras": "2,4",
+   "sem": "23,1"
+ },
+ {
+   "codigo": 4315701,
+   "catolica": "84,3",
+   "evangelica": "7,7",
+   "espirita": "0,9",
+   "umbanda": "1,6",
+   "outras": "2,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4315750,
+   "catolica": "85,5",
+   "evangelica": "12,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4315800,
+   "catolica": "74,9",
+   "evangelica": "23,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4315909,
+   "catolica": "84,2",
+   "evangelica": "14,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4315958,
+   "catolica": "72,7",
+   "evangelica": "25,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4316006,
+   "catolica": "72,7",
+   "evangelica": "25,1",
+   "espirita": "0,5",
+   "umbanda": "0,3",
+   "outras": "0,4",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4316105,
+   "catolica": "91,1",
+   "evangelica": "8,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4316204,
+   "catolica": "97,1",
+   "evangelica": "2,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4316303,
+   "catolica": "67,5",
+   "evangelica": "30,2",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4316402,
+   "catolica": "66,8",
+   "evangelica": "18,7",
+   "espirita": "4,6",
+   "umbanda": "1,4",
+   "outras": "2,0",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 4316428,
+   "catolica": "53,8",
+   "evangelica": "41,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 4316436,
+   "catolica": "83,9",
+   "evangelica": "16,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4316451,
+   "catolica": "74,4",
+   "evangelica": "19,5",
+   "espirita": "0,7",
+   "umbanda": "0,2",
+   "outras": "0,4",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 4316477,
+   "catolica": "98,2",
+   "evangelica": "1,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4316501,
+   "catolica": "82,9",
+   "evangelica": "15,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4316600,
+   "catolica": "91,6",
+   "evangelica": "7,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4316709,
+   "catolica": "72,8",
+   "evangelica": "22,7",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4316733,
+   "catolica": "94,0",
+   "evangelica": "5,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4316758,
+   "catolica": "86,2",
+   "evangelica": "13,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4316808,
+   "catolica": "75,1",
+   "evangelica": "20,0",
+   "espirita": "2,0",
+   "umbanda": "0,5",
+   "outras": "0,7",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4316907,
+   "catolica": "66,7",
+   "evangelica": "16,7",
+   "espirita": "6,1",
+   "umbanda": "2,2",
+   "outras": "2,1",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 4316956,
+   "catolica": "87,3",
+   "evangelica": "12,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4316972,
+   "catolica": "79,7",
+   "evangelica": "14,9",
+   "espirita": "2,0",
+   "umbanda": "0,4",
+   "outras": "0,5",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 4317004,
+   "catolica": "81,2",
+   "evangelica": "12,5",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 4317103,
+   "catolica": "49,1",
+   "evangelica": "20,5",
+   "espirita": "8,0",
+   "umbanda": "3,3",
+   "outras": "2,3",
+   "sem": "16,9"
+ },
+ {
+   "codigo": 4317202,
+   "catolica": "66,8",
+   "evangelica": "30,0",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4317251,
+   "catolica": "93,9",
+   "evangelica": "4,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4317301,
+   "catolica": "56,8",
+   "evangelica": "9,7",
+   "espirita": "4,7",
+   "umbanda": "2,6",
+   "outras": "3,4",
+   "sem": "22,8"
+ },
+ {
+   "codigo": 4317400,
+   "catolica": "71,4",
+   "evangelica": "18,8",
+   "espirita": "2,0",
+   "umbanda": "0,4",
+   "outras": "1,7",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 4317509,
+   "catolica": "68,5",
+   "evangelica": "23,0",
+   "espirita": "3,1",
+   "umbanda": "0,2",
+   "outras": "1,6",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4317558,
+   "catolica": "97,4",
+   "evangelica": "2,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4317608,
+   "catolica": "87,8",
+   "evangelica": "9,1",
+   "espirita": "1,1",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4317707,
+   "catolica": "74,2",
+   "evangelica": "18,1",
+   "espirita": "2,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 4317756,
+   "catolica": "70,7",
+   "evangelica": "28,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4317806,
+   "catolica": "70,0",
+   "evangelica": "25,8",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 4317905,
+   "catolica": "93,5",
+   "evangelica": "6,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4317954,
+   "catolica": "90,5",
+   "evangelica": "9,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4318002,
+   "catolica": "70,3",
+   "evangelica": "19,8",
+   "espirita": "3,1",
+   "umbanda": "0,4",
+   "outras": "2,0",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 4318051,
+   "catolica": "95,2",
+   "evangelica": "4,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "-0,1"
+ },
+ {
+   "codigo": 4318101,
+   "catolica": "83,3",
+   "evangelica": "10,5",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "1,4",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 4318200,
+   "catolica": "79,5",
+   "evangelica": "13,3",
+   "espirita": "2,1",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 4318309,
+   "catolica": "67,8",
+   "evangelica": "18,1",
+   "espirita": "3,8",
+   "umbanda": "1,9",
+   "outras": "2,1",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 4318408,
+   "catolica": "76,3",
+   "evangelica": "14,0",
+   "espirita": "2,4",
+   "umbanda": "1,3",
+   "outras": "0,6",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 4318424,
+   "catolica": "96,9",
+   "evangelica": "3,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4318432,
+   "catolica": "92,7",
+   "evangelica": "6,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4318440,
+   "catolica": "98,2",
+   "evangelica": "1,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4318457,
+   "catolica": "66,2",
+   "evangelica": "32,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4318465,
+   "catolica": "93,3",
+   "evangelica": "5,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4318481,
+   "catolica": "82,2",
+   "evangelica": "17,5",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "-0,1"
+ },
+ {
+   "codigo": 4318499,
+   "catolica": "79,3",
+   "evangelica": "20,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4318507,
+   "catolica": "60,4",
+   "evangelica": "18,4",
+   "espirita": "2,5",
+   "umbanda": "1,6",
+   "outras": "2,2",
+   "sem": "14,9"
+ },
+ {
+   "codigo": 4318606,
+   "catolica": "92,8",
+   "evangelica": "6,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4318614,
+   "catolica": "90,2",
+   "evangelica": "7,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4318622,
+   "catolica": "88,2",
+   "evangelica": "10,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4318705,
+   "catolica": "65,9",
+   "evangelica": "23,7",
+   "espirita": "2,6",
+   "umbanda": "1,2",
+   "outras": "1,6",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 4318804,
+   "catolica": "44,5",
+   "evangelica": "48,5",
+   "espirita": "1,7",
+   "umbanda": "0,2",
+   "outras": "1,5",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 4318903,
+   "catolica": "72,3",
+   "evangelica": "18,2",
+   "espirita": "1,4",
+   "umbanda": "0,6",
+   "outras": "1,1",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 4319000,
+   "catolica": "89,9",
+   "evangelica": "7,3",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4319109,
+   "catolica": "87,7",
+   "evangelica": "11,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4319125,
+   "catolica": "86,4",
+   "evangelica": "12,5",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4319158,
+   "catolica": "72,9",
+   "evangelica": "20,4",
+   "espirita": "2,6",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 4319208,
+   "catolica": "67,5",
+   "evangelica": "23,0",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "0,3",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 4319307,
+   "catolica": "69,7",
+   "evangelica": "28,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4319356,
+   "catolica": "87,9",
+   "evangelica": "11,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4319364,
+   "catolica": "60,0",
+   "evangelica": "34,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 4319372,
+   "catolica": "91,6",
+   "evangelica": "7,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4319406,
+   "catolica": "73,0",
+   "evangelica": "22,1",
+   "espirita": "2,0",
+   "umbanda": "0,3",
+   "outras": "1,3",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4319505,
+   "catolica": "80,4",
+   "evangelica": "17,7",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4319604,
+   "catolica": "82,1",
+   "evangelica": "9,2",
+   "espirita": "3,6",
+   "umbanda": "1,8",
+   "outras": "1,7",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4319703,
+   "catolica": "93,3",
+   "evangelica": "5,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4319711,
+   "catolica": "97,5",
+   "evangelica": "1,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4319737,
+   "catolica": "69,8",
+   "evangelica": "30,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4319752,
+   "catolica": "73,0",
+   "evangelica": "26,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4319802,
+   "catolica": "78,9",
+   "evangelica": "15,7",
+   "espirita": "1,3",
+   "umbanda": "0,6",
+   "outras": "0,8",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4319901,
+   "catolica": "62,9",
+   "evangelica": "32,5",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4320008,
+   "catolica": "71,8",
+   "evangelica": "16,5",
+   "espirita": "3,1",
+   "umbanda": "2,0",
+   "outras": "2,0",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 4320107,
+   "catolica": "77,9",
+   "evangelica": "20,1",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4320206,
+   "catolica": "86,4",
+   "evangelica": "12,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4320230,
+   "catolica": "79,2",
+   "evangelica": "17,0",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4320263,
+   "catolica": "89,6",
+   "evangelica": "10,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4320305,
+   "catolica": "88,9",
+   "evangelica": "10,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "-0,1"
+ },
+ {
+   "codigo": 4320321,
+   "catolica": "26,2",
+   "evangelica": "67,9",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 4320354,
+   "catolica": "83,7",
+   "evangelica": "12,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4320404,
+   "catolica": "88,9",
+   "evangelica": "8,8",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4320453,
+   "catolica": "86,6",
+   "evangelica": "13,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4320503,
+   "catolica": "93,6",
+   "evangelica": "5,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4320552,
+   "catolica": "67,8",
+   "evangelica": "29,0",
+   "espirita": "0,3",
+   "umbanda": "0,2",
+   "outras": "0,0",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4320578,
+   "catolica": "89,2",
+   "evangelica": "9,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 4320602,
+   "catolica": "94,1",
+   "evangelica": "5,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4320651,
+   "catolica": "87,6",
+   "evangelica": "11,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4320677,
+   "catolica": "59,6",
+   "evangelica": "40,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4320701,
+   "catolica": "89,9",
+   "evangelica": "7,8",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4320800,
+   "catolica": "83,0",
+   "evangelica": "12,2",
+   "espirita": "2,3",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 4320859,
+   "catolica": "77,3",
+   "evangelica": "19,1",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 4320909,
+   "catolica": "86,3",
+   "evangelica": "12,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4321006,
+   "catolica": "88,9",
+   "evangelica": "9,3",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "1,0"
+ },
+ {
+   "codigo": 4321105,
+   "catolica": "75,8",
+   "evangelica": "13,5",
+   "espirita": "1,9",
+   "umbanda": "1,4",
+   "outras": "1,0",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 4321204,
+   "catolica": "65,5",
+   "evangelica": "27,4",
+   "espirita": "1,6",
+   "umbanda": "0,6",
+   "outras": "1,9",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 4321303,
+   "catolica": "73,3",
+   "evangelica": "21,6",
+   "espirita": "2,4",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4321329,
+   "catolica": "95,0",
+   "evangelica": "4,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "-0,1"
+ },
+ {
+   "codigo": 4321352,
+   "catolica": "77,0",
+   "evangelica": "16,4",
+   "espirita": "0,9",
+   "umbanda": "0,8",
+   "outras": "0,4",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 4321402,
+   "catolica": "69,1",
+   "evangelica": "24,9",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 4321436,
+   "catolica": "77,6",
+   "evangelica": "19,8",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "1,0",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4321451,
+   "catolica": "52,1",
+   "evangelica": "44,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4321469,
+   "catolica": "71,9",
+   "evangelica": "28,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4321477,
+   "catolica": "74,6",
+   "evangelica": "23,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4321493,
+   "catolica": "68,0",
+   "evangelica": "30,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4321501,
+   "catolica": "74,7",
+   "evangelica": "14,1",
+   "espirita": "2,6",
+   "umbanda": "1,2",
+   "outras": "3,1",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 4321600,
+   "catolica": "66,8",
+   "evangelica": "18,7",
+   "espirita": "3,2",
+   "umbanda": "2,1",
+   "outras": "2,8",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 4321626,
+   "catolica": "69,0",
+   "evangelica": "30,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4321634,
+   "catolica": "96,1",
+   "evangelica": "3,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4321667,
+   "catolica": "90,5",
+   "evangelica": "8,1",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4321709,
+   "catolica": "58,9",
+   "evangelica": "32,5",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "5,8",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 4321808,
+   "catolica": "66,6",
+   "evangelica": "31,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4321832,
+   "catolica": "67,2",
+   "evangelica": "31,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,2"
+ },
+ {
+   "codigo": 4321857,
+   "catolica": "75,0",
+   "evangelica": "23,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4321907,
+   "catolica": "52,6",
+   "evangelica": "44,1",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 4321956,
+   "catolica": "85,1",
+   "evangelica": "10,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "1,5"
+ },
+ {
+   "codigo": 4322004,
+   "catolica": "72,9",
+   "evangelica": "18,7",
+   "espirita": "2,6",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 4322103,
+   "catolica": "83,7",
+   "evangelica": "15,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4322152,
+   "catolica": "87,0",
+   "evangelica": "12,3",
+   "espirita": "0,2",
+   "umbanda": "0,5",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4322186,
+   "catolica": "92,5",
+   "evangelica": "6,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 4322202,
+   "catolica": "70,0",
+   "evangelica": "17,3",
+   "espirita": "4,6",
+   "umbanda": "0,9",
+   "outras": "2,7",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 4322251,
+   "catolica": "95,1",
+   "evangelica": "4,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4322301,
+   "catolica": "67,5",
+   "evangelica": "31,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,4"
+ },
+ {
+   "codigo": 4322327,
+   "catolica": "34,5",
+   "evangelica": "57,7",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 4322343,
+   "catolica": "46,0",
+   "evangelica": "53,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 4322350,
+   "catolica": "99,2",
+   "evangelica": "0,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4322376,
+   "catolica": "78,7",
+   "evangelica": "17,1",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 4322400,
+   "catolica": "58,6",
+   "evangelica": "26,6",
+   "espirita": "3,5",
+   "umbanda": "2,4",
+   "outras": "2,0",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 4322509,
+   "catolica": "79,2",
+   "evangelica": "15,4",
+   "espirita": "1,3",
+   "umbanda": "0,2",
+   "outras": "1,2",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 4322525,
+   "catolica": "78,3",
+   "evangelica": "19,3",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,1"
+ },
+ {
+   "codigo": 4322533,
+   "catolica": "48,2",
+   "evangelica": "48,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4322541,
+   "catolica": "89,5",
+   "evangelica": "10,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4322558,
+   "catolica": "94,1",
+   "evangelica": "5,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4322608,
+   "catolica": "77,4",
+   "evangelica": "17,1",
+   "espirita": "0,7",
+   "umbanda": "0,4",
+   "outras": "3,1",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 4322707,
+   "catolica": "69,9",
+   "evangelica": "27,7",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 4322806,
+   "catolica": "90,0",
+   "evangelica": "7,6",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 4322855,
+   "catolica": "98,7",
+   "evangelica": "1,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 4322905,
+   "catolica": "90,2",
+   "evangelica": "9,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4323002,
+   "catolica": "60,9",
+   "evangelica": "15,7",
+   "espirita": "3,8",
+   "umbanda": "5,3",
+   "outras": "3,8",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 4323101,
+   "catolica": "79,1",
+   "evangelica": "18,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4323200,
+   "catolica": "56,0",
+   "evangelica": "43,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4323309,
+   "catolica": "94,1",
+   "evangelica": "5,3",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,3"
+ },
+ {
+   "codigo": 4323358,
+   "catolica": "90,6",
+   "evangelica": "3,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "6,2",
+   "sem": "-0,1"
+ },
+ {
+   "codigo": 4323408,
+   "catolica": "95,8",
+   "evangelica": "3,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4323457,
+   "catolica": "83,7",
+   "evangelica": "12,9",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 4323507,
+   "catolica": "91,3",
+   "evangelica": "7,8",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 4323606,
+   "catolica": "96,1",
+   "evangelica": "3,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "0,1"
+ },
+ {
+   "codigo": 4323705,
+   "catolica": "88,3",
+   "evangelica": "11,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4323754,
+   "catolica": "62,6",
+   "evangelica": "24,7",
+   "espirita": "9,4",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 4323770,
+   "catolica": "20,3",
+   "evangelica": "79,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,6"
+ },
+ {
+   "codigo": 4323804,
+   "catolica": "74,4",
+   "evangelica": "16,9",
+   "espirita": "1,7",
+   "umbanda": "0,6",
+   "outras": "2,0",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 5000203,
+   "catolica": "60,7",
+   "evangelica": "24,0",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "3,3",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 5000252,
+   "catolica": "82,4",
+   "evangelica": "13,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 5000609,
+   "catolica": "49,3",
+   "evangelica": "28,2",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "3,8",
+   "sem": "18,1"
+ },
+ {
+   "codigo": 5000708,
+   "catolica": "52,5",
+   "evangelica": "33,4",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 5000807,
+   "catolica": "78,7",
+   "evangelica": "15,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 5000856,
+   "catolica": "69,0",
+   "evangelica": "23,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 5000906,
+   "catolica": "58,5",
+   "evangelica": "28,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 5001003,
+   "catolica": "59,6",
+   "evangelica": "23,6",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "4,0",
+   "sem": "11,0"
+ },
+ {
+   "codigo": 5001102,
+   "catolica": "45,8",
+   "evangelica": "36,9",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 5001243,
+   "catolica": "65,5",
+   "evangelica": "17,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "16,6"
+ },
+ {
+   "codigo": 5001508,
+   "catolica": "65,9",
+   "evangelica": "21,3",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 5001904,
+   "catolica": "69,2",
+   "evangelica": "22,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 5002001,
+   "catolica": "80,1",
+   "evangelica": "14,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 5002100,
+   "catolica": "76,4",
+   "evangelica": "17,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 5002159,
+   "catolica": "55,1",
+   "evangelica": "29,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "5,7",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 5002209,
+   "catolica": "65,0",
+   "evangelica": "22,7",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 5002308,
+   "catolica": "67,6",
+   "evangelica": "21,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 5002407,
+   "catolica": "58,4",
+   "evangelica": "26,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "14,3"
+ },
+ {
+   "codigo": 5002605,
+   "catolica": "70,3",
+   "evangelica": "20,9",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 5002704,
+   "catolica": "51,6",
+   "evangelica": "30,5",
+   "espirita": "3,5",
+   "umbanda": "0,3",
+   "outras": "2,8",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 5002803,
+   "catolica": "72,1",
+   "evangelica": "19,2",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,3",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 5002902,
+   "catolica": "61,9",
+   "evangelica": "21,8",
+   "espirita": "2,8",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "11,4"
+ },
+ {
+   "codigo": 5002951,
+   "catolica": "63,7",
+   "evangelica": "28,6",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 5003108,
+   "catolica": "63,5",
+   "evangelica": "26,4",
+   "espirita": "0,5",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 5003157,
+   "catolica": "56,9",
+   "evangelica": "23,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "18,3"
+ },
+ {
+   "codigo": 5003207,
+   "catolica": "64,9",
+   "evangelica": "24,8",
+   "espirita": "2,2",
+   "umbanda": "0,8",
+   "outras": "1,4",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 5003256,
+   "catolica": "66,5",
+   "evangelica": "20,4",
+   "espirita": "1,6",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 5003306,
+   "catolica": "66,7",
+   "evangelica": "21,7",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 5003454,
+   "catolica": "71,5",
+   "evangelica": "20,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 5003488,
+   "catolica": "64,0",
+   "evangelica": "24,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 5003504,
+   "catolica": "54,4",
+   "evangelica": "30,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "11,2"
+ },
+ {
+   "codigo": 5003702,
+   "catolica": "58,4",
+   "evangelica": "29,1",
+   "espirita": "1,7",
+   "umbanda": "0,2",
+   "outras": "2,4",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 5003751,
+   "catolica": "74,1",
+   "evangelica": "18,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 5003801,
+   "catolica": "69,4",
+   "evangelica": "22,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 5003900,
+   "catolica": "82,5",
+   "evangelica": "15,4",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 5004007,
+   "catolica": "73,7",
+   "evangelica": "18,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 5004106,
+   "catolica": "68,8",
+   "evangelica": "19,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 5004304,
+   "catolica": "71,6",
+   "evangelica": "20,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 5004403,
+   "catolica": "78,0",
+   "evangelica": "13,9",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 5004502,
+   "catolica": "54,7",
+   "evangelica": "28,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "14,7"
+ },
+ {
+   "codigo": 5004601,
+   "catolica": "78,4",
+   "evangelica": "16,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 5004700,
+   "catolica": "80,1",
+   "evangelica": "15,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 5004809,
+   "catolica": "61,1",
+   "evangelica": "15,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "11,3",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 5004908,
+   "catolica": "68,7",
+   "evangelica": "22,8",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 5005004,
+   "catolica": "66,2",
+   "evangelica": "23,1",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "2,4",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 5005103,
+   "catolica": "78,2",
+   "evangelica": "16,8",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 5005152,
+   "catolica": "63,6",
+   "evangelica": "20,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "4,3",
+   "sem": "11,6"
+ },
+ {
+   "codigo": 5005202,
+   "catolica": "67,3",
+   "evangelica": "24,0",
+   "espirita": "2,5",
+   "umbanda": "0,5",
+   "outras": "1,4",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 5005251,
+   "catolica": "66,1",
+   "evangelica": "23,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 5005400,
+   "catolica": "60,6",
+   "evangelica": "25,9",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 5005608,
+   "catolica": "55,6",
+   "evangelica": "26,6",
+   "espirita": "0,9",
+   "umbanda": "0,4",
+   "outras": "1,1",
+   "sem": "15,4"
+ },
+ {
+   "codigo": 5005681,
+   "catolica": "64,1",
+   "evangelica": "24,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 5005707,
+   "catolica": "71,6",
+   "evangelica": "20,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 5005806,
+   "catolica": "62,2",
+   "evangelica": "28,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 5006002,
+   "catolica": "64,1",
+   "evangelica": "25,8",
+   "espirita": "0,7",
+   "umbanda": "0,1",
+   "outras": "1,1",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 5006200,
+   "catolica": "70,1",
+   "evangelica": "22,1",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 5006259,
+   "catolica": "68,9",
+   "evangelica": "23,9",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 5006275,
+   "catolica": "0,0",
+   "evangelica": "0,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,0"
+ },
+ {
+   "codigo": 5006309,
+   "catolica": "63,3",
+   "evangelica": "21,0",
+   "espirita": "3,5",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 5006358,
+   "catolica": "46,1",
+   "evangelica": "17,4",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "34,4"
+ },
+ {
+   "codigo": 5006408,
+   "catolica": "75,9",
+   "evangelica": "16,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 5006606,
+   "catolica": "67,9",
+   "evangelica": "20,6",
+   "espirita": "0,9",
+   "umbanda": "0,1",
+   "outras": "2,9",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 5006903,
+   "catolica": "74,3",
+   "evangelica": "18,7",
+   "espirita": "0,1",
+   "umbanda": "0,1",
+   "outras": "0,4",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 5007109,
+   "catolica": "63,1",
+   "evangelica": "24,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 5007208,
+   "catolica": "60,6",
+   "evangelica": "27,5",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 5007307,
+   "catolica": "66,8",
+   "evangelica": "19,8",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "10,4"
+ },
+ {
+   "codigo": 5007406,
+   "catolica": "60,8",
+   "evangelica": "28,8",
+   "espirita": "2,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 5007505,
+   "catolica": "59,5",
+   "evangelica": "22,4",
+   "espirita": "1,2",
+   "umbanda": "0,3",
+   "outras": "3,0",
+   "sem": "13,6"
+ },
+ {
+   "codigo": 5007554,
+   "catolica": "72,3",
+   "evangelica": "20,6",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 5007695,
+   "catolica": "66,6",
+   "evangelica": "25,0",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 5007703,
+   "catolica": "71,4",
+   "evangelica": "20,7",
+   "espirita": "0,1",
+   "umbanda": "0,2",
+   "outras": "2,5",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 5007802,
+   "catolica": "60,8",
+   "evangelica": "25,6",
+   "espirita": "0,3",
+   "umbanda": "0,3",
+   "outras": "2,9",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 5007901,
+   "catolica": "58,0",
+   "evangelica": "31,6",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 5007935,
+   "catolica": "61,5",
+   "evangelica": "20,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "16,3"
+ },
+ {
+   "codigo": 5007950,
+   "catolica": "48,6",
+   "evangelica": "20,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "28,0"
+ },
+ {
+   "codigo": 5007976,
+   "catolica": "75,0",
+   "evangelica": "18,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 5008008,
+   "catolica": "64,6",
+   "evangelica": "24,6",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 5008305,
+   "catolica": "54,3",
+   "evangelica": "29,7",
+   "espirita": "2,5",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "11,2"
+ },
+ {
+   "codigo": 5008404,
+   "catolica": "78,1",
+   "evangelica": "16,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 5100102,
+   "catolica": "73,4",
+   "evangelica": "17,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 5100201,
+   "catolica": "60,8",
+   "evangelica": "28,9",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 5100250,
+   "catolica": "64,9",
+   "evangelica": "24,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 5100300,
+   "catolica": "62,4",
+   "evangelica": "22,9",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "11,6"
+ },
+ {
+   "codigo": 5100359,
+   "catolica": "57,2",
+   "evangelica": "25,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "15,3",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 5100409,
+   "catolica": "70,3",
+   "evangelica": "20,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 5100508,
+   "catolica": "62,3",
+   "evangelica": "22,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "13,2"
+ },
+ {
+   "codigo": 5100607,
+   "catolica": "63,2",
+   "evangelica": "26,6",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 5100805,
+   "catolica": "70,4",
+   "evangelica": "18,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "10,4"
+ },
+ {
+   "codigo": 5101001,
+   "catolica": "74,8",
+   "evangelica": "18,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 5101209,
+   "catolica": "81,0",
+   "evangelica": "13,3",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 5101258,
+   "catolica": "65,3",
+   "evangelica": "25,8",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 5101308,
+   "catolica": "68,5",
+   "evangelica": "23,5",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 5101407,
+   "catolica": "53,7",
+   "evangelica": "23,9",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "19,9"
+ },
+ {
+   "codigo": 5101605,
+   "catolica": "84,5",
+   "evangelica": "8,6",
+   "espirita": "4,4",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "1,3"
+ },
+ {
+   "codigo": 5101704,
+   "catolica": "66,6",
+   "evangelica": "20,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 5101803,
+   "catolica": "61,0",
+   "evangelica": "25,2",
+   "espirita": "2,7",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 5101852,
+   "catolica": "64,6",
+   "evangelica": "29,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 5101902,
+   "catolica": "72,2",
+   "evangelica": "17,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "5,1",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 5102504,
+   "catolica": "71,2",
+   "evangelica": "19,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "4,0",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 5102603,
+   "catolica": "55,3",
+   "evangelica": "37,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 5102637,
+   "catolica": "60,1",
+   "evangelica": "24,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "4,5",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 5102678,
+   "catolica": "65,4",
+   "evangelica": "24,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 5102686,
+   "catolica": "60,7",
+   "evangelica": "32,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 5102694,
+   "catolica": "67,2",
+   "evangelica": "24,8",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 5102702,
+   "catolica": "56,8",
+   "evangelica": "25,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "15,2"
+ },
+ {
+   "codigo": 5102793,
+   "catolica": "71,0",
+   "evangelica": "20,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 5102850,
+   "catolica": "66,5",
+   "evangelica": "23,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 5103007,
+   "catolica": "67,9",
+   "evangelica": "21,1",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 5103056,
+   "catolica": "73,2",
+   "evangelica": "17,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 5103106,
+   "catolica": "62,8",
+   "evangelica": "22,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "14,2"
+ },
+ {
+   "codigo": 5103205,
+   "catolica": "71,2",
+   "evangelica": "21,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,6",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 5103254,
+   "catolica": "45,1",
+   "evangelica": "34,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "18,2"
+ },
+ {
+   "codigo": 5103304,
+   "catolica": "55,5",
+   "evangelica": "25,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "6,9",
+   "sem": "11,5"
+ },
+ {
+   "codigo": 5103353,
+   "catolica": "56,4",
+   "evangelica": "30,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 5103361,
+   "catolica": "53,5",
+   "evangelica": "29,8",
+   "espirita": "0,7",
+   "umbanda": "2,0",
+   "outras": "8,4",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 5103379,
+   "catolica": "54,3",
+   "evangelica": "32,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 5103403,
+   "catolica": "58,7",
+   "evangelica": "26,4",
+   "espirita": "3,2",
+   "umbanda": "0,1",
+   "outras": "3,5",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 5103437,
+   "catolica": "67,1",
+   "evangelica": "20,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,9",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 5103452,
+   "catolica": "65,1",
+   "evangelica": "24,6",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 5103502,
+   "catolica": "68,3",
+   "evangelica": "22,2",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 5103601,
+   "catolica": "77,0",
+   "evangelica": "13,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 5103700,
+   "catolica": "48,5",
+   "evangelica": "28,1",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "21,2"
+ },
+ {
+   "codigo": 5103809,
+   "catolica": "74,9",
+   "evangelica": "17,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 5103858,
+   "catolica": "43,9",
+   "evangelica": "15,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "40,1"
+ },
+ {
+   "codigo": 5103908,
+   "catolica": "84,0",
+   "evangelica": "11,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 5103957,
+   "catolica": "81,6",
+   "evangelica": "13,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 5104104,
+   "catolica": "67,6",
+   "evangelica": "21,0",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 5104203,
+   "catolica": "66,0",
+   "evangelica": "21,7",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "5,0",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 5104500,
+   "catolica": "69,8",
+   "evangelica": "26,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "0,5"
+ },
+ {
+   "codigo": 5104526,
+   "catolica": "74,8",
+   "evangelica": "18,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 5104542,
+   "catolica": "70,1",
+   "evangelica": "22,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 5104559,
+   "catolica": "76,4",
+   "evangelica": "19,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 5104609,
+   "catolica": "77,1",
+   "evangelica": "18,0",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 5104807,
+   "catolica": "61,4",
+   "evangelica": "29,6",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 5104906,
+   "catolica": "77,3",
+   "evangelica": "17,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 5105002,
+   "catolica": "62,8",
+   "evangelica": "29,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 5105101,
+   "catolica": "71,4",
+   "evangelica": "20,0",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 5105150,
+   "catolica": "66,7",
+   "evangelica": "20,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 5105176,
+   "catolica": "58,3",
+   "evangelica": "25,8",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "3,9",
+   "sem": "11,6"
+ },
+ {
+   "codigo": 5105200,
+   "catolica": "65,9",
+   "evangelica": "28,7",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 5105234,
+   "catolica": "64,7",
+   "evangelica": "17,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "15,3"
+ },
+ {
+   "codigo": 5105259,
+   "catolica": "64,0",
+   "evangelica": "25,8",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 5105309,
+   "catolica": "54,9",
+   "evangelica": "26,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "18,7"
+ },
+ {
+   "codigo": 5105507,
+   "catolica": "65,2",
+   "evangelica": "27,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 5105580,
+   "catolica": "62,4",
+   "evangelica": "21,8",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "12,8"
+ },
+ {
+   "codigo": 5105606,
+   "catolica": "69,5",
+   "evangelica": "22,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 5105622,
+   "catolica": "68,6",
+   "evangelica": "20,8",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 5105903,
+   "catolica": "64,5",
+   "evangelica": "26,2",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 5106000,
+   "catolica": "76,6",
+   "evangelica": "14,8",
+   "espirita": "0,4",
+   "umbanda": "0,2",
+   "outras": "2,0",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 5106109,
+   "catolica": "85,5",
+   "evangelica": "12,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "1,4"
+ },
+ {
+   "codigo": 5106158,
+   "catolica": "64,3",
+   "evangelica": "25,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 5106174,
+   "catolica": "73,0",
+   "evangelica": "25,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 5106182,
+   "catolica": "62,4",
+   "evangelica": "24,6",
+   "espirita": "0,0",
+   "umbanda": "0,1",
+   "outras": "2,8",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 5106190,
+   "catolica": "72,9",
+   "evangelica": "19,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 5106208,
+   "catolica": "72,9",
+   "evangelica": "19,7",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,9",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 5106216,
+   "catolica": "74,0",
+   "evangelica": "18,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 5106224,
+   "catolica": "68,8",
+   "evangelica": "24,3",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 5106232,
+   "catolica": "58,6",
+   "evangelica": "25,7",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 5106240,
+   "catolica": "66,0",
+   "evangelica": "19,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 5106257,
+   "catolica": "61,8",
+   "evangelica": "26,3",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "9,2"
+ },
+ {
+   "codigo": 5106265,
+   "catolica": "60,9",
+   "evangelica": "28,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 5106273,
+   "catolica": "77,1",
+   "evangelica": "16,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 5106281,
+   "catolica": "65,3",
+   "evangelica": "21,8",
+   "espirita": "4,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 5106299,
+   "catolica": "69,4",
+   "evangelica": "20,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 5106307,
+   "catolica": "70,6",
+   "evangelica": "23,2",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 5106315,
+   "catolica": "65,1",
+   "evangelica": "28,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 5106372,
+   "catolica": "73,2",
+   "evangelica": "20,2",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 5106422,
+   "catolica": "62,6",
+   "evangelica": "23,3",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 5106455,
+   "catolica": "62,7",
+   "evangelica": "24,5",
+   "espirita": "2,1",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 5106505,
+   "catolica": "85,8",
+   "evangelica": "10,7",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 5106653,
+   "catolica": "66,6",
+   "evangelica": "23,3",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 5106703,
+   "catolica": "75,5",
+   "evangelica": "7,9",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "15,3"
+ },
+ {
+   "codigo": 5106752,
+   "catolica": "54,6",
+   "evangelica": "30,3",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "3,8",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 5106778,
+   "catolica": "64,2",
+   "evangelica": "23,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "4,3",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 5106802,
+   "catolica": "61,8",
+   "evangelica": "28,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 5106828,
+   "catolica": "72,0",
+   "evangelica": "21,9",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 5106851,
+   "catolica": "74,6",
+   "evangelica": "19,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 5107008,
+   "catolica": "77,0",
+   "evangelica": "16,3",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 5107040,
+   "catolica": "64,4",
+   "evangelica": "24,2",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "4,5",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 5107065,
+   "catolica": "63,1",
+   "evangelica": "25,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 5107107,
+   "catolica": "70,4",
+   "evangelica": "17,8",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 5107156,
+   "catolica": "53,7",
+   "evangelica": "31,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "12,8"
+ },
+ {
+   "codigo": 5107180,
+   "catolica": "58,6",
+   "evangelica": "20,3",
+   "espirita": "4,8",
+   "umbanda": "0,0",
+   "outras": "8,4",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 5107198,
+   "catolica": "80,9",
+   "evangelica": "15,6",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 5107206,
+   "catolica": "60,5",
+   "evangelica": "25,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "12,9"
+ },
+ {
+   "codigo": 5107248,
+   "catolica": "77,3",
+   "evangelica": "16,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 5107263,
+   "catolica": "74,5",
+   "evangelica": "15,2",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 5107297,
+   "catolica": "74,1",
+   "evangelica": "20,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "3,2"
+ },
+ {
+   "codigo": 5107305,
+   "catolica": "64,9",
+   "evangelica": "22,4",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "3,2",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 5107354,
+   "catolica": "74,5",
+   "evangelica": "20,5",
+   "espirita": "0,6",
+   "umbanda": "0,1",
+   "outras": "1,2",
+   "sem": "3,1"
+ },
+ {
+   "codigo": 5107404,
+   "catolica": "60,1",
+   "evangelica": "32,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 5107578,
+   "catolica": "49,2",
+   "evangelica": "41,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,3",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 5107602,
+   "catolica": "58,1",
+   "evangelica": "27,5",
+   "espirita": "2,0",
+   "umbanda": "0,1",
+   "outras": "3,0",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 5107701,
+   "catolica": "80,6",
+   "evangelica": "15,7",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,5"
+ },
+ {
+   "codigo": 5107743,
+   "catolica": "62,4",
+   "evangelica": "27,0",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 5107750,
+   "catolica": "51,1",
+   "evangelica": "35,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "13,0"
+ },
+ {
+   "codigo": 5107768,
+   "catolica": "55,8",
+   "evangelica": "32,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 5107776,
+   "catolica": "61,7",
+   "evangelica": "15,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "21,0"
+ },
+ {
+   "codigo": 5107792,
+   "catolica": "63,9",
+   "evangelica": "27,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "4,4",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 5107800,
+   "catolica": "75,2",
+   "evangelica": "17,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 5107859,
+   "catolica": "57,8",
+   "evangelica": "29,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 5107875,
+   "catolica": "62,7",
+   "evangelica": "22,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "12,3"
+ },
+ {
+   "codigo": 5107883,
+   "catolica": "55,2",
+   "evangelica": "38,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 5107909,
+   "catolica": "60,4",
+   "evangelica": "28,6",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 5107925,
+   "catolica": "69,3",
+   "evangelica": "21,9",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 5107941,
+   "catolica": "63,4",
+   "evangelica": "26,7",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "6,2"
+ },
+ {
+   "codigo": 5107958,
+   "catolica": "64,0",
+   "evangelica": "23,9",
+   "espirita": "1,0",
+   "umbanda": "0,2",
+   "outras": "3,5",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 5108006,
+   "catolica": "69,0",
+   "evangelica": "18,6",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 5108055,
+   "catolica": "70,6",
+   "evangelica": "20,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 5108105,
+   "catolica": "82,0",
+   "evangelica": "10,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 5108204,
+   "catolica": "77,5",
+   "evangelica": "15,2",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 5108303,
+   "catolica": "70,1",
+   "evangelica": "16,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "13,3"
+ },
+ {
+   "codigo": 5108352,
+   "catolica": "71,2",
+   "evangelica": "18,4",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 5108402,
+   "catolica": "59,8",
+   "evangelica": "28,0",
+   "espirita": "1,4",
+   "umbanda": "0,1",
+   "outras": "2,5",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 5108501,
+   "catolica": "73,7",
+   "evangelica": "19,6",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,6"
+ },
+ {
+   "codigo": 5108600,
+   "catolica": "55,6",
+   "evangelica": "32,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 5108808,
+   "catolica": "79,7",
+   "evangelica": "15,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 5108857,
+   "catolica": "75,9",
+   "evangelica": "16,3",
+   "espirita": "0,5",
+   "umbanda": "0,3",
+   "outras": "0,6",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 5108907,
+   "catolica": "66,6",
+   "evangelica": "19,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 5108956,
+   "catolica": "68,4",
+   "evangelica": "20,8",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 5200050,
+   "catolica": "55,3",
+   "evangelica": "31,9",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 5200100,
+   "catolica": "71,9",
+   "evangelica": "21,0",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 5200134,
+   "catolica": "59,3",
+   "evangelica": "27,9",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 5200159,
+   "catolica": "45,5",
+   "evangelica": "44,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "10,1"
+ },
+ {
+   "codigo": 5200175,
+   "catolica": "77,1",
+   "evangelica": "18,4",
+   "espirita": "0,7",
+   "umbanda": "0,2",
+   "outras": "1,0",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 5200209,
+   "catolica": "49,7",
+   "evangelica": "26,2",
+   "espirita": "12,9",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 5200258,
+   "catolica": "54,9",
+   "evangelica": "30,9",
+   "espirita": "0,5",
+   "umbanda": "0,2",
+   "outras": "1,6",
+   "sem": "11,9"
+ },
+ {
+   "codigo": 5200308,
+   "catolica": "67,1",
+   "evangelica": "25,2",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 5200506,
+   "catolica": "58,2",
+   "evangelica": "26,2",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "14,8"
+ },
+ {
+   "codigo": 5200555,
+   "catolica": "70,4",
+   "evangelica": "24,9",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 5200605,
+   "catolica": "51,0",
+   "evangelica": "23,1",
+   "espirita": "3,6",
+   "umbanda": "0,4",
+   "outras": "4,2",
+   "sem": "17,7"
+ },
+ {
+   "codigo": 5200803,
+   "catolica": "71,7",
+   "evangelica": "14,8",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "6,0",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 5200829,
+   "catolica": "74,6",
+   "evangelica": "22,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "1,8"
+ },
+ {
+   "codigo": 5200852,
+   "catolica": "76,1",
+   "evangelica": "17,0",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 5200902,
+   "catolica": "56,5",
+   "evangelica": "32,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 5201108,
+   "catolica": "56,8",
+   "evangelica": "34,4",
+   "espirita": "1,4",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 5201207,
+   "catolica": "54,9",
+   "evangelica": "28,2",
+   "espirita": "2,6",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "14,1"
+ },
+ {
+   "codigo": 5201306,
+   "catolica": "69,9",
+   "evangelica": "22,3",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 5201405,
+   "catolica": "46,6",
+   "evangelica": "37,2",
+   "espirita": "2,1",
+   "umbanda": "0,1",
+   "outras": "2,9",
+   "sem": "11,2"
+ },
+ {
+   "codigo": 5201454,
+   "catolica": "60,9",
+   "evangelica": "28,8",
+   "espirita": "3,6",
+   "umbanda": "0,0",
+   "outras": "3,2",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 5201504,
+   "catolica": "61,8",
+   "evangelica": "23,0",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 5201603,
+   "catolica": "72,2",
+   "evangelica": "19,6",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 5201702,
+   "catolica": "57,1",
+   "evangelica": "27,2",
+   "espirita": "2,0",
+   "umbanda": "0,1",
+   "outras": "2,2",
+   "sem": "11,4"
+ },
+ {
+   "codigo": 5201801,
+   "catolica": "65,0",
+   "evangelica": "24,9",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 5202155,
+   "catolica": "55,2",
+   "evangelica": "32,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "6,3",
+   "sem": "6,1"
+ },
+ {
+   "codigo": 5202353,
+   "catolica": "64,2",
+   "evangelica": "27,0",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 5202502,
+   "catolica": "63,8",
+   "evangelica": "23,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 5202601,
+   "catolica": "75,8",
+   "evangelica": "18,5",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "3,7"
+ },
+ {
+   "codigo": 5202809,
+   "catolica": "77,4",
+   "evangelica": "15,5",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "2,9"
+ },
+ {
+   "codigo": 5203104,
+   "catolica": "64,0",
+   "evangelica": "24,7",
+   "espirita": "1,5",
+   "umbanda": "0,1",
+   "outras": "1,9",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 5203203,
+   "catolica": "59,9",
+   "evangelica": "28,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 5203302,
+   "catolica": "58,7",
+   "evangelica": "27,9",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "4,0",
+   "sem": "7,6"
+ },
+ {
+   "codigo": 5203401,
+   "catolica": "71,9",
+   "evangelica": "21,6",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 5203500,
+   "catolica": "70,3",
+   "evangelica": "17,4",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "10,6"
+ },
+ {
+   "codigo": 5203559,
+   "catolica": "59,2",
+   "evangelica": "28,3",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "10,4"
+ },
+ {
+   "codigo": 5203575,
+   "catolica": "59,4",
+   "evangelica": "29,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 5203609,
+   "catolica": "57,9",
+   "evangelica": "29,5",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "5,2",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 5203807,
+   "catolica": "70,1",
+   "evangelica": "18,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 5203906,
+   "catolica": "70,1",
+   "evangelica": "15,3",
+   "espirita": "6,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 5203939,
+   "catolica": "48,8",
+   "evangelica": "39,2",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 5203962,
+   "catolica": "78,2",
+   "evangelica": "16,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,8"
+ },
+ {
+   "codigo": 5204003,
+   "catolica": "84,7",
+   "evangelica": "11,6",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 5204102,
+   "catolica": "62,5",
+   "evangelica": "19,5",
+   "espirita": "2,4",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "13,9"
+ },
+ {
+   "codigo": 5204201,
+   "catolica": "61,2",
+   "evangelica": "26,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "11,5"
+ },
+ {
+   "codigo": 5204250,
+   "catolica": "67,1",
+   "evangelica": "15,4",
+   "espirita": "5,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 5204300,
+   "catolica": "65,4",
+   "evangelica": "19,5",
+   "espirita": "5,2",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 5204409,
+   "catolica": "56,2",
+   "evangelica": "26,4",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "4,7",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 5204508,
+   "catolica": "52,8",
+   "evangelica": "29,8",
+   "espirita": "3,0",
+   "umbanda": "0,3",
+   "outras": "2,9",
+   "sem": "11,2"
+ },
+ {
+   "codigo": 5204557,
+   "catolica": "65,5",
+   "evangelica": "19,9",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 5204607,
+   "catolica": "54,6",
+   "evangelica": "32,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "11,5"
+ },
+ {
+   "codigo": 5204656,
+   "catolica": "72,5",
+   "evangelica": "21,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 5204706,
+   "catolica": "68,5",
+   "evangelica": "26,1",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 5204805,
+   "catolica": "72,4",
+   "evangelica": "20,0",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 5204854,
+   "catolica": "70,6",
+   "evangelica": "20,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 5204904,
+   "catolica": "72,5",
+   "evangelica": "20,9",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 5204953,
+   "catolica": "65,3",
+   "evangelica": "23,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 5205000,
+   "catolica": "59,4",
+   "evangelica": "31,1",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 5205059,
+   "catolica": "72,6",
+   "evangelica": "14,5",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 5205109,
+   "catolica": "62,3",
+   "evangelica": "24,4",
+   "espirita": "4,3",
+   "umbanda": "0,1",
+   "outras": "1,7",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 5205208,
+   "catolica": "62,3",
+   "evangelica": "18,4",
+   "espirita": "6,6",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "11,4"
+ },
+ {
+   "codigo": 5205307,
+   "catolica": "75,0",
+   "evangelica": "15,5",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 5205406,
+   "catolica": "60,7",
+   "evangelica": "30,9",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 5205455,
+   "catolica": "63,1",
+   "evangelica": "26,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 5205471,
+   "catolica": "61,1",
+   "evangelica": "25,3",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "2,8",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 5205497,
+   "catolica": "57,3",
+   "evangelica": "31,0",
+   "espirita": "1,4",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 5205513,
+   "catolica": "65,7",
+   "evangelica": "24,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 5205521,
+   "catolica": "75,0",
+   "evangelica": "20,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 5205703,
+   "catolica": "61,4",
+   "evangelica": "30,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "8,0"
+ },
+ {
+   "codigo": 5205802,
+   "catolica": "79,6",
+   "evangelica": "16,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 5205901,
+   "catolica": "71,2",
+   "evangelica": "18,7",
+   "espirita": "2,8",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 5206206,
+   "catolica": "70,8",
+   "evangelica": "21,3",
+   "espirita": "2,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 5206305,
+   "catolica": "37,2",
+   "evangelica": "39,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "7,8",
+   "sem": "14,9"
+ },
+ {
+   "codigo": 5206404,
+   "catolica": "69,8",
+   "evangelica": "24,4",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 5206503,
+   "catolica": "71,4",
+   "evangelica": "20,6",
+   "espirita": "3,0",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "4,2"
+ },
+ {
+   "codigo": 5206602,
+   "catolica": "60,4",
+   "evangelica": "25,2",
+   "espirita": "2,6",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "11,3"
+ },
+ {
+   "codigo": 5206701,
+   "catolica": "83,2",
+   "evangelica": "13,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "1,7"
+ },
+ {
+   "codigo": 5206800,
+   "catolica": "85,2",
+   "evangelica": "10,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,8"
+ },
+ {
+   "codigo": 5206909,
+   "catolica": "76,3",
+   "evangelica": "8,5",
+   "espirita": "5,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 5207105,
+   "catolica": "70,1",
+   "evangelica": "22,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 5207253,
+   "catolica": "66,2",
+   "evangelica": "24,0",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 5207352,
+   "catolica": "65,7",
+   "evangelica": "18,9",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "5,4",
+   "sem": "9,8"
+ },
+ {
+   "codigo": 5207402,
+   "catolica": "65,8",
+   "evangelica": "22,7",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 5207501,
+   "catolica": "72,4",
+   "evangelica": "17,7",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "8,9"
+ },
+ {
+   "codigo": 5207535,
+   "catolica": "67,5",
+   "evangelica": "23,6",
+   "espirita": "2,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 5207600,
+   "catolica": "67,3",
+   "evangelica": "24,5",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 5207808,
+   "catolica": "69,9",
+   "evangelica": "24,0",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 5207907,
+   "catolica": "72,6",
+   "evangelica": "22,6",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "3,3"
+ },
+ {
+   "codigo": 5208004,
+   "catolica": "71,5",
+   "evangelica": "20,2",
+   "espirita": "2,4",
+   "umbanda": "0,1",
+   "outras": "1,4",
+   "sem": "4,5"
+ },
+ {
+   "codigo": 5208103,
+   "catolica": "69,6",
+   "evangelica": "24,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,0",
+   "sem": "2,7"
+ },
+ {
+   "codigo": 5208152,
+   "catolica": "71,2",
+   "evangelica": "22,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 5208301,
+   "catolica": "75,3",
+   "evangelica": "16,2",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 5208400,
+   "catolica": "60,8",
+   "evangelica": "32,3",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "4,9"
+ },
+ {
+   "codigo": 5208509,
+   "catolica": "64,2",
+   "evangelica": "24,3",
+   "espirita": "5,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 5208608,
+   "catolica": "65,0",
+   "evangelica": "27,6",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 5208707,
+   "catolica": "50,9",
+   "evangelica": "32,5",
+   "espirita": "4,3",
+   "umbanda": "0,1",
+   "outras": "2,6",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 5208806,
+   "catolica": "53,9",
+   "evangelica": "32,0",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "11,6"
+ },
+ {
+   "codigo": 5208905,
+   "catolica": "61,9",
+   "evangelica": "26,8",
+   "espirita": "2,2",
+   "umbanda": "0,3",
+   "outras": "1,0",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 5209101,
+   "catolica": "67,6",
+   "evangelica": "17,0",
+   "espirita": "3,1",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "10,5"
+ },
+ {
+   "codigo": 5209150,
+   "catolica": "73,3",
+   "evangelica": "14,1",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "0,1",
+   "sem": "11,4"
+ },
+ {
+   "codigo": 5209200,
+   "catolica": "62,4",
+   "evangelica": "26,2",
+   "espirita": "1,0",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 5209291,
+   "catolica": "37,1",
+   "evangelica": "52,4",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "10,3"
+ },
+ {
+   "codigo": 5209408,
+   "catolica": "84,2",
+   "evangelica": "10,8",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "4,0"
+ },
+ {
+   "codigo": 5209457,
+   "catolica": "86,9",
+   "evangelica": "8,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 5209606,
+   "catolica": "55,9",
+   "evangelica": "33,3",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 5209705,
+   "catolica": "63,7",
+   "evangelica": "20,4",
+   "espirita": "4,7",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "9,1"
+ },
+ {
+   "codigo": 5209804,
+   "catolica": "85,6",
+   "evangelica": "12,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "2,0"
+ },
+ {
+   "codigo": 5209903,
+   "catolica": "83,8",
+   "evangelica": "12,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 5209937,
+   "catolica": "71,8",
+   "evangelica": "14,2",
+   "espirita": "1,6",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "11,5"
+ },
+ {
+   "codigo": 5209952,
+   "catolica": "60,5",
+   "evangelica": "29,2",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 5210000,
+   "catolica": "67,0",
+   "evangelica": "22,2",
+   "espirita": "2,7",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 5210109,
+   "catolica": "66,2",
+   "evangelica": "19,2",
+   "espirita": "4,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 5210158,
+   "catolica": "66,3",
+   "evangelica": "27,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "5,2"
+ },
+ {
+   "codigo": 5210208,
+   "catolica": "59,7",
+   "evangelica": "30,2",
+   "espirita": "1,4",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 5210307,
+   "catolica": "71,1",
+   "evangelica": "23,0",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,7"
+ },
+ {
+   "codigo": 5210406,
+   "catolica": "62,7",
+   "evangelica": "28,9",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 5210562,
+   "catolica": "69,4",
+   "evangelica": "26,9",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 5210604,
+   "catolica": "56,5",
+   "evangelica": "35,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 5210802,
+   "catolica": "61,0",
+   "evangelica": "20,8",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "14,0"
+ },
+ {
+   "codigo": 5210901,
+   "catolica": "75,2",
+   "evangelica": "17,8",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 5211008,
+   "catolica": "61,6",
+   "evangelica": "26,8",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 5211206,
+   "catolica": "48,2",
+   "evangelica": "41,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "9,9"
+ },
+ {
+   "codigo": 5211305,
+   "catolica": "72,6",
+   "evangelica": "16,9",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "9,0"
+ },
+ {
+   "codigo": 5211404,
+   "catolica": "72,6",
+   "evangelica": "22,4",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,4"
+ },
+ {
+   "codigo": 5211503,
+   "catolica": "63,9",
+   "evangelica": "15,5",
+   "espirita": "8,8",
+   "umbanda": "0,1",
+   "outras": "1,8",
+   "sem": "10,0"
+ },
+ {
+   "codigo": 5211602,
+   "catolica": "72,9",
+   "evangelica": "22,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 5211701,
+   "catolica": "53,2",
+   "evangelica": "36,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 5211800,
+   "catolica": "67,0",
+   "evangelica": "26,2",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 5211909,
+   "catolica": "54,0",
+   "evangelica": "24,9",
+   "espirita": "7,3",
+   "umbanda": "0,0",
+   "outras": "1,3",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 5212006,
+   "catolica": "51,5",
+   "evangelica": "38,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 5212055,
+   "catolica": "83,0",
+   "evangelica": "13,6",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 5212105,
+   "catolica": "64,0",
+   "evangelica": "23,1",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "11,9"
+ },
+ {
+   "codigo": 5212204,
+   "catolica": "63,9",
+   "evangelica": "26,4",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "6,4"
+ },
+ {
+   "codigo": 5212253,
+   "catolica": "48,9",
+   "evangelica": "31,6",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "15,9"
+ },
+ {
+   "codigo": 5212303,
+   "catolica": "62,7",
+   "evangelica": "21,9",
+   "espirita": "2,3",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 5212501,
+   "catolica": "60,9",
+   "evangelica": "28,0",
+   "espirita": "1,4",
+   "umbanda": "0,3",
+   "outras": "1,5",
+   "sem": "7,9"
+ },
+ {
+   "codigo": 5212600,
+   "catolica": "63,7",
+   "evangelica": "17,1",
+   "espirita": "5,5",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "13,5"
+ },
+ {
+   "codigo": 5212709,
+   "catolica": "64,7",
+   "evangelica": "28,6",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 5212808,
+   "catolica": "77,3",
+   "evangelica": "18,0",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "4,6"
+ },
+ {
+   "codigo": 5212907,
+   "catolica": "58,2",
+   "evangelica": "37,7",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "0,9"
+ },
+ {
+   "codigo": 5212956,
+   "catolica": "66,2",
+   "evangelica": "27,3",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 5213004,
+   "catolica": "65,9",
+   "evangelica": "20,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 5213053,
+   "catolica": "64,1",
+   "evangelica": "29,1",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 5213087,
+   "catolica": "61,9",
+   "evangelica": "30,8",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 5213103,
+   "catolica": "70,7",
+   "evangelica": "19,2",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "1,3",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 5213400,
+   "catolica": "75,1",
+   "evangelica": "18,7",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "4,3"
+ },
+ {
+   "codigo": 5213509,
+   "catolica": "79,5",
+   "evangelica": "15,1",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 5213707,
+   "catolica": "61,4",
+   "evangelica": "32,1",
+   "espirita": "1,9",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,9"
+ },
+ {
+   "codigo": 5213756,
+   "catolica": "58,0",
+   "evangelica": "27,5",
+   "espirita": "1,8",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "10,8"
+ },
+ {
+   "codigo": 5213772,
+   "catolica": "66,5",
+   "evangelica": "30,3",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 5213806,
+   "catolica": "60,3",
+   "evangelica": "22,0",
+   "espirita": "5,8",
+   "umbanda": "0,2",
+   "outras": "1,5",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 5213855,
+   "catolica": "60,7",
+   "evangelica": "29,4",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "9,9"
+ },
+ {
+   "codigo": 5213905,
+   "catolica": "69,9",
+   "evangelica": "19,5",
+   "espirita": "3,1",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "6,8"
+ },
+ {
+   "codigo": 5214002,
+   "catolica": "66,5",
+   "evangelica": "23,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 5214051,
+   "catolica": "68,5",
+   "evangelica": "27,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "3,5"
+ },
+ {
+   "codigo": 5214101,
+   "catolica": "63,7",
+   "evangelica": "29,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 5214408,
+   "catolica": "68,0",
+   "evangelica": "22,4",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "4,1",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 5214507,
+   "catolica": "64,4",
+   "evangelica": "22,5",
+   "espirita": "2,9",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "9,3"
+ },
+ {
+   "codigo": 5214606,
+   "catolica": "68,1",
+   "evangelica": "25,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 5214705,
+   "catolica": "80,8",
+   "evangelica": "16,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "2,6"
+ },
+ {
+   "codigo": 5214804,
+   "catolica": "68,3",
+   "evangelica": "9,1",
+   "espirita": "10,7",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "11,9"
+ },
+ {
+   "codigo": 5214838,
+   "catolica": "68,5",
+   "evangelica": "22,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "7,8"
+ },
+ {
+   "codigo": 5214861,
+   "catolica": "56,0",
+   "evangelica": "33,7",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 5214879,
+   "catolica": "73,4",
+   "evangelica": "23,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 5214903,
+   "catolica": "85,6",
+   "evangelica": "10,5",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "3,1",
+   "sem": "0,7"
+ },
+ {
+   "codigo": 5215009,
+   "catolica": "78,9",
+   "evangelica": "14,6",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 5215207,
+   "catolica": "63,6",
+   "evangelica": "26,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "4,8",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 5215231,
+   "catolica": "54,5",
+   "evangelica": "31,3",
+   "espirita": "1,2",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "11,4"
+ },
+ {
+   "codigo": 5215256,
+   "catolica": "49,7",
+   "evangelica": "28,1",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "20,4"
+ },
+ {
+   "codigo": 5215306,
+   "catolica": "86,5",
+   "evangelica": "9,9",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "3,0"
+ },
+ {
+   "codigo": 5215405,
+   "catolica": "76,5",
+   "evangelica": "16,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "6,3"
+ },
+ {
+   "codigo": 5215504,
+   "catolica": "68,3",
+   "evangelica": "21,3",
+   "espirita": "1,4",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "8,1"
+ },
+ {
+   "codigo": 5215603,
+   "catolica": "58,1",
+   "evangelica": "29,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "9,7"
+ },
+ {
+   "codigo": 5215652,
+   "catolica": "42,0",
+   "evangelica": "45,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "12,2"
+ },
+ {
+   "codigo": 5215702,
+   "catolica": "51,2",
+   "evangelica": "33,9",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "4,7",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 5215801,
+   "catolica": "28,1",
+   "evangelica": "19,1",
+   "espirita": "45,5",
+   "umbanda": "0,1",
+   "outras": "0,2",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 5215900,
+   "catolica": "48,3",
+   "evangelica": "37,3",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "2,7",
+   "sem": "11,7"
+ },
+ {
+   "codigo": 5216007,
+   "catolica": "72,4",
+   "evangelica": "11,2",
+   "espirita": "4,2",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "11,1"
+ },
+ {
+   "codigo": 5216304,
+   "catolica": "72,3",
+   "evangelica": "15,8",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 5216403,
+   "catolica": "64,3",
+   "evangelica": "26,4",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 5216452,
+   "catolica": "61,6",
+   "evangelica": "26,0",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "10,7"
+ },
+ {
+   "codigo": 5216809,
+   "catolica": "83,7",
+   "evangelica": "13,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "1,6"
+ },
+ {
+   "codigo": 5216908,
+   "catolica": "79,4",
+   "evangelica": "13,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "5,0"
+ },
+ {
+   "codigo": 5217104,
+   "catolica": "70,1",
+   "evangelica": "21,1",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 5217203,
+   "catolica": "65,5",
+   "evangelica": "27,1",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "5,3"
+ },
+ {
+   "codigo": 5217302,
+   "catolica": "70,8",
+   "evangelica": "19,4",
+   "espirita": "0,9",
+   "umbanda": "0,0",
+   "outras": "2,3",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 5217401,
+   "catolica": "61,0",
+   "evangelica": "29,2",
+   "espirita": "2,1",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "6,9"
+ },
+ {
+   "codigo": 5217609,
+   "catolica": "55,1",
+   "evangelica": "29,8",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "12,5"
+ },
+ {
+   "codigo": 5217708,
+   "catolica": "75,4",
+   "evangelica": "16,0",
+   "espirita": "1,3",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 5218003,
+   "catolica": "70,2",
+   "evangelica": "23,2",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,1"
+ },
+ {
+   "codigo": 5218052,
+   "catolica": "71,2",
+   "evangelica": "20,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 5218102,
+   "catolica": "79,7",
+   "evangelica": "12,0",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 5218300,
+   "catolica": "82,4",
+   "evangelica": "13,3",
+   "espirita": "0,5",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "2,1"
+ },
+ {
+   "codigo": 5218391,
+   "catolica": "53,5",
+   "evangelica": "20,3",
+   "espirita": "17,7",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "8,5"
+ },
+ {
+   "codigo": 5218508,
+   "catolica": "72,5",
+   "evangelica": "16,2",
+   "espirita": "3,1",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "7,3"
+ },
+ {
+   "codigo": 5218607,
+   "catolica": "64,0",
+   "evangelica": "27,4",
+   "espirita": "1,0",
+   "umbanda": "0,0",
+   "outras": "0,6",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 5218706,
+   "catolica": "62,2",
+   "evangelica": "24,0",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "1,8",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 5218789,
+   "catolica": "64,6",
+   "evangelica": "22,7",
+   "espirita": "2,8",
+   "umbanda": "0,0",
+   "outras": "2,5",
+   "sem": "7,4"
+ },
+ {
+   "codigo": 5218805,
+   "catolica": "62,1",
+   "evangelica": "23,0",
+   "espirita": "3,7",
+   "umbanda": "0,0",
+   "outras": "1,7",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 5218904,
+   "catolica": "69,2",
+   "evangelica": "25,6",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "3,6"
+ },
+ {
+   "codigo": 5219001,
+   "catolica": "56,5",
+   "evangelica": "31,5",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "8,4"
+ },
+ {
+   "codigo": 5219100,
+   "catolica": "60,9",
+   "evangelica": "24,2",
+   "espirita": "4,8",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 5219209,
+   "catolica": "72,0",
+   "evangelica": "21,6",
+   "espirita": "2,3",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 5219258,
+   "catolica": "66,2",
+   "evangelica": "25,5",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "7,5"
+ },
+ {
+   "codigo": 5219308,
+   "catolica": "63,6",
+   "evangelica": "19,5",
+   "espirita": "2,8",
+   "umbanda": "0,0",
+   "outras": "2,4",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 5219357,
+   "catolica": "73,2",
+   "evangelica": "19,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "7,2"
+ },
+ {
+   "codigo": 5219407,
+   "catolica": "70,1",
+   "evangelica": "18,8",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "1,0",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 5219456,
+   "catolica": "58,7",
+   "evangelica": "34,1",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "7,0"
+ },
+ {
+   "codigo": 5219506,
+   "catolica": "90,7",
+   "evangelica": "8,5",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "0,8"
+ },
+ {
+   "codigo": 5219605,
+   "catolica": "69,2",
+   "evangelica": "21,3",
+   "espirita": "0,3",
+   "umbanda": "0,1",
+   "outras": "0,5",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 5219704,
+   "catolica": "71,8",
+   "evangelica": "20,7",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,0",
+   "sem": "5,4"
+ },
+ {
+   "codigo": 5219712,
+   "catolica": "76,2",
+   "evangelica": "17,4",
+   "espirita": "0,2",
+   "umbanda": "0,1",
+   "outras": "0,6",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 5219738,
+   "catolica": "56,8",
+   "evangelica": "26,3",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,6",
+   "sem": "14,3"
+ },
+ {
+   "codigo": 5219753,
+   "catolica": "55,8",
+   "evangelica": "28,3",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "2,3",
+   "sem": "11,8"
+ },
+ {
+   "codigo": 5219803,
+   "catolica": "71,0",
+   "evangelica": "17,4",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,4",
+   "sem": "10,9"
+ },
+ {
+   "codigo": 5219902,
+   "catolica": "74,9",
+   "evangelica": "19,9",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "0,9",
+   "sem": "3,8"
+ },
+ {
+   "codigo": 5220009,
+   "catolica": "63,8",
+   "evangelica": "22,8",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "3,6",
+   "sem": "8,6"
+ },
+ {
+   "codigo": 5220058,
+   "catolica": "65,9",
+   "evangelica": "20,0",
+   "espirita": "2,0",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "12,1"
+ },
+ {
+   "codigo": 5220108,
+   "catolica": "55,0",
+   "evangelica": "32,7",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "3,4",
+   "sem": "8,2"
+ },
+ {
+   "codigo": 5220157,
+   "catolica": "69,3",
+   "evangelica": "24,2",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "5,9"
+ },
+ {
+   "codigo": 5220207,
+   "catolica": "64,2",
+   "evangelica": "24,7",
+   "espirita": "0,6",
+   "umbanda": "0,0",
+   "outras": "2,2",
+   "sem": "8,3"
+ },
+ {
+   "codigo": 5220264,
+   "catolica": "72,8",
+   "evangelica": "23,1",
+   "espirita": "0,7",
+   "umbanda": "0,0",
+   "outras": "1,5",
+   "sem": "1,9"
+ },
+ {
+   "codigo": 5220280,
+   "catolica": "66,2",
+   "evangelica": "28,1",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "5,5"
+ },
+ {
+   "codigo": 5220405,
+   "catolica": "64,0",
+   "evangelica": "20,9",
+   "espirita": "2,5",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "11,5"
+ },
+ {
+   "codigo": 5220454,
+   "catolica": "49,2",
+   "evangelica": "33,6",
+   "espirita": "1,7",
+   "umbanda": "0,1",
+   "outras": "2,1",
+   "sem": "13,4"
+ },
+ {
+   "codigo": 5220504,
+   "catolica": "42,2",
+   "evangelica": "29,0",
+   "espirita": "2,6",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "24,8"
+ },
+ {
+   "codigo": 5220603,
+   "catolica": "79,2",
+   "evangelica": "13,9",
+   "espirita": "3,9",
+   "umbanda": "0,1",
+   "outras": "0,7",
+   "sem": "2,2"
+ },
+ {
+   "codigo": 5220686,
+   "catolica": "80,4",
+   "evangelica": "13,2",
+   "espirita": "0,3",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "6,0"
+ },
+ {
+   "codigo": 5220702,
+   "catolica": "90,7",
+   "evangelica": "8,9",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,1",
+   "sem": "0,2"
+ },
+ {
+   "codigo": 5221007,
+   "catolica": "65,8",
+   "evangelica": "25,4",
+   "espirita": "1,5",
+   "umbanda": "0,0",
+   "outras": "0,8",
+   "sem": "6,5"
+ },
+ {
+   "codigo": 5221080,
+   "catolica": "64,4",
+   "evangelica": "24,1",
+   "espirita": "0,4",
+   "umbanda": "0,1",
+   "outras": "1,5",
+   "sem": "9,5"
+ },
+ {
+   "codigo": 5221197,
+   "catolica": "56,8",
+   "evangelica": "26,4",
+   "espirita": "2,2",
+   "umbanda": "0,0",
+   "outras": "1,4",
+   "sem": "13,2"
+ },
+ {
+   "codigo": 5221304,
+   "catolica": "64,9",
+   "evangelica": "16,3",
+   "espirita": "11,5",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 5221403,
+   "catolica": "60,2",
+   "evangelica": "30,4",
+   "espirita": "1,7",
+   "umbanda": "0,0",
+   "outras": "1,1",
+   "sem": "6,6"
+ },
+ {
+   "codigo": 5221452,
+   "catolica": "72,5",
+   "evangelica": "20,6",
+   "espirita": "0,2",
+   "umbanda": "0,0",
+   "outras": "0,0",
+   "sem": "6,7"
+ },
+ {
+   "codigo": 5221502,
+   "catolica": "59,2",
+   "evangelica": "29,8",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "2,1",
+   "sem": "8,8"
+ },
+ {
+   "codigo": 5221551,
+   "catolica": "69,8",
+   "evangelica": "20,0",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 5221577,
+   "catolica": "65,8",
+   "evangelica": "28,0",
+   "espirita": "0,1",
+   "umbanda": "0,0",
+   "outras": "0,3",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 5221601,
+   "catolica": "73,0",
+   "evangelica": "19,0",
+   "espirita": "1,1",
+   "umbanda": "0,0",
+   "outras": "1,2",
+   "sem": "5,7"
+ },
+ {
+   "codigo": 5221700,
+   "catolica": "63,1",
+   "evangelica": "29,2",
+   "espirita": "1,2",
+   "umbanda": "0,0",
+   "outras": "0,7",
+   "sem": "5,8"
+ },
+ {
+   "codigo": 5221809,
+   "catolica": "74,5",
+   "evangelica": "19,4",
+   "espirita": "2,9",
+   "umbanda": "0,1",
+   "outras": "0,8",
+   "sem": "2,3"
+ },
+ {
+   "codigo": 5221858,
+   "catolica": "55,2",
+   "evangelica": "30,8",
+   "espirita": "1,9",
+   "umbanda": "0,3",
+   "outras": "2,4",
+   "sem": "9,4"
+ },
+ {
+   "codigo": 5221908,
+   "catolica": "61,0",
+   "evangelica": "25,8",
+   "espirita": "0,0",
+   "umbanda": "0,0",
+   "outras": "5,5",
+   "sem": "7,7"
+ },
+ {
+   "codigo": 5222005,
+   "catolica": "70,7",
+   "evangelica": "21,7",
+   "espirita": "3,0",
+   "umbanda": "0,0",
+   "outras": "0,5",
+   "sem": "4,1"
+ },
+ {
+   "codigo": 5222054,
+   "catolica": "66,7",
+   "evangelica": "22,5",
+   "espirita": "0,4",
+   "umbanda": "0,0",
+   "outras": "0,2",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 5222203,
+   "catolica": "71,9",
+   "evangelica": "15,4",
+   "espirita": "0,8",
+   "umbanda": "0,1",
+   "outras": "1,6",
+   "sem": "10,2"
+ },
+ {
+   "codigo": 5222302,
+   "catolica": "69,6",
+   "evangelica": "23,3",
+   "espirita": "0,8",
+   "umbanda": "0,0",
+   "outras": "1,9",
+   "sem": "4,4"
+ },
+ {
+   "codigo": 5300108,
+   "catolica": "56,6",
+   "evangelica": "26,9",
+   "espirita": "3,5",
+   "umbanda": "0,2",
+   "outras": "2,7",
+   "sem": "10,1"
+ }
+]
