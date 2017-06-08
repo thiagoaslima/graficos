@@ -1,6 +1,6 @@
-import { lista } from './120_municipios';
-import { dados } from '../json/9.religiao';
-import { Grafico } from './9.religiao';
+// import { lista } from './120_municipios';
+import { dados } from '../json/7.pib';
+import { Grafico } from './7.pib';
 
 function main() {
     let grafico = new Grafico(document.getElementById('grafico'));  
@@ -10,16 +10,15 @@ function main() {
 function run(grafico: Grafico, dados: any, i = 0) {
     const {codigo} = dados[i];
 
-    if (lista[codigo]) {
+    // if (lista[codigo]) {
         draw(grafico, dados[i]);
-    }
+    // }
 
     if (dados[i + 1]) {
         setTimeout(() => {
             run(grafico, dados, i + 1);
-        }, 20)
+        }, 30)
     }
-
 }
 
 function draw(grafico: Grafico, dados: any) {

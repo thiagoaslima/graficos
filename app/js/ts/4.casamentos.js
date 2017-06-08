@@ -13,7 +13,7 @@ System.register([], function(exports_1, context_1) {
                     this.marginTop = 40;
                     this.xZero = 125;
                     this.yEixo = 490;
-                    this.areaGrafico = 788;
+                    this.areaGrafico = 770;
                     this.maxValue = null;
                     this.finalEscala = null;
                     this.divisor = null;
@@ -56,7 +56,7 @@ System.register([], function(exports_1, context_1) {
                     this.drawEixoY();
                     this.drawAxesAndEixoX(dados);
                     this.drawBars(dados);
-                    this.drawLegenda(dados.codigo);
+                    // this.drawLegenda(dados.codigo);
                 };
                 Grafico.prototype.createCanvas = function () {
                     var canvas = document.createElement('canvas');
@@ -125,25 +125,27 @@ System.register([], function(exports_1, context_1) {
                         this.context.lineTo(xZero + (dist * i), yEixo - this.settings.fontSize);
                         this.context.stroke();
                     }
+                    this.context.font = this.settings.fontSize * 0.6 + 'px ' + this.settings.fontFamily;
+                    this.context.fillText('%', 920 - this.context.measureText('%').width - 4, this.marginTop + 10);
                 };
                 Grafico.prototype.drawBars = function (dados) {
                     var regiao = this.getRegiao(dados.codigo);
                     var barWidth = 25;
                     var entreBarras = 20;
                     this.context.fillStyle = this.settings.colors[regiao].homem;
-                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 0 + entreBarras * 0, this.areaGrafico * (dados[60].homem / this.finalEscala), barWidth);
-                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 2 + entreBarras * 1, this.areaGrafico * (dados[50].homem / this.finalEscala), barWidth);
-                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 4 + entreBarras * 2, this.areaGrafico * (dados[40].homem / this.finalEscala), barWidth);
-                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 6 + entreBarras * 3, this.areaGrafico * (dados[30].homem / this.finalEscala), barWidth);
-                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 8 + entreBarras * 4, this.areaGrafico * (dados[20].homem / this.finalEscala), barWidth);
-                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 10 + entreBarras * 5, this.areaGrafico * (dados[0].homem / this.finalEscala), barWidth);
+                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 0 + entreBarras * 0, this.areaGrafico * (parseFloat(dados[60].homem) / this.finalEscala), barWidth);
+                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 2 + entreBarras * 1, this.areaGrafico * (parseFloat(dados[50].homem) / this.finalEscala), barWidth);
+                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 4 + entreBarras * 2, this.areaGrafico * (parseFloat(dados[40].homem) / this.finalEscala), barWidth);
+                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 6 + entreBarras * 3, this.areaGrafico * (parseFloat(dados[30].homem) / this.finalEscala), barWidth);
+                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 8 + entreBarras * 4, this.areaGrafico * (parseFloat(dados[20].homem) / this.finalEscala), barWidth);
+                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 10 + entreBarras * 5, this.areaGrafico * (parseFloat(dados[0].homem) / this.finalEscala), barWidth);
                     this.context.fillStyle = this.settings.colors[regiao].mulher;
-                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 1 + entreBarras * 0, this.areaGrafico * (dados[60].mulher / this.finalEscala), barWidth);
-                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 3 + entreBarras * 1, this.areaGrafico * (dados[50].mulher / this.finalEscala), barWidth);
-                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 5 + entreBarras * 2, this.areaGrafico * (dados[40].mulher / this.finalEscala), barWidth);
-                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 7 + entreBarras * 3, this.areaGrafico * (dados[30].mulher / this.finalEscala), barWidth);
-                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 9 + entreBarras * 4, this.areaGrafico * (dados[20].mulher / this.finalEscala), barWidth);
-                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 11 + entreBarras * 5, this.areaGrafico * (dados[0].mulher / this.finalEscala), barWidth);
+                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 1 + entreBarras * 0, this.areaGrafico * (parseFloat(dados[60].mulher) / this.finalEscala), barWidth);
+                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 3 + entreBarras * 1, this.areaGrafico * (parseFloat(dados[50].mulher) / this.finalEscala), barWidth);
+                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 5 + entreBarras * 2, this.areaGrafico * (parseFloat(dados[40].mulher) / this.finalEscala), barWidth);
+                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 7 + entreBarras * 3, this.areaGrafico * (parseFloat(dados[30].mulher) / this.finalEscala), barWidth);
+                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 9 + entreBarras * 4, this.areaGrafico * (parseFloat(dados[20].mulher) / this.finalEscala), barWidth);
+                    this.context.fillRect(this.xZero, this.marginTop + 3 + barWidth * 11 + entreBarras * 5, this.areaGrafico * (parseFloat(dados[0].mulher) / this.finalEscala), barWidth);
                 };
                 Grafico.prototype.drawLegenda = function (codigo) {
                     var regiao = this.getRegiao(codigo);
@@ -188,7 +190,7 @@ System.register([], function(exports_1, context_1) {
                 Grafico.prototype.setMaxValue = function (dados) {
                     var valores = Object.keys(dados).filter(function (key) { return key !== 'codigo'; }).map(function (key) {
                         var obj = dados[parseInt(key, 10)];
-                        return obj.homem > obj.mulher ? obj.homem : obj.mulher;
+                        return obj.homem > obj.mulher ? parseFloat(obj.homem) : parseFloat(obj.mulher);
                     });
                     this.maxValue = Math.max.apply(Math, valores);
                 };
